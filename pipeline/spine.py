@@ -221,10 +221,20 @@ def build_spine(unified_df, tokens_df):
         "review_id", "ref_a", "name_a", "ref_b", "name_b", "confidence_score", "reason", "status",
     ])
 
-    ref_to_customer_id = {}
-    for row in spine_rows:
+    return spine_df, review_df, ref_to_customer_id_map(spine_df)
+
+
+def ref_to_customer_id_map(spine_df: pd.DataFrame) -> dict:
+    """Explode linked_source_records back into {source ref: customer_id}.
+
+    Reusable from clean/customers_spine.csv directly (not just at spine-
+    build time), so later pipeline stages (customer history, return
+    windows) can join orders/returns to customer_id without re-running
+    entity resolution.
+    """
+    mapping = {}
+    for _, row in spine_df.iterrows():
         for part in row["linked_source_records"].split(";"):
             ref = part.split(":")[0]
-            ref_to_customer_id[ref] = row["customer_id"]
-
-    return spine_df, review_df, ref_to_customer_id
+            mapping[ref] = row["customer_id"]
+    return mapping

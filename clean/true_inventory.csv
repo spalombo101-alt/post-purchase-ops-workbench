@@ -1,0 +1,3121 @@
+store_location,item_id,size,color,system_count,last_updated,pending_sellable_count,true_available,style_name,category
+Madison Ave,SKU-001,24,Indigo,6,2026-07-06,0,6,Skinny,jean
+Madison Ave,SKU-001,24,Black,1,2026-06-25,0,1,Skinny,jean
+Madison Ave,SKU-001,24,White,1,2026-06-24,0,1,Skinny,jean
+Madison Ave,SKU-001,24,Stone Wash,0,2026-06-24,0,0,Skinny,jean
+Madison Ave,SKU-001,24,Raw Denim,3,2026-06-23,0,3,Skinny,jean
+Madison Ave,SKU-001,24,Vintage Blue,7,2026-07-05,0,7,Skinny,jean
+Madison Ave,SKU-001,25,Indigo,7,2026-06-24,0,7,Skinny,jean
+Madison Ave,SKU-001,25,Black,4,2026-07-01,0,4,Skinny,jean
+Madison Ave,SKU-001,25,White,5,2026-07-04,0,5,Skinny,jean
+Madison Ave,SKU-001,25,Stone Wash,4,2026-07-05,0,4,Skinny,jean
+Madison Ave,SKU-001,25,Raw Denim,3,2026-07-05,0,3,Skinny,jean
+Madison Ave,SKU-001,25,Vintage Blue,8,2026-06-25,0,8,Skinny,jean
+Madison Ave,SKU-001,26,Indigo,6,2026-07-04,1,7,Skinny,jean
+Madison Ave,SKU-001,26,Black,9,2026-07-02,0,9,Skinny,jean
+Madison Ave,SKU-001,26,White,1,2026-06-30,0,1,Skinny,jean
+Madison Ave,SKU-001,26,Stone Wash,0,2026-07-05,0,0,Skinny,jean
+Madison Ave,SKU-001,26,Raw Denim,2,2026-06-27,0,2,Skinny,jean
+Madison Ave,SKU-001,26,Vintage Blue,4,2026-07-01,0,4,Skinny,jean
+Madison Ave,SKU-001,27,Indigo,0,2026-07-05,0,0,Skinny,jean
+Madison Ave,SKU-001,27,Black,5,2026-06-28,0,5,Skinny,jean
+Madison Ave,SKU-001,27,White,2,2026-07-02,0,2,Skinny,jean
+Madison Ave,SKU-001,27,Stone Wash,0,2026-07-05,0,0,Skinny,jean
+Madison Ave,SKU-001,27,Raw Denim,5,2026-06-30,0,5,Skinny,jean
+Madison Ave,SKU-001,27,Vintage Blue,7,2026-06-30,0,7,Skinny,jean
+Madison Ave,SKU-001,28,Indigo,0,2026-07-04,0,0,Skinny,jean
+Madison Ave,SKU-001,28,Black,7,2026-06-28,0,7,Skinny,jean
+Madison Ave,SKU-001,28,White,0,2026-06-24,0,0,Skinny,jean
+Madison Ave,SKU-001,28,Stone Wash,9,2026-06-22,0,9,Skinny,jean
+Madison Ave,SKU-001,28,Raw Denim,9,2026-06-25,0,9,Skinny,jean
+Madison Ave,SKU-001,28,Vintage Blue,6,2026-06-24,0,6,Skinny,jean
+Madison Ave,SKU-001,29,Indigo,6,2026-06-29,0,6,Skinny,jean
+Madison Ave,SKU-001,29,Black,0,2026-06-26,0,0,Skinny,jean
+Madison Ave,SKU-001,29,White,0,2026-06-25,0,0,Skinny,jean
+Madison Ave,SKU-001,29,Stone Wash,0,2026-06-29,0,0,Skinny,jean
+Madison Ave,SKU-001,29,Raw Denim,0,2026-06-25,0,0,Skinny,jean
+Madison Ave,SKU-001,29,Vintage Blue,2,2026-07-01,0,2,Skinny,jean
+Madison Ave,SKU-001,30,Indigo,5,2026-06-27,0,5,Skinny,jean
+Madison Ave,SKU-001,30,Black,8,2026-07-04,0,8,Skinny,jean
+Madison Ave,SKU-001,30,White,6,2026-06-23,0,6,Skinny,jean
+Madison Ave,SKU-001,30,Stone Wash,8,2026-07-05,0,8,Skinny,jean
+Madison Ave,SKU-001,30,Raw Denim,2,2026-07-02,0,2,Skinny,jean
+Madison Ave,SKU-001,30,Vintage Blue,2,2026-07-04,0,2,Skinny,jean
+Madison Ave,SKU-001,31,Indigo,0,2026-07-02,0,0,Skinny,jean
+Madison Ave,SKU-001,31,Black,0,2026-06-28,0,0,Skinny,jean
+Madison Ave,SKU-001,31,White,4,2026-07-06,0,4,Skinny,jean
+Madison Ave,SKU-001,31,Stone Wash,4,2026-06-24,0,4,Skinny,jean
+Madison Ave,SKU-001,31,Raw Denim,8,2026-07-01,0,8,Skinny,jean
+Madison Ave,SKU-001,31,Vintage Blue,6,2026-06-25,0,6,Skinny,jean
+Madison Ave,SKU-001,32,Indigo,1,2026-06-27,0,1,Skinny,jean
+Madison Ave,SKU-001,32,Black,0,2026-07-03,0,0,Skinny,jean
+Madison Ave,SKU-001,32,White,1,2026-07-04,0,1,Skinny,jean
+Madison Ave,SKU-001,32,Stone Wash,2,2026-06-30,0,2,Skinny,jean
+Madison Ave,SKU-001,32,Raw Denim,3,2026-07-05,0,3,Skinny,jean
+Madison Ave,SKU-001,32,Vintage Blue,3,2026-06-23,0,3,Skinny,jean
+Madison Ave,SKU-001,33,Indigo,5,2026-07-05,0,5,Skinny,jean
+Madison Ave,SKU-001,33,Black,7,2026-06-29,0,7,Skinny,jean
+Madison Ave,SKU-001,33,White,3,2026-07-06,0,3,Skinny,jean
+Madison Ave,SKU-001,33,Stone Wash,4,2026-06-27,0,4,Skinny,jean
+Madison Ave,SKU-001,33,Raw Denim,7,2026-06-25,0,7,Skinny,jean
+Madison Ave,SKU-001,33,Vintage Blue,1,2026-07-02,0,1,Skinny,jean
+Madison Ave,SKU-001,34,Indigo,0,2026-06-28,0,0,Skinny,jean
+Madison Ave,SKU-001,34,Black,6,2026-06-28,0,6,Skinny,jean
+Madison Ave,SKU-001,34,White,1,2026-07-02,0,1,Skinny,jean
+Madison Ave,SKU-001,34,Stone Wash,5,2026-06-28,0,5,Skinny,jean
+Madison Ave,SKU-001,34,Raw Denim,6,2026-06-29,0,6,Skinny,jean
+Madison Ave,SKU-001,34,Vintage Blue,5,2026-07-04,0,5,Skinny,jean
+Madison Ave,SKU-002,24,Indigo,7,2026-07-03,0,7,Straight,jean
+Madison Ave,SKU-002,24,Black,1,2026-06-26,0,1,Straight,jean
+Madison Ave,SKU-002,24,White,0,2026-07-01,0,0,Straight,jean
+Madison Ave,SKU-002,24,Stone Wash,7,2026-06-27,0,7,Straight,jean
+Madison Ave,SKU-002,24,Raw Denim,9,2026-07-02,0,9,Straight,jean
+Madison Ave,SKU-002,24,Vintage Blue,1,2026-07-02,0,1,Straight,jean
+Madison Ave,SKU-002,25,Indigo,2,2026-06-22,0,2,Straight,jean
+Madison Ave,SKU-002,25,Black,0,2026-07-01,0,0,Straight,jean
+Madison Ave,SKU-002,25,White,4,2026-07-05,0,4,Straight,jean
+Madison Ave,SKU-002,25,Stone Wash,5,2026-06-28,0,5,Straight,jean
+Madison Ave,SKU-002,25,Raw Denim,0,2026-07-05,0,0,Straight,jean
+Madison Ave,SKU-002,25,Vintage Blue,0,2026-07-03,0,0,Straight,jean
+Madison Ave,SKU-002,26,Indigo,5,2026-07-04,0,5,Straight,jean
+Madison Ave,SKU-002,26,Black,4,2026-07-03,0,4,Straight,jean
+Madison Ave,SKU-002,26,White,5,2026-06-22,0,5,Straight,jean
+Madison Ave,SKU-002,26,Stone Wash,5,2026-06-28,0,5,Straight,jean
+Madison Ave,SKU-002,26,Raw Denim,4,2026-07-03,0,4,Straight,jean
+Madison Ave,SKU-002,26,Vintage Blue,0,2026-07-02,0,0,Straight,jean
+Madison Ave,SKU-002,27,Indigo,4,2026-06-25,0,4,Straight,jean
+Madison Ave,SKU-002,27,Black,5,2026-07-06,0,5,Straight,jean
+Madison Ave,SKU-002,27,White,3,2026-06-25,0,3,Straight,jean
+Madison Ave,SKU-002,27,Stone Wash,1,2026-06-22,0,1,Straight,jean
+Madison Ave,SKU-002,27,Raw Denim,3,2026-07-04,0,3,Straight,jean
+Madison Ave,SKU-002,27,Vintage Blue,1,2026-06-30,0,1,Straight,jean
+Madison Ave,SKU-002,28,Indigo,2,2026-07-03,0,2,Straight,jean
+Madison Ave,SKU-002,28,Black,3,2026-06-24,0,3,Straight,jean
+Madison Ave,SKU-002,28,White,8,2026-07-01,0,8,Straight,jean
+Madison Ave,SKU-002,28,Stone Wash,11,2026-07-03,0,11,Straight,jean
+Madison Ave,SKU-002,28,Raw Denim,10,2026-06-22,0,10,Straight,jean
+Madison Ave,SKU-002,28,Vintage Blue,0,2026-07-02,0,0,Straight,jean
+Madison Ave,SKU-002,29,Indigo,5,2026-06-29,0,5,Straight,jean
+Madison Ave,SKU-002,29,Black,6,2026-06-24,0,6,Straight,jean
+Madison Ave,SKU-002,29,White,6,2026-06-30,0,6,Straight,jean
+Madison Ave,SKU-002,29,Stone Wash,4,2026-07-06,0,4,Straight,jean
+Madison Ave,SKU-002,29,Raw Denim,2,2026-06-22,0,2,Straight,jean
+Madison Ave,SKU-002,29,Vintage Blue,4,2026-06-25,0,4,Straight,jean
+Madison Ave,SKU-002,30,Indigo,6,2026-06-22,0,6,Straight,jean
+Madison Ave,SKU-002,30,Black,12,2026-06-26,0,12,Straight,jean
+Madison Ave,SKU-002,30,White,0,2026-06-29,0,0,Straight,jean
+Madison Ave,SKU-002,30,Stone Wash,0,2026-06-26,0,0,Straight,jean
+Madison Ave,SKU-002,30,Raw Denim,1,2026-06-25,0,1,Straight,jean
+Madison Ave,SKU-002,30,Vintage Blue,0,2026-06-30,0,0,Straight,jean
+Madison Ave,SKU-002,31,Indigo,5,2026-06-28,0,5,Straight,jean
+Madison Ave,SKU-002,31,Black,2,2026-06-25,0,2,Straight,jean
+Madison Ave,SKU-002,31,White,7,2026-06-29,0,7,Straight,jean
+Madison Ave,SKU-002,31,Stone Wash,0,2026-06-23,0,0,Straight,jean
+Madison Ave,SKU-002,31,Raw Denim,4,2026-06-26,0,4,Straight,jean
+Madison Ave,SKU-002,31,Vintage Blue,4,2026-07-01,0,4,Straight,jean
+Madison Ave,SKU-002,32,Indigo,4,2026-06-25,0,4,Straight,jean
+Madison Ave,SKU-002,32,Black,5,2026-07-06,0,5,Straight,jean
+Madison Ave,SKU-002,32,White,9,2026-06-25,0,9,Straight,jean
+Madison Ave,SKU-002,32,Stone Wash,4,2026-07-06,0,4,Straight,jean
+Madison Ave,SKU-002,32,Raw Denim,5,2026-07-05,0,5,Straight,jean
+Madison Ave,SKU-002,32,Vintage Blue,1,2026-07-06,0,1,Straight,jean
+Madison Ave,SKU-002,33,Indigo,1,2026-06-24,0,1,Straight,jean
+Madison Ave,SKU-002,33,Black,0,2026-06-27,0,0,Straight,jean
+Madison Ave,SKU-002,33,White,2,2026-06-22,0,2,Straight,jean
+Madison Ave,SKU-002,33,Stone Wash,0,2026-07-04,0,0,Straight,jean
+Madison Ave,SKU-002,33,Raw Denim,2,2026-07-04,0,2,Straight,jean
+Madison Ave,SKU-002,33,Vintage Blue,6,2026-07-01,0,6,Straight,jean
+Madison Ave,SKU-002,34,Indigo,2,2026-07-02,0,2,Straight,jean
+Madison Ave,SKU-002,34,Black,6,2026-06-22,1,7,Straight,jean
+Madison Ave,SKU-002,34,White,8,2026-06-26,0,8,Straight,jean
+Madison Ave,SKU-002,34,Stone Wash,5,2026-06-28,0,5,Straight,jean
+Madison Ave,SKU-002,34,Raw Denim,1,2026-07-04,0,1,Straight,jean
+Madison Ave,SKU-002,34,Vintage Blue,2,2026-06-29,0,2,Straight,jean
+Madison Ave,SKU-003,24,Indigo,6,2026-06-25,0,6,Bootcut,jean
+Madison Ave,SKU-003,24,Black,3,2026-06-24,0,3,Bootcut,jean
+Madison Ave,SKU-003,24,White,2,2026-06-28,0,2,Bootcut,jean
+Madison Ave,SKU-003,24,Stone Wash,1,2026-07-01,0,1,Bootcut,jean
+Madison Ave,SKU-003,24,Raw Denim,2,2026-06-26,0,2,Bootcut,jean
+Madison Ave,SKU-003,24,Vintage Blue,1,2026-07-05,0,1,Bootcut,jean
+Madison Ave,SKU-003,25,Indigo,4,2026-06-22,0,4,Bootcut,jean
+Madison Ave,SKU-003,25,Black,1,2026-06-28,0,1,Bootcut,jean
+Madison Ave,SKU-003,25,White,0,2026-06-26,0,0,Bootcut,jean
+Madison Ave,SKU-003,25,Stone Wash,0,2026-07-03,0,0,Bootcut,jean
+Madison Ave,SKU-003,25,Raw Denim,7,2026-06-24,0,7,Bootcut,jean
+Madison Ave,SKU-003,25,Vintage Blue,2,2026-06-23,0,2,Bootcut,jean
+Madison Ave,SKU-003,26,Indigo,0,2026-06-28,0,0,Bootcut,jean
+Madison Ave,SKU-003,26,Black,4,2026-07-06,0,4,Bootcut,jean
+Madison Ave,SKU-003,26,White,0,2026-06-22,0,0,Bootcut,jean
+Madison Ave,SKU-003,26,Stone Wash,4,2026-07-06,0,4,Bootcut,jean
+Madison Ave,SKU-003,26,Raw Denim,2,2026-07-03,0,2,Bootcut,jean
+Madison Ave,SKU-003,26,Vintage Blue,7,2026-07-01,0,7,Bootcut,jean
+Madison Ave,SKU-003,27,Indigo,6,2026-06-26,0,6,Bootcut,jean
+Madison Ave,SKU-003,27,Black,1,2026-07-03,0,1,Bootcut,jean
+Madison Ave,SKU-003,27,White,7,2026-07-01,0,7,Bootcut,jean
+Madison Ave,SKU-003,27,Stone Wash,5,2026-06-27,0,5,Bootcut,jean
+Madison Ave,SKU-003,27,Raw Denim,4,2026-06-25,0,4,Bootcut,jean
+Madison Ave,SKU-003,27,Vintage Blue,9,2026-06-30,0,9,Bootcut,jean
+Madison Ave,SKU-003,28,Indigo,1,2026-06-26,0,1,Bootcut,jean
+Madison Ave,SKU-003,28,Black,0,2026-07-05,0,0,Bootcut,jean
+Madison Ave,SKU-003,28,White,1,2026-07-02,0,1,Bootcut,jean
+Madison Ave,SKU-003,28,Stone Wash,1,2026-06-25,0,1,Bootcut,jean
+Madison Ave,SKU-003,28,Raw Denim,2,2026-07-06,0,2,Bootcut,jean
+Madison Ave,SKU-003,28,Vintage Blue,3,2026-06-23,0,3,Bootcut,jean
+Madison Ave,SKU-003,29,Indigo,0,2026-06-26,0,0,Bootcut,jean
+Madison Ave,SKU-003,29,Black,4,2026-07-06,0,4,Bootcut,jean
+Madison Ave,SKU-003,29,White,0,2026-06-25,0,0,Bootcut,jean
+Madison Ave,SKU-003,29,Stone Wash,3,2026-06-28,0,3,Bootcut,jean
+Madison Ave,SKU-003,29,Raw Denim,0,2026-07-02,0,0,Bootcut,jean
+Madison Ave,SKU-003,29,Vintage Blue,1,2026-06-27,0,1,Bootcut,jean
+Madison Ave,SKU-003,30,Indigo,2,2026-06-27,0,2,Bootcut,jean
+Madison Ave,SKU-003,30,Black,7,2026-06-24,0,7,Bootcut,jean
+Madison Ave,SKU-003,30,White,5,2026-07-01,0,5,Bootcut,jean
+Madison Ave,SKU-003,30,Stone Wash,2,2026-06-29,0,2,Bootcut,jean
+Madison Ave,SKU-003,30,Raw Denim,1,2026-06-30,0,1,Bootcut,jean
+Madison Ave,SKU-003,30,Vintage Blue,5,2026-07-04,0,5,Bootcut,jean
+Madison Ave,SKU-003,31,Indigo,3,2026-06-22,0,3,Bootcut,jean
+Madison Ave,SKU-003,31,Black,1,2026-07-06,0,1,Bootcut,jean
+Madison Ave,SKU-003,31,White,6,2026-07-01,0,6,Bootcut,jean
+Madison Ave,SKU-003,31,Stone Wash,0,2026-07-05,0,0,Bootcut,jean
+Madison Ave,SKU-003,31,Raw Denim,0,2026-06-28,0,0,Bootcut,jean
+Madison Ave,SKU-003,31,Vintage Blue,0,2026-07-02,0,0,Bootcut,jean
+Madison Ave,SKU-003,32,Indigo,3,2026-07-04,0,3,Bootcut,jean
+Madison Ave,SKU-003,32,Black,1,2026-07-04,0,1,Bootcut,jean
+Madison Ave,SKU-003,32,White,6,2026-07-01,0,6,Bootcut,jean
+Madison Ave,SKU-003,32,Stone Wash,1,2026-07-05,0,1,Bootcut,jean
+Madison Ave,SKU-003,32,Raw Denim,5,2026-07-03,0,5,Bootcut,jean
+Madison Ave,SKU-003,32,Vintage Blue,8,2026-06-25,0,8,Bootcut,jean
+Madison Ave,SKU-003,33,Indigo,6,2026-07-05,0,6,Bootcut,jean
+Madison Ave,SKU-003,33,Black,4,2026-07-01,0,4,Bootcut,jean
+Madison Ave,SKU-003,33,White,2,2026-07-03,0,2,Bootcut,jean
+Madison Ave,SKU-003,33,Stone Wash,7,2026-06-26,0,7,Bootcut,jean
+Madison Ave,SKU-003,33,Raw Denim,2,2026-06-25,0,2,Bootcut,jean
+Madison Ave,SKU-003,33,Vintage Blue,2,2026-06-25,0,2,Bootcut,jean
+Madison Ave,SKU-003,34,Indigo,4,2026-06-27,0,4,Bootcut,jean
+Madison Ave,SKU-003,34,Black,2,2026-06-30,0,2,Bootcut,jean
+Madison Ave,SKU-003,34,White,0,2026-06-26,0,0,Bootcut,jean
+Madison Ave,SKU-003,34,Stone Wash,3,2026-07-03,0,3,Bootcut,jean
+Madison Ave,SKU-003,34,Raw Denim,8,2026-06-30,0,8,Bootcut,jean
+Madison Ave,SKU-003,34,Vintage Blue,2,2026-07-03,0,2,Bootcut,jean
+Madison Ave,SKU-004,24,Indigo,1,2026-06-27,0,1,Wide Leg,jean
+Madison Ave,SKU-004,24,Black,5,2026-07-06,0,5,Wide Leg,jean
+Madison Ave,SKU-004,24,White,6,2026-07-06,0,6,Wide Leg,jean
+Madison Ave,SKU-004,24,Stone Wash,2,2026-07-02,0,2,Wide Leg,jean
+Madison Ave,SKU-004,24,Raw Denim,5,2026-06-22,0,5,Wide Leg,jean
+Madison Ave,SKU-004,24,Vintage Blue,4,2026-06-22,0,4,Wide Leg,jean
+Madison Ave,SKU-004,25,Indigo,4,2026-07-02,0,4,Wide Leg,jean
+Madison Ave,SKU-004,25,Black,2,2026-07-04,0,2,Wide Leg,jean
+Madison Ave,SKU-004,25,White,0,2026-06-23,0,0,Wide Leg,jean
+Madison Ave,SKU-004,25,Stone Wash,5,2026-06-28,0,5,Wide Leg,jean
+Madison Ave,SKU-004,25,Raw Denim,4,2026-07-06,0,4,Wide Leg,jean
+Madison Ave,SKU-004,25,Vintage Blue,0,2026-06-25,0,0,Wide Leg,jean
+Madison Ave,SKU-004,26,Indigo,5,2026-06-26,0,5,Wide Leg,jean
+Madison Ave,SKU-004,26,Black,10,2026-07-04,0,10,Wide Leg,jean
+Madison Ave,SKU-004,26,White,4,2026-07-05,0,4,Wide Leg,jean
+Madison Ave,SKU-004,26,Stone Wash,8,2026-07-04,0,8,Wide Leg,jean
+Madison Ave,SKU-004,26,Raw Denim,0,2026-06-22,0,0,Wide Leg,jean
+Madison Ave,SKU-004,26,Vintage Blue,3,2026-06-24,0,3,Wide Leg,jean
+Madison Ave,SKU-004,27,Indigo,7,2026-06-26,0,7,Wide Leg,jean
+Madison Ave,SKU-004,27,Black,0,2026-06-25,0,0,Wide Leg,jean
+Madison Ave,SKU-004,27,White,1,2026-06-23,0,1,Wide Leg,jean
+Madison Ave,SKU-004,27,Stone Wash,2,2026-07-02,0,2,Wide Leg,jean
+Madison Ave,SKU-004,27,Raw Denim,1,2026-06-23,0,1,Wide Leg,jean
+Madison Ave,SKU-004,27,Vintage Blue,0,2026-06-25,0,0,Wide Leg,jean
+Madison Ave,SKU-004,28,Indigo,2,2026-06-23,0,2,Wide Leg,jean
+Madison Ave,SKU-004,28,Black,4,2026-07-05,0,4,Wide Leg,jean
+Madison Ave,SKU-004,28,White,5,2026-06-25,0,5,Wide Leg,jean
+Madison Ave,SKU-004,28,Stone Wash,4,2026-07-01,0,4,Wide Leg,jean
+Madison Ave,SKU-004,28,Raw Denim,6,2026-06-24,0,6,Wide Leg,jean
+Madison Ave,SKU-004,28,Vintage Blue,2,2026-06-23,0,2,Wide Leg,jean
+Madison Ave,SKU-004,29,Indigo,0,2026-07-05,0,0,Wide Leg,jean
+Madison Ave,SKU-004,29,Black,3,2026-07-05,0,3,Wide Leg,jean
+Madison Ave,SKU-004,29,White,1,2026-07-03,0,1,Wide Leg,jean
+Madison Ave,SKU-004,29,Stone Wash,8,2026-07-03,0,8,Wide Leg,jean
+Madison Ave,SKU-004,29,Raw Denim,4,2026-07-06,0,4,Wide Leg,jean
+Madison Ave,SKU-004,29,Vintage Blue,3,2026-06-28,0,3,Wide Leg,jean
+Madison Ave,SKU-004,30,Indigo,1,2026-07-03,0,1,Wide Leg,jean
+Madison Ave,SKU-004,30,Black,3,2026-07-06,0,3,Wide Leg,jean
+Madison Ave,SKU-004,30,White,5,2026-07-01,0,5,Wide Leg,jean
+Madison Ave,SKU-004,30,Stone Wash,0,2026-06-24,0,0,Wide Leg,jean
+Madison Ave,SKU-004,30,Raw Denim,9,2026-06-26,0,9,Wide Leg,jean
+Madison Ave,SKU-004,30,Vintage Blue,2,2026-06-23,0,2,Wide Leg,jean
+Madison Ave,SKU-004,31,Indigo,5,2026-06-22,0,5,Wide Leg,jean
+Madison Ave,SKU-004,31,Black,3,2026-06-28,0,3,Wide Leg,jean
+Madison Ave,SKU-004,31,White,7,2026-07-03,0,7,Wide Leg,jean
+Madison Ave,SKU-004,31,Stone Wash,6,2026-06-25,0,6,Wide Leg,jean
+Madison Ave,SKU-004,31,Raw Denim,0,2026-07-01,0,0,Wide Leg,jean
+Madison Ave,SKU-004,31,Vintage Blue,5,2026-06-25,0,5,Wide Leg,jean
+Madison Ave,SKU-004,32,Indigo,4,2026-07-06,0,4,Wide Leg,jean
+Madison Ave,SKU-004,32,Black,3,2026-07-04,0,3,Wide Leg,jean
+Madison Ave,SKU-004,32,White,5,2026-07-05,0,5,Wide Leg,jean
+Madison Ave,SKU-004,32,Stone Wash,4,2026-06-25,0,4,Wide Leg,jean
+Madison Ave,SKU-004,32,Raw Denim,3,2026-06-29,0,3,Wide Leg,jean
+Madison Ave,SKU-004,32,Vintage Blue,7,2026-07-06,0,7,Wide Leg,jean
+Madison Ave,SKU-004,33,Indigo,5,2026-06-30,0,5,Wide Leg,jean
+Madison Ave,SKU-004,33,Black,5,2026-07-05,0,5,Wide Leg,jean
+Madison Ave,SKU-004,33,White,0,2026-06-28,0,0,Wide Leg,jean
+Madison Ave,SKU-004,33,Stone Wash,5,2026-06-29,0,5,Wide Leg,jean
+Madison Ave,SKU-004,33,Raw Denim,0,2026-07-04,0,0,Wide Leg,jean
+Madison Ave,SKU-004,33,Vintage Blue,0,2026-06-24,0,0,Wide Leg,jean
+Madison Ave,SKU-004,34,Indigo,7,2026-06-27,0,7,Wide Leg,jean
+Madison Ave,SKU-004,34,Black,5,2026-06-29,0,5,Wide Leg,jean
+Madison Ave,SKU-004,34,White,7,2026-07-03,0,7,Wide Leg,jean
+Madison Ave,SKU-004,34,Stone Wash,0,2026-06-26,0,0,Wide Leg,jean
+Madison Ave,SKU-004,34,Raw Denim,3,2026-07-03,0,3,Wide Leg,jean
+Madison Ave,SKU-004,34,Vintage Blue,3,2026-06-26,0,3,Wide Leg,jean
+Madison Ave,SKU-005,24,Indigo,2,2026-07-03,0,2,Slim Straight,jean
+Madison Ave,SKU-005,24,Black,6,2026-06-25,0,6,Slim Straight,jean
+Madison Ave,SKU-005,24,White,4,2026-07-05,0,4,Slim Straight,jean
+Madison Ave,SKU-005,24,Stone Wash,5,2026-07-06,0,5,Slim Straight,jean
+Madison Ave,SKU-005,24,Raw Denim,2,2026-07-06,0,2,Slim Straight,jean
+Madison Ave,SKU-005,24,Vintage Blue,4,2026-06-24,0,4,Slim Straight,jean
+Madison Ave,SKU-005,25,Indigo,9,2026-07-06,0,9,Slim Straight,jean
+Madison Ave,SKU-005,25,Black,4,2026-07-05,0,4,Slim Straight,jean
+Madison Ave,SKU-005,25,White,5,2026-07-03,0,5,Slim Straight,jean
+Madison Ave,SKU-005,25,Stone Wash,3,2026-07-05,0,3,Slim Straight,jean
+Madison Ave,SKU-005,25,Raw Denim,3,2026-06-25,0,3,Slim Straight,jean
+Madison Ave,SKU-005,25,Vintage Blue,6,2026-06-29,0,6,Slim Straight,jean
+Madison Ave,SKU-005,26,Indigo,2,2026-06-25,0,2,Slim Straight,jean
+Madison Ave,SKU-005,26,Black,2,2026-06-29,0,2,Slim Straight,jean
+Madison Ave,SKU-005,26,White,4,2026-06-26,0,4,Slim Straight,jean
+Madison Ave,SKU-005,26,Stone Wash,0,2026-06-26,0,0,Slim Straight,jean
+Madison Ave,SKU-005,26,Raw Denim,5,2026-07-01,0,5,Slim Straight,jean
+Madison Ave,SKU-005,26,Vintage Blue,5,2026-06-30,0,5,Slim Straight,jean
+Madison Ave,SKU-005,27,Indigo,3,2026-06-29,0,3,Slim Straight,jean
+Madison Ave,SKU-005,27,Black,0,2026-07-04,0,0,Slim Straight,jean
+Madison Ave,SKU-005,27,White,1,2026-06-24,0,1,Slim Straight,jean
+Madison Ave,SKU-005,27,Stone Wash,0,2026-06-24,0,0,Slim Straight,jean
+Madison Ave,SKU-005,27,Raw Denim,6,2026-06-24,0,6,Slim Straight,jean
+Madison Ave,SKU-005,27,Vintage Blue,5,2026-06-27,0,5,Slim Straight,jean
+Madison Ave,SKU-005,28,Indigo,6,2026-06-27,0,6,Slim Straight,jean
+Madison Ave,SKU-005,28,Black,1,2026-06-28,0,1,Slim Straight,jean
+Madison Ave,SKU-005,28,White,0,2026-06-23,0,0,Slim Straight,jean
+Madison Ave,SKU-005,28,Stone Wash,3,2026-06-23,0,3,Slim Straight,jean
+Madison Ave,SKU-005,28,Raw Denim,0,2026-06-25,0,0,Slim Straight,jean
+Madison Ave,SKU-005,28,Vintage Blue,4,2026-06-29,0,4,Slim Straight,jean
+Madison Ave,SKU-005,29,Indigo,8,2026-07-03,0,8,Slim Straight,jean
+Madison Ave,SKU-005,29,Black,0,2026-06-28,0,0,Slim Straight,jean
+Madison Ave,SKU-005,29,White,0,2026-07-04,0,0,Slim Straight,jean
+Madison Ave,SKU-005,29,Stone Wash,4,2026-06-24,0,4,Slim Straight,jean
+Madison Ave,SKU-005,29,Raw Denim,4,2026-06-28,0,4,Slim Straight,jean
+Madison Ave,SKU-005,29,Vintage Blue,7,2026-06-27,0,7,Slim Straight,jean
+Madison Ave,SKU-005,30,Indigo,4,2026-06-26,0,4,Slim Straight,jean
+Madison Ave,SKU-005,30,Black,6,2026-06-24,0,6,Slim Straight,jean
+Madison Ave,SKU-005,30,White,4,2026-06-29,0,4,Slim Straight,jean
+Madison Ave,SKU-005,30,Stone Wash,5,2026-07-03,0,5,Slim Straight,jean
+Madison Ave,SKU-005,30,Raw Denim,6,2026-06-27,0,6,Slim Straight,jean
+Madison Ave,SKU-005,30,Vintage Blue,4,2026-07-02,0,4,Slim Straight,jean
+Madison Ave,SKU-005,31,Indigo,1,2026-06-30,0,1,Slim Straight,jean
+Madison Ave,SKU-005,31,Black,7,2026-06-22,0,7,Slim Straight,jean
+Madison Ave,SKU-005,31,White,0,2026-06-26,0,0,Slim Straight,jean
+Madison Ave,SKU-005,31,Stone Wash,3,2026-06-25,0,3,Slim Straight,jean
+Madison Ave,SKU-005,31,Raw Denim,4,2026-07-03,1,5,Slim Straight,jean
+Madison Ave,SKU-005,31,Vintage Blue,0,2026-07-02,0,0,Slim Straight,jean
+Madison Ave,SKU-005,32,Indigo,6,2026-06-26,0,6,Slim Straight,jean
+Madison Ave,SKU-005,32,Black,5,2026-07-06,0,5,Slim Straight,jean
+Madison Ave,SKU-005,32,White,0,2026-06-26,0,0,Slim Straight,jean
+Madison Ave,SKU-005,32,Stone Wash,3,2026-06-30,0,3,Slim Straight,jean
+Madison Ave,SKU-005,32,Raw Denim,4,2026-07-06,0,4,Slim Straight,jean
+Madison Ave,SKU-005,32,Vintage Blue,0,2026-07-03,0,0,Slim Straight,jean
+Madison Ave,SKU-005,33,Indigo,0,2026-07-01,0,0,Slim Straight,jean
+Madison Ave,SKU-005,33,Black,0,2026-06-22,0,0,Slim Straight,jean
+Madison Ave,SKU-005,33,White,0,2026-07-01,0,0,Slim Straight,jean
+Madison Ave,SKU-005,33,Stone Wash,3,2026-06-27,0,3,Slim Straight,jean
+Madison Ave,SKU-005,33,Raw Denim,4,2026-06-24,0,4,Slim Straight,jean
+Madison Ave,SKU-005,33,Vintage Blue,7,2026-06-28,0,7,Slim Straight,jean
+Madison Ave,SKU-005,34,Indigo,2,2026-06-30,0,2,Slim Straight,jean
+Madison Ave,SKU-005,34,Black,1,2026-06-25,0,1,Slim Straight,jean
+Madison Ave,SKU-005,34,White,5,2026-07-02,0,5,Slim Straight,jean
+Madison Ave,SKU-005,34,Stone Wash,5,2026-06-23,0,5,Slim Straight,jean
+Madison Ave,SKU-005,34,Raw Denim,2,2026-07-03,0,2,Slim Straight,jean
+Madison Ave,SKU-005,34,Vintage Blue,5,2026-06-27,0,5,Slim Straight,jean
+Madison Ave,SKU-006,24,Indigo,4,2026-06-27,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,24,Black,4,2026-07-01,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,24,White,3,2026-07-03,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-006,24,Stone Wash,10,2026-06-28,0,10,High-Rise Skinny,jean
+Madison Ave,SKU-006,24,Raw Denim,2,2026-06-29,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,24,Vintage Blue,6,2026-07-06,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,25,Indigo,4,2026-06-29,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,25,Black,4,2026-06-26,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,25,White,6,2026-06-29,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,25,Stone Wash,4,2026-06-28,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,25,Raw Denim,2,2026-06-26,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,25,Vintage Blue,1,2026-06-22,0,1,High-Rise Skinny,jean
+Madison Ave,SKU-006,26,Indigo,0,2026-07-01,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,26,Black,7,2026-06-25,0,7,High-Rise Skinny,jean
+Madison Ave,SKU-006,26,White,2,2026-07-01,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,26,Stone Wash,5,2026-07-02,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,26,Raw Denim,2,2026-07-06,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,26,Vintage Blue,8,2026-06-29,0,8,High-Rise Skinny,jean
+Madison Ave,SKU-006,27,Indigo,3,2026-06-25,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-006,27,Black,0,2026-06-27,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,27,White,2,2026-06-25,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,27,Stone Wash,0,2026-06-28,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,27,Raw Denim,6,2026-06-24,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,27,Vintage Blue,0,2026-06-27,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,28,Indigo,5,2026-06-25,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,28,Black,2,2026-06-22,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,28,White,2,2026-06-24,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,28,Stone Wash,0,2026-07-05,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,28,Raw Denim,3,2026-07-06,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-006,28,Vintage Blue,2,2026-06-29,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,29,Indigo,4,2026-07-06,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,29,Black,0,2026-06-22,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,29,White,2,2026-06-27,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,29,Stone Wash,8,2026-07-02,0,8,High-Rise Skinny,jean
+Madison Ave,SKU-006,29,Raw Denim,0,2026-07-05,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,29,Vintage Blue,3,2026-06-24,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-006,30,Indigo,4,2026-06-25,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,30,Black,6,2026-06-29,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,30,White,1,2026-06-25,0,1,High-Rise Skinny,jean
+Madison Ave,SKU-006,30,Stone Wash,6,2026-07-06,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,30,Raw Denim,5,2026-06-22,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,30,Vintage Blue,1,2026-07-06,0,1,High-Rise Skinny,jean
+Madison Ave,SKU-006,31,Indigo,11,2026-06-28,0,11,High-Rise Skinny,jean
+Madison Ave,SKU-006,31,Black,0,2026-06-30,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,31,White,2,2026-06-30,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,31,Stone Wash,4,2026-07-02,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,31,Raw Denim,5,2026-06-30,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,31,Vintage Blue,2,2026-07-04,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,32,Indigo,3,2026-06-29,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-006,32,Black,0,2026-07-06,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,32,White,2,2026-06-30,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,32,Stone Wash,0,2026-06-29,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,32,Raw Denim,8,2026-07-05,0,8,High-Rise Skinny,jean
+Madison Ave,SKU-006,32,Vintage Blue,6,2026-06-28,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,33,Indigo,0,2026-07-03,0,0,High-Rise Skinny,jean
+Madison Ave,SKU-006,33,Black,4,2026-07-03,0,4,High-Rise Skinny,jean
+Madison Ave,SKU-006,33,White,5,2026-07-06,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,33,Stone Wash,6,2026-06-25,0,6,High-Rise Skinny,jean
+Madison Ave,SKU-006,33,Raw Denim,2,2026-06-24,0,2,High-Rise Skinny,jean
+Madison Ave,SKU-006,33,Vintage Blue,5,2026-06-24,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,34,Indigo,5,2026-07-02,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,34,Black,3,2026-06-23,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-006,34,White,1,2026-06-28,0,1,High-Rise Skinny,jean
+Madison Ave,SKU-006,34,Stone Wash,5,2026-06-27,0,5,High-Rise Skinny,jean
+Madison Ave,SKU-006,34,Raw Denim,9,2026-06-26,0,9,High-Rise Skinny,jean
+Madison Ave,SKU-006,34,Vintage Blue,3,2026-06-22,0,3,High-Rise Skinny,jean
+Madison Ave,SKU-007,24,Indigo,3,2026-06-26,0,3,Mom Jean,jean
+Madison Ave,SKU-007,24,Black,8,2026-07-06,0,8,Mom Jean,jean
+Madison Ave,SKU-007,24,White,3,2026-07-06,0,3,Mom Jean,jean
+Madison Ave,SKU-007,24,Stone Wash,0,2026-07-02,0,0,Mom Jean,jean
+Madison Ave,SKU-007,24,Raw Denim,4,2026-07-05,0,4,Mom Jean,jean
+Madison Ave,SKU-007,24,Vintage Blue,1,2026-06-24,0,1,Mom Jean,jean
+Madison Ave,SKU-007,25,Indigo,0,2026-06-22,0,0,Mom Jean,jean
+Madison Ave,SKU-007,25,Black,4,2026-06-25,0,4,Mom Jean,jean
+Madison Ave,SKU-007,25,White,0,2026-07-04,0,0,Mom Jean,jean
+Madison Ave,SKU-007,25,Stone Wash,3,2026-07-02,0,3,Mom Jean,jean
+Madison Ave,SKU-007,25,Raw Denim,0,2026-07-02,0,0,Mom Jean,jean
+Madison Ave,SKU-007,25,Vintage Blue,5,2026-06-29,0,5,Mom Jean,jean
+Madison Ave,SKU-007,26,Indigo,9,2026-07-05,0,9,Mom Jean,jean
+Madison Ave,SKU-007,26,Black,4,2026-07-05,0,4,Mom Jean,jean
+Madison Ave,SKU-007,26,White,7,2026-07-06,0,7,Mom Jean,jean
+Madison Ave,SKU-007,26,Stone Wash,1,2026-07-05,0,1,Mom Jean,jean
+Madison Ave,SKU-007,26,Raw Denim,0,2026-07-02,0,0,Mom Jean,jean
+Madison Ave,SKU-007,26,Vintage Blue,3,2026-07-03,0,3,Mom Jean,jean
+Madison Ave,SKU-007,27,Indigo,4,2026-07-02,0,4,Mom Jean,jean
+Madison Ave,SKU-007,27,Black,4,2026-06-22,0,4,Mom Jean,jean
+Madison Ave,SKU-007,27,White,1,2026-07-01,0,1,Mom Jean,jean
+Madison Ave,SKU-007,27,Stone Wash,5,2026-07-05,0,5,Mom Jean,jean
+Madison Ave,SKU-007,27,Raw Denim,1,2026-06-29,0,1,Mom Jean,jean
+Madison Ave,SKU-007,27,Vintage Blue,3,2026-07-01,0,3,Mom Jean,jean
+Madison Ave,SKU-007,28,Indigo,0,2026-06-29,0,0,Mom Jean,jean
+Madison Ave,SKU-007,28,Black,0,2026-07-06,0,0,Mom Jean,jean
+Madison Ave,SKU-007,28,White,5,2026-06-22,0,5,Mom Jean,jean
+Madison Ave,SKU-007,28,Stone Wash,3,2026-06-24,0,3,Mom Jean,jean
+Madison Ave,SKU-007,28,Raw Denim,1,2026-06-23,0,1,Mom Jean,jean
+Madison Ave,SKU-007,28,Vintage Blue,3,2026-07-04,0,3,Mom Jean,jean
+Madison Ave,SKU-007,29,Indigo,1,2026-06-26,0,1,Mom Jean,jean
+Madison Ave,SKU-007,29,Black,5,2026-06-29,0,5,Mom Jean,jean
+Madison Ave,SKU-007,29,White,1,2026-06-24,0,1,Mom Jean,jean
+Madison Ave,SKU-007,29,Stone Wash,11,2026-06-24,0,11,Mom Jean,jean
+Madison Ave,SKU-007,29,Raw Denim,2,2026-07-04,0,2,Mom Jean,jean
+Madison Ave,SKU-007,29,Vintage Blue,1,2026-07-01,0,1,Mom Jean,jean
+Madison Ave,SKU-007,30,Indigo,7,2026-07-04,0,7,Mom Jean,jean
+Madison Ave,SKU-007,30,Black,5,2026-07-03,0,5,Mom Jean,jean
+Madison Ave,SKU-007,30,White,7,2026-07-02,0,7,Mom Jean,jean
+Madison Ave,SKU-007,30,Stone Wash,7,2026-07-05,0,7,Mom Jean,jean
+Madison Ave,SKU-007,30,Raw Denim,2,2026-06-23,0,2,Mom Jean,jean
+Madison Ave,SKU-007,30,Vintage Blue,2,2026-06-22,0,2,Mom Jean,jean
+Madison Ave,SKU-007,31,Indigo,6,2026-07-06,0,6,Mom Jean,jean
+Madison Ave,SKU-007,31,Black,1,2026-06-30,0,1,Mom Jean,jean
+Madison Ave,SKU-007,31,White,4,2026-06-25,0,4,Mom Jean,jean
+Madison Ave,SKU-007,31,Stone Wash,3,2026-06-30,0,3,Mom Jean,jean
+Madison Ave,SKU-007,31,Raw Denim,2,2026-06-24,0,2,Mom Jean,jean
+Madison Ave,SKU-007,31,Vintage Blue,1,2026-07-06,0,1,Mom Jean,jean
+Madison Ave,SKU-007,32,Indigo,2,2026-07-05,0,2,Mom Jean,jean
+Madison Ave,SKU-007,32,Black,4,2026-06-26,0,4,Mom Jean,jean
+Madison Ave,SKU-007,32,White,2,2026-06-23,0,2,Mom Jean,jean
+Madison Ave,SKU-007,32,Stone Wash,5,2026-06-30,0,5,Mom Jean,jean
+Madison Ave,SKU-007,32,Raw Denim,4,2026-07-03,0,4,Mom Jean,jean
+Madison Ave,SKU-007,32,Vintage Blue,0,2026-06-25,0,0,Mom Jean,jean
+Madison Ave,SKU-007,33,Indigo,3,2026-06-28,0,3,Mom Jean,jean
+Madison Ave,SKU-007,33,Black,0,2026-07-02,0,0,Mom Jean,jean
+Madison Ave,SKU-007,33,White,2,2026-06-30,0,2,Mom Jean,jean
+Madison Ave,SKU-007,33,Stone Wash,1,2026-07-05,0,1,Mom Jean,jean
+Madison Ave,SKU-007,33,Raw Denim,5,2026-06-26,0,5,Mom Jean,jean
+Madison Ave,SKU-007,33,Vintage Blue,5,2026-07-01,0,5,Mom Jean,jean
+Madison Ave,SKU-007,34,Indigo,1,2026-06-25,0,1,Mom Jean,jean
+Madison Ave,SKU-007,34,Black,0,2026-06-27,0,0,Mom Jean,jean
+Madison Ave,SKU-007,34,White,1,2026-06-30,0,1,Mom Jean,jean
+Madison Ave,SKU-007,34,Stone Wash,8,2026-06-24,0,8,Mom Jean,jean
+Madison Ave,SKU-007,34,Raw Denim,2,2026-06-23,0,2,Mom Jean,jean
+Madison Ave,SKU-007,34,Vintage Blue,0,2026-06-23,0,0,Mom Jean,jean
+Madison Ave,SKU-008,24,Indigo,2,2026-06-24,0,2,Boyfriend,jean
+Madison Ave,SKU-008,24,Black,5,2026-06-24,0,5,Boyfriend,jean
+Madison Ave,SKU-008,24,White,6,2026-07-04,0,6,Boyfriend,jean
+Madison Ave,SKU-008,24,Stone Wash,3,2026-06-30,0,3,Boyfriend,jean
+Madison Ave,SKU-008,24,Raw Denim,0,2026-06-27,0,0,Boyfriend,jean
+Madison Ave,SKU-008,24,Vintage Blue,2,2026-07-01,0,2,Boyfriend,jean
+Madison Ave,SKU-008,25,Indigo,4,2026-06-23,0,4,Boyfriend,jean
+Madison Ave,SKU-008,25,Black,4,2026-06-27,0,4,Boyfriend,jean
+Madison Ave,SKU-008,25,White,0,2026-07-02,0,0,Boyfriend,jean
+Madison Ave,SKU-008,25,Stone Wash,0,2026-07-06,0,0,Boyfriend,jean
+Madison Ave,SKU-008,25,Raw Denim,4,2026-07-03,0,4,Boyfriend,jean
+Madison Ave,SKU-008,25,Vintage Blue,5,2026-07-01,0,5,Boyfriend,jean
+Madison Ave,SKU-008,26,Indigo,0,2026-06-23,0,0,Boyfriend,jean
+Madison Ave,SKU-008,26,Black,2,2026-07-01,0,2,Boyfriend,jean
+Madison Ave,SKU-008,26,White,0,2026-06-26,0,0,Boyfriend,jean
+Madison Ave,SKU-008,26,Stone Wash,3,2026-06-25,0,3,Boyfriend,jean
+Madison Ave,SKU-008,26,Raw Denim,5,2026-06-26,0,5,Boyfriend,jean
+Madison Ave,SKU-008,26,Vintage Blue,2,2026-07-04,0,2,Boyfriend,jean
+Madison Ave,SKU-008,27,Indigo,2,2026-07-06,0,2,Boyfriend,jean
+Madison Ave,SKU-008,27,Black,3,2026-06-22,0,3,Boyfriend,jean
+Madison Ave,SKU-008,27,White,4,2026-06-23,0,4,Boyfriend,jean
+Madison Ave,SKU-008,27,Stone Wash,1,2026-06-29,0,1,Boyfriend,jean
+Madison Ave,SKU-008,27,Raw Denim,2,2026-06-27,0,2,Boyfriend,jean
+Madison Ave,SKU-008,27,Vintage Blue,0,2026-06-26,0,0,Boyfriend,jean
+Madison Ave,SKU-008,28,Indigo,6,2026-06-29,0,6,Boyfriend,jean
+Madison Ave,SKU-008,28,Black,0,2026-06-24,0,0,Boyfriend,jean
+Madison Ave,SKU-008,28,White,4,2026-06-24,0,4,Boyfriend,jean
+Madison Ave,SKU-008,28,Stone Wash,5,2026-06-23,0,5,Boyfriend,jean
+Madison Ave,SKU-008,28,Raw Denim,3,2026-07-04,0,3,Boyfriend,jean
+Madison Ave,SKU-008,28,Vintage Blue,5,2026-07-02,0,5,Boyfriend,jean
+Madison Ave,SKU-008,29,Indigo,2,2026-06-29,0,2,Boyfriend,jean
+Madison Ave,SKU-008,29,Black,0,2026-06-29,0,0,Boyfriend,jean
+Madison Ave,SKU-008,29,White,3,2026-07-02,0,3,Boyfriend,jean
+Madison Ave,SKU-008,29,Stone Wash,8,2026-06-27,0,8,Boyfriend,jean
+Madison Ave,SKU-008,29,Raw Denim,0,2026-07-03,0,0,Boyfriend,jean
+Madison Ave,SKU-008,29,Vintage Blue,6,2026-07-06,0,6,Boyfriend,jean
+Madison Ave,SKU-008,30,Indigo,2,2026-07-06,0,2,Boyfriend,jean
+Madison Ave,SKU-008,30,Black,5,2026-07-06,0,5,Boyfriend,jean
+Madison Ave,SKU-008,30,White,0,2026-06-28,0,0,Boyfriend,jean
+Madison Ave,SKU-008,30,Stone Wash,4,2026-06-23,0,4,Boyfriend,jean
+Madison Ave,SKU-008,30,Raw Denim,1,2026-07-02,0,1,Boyfriend,jean
+Madison Ave,SKU-008,30,Vintage Blue,3,2026-06-28,0,3,Boyfriend,jean
+Madison Ave,SKU-008,31,Indigo,0,2026-06-26,0,0,Boyfriend,jean
+Madison Ave,SKU-008,31,Black,6,2026-06-29,0,6,Boyfriend,jean
+Madison Ave,SKU-008,31,White,1,2026-07-03,0,1,Boyfriend,jean
+Madison Ave,SKU-008,31,Stone Wash,5,2026-06-29,0,5,Boyfriend,jean
+Madison Ave,SKU-008,31,Raw Denim,1,2026-06-22,0,1,Boyfriend,jean
+Madison Ave,SKU-008,31,Vintage Blue,4,2026-06-23,0,4,Boyfriend,jean
+Madison Ave,SKU-008,32,Indigo,6,2026-06-26,0,6,Boyfriend,jean
+Madison Ave,SKU-008,32,Black,3,2026-06-23,0,3,Boyfriend,jean
+Madison Ave,SKU-008,32,White,2,2026-07-06,0,2,Boyfriend,jean
+Madison Ave,SKU-008,32,Stone Wash,8,2026-06-27,0,8,Boyfriend,jean
+Madison Ave,SKU-008,32,Raw Denim,4,2026-06-22,0,4,Boyfriend,jean
+Madison Ave,SKU-008,32,Vintage Blue,4,2026-06-23,0,4,Boyfriend,jean
+Madison Ave,SKU-008,33,Indigo,3,2026-06-23,0,3,Boyfriend,jean
+Madison Ave,SKU-008,33,Black,6,2026-07-01,0,6,Boyfriend,jean
+Madison Ave,SKU-008,33,White,3,2026-06-25,1,4,Boyfriend,jean
+Madison Ave,SKU-008,33,Stone Wash,11,2026-07-03,0,11,Boyfriend,jean
+Madison Ave,SKU-008,33,Raw Denim,2,2026-06-24,0,2,Boyfriend,jean
+Madison Ave,SKU-008,33,Vintage Blue,2,2026-06-30,0,2,Boyfriend,jean
+Madison Ave,SKU-008,34,Indigo,8,2026-06-27,0,8,Boyfriend,jean
+Madison Ave,SKU-008,34,Black,5,2026-06-23,0,5,Boyfriend,jean
+Madison Ave,SKU-008,34,White,5,2026-06-23,0,5,Boyfriend,jean
+Madison Ave,SKU-008,34,Stone Wash,3,2026-06-26,0,3,Boyfriend,jean
+Madison Ave,SKU-008,34,Raw Denim,3,2026-06-29,0,3,Boyfriend,jean
+Madison Ave,SKU-008,34,Vintage Blue,0,2026-06-27,0,0,Boyfriend,jean
+Madison Ave,SKU-009,24,Indigo,8,2026-07-01,0,8,Cropped Straight,jean
+Madison Ave,SKU-009,24,Black,9,2026-06-26,0,9,Cropped Straight,jean
+Madison Ave,SKU-009,24,White,8,2026-06-25,0,8,Cropped Straight,jean
+Madison Ave,SKU-009,24,Stone Wash,1,2026-06-29,0,1,Cropped Straight,jean
+Madison Ave,SKU-009,24,Raw Denim,3,2026-06-30,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,24,Vintage Blue,4,2026-06-24,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,25,Indigo,4,2026-07-06,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,25,Black,4,2026-06-26,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,25,White,5,2026-06-25,0,5,Cropped Straight,jean
+Madison Ave,SKU-009,25,Stone Wash,0,2026-06-24,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,25,Raw Denim,1,2026-06-26,0,1,Cropped Straight,jean
+Madison Ave,SKU-009,25,Vintage Blue,2,2026-06-27,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,26,Indigo,0,2026-07-02,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,26,Black,3,2026-07-04,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,26,White,0,2026-07-04,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,26,Stone Wash,4,2026-06-26,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,26,Raw Denim,6,2026-06-24,0,6,Cropped Straight,jean
+Madison Ave,SKU-009,26,Vintage Blue,2,2026-06-23,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,27,Indigo,0,2026-06-27,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,27,Black,3,2026-06-30,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,27,White,3,2026-06-24,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,27,Stone Wash,0,2026-07-02,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,27,Raw Denim,0,2026-07-01,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,27,Vintage Blue,0,2026-06-25,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,28,Indigo,0,2026-06-25,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,28,Black,0,2026-06-28,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,28,White,4,2026-06-25,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,28,Stone Wash,2,2026-07-03,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,28,Raw Denim,2,2026-06-23,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,28,Vintage Blue,0,2026-07-02,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,29,Indigo,0,2026-06-24,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,29,Black,0,2026-07-04,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,29,White,2,2026-07-03,1,3,Cropped Straight,jean
+Madison Ave,SKU-009,29,Stone Wash,4,2026-07-04,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,29,Raw Denim,7,2026-07-02,0,7,Cropped Straight,jean
+Madison Ave,SKU-009,29,Vintage Blue,0,2026-06-22,1,1,Cropped Straight,jean
+Madison Ave,SKU-009,30,Indigo,5,2026-07-03,0,5,Cropped Straight,jean
+Madison Ave,SKU-009,30,Black,3,2026-06-30,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,30,White,7,2026-06-29,0,7,Cropped Straight,jean
+Madison Ave,SKU-009,30,Stone Wash,0,2026-06-30,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,30,Raw Denim,5,2026-06-23,0,5,Cropped Straight,jean
+Madison Ave,SKU-009,30,Vintage Blue,5,2026-07-02,0,5,Cropped Straight,jean
+Madison Ave,SKU-009,31,Indigo,2,2026-07-02,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,31,Black,0,2026-07-06,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,31,White,2,2026-07-01,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,31,Stone Wash,10,2026-06-26,0,10,Cropped Straight,jean
+Madison Ave,SKU-009,31,Raw Denim,2,2026-06-28,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,31,Vintage Blue,4,2026-06-30,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,32,Indigo,3,2026-07-05,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,32,Black,4,2026-07-06,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,32,White,0,2026-06-25,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,32,Stone Wash,9,2026-06-23,0,9,Cropped Straight,jean
+Madison Ave,SKU-009,32,Raw Denim,4,2026-06-27,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,32,Vintage Blue,0,2026-07-04,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,33,Indigo,8,2026-07-02,0,8,Cropped Straight,jean
+Madison Ave,SKU-009,33,Black,4,2026-06-26,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,33,White,0,2026-07-04,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,33,Stone Wash,0,2026-06-24,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,33,Raw Denim,6,2026-06-25,0,6,Cropped Straight,jean
+Madison Ave,SKU-009,33,Vintage Blue,2,2026-07-04,0,2,Cropped Straight,jean
+Madison Ave,SKU-009,34,Indigo,0,2026-06-30,0,0,Cropped Straight,jean
+Madison Ave,SKU-009,34,Black,5,2026-06-29,0,5,Cropped Straight,jean
+Madison Ave,SKU-009,34,White,1,2026-07-03,0,1,Cropped Straight,jean
+Madison Ave,SKU-009,34,Stone Wash,3,2026-06-27,0,3,Cropped Straight,jean
+Madison Ave,SKU-009,34,Raw Denim,4,2026-07-03,0,4,Cropped Straight,jean
+Madison Ave,SKU-009,34,Vintage Blue,8,2026-06-22,0,8,Cropped Straight,jean
+Madison Ave,SKU-010,24,Indigo,3,2026-06-22,0,3,Flare,jean
+Madison Ave,SKU-010,24,Black,0,2026-06-29,0,0,Flare,jean
+Madison Ave,SKU-010,24,White,5,2026-06-25,0,5,Flare,jean
+Madison Ave,SKU-010,24,Stone Wash,8,2026-06-29,0,8,Flare,jean
+Madison Ave,SKU-010,24,Raw Denim,1,2026-06-30,0,1,Flare,jean
+Madison Ave,SKU-010,24,Vintage Blue,3,2026-06-24,0,3,Flare,jean
+Madison Ave,SKU-010,25,Indigo,3,2026-06-23,0,3,Flare,jean
+Madison Ave,SKU-010,25,Black,1,2026-07-01,0,1,Flare,jean
+Madison Ave,SKU-010,25,White,3,2026-06-30,0,3,Flare,jean
+Madison Ave,SKU-010,25,Stone Wash,3,2026-07-06,0,3,Flare,jean
+Madison Ave,SKU-010,25,Raw Denim,0,2026-07-05,0,0,Flare,jean
+Madison Ave,SKU-010,25,Vintage Blue,3,2026-07-02,0,3,Flare,jean
+Madison Ave,SKU-010,26,Indigo,4,2026-07-02,0,4,Flare,jean
+Madison Ave,SKU-010,26,Black,7,2026-06-25,0,7,Flare,jean
+Madison Ave,SKU-010,26,White,0,2026-06-27,0,0,Flare,jean
+Madison Ave,SKU-010,26,Stone Wash,2,2026-06-26,0,2,Flare,jean
+Madison Ave,SKU-010,26,Raw Denim,5,2026-06-22,0,5,Flare,jean
+Madison Ave,SKU-010,26,Vintage Blue,0,2026-06-23,0,0,Flare,jean
+Madison Ave,SKU-010,27,Indigo,0,2026-07-05,0,0,Flare,jean
+Madison Ave,SKU-010,27,Black,8,2026-07-01,0,8,Flare,jean
+Madison Ave,SKU-010,27,White,6,2026-07-05,0,6,Flare,jean
+Madison Ave,SKU-010,27,Stone Wash,1,2026-07-06,0,1,Flare,jean
+Madison Ave,SKU-010,27,Raw Denim,3,2026-06-27,0,3,Flare,jean
+Madison Ave,SKU-010,27,Vintage Blue,3,2026-06-28,0,3,Flare,jean
+Madison Ave,SKU-010,28,Indigo,4,2026-07-03,0,4,Flare,jean
+Madison Ave,SKU-010,28,Black,7,2026-07-06,0,7,Flare,jean
+Madison Ave,SKU-010,28,White,1,2026-07-01,0,1,Flare,jean
+Madison Ave,SKU-010,28,Stone Wash,0,2026-07-06,0,0,Flare,jean
+Madison Ave,SKU-010,28,Raw Denim,1,2026-07-03,0,1,Flare,jean
+Madison Ave,SKU-010,28,Vintage Blue,3,2026-06-29,0,3,Flare,jean
+Madison Ave,SKU-010,29,Indigo,0,2026-07-03,0,0,Flare,jean
+Madison Ave,SKU-010,29,Black,5,2026-07-05,0,5,Flare,jean
+Madison Ave,SKU-010,29,White,7,2026-07-03,0,7,Flare,jean
+Madison Ave,SKU-010,29,Stone Wash,3,2026-06-22,0,3,Flare,jean
+Madison Ave,SKU-010,29,Raw Denim,10,2026-06-25,0,10,Flare,jean
+Madison Ave,SKU-010,29,Vintage Blue,1,2026-07-02,0,1,Flare,jean
+Madison Ave,SKU-010,30,Indigo,2,2026-06-24,0,2,Flare,jean
+Madison Ave,SKU-010,30,Black,3,2026-07-04,0,3,Flare,jean
+Madison Ave,SKU-010,30,White,2,2026-06-22,0,2,Flare,jean
+Madison Ave,SKU-010,30,Stone Wash,0,2026-07-01,0,0,Flare,jean
+Madison Ave,SKU-010,30,Raw Denim,0,2026-06-25,0,0,Flare,jean
+Madison Ave,SKU-010,30,Vintage Blue,0,2026-07-06,0,0,Flare,jean
+Madison Ave,SKU-010,31,Indigo,0,2026-06-25,0,0,Flare,jean
+Madison Ave,SKU-010,31,Black,3,2026-07-06,0,3,Flare,jean
+Madison Ave,SKU-010,31,White,4,2026-07-04,0,4,Flare,jean
+Madison Ave,SKU-010,31,Stone Wash,3,2026-07-04,0,3,Flare,jean
+Madison Ave,SKU-010,31,Raw Denim,7,2026-06-29,0,7,Flare,jean
+Madison Ave,SKU-010,31,Vintage Blue,4,2026-07-05,0,4,Flare,jean
+Madison Ave,SKU-010,32,Indigo,8,2026-07-05,0,8,Flare,jean
+Madison Ave,SKU-010,32,Black,0,2026-06-28,0,0,Flare,jean
+Madison Ave,SKU-010,32,White,0,2026-07-02,0,0,Flare,jean
+Madison Ave,SKU-010,32,Stone Wash,0,2026-07-01,0,0,Flare,jean
+Madison Ave,SKU-010,32,Raw Denim,5,2026-06-26,0,5,Flare,jean
+Madison Ave,SKU-010,32,Vintage Blue,7,2026-06-25,0,7,Flare,jean
+Madison Ave,SKU-010,33,Indigo,2,2026-07-06,0,2,Flare,jean
+Madison Ave,SKU-010,33,Black,6,2026-07-04,0,6,Flare,jean
+Madison Ave,SKU-010,33,White,3,2026-07-01,0,3,Flare,jean
+Madison Ave,SKU-010,33,Stone Wash,4,2026-06-24,0,4,Flare,jean
+Madison Ave,SKU-010,33,Raw Denim,0,2026-06-27,0,0,Flare,jean
+Madison Ave,SKU-010,33,Vintage Blue,0,2026-06-28,0,0,Flare,jean
+Madison Ave,SKU-010,34,Indigo,2,2026-07-05,0,2,Flare,jean
+Madison Ave,SKU-010,34,Black,0,2026-06-29,0,0,Flare,jean
+Madison Ave,SKU-010,34,White,0,2026-07-06,0,0,Flare,jean
+Madison Ave,SKU-010,34,Stone Wash,7,2026-07-03,0,7,Flare,jean
+Madison Ave,SKU-010,34,Raw Denim,3,2026-06-22,0,3,Flare,jean
+Madison Ave,SKU-010,34,Vintage Blue,3,2026-06-28,0,3,Flare,jean
+Madison Ave,SKU-011,XS,Indigo,2,2026-06-30,0,2,Denim Jacket,jacket
+Madison Ave,SKU-011,XS,Black,3,2026-06-23,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,XS,Stone Wash,7,2026-07-05,0,7,Denim Jacket,jacket
+Madison Ave,SKU-011,XS,Raw Denim,3,2026-06-29,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,S,Indigo,2,2026-06-24,0,2,Denim Jacket,jacket
+Madison Ave,SKU-011,S,Black,5,2026-06-25,0,5,Denim Jacket,jacket
+Madison Ave,SKU-011,S,Stone Wash,2,2026-06-22,0,2,Denim Jacket,jacket
+Madison Ave,SKU-011,S,Raw Denim,10,2026-07-06,0,10,Denim Jacket,jacket
+Madison Ave,SKU-011,M,Indigo,6,2026-06-28,0,6,Denim Jacket,jacket
+Madison Ave,SKU-011,M,Black,4,2026-06-30,0,4,Denim Jacket,jacket
+Madison Ave,SKU-011,M,Stone Wash,0,2026-06-25,0,0,Denim Jacket,jacket
+Madison Ave,SKU-011,M,Raw Denim,3,2026-06-24,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,L,Indigo,0,2026-06-28,0,0,Denim Jacket,jacket
+Madison Ave,SKU-011,L,Black,3,2026-07-01,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,L,Stone Wash,3,2026-07-01,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,L,Raw Denim,3,2026-06-27,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,XL,Indigo,3,2026-07-06,0,3,Denim Jacket,jacket
+Madison Ave,SKU-011,XL,Black,0,2026-07-02,0,0,Denim Jacket,jacket
+Madison Ave,SKU-011,XL,Stone Wash,0,2026-07-04,0,0,Denim Jacket,jacket
+Madison Ave,SKU-011,XL,Raw Denim,0,2026-06-22,0,0,Denim Jacket,jacket
+Madison Ave,SKU-012,XS,Indigo,3,2026-07-02,0,3,Chore Jacket,jacket
+Madison Ave,SKU-012,XS,Black,6,2026-06-26,0,6,Chore Jacket,jacket
+Madison Ave,SKU-012,XS,Stone Wash,0,2026-06-28,0,0,Chore Jacket,jacket
+Madison Ave,SKU-012,XS,Raw Denim,5,2026-06-30,0,5,Chore Jacket,jacket
+Madison Ave,SKU-012,S,Indigo,4,2026-06-22,0,4,Chore Jacket,jacket
+Madison Ave,SKU-012,S,Black,3,2026-07-05,0,3,Chore Jacket,jacket
+Madison Ave,SKU-012,S,Stone Wash,2,2026-07-06,0,2,Chore Jacket,jacket
+Madison Ave,SKU-012,S,Raw Denim,7,2026-07-02,0,7,Chore Jacket,jacket
+Madison Ave,SKU-012,M,Indigo,5,2026-06-26,0,5,Chore Jacket,jacket
+Madison Ave,SKU-012,M,Black,0,2026-06-28,0,0,Chore Jacket,jacket
+Madison Ave,SKU-012,M,Stone Wash,2,2026-06-22,0,2,Chore Jacket,jacket
+Madison Ave,SKU-012,M,Raw Denim,7,2026-07-06,0,7,Chore Jacket,jacket
+Madison Ave,SKU-012,L,Indigo,1,2026-06-22,0,1,Chore Jacket,jacket
+Madison Ave,SKU-012,L,Black,0,2026-06-30,0,0,Chore Jacket,jacket
+Madison Ave,SKU-012,L,Stone Wash,5,2026-06-30,0,5,Chore Jacket,jacket
+Madison Ave,SKU-012,L,Raw Denim,6,2026-07-02,0,6,Chore Jacket,jacket
+Madison Ave,SKU-012,XL,Indigo,0,2026-06-27,0,0,Chore Jacket,jacket
+Madison Ave,SKU-012,XL,Black,0,2026-06-23,0,0,Chore Jacket,jacket
+Madison Ave,SKU-012,XL,Stone Wash,4,2026-07-02,0,4,Chore Jacket,jacket
+Madison Ave,SKU-012,XL,Raw Denim,7,2026-07-05,0,7,Chore Jacket,jacket
+Madison Ave,SKU-013,XS,Indigo,0,2026-06-25,0,0,Trucker Jacket,jacket
+Madison Ave,SKU-013,XS,Black,6,2026-06-24,0,6,Trucker Jacket,jacket
+Madison Ave,SKU-013,XS,Stone Wash,5,2026-07-06,0,5,Trucker Jacket,jacket
+Madison Ave,SKU-013,XS,Raw Denim,1,2026-06-29,0,1,Trucker Jacket,jacket
+Madison Ave,SKU-013,S,Indigo,0,2026-06-26,0,0,Trucker Jacket,jacket
+Madison Ave,SKU-013,S,Black,1,2026-06-22,0,1,Trucker Jacket,jacket
+Madison Ave,SKU-013,S,Stone Wash,2,2026-06-25,0,2,Trucker Jacket,jacket
+Madison Ave,SKU-013,S,Raw Denim,0,2026-06-23,0,0,Trucker Jacket,jacket
+Madison Ave,SKU-013,M,Indigo,6,2026-06-23,0,6,Trucker Jacket,jacket
+Madison Ave,SKU-013,M,Black,0,2026-07-01,0,0,Trucker Jacket,jacket
+Madison Ave,SKU-013,M,Stone Wash,0,2026-06-27,0,0,Trucker Jacket,jacket
+Madison Ave,SKU-013,M,Raw Denim,2,2026-07-05,0,2,Trucker Jacket,jacket
+Madison Ave,SKU-013,L,Indigo,4,2026-06-30,0,4,Trucker Jacket,jacket
+Madison Ave,SKU-013,L,Black,3,2026-06-26,0,3,Trucker Jacket,jacket
+Madison Ave,SKU-013,L,Stone Wash,4,2026-06-26,0,4,Trucker Jacket,jacket
+Madison Ave,SKU-013,L,Raw Denim,0,2026-07-04,0,0,Trucker Jacket,jacket
+Madison Ave,SKU-013,XL,Indigo,5,2026-07-05,0,5,Trucker Jacket,jacket
+Madison Ave,SKU-013,XL,Black,3,2026-06-28,0,3,Trucker Jacket,jacket
+Madison Ave,SKU-013,XL,Stone Wash,1,2026-06-27,0,1,Trucker Jacket,jacket
+Madison Ave,SKU-013,XL,Raw Denim,4,2026-06-29,1,5,Trucker Jacket,jacket
+Madison Ave,SKU-014,XS,Indigo,0,2026-07-03,0,0,Denim Shirt,top
+Madison Ave,SKU-014,XS,Black,2,2026-06-29,0,2,Denim Shirt,top
+Madison Ave,SKU-014,XS,Stone Wash,2,2026-07-04,1,3,Denim Shirt,top
+Madison Ave,SKU-014,XS,Raw Denim,3,2026-07-02,0,3,Denim Shirt,top
+Madison Ave,SKU-014,S,Indigo,0,2026-07-05,0,0,Denim Shirt,top
+Madison Ave,SKU-014,S,Black,0,2026-06-30,1,1,Denim Shirt,top
+Madison Ave,SKU-014,S,Stone Wash,3,2026-06-26,0,3,Denim Shirt,top
+Madison Ave,SKU-014,S,Raw Denim,0,2026-06-27,0,0,Denim Shirt,top
+Madison Ave,SKU-014,M,Indigo,1,2026-06-22,0,1,Denim Shirt,top
+Madison Ave,SKU-014,M,Black,3,2026-07-02,0,3,Denim Shirt,top
+Madison Ave,SKU-014,M,Stone Wash,12,2026-06-29,0,12,Denim Shirt,top
+Madison Ave,SKU-014,M,Raw Denim,2,2026-06-28,0,2,Denim Shirt,top
+Madison Ave,SKU-014,L,Indigo,6,2026-07-02,0,6,Denim Shirt,top
+Madison Ave,SKU-014,L,Black,3,2026-07-06,0,3,Denim Shirt,top
+Madison Ave,SKU-014,L,Stone Wash,0,2026-06-30,0,0,Denim Shirt,top
+Madison Ave,SKU-014,L,Raw Denim,3,2026-07-01,1,4,Denim Shirt,top
+Madison Ave,SKU-014,XL,Indigo,6,2026-06-29,0,6,Denim Shirt,top
+Madison Ave,SKU-014,XL,Black,4,2026-07-01,0,4,Denim Shirt,top
+Madison Ave,SKU-014,XL,Stone Wash,0,2026-06-30,0,0,Denim Shirt,top
+Madison Ave,SKU-014,XL,Raw Denim,5,2026-06-22,0,5,Denim Shirt,top
+Madison Ave,SKU-015,XS,Indigo,2,2026-06-24,0,2,Denim Overalls,bottom
+Madison Ave,SKU-015,XS,Black,0,2026-07-06,0,0,Denim Overalls,bottom
+Madison Ave,SKU-015,XS,Stone Wash,6,2026-07-03,0,6,Denim Overalls,bottom
+Madison Ave,SKU-015,XS,Raw Denim,0,2026-06-26,0,0,Denim Overalls,bottom
+Madison Ave,SKU-015,S,Indigo,8,2026-06-29,0,8,Denim Overalls,bottom
+Madison Ave,SKU-015,S,Black,2,2026-07-03,0,2,Denim Overalls,bottom
+Madison Ave,SKU-015,S,Stone Wash,8,2026-07-05,0,8,Denim Overalls,bottom
+Madison Ave,SKU-015,S,Raw Denim,2,2026-07-04,0,2,Denim Overalls,bottom
+Madison Ave,SKU-015,M,Indigo,0,2026-07-04,0,0,Denim Overalls,bottom
+Madison Ave,SKU-015,M,Black,8,2026-07-05,0,8,Denim Overalls,bottom
+Madison Ave,SKU-015,M,Stone Wash,4,2026-07-06,0,4,Denim Overalls,bottom
+Madison Ave,SKU-015,M,Raw Denim,5,2026-06-28,0,5,Denim Overalls,bottom
+Madison Ave,SKU-015,L,Indigo,4,2026-06-28,0,4,Denim Overalls,bottom
+Madison Ave,SKU-015,L,Black,0,2026-06-23,0,0,Denim Overalls,bottom
+Madison Ave,SKU-015,L,Stone Wash,0,2026-07-05,0,0,Denim Overalls,bottom
+Madison Ave,SKU-015,L,Raw Denim,1,2026-07-01,1,2,Denim Overalls,bottom
+Madison Ave,SKU-015,XL,Indigo,3,2026-07-04,0,3,Denim Overalls,bottom
+Madison Ave,SKU-015,XL,Black,8,2026-07-01,0,8,Denim Overalls,bottom
+Madison Ave,SKU-015,XL,Stone Wash,3,2026-07-06,0,3,Denim Overalls,bottom
+Madison Ave,SKU-015,XL,Raw Denim,0,2026-06-27,0,0,Denim Overalls,bottom
+Madison Ave,SKU-016,XS,Indigo,0,2026-07-06,0,0,Denim Skirt,bottom
+Madison Ave,SKU-016,XS,Black,2,2026-06-22,0,2,Denim Skirt,bottom
+Madison Ave,SKU-016,XS,Stone Wash,8,2026-06-24,0,8,Denim Skirt,bottom
+Madison Ave,SKU-016,XS,Raw Denim,0,2026-06-28,0,0,Denim Skirt,bottom
+Madison Ave,SKU-016,S,Indigo,4,2026-07-06,0,4,Denim Skirt,bottom
+Madison Ave,SKU-016,S,Black,7,2026-06-25,1,8,Denim Skirt,bottom
+Madison Ave,SKU-016,S,Stone Wash,4,2026-06-22,0,4,Denim Skirt,bottom
+Madison Ave,SKU-016,S,Raw Denim,3,2026-06-22,0,3,Denim Skirt,bottom
+Madison Ave,SKU-016,M,Indigo,2,2026-07-03,0,2,Denim Skirt,bottom
+Madison Ave,SKU-016,M,Black,9,2026-06-23,0,9,Denim Skirt,bottom
+Madison Ave,SKU-016,M,Stone Wash,1,2026-07-03,0,1,Denim Skirt,bottom
+Madison Ave,SKU-016,M,Raw Denim,1,2026-07-04,0,1,Denim Skirt,bottom
+Madison Ave,SKU-016,L,Indigo,1,2026-06-25,0,1,Denim Skirt,bottom
+Madison Ave,SKU-016,L,Black,2,2026-06-22,0,2,Denim Skirt,bottom
+Madison Ave,SKU-016,L,Stone Wash,0,2026-06-26,0,0,Denim Skirt,bottom
+Madison Ave,SKU-016,L,Raw Denim,2,2026-06-27,0,2,Denim Skirt,bottom
+Madison Ave,SKU-016,XL,Indigo,6,2026-06-25,0,6,Denim Skirt,bottom
+Madison Ave,SKU-016,XL,Black,3,2026-06-24,0,3,Denim Skirt,bottom
+Madison Ave,SKU-016,XL,Stone Wash,0,2026-06-25,0,0,Denim Skirt,bottom
+Madison Ave,SKU-016,XL,Raw Denim,6,2026-06-29,0,6,Denim Skirt,bottom
+Bleecker,SKU-001,24,Indigo,4,2026-07-06,0,4,Skinny,jean
+Bleecker,SKU-001,24,Black,0,2026-06-29,0,0,Skinny,jean
+Bleecker,SKU-001,24,White,3,2026-06-23,0,3,Skinny,jean
+Bleecker,SKU-001,24,Stone Wash,6,2026-07-02,0,6,Skinny,jean
+Bleecker,SKU-001,24,Raw Denim,4,2026-06-29,0,4,Skinny,jean
+Bleecker,SKU-001,24,Vintage Blue,1,2026-07-06,0,1,Skinny,jean
+Bleecker,SKU-001,25,Indigo,8,2026-06-25,0,8,Skinny,jean
+Bleecker,SKU-001,25,Black,3,2026-06-27,0,3,Skinny,jean
+Bleecker,SKU-001,25,White,8,2026-06-29,0,8,Skinny,jean
+Bleecker,SKU-001,25,Stone Wash,6,2026-07-02,0,6,Skinny,jean
+Bleecker,SKU-001,25,Raw Denim,5,2026-06-30,0,5,Skinny,jean
+Bleecker,SKU-001,25,Vintage Blue,1,2026-06-28,0,1,Skinny,jean
+Bleecker,SKU-001,26,Indigo,0,2026-06-26,0,0,Skinny,jean
+Bleecker,SKU-001,26,Black,5,2026-06-23,0,5,Skinny,jean
+Bleecker,SKU-001,26,White,5,2026-06-28,0,5,Skinny,jean
+Bleecker,SKU-001,26,Stone Wash,1,2026-06-22,0,1,Skinny,jean
+Bleecker,SKU-001,26,Raw Denim,2,2026-06-23,0,2,Skinny,jean
+Bleecker,SKU-001,26,Vintage Blue,0,2026-07-05,0,0,Skinny,jean
+Bleecker,SKU-001,27,Indigo,8,2026-06-25,0,8,Skinny,jean
+Bleecker,SKU-001,27,Black,0,2026-06-29,0,0,Skinny,jean
+Bleecker,SKU-001,27,White,5,2026-06-25,0,5,Skinny,jean
+Bleecker,SKU-001,27,Stone Wash,0,2026-07-01,0,0,Skinny,jean
+Bleecker,SKU-001,27,Raw Denim,3,2026-06-28,0,3,Skinny,jean
+Bleecker,SKU-001,27,Vintage Blue,6,2026-06-30,0,6,Skinny,jean
+Bleecker,SKU-001,28,Indigo,0,2026-07-02,0,0,Skinny,jean
+Bleecker,SKU-001,28,Black,5,2026-06-24,0,5,Skinny,jean
+Bleecker,SKU-001,28,White,0,2026-07-05,0,0,Skinny,jean
+Bleecker,SKU-001,28,Stone Wash,2,2026-07-02,0,2,Skinny,jean
+Bleecker,SKU-001,28,Raw Denim,5,2026-06-22,0,5,Skinny,jean
+Bleecker,SKU-001,28,Vintage Blue,6,2026-07-03,0,6,Skinny,jean
+Bleecker,SKU-001,29,Indigo,1,2026-06-25,0,1,Skinny,jean
+Bleecker,SKU-001,29,Black,1,2026-06-25,0,1,Skinny,jean
+Bleecker,SKU-001,29,White,0,2026-07-04,0,0,Skinny,jean
+Bleecker,SKU-001,29,Stone Wash,1,2026-06-30,0,1,Skinny,jean
+Bleecker,SKU-001,29,Raw Denim,4,2026-06-27,0,4,Skinny,jean
+Bleecker,SKU-001,29,Vintage Blue,5,2026-07-04,0,5,Skinny,jean
+Bleecker,SKU-001,30,Indigo,5,2026-07-03,0,5,Skinny,jean
+Bleecker,SKU-001,30,Black,4,2026-06-25,0,4,Skinny,jean
+Bleecker,SKU-001,30,White,4,2026-06-23,0,4,Skinny,jean
+Bleecker,SKU-001,30,Stone Wash,9,2026-06-24,0,9,Skinny,jean
+Bleecker,SKU-001,30,Raw Denim,0,2026-06-22,0,0,Skinny,jean
+Bleecker,SKU-001,30,Vintage Blue,2,2026-07-04,0,2,Skinny,jean
+Bleecker,SKU-001,31,Indigo,6,2026-07-06,0,6,Skinny,jean
+Bleecker,SKU-001,31,Black,6,2026-07-06,0,6,Skinny,jean
+Bleecker,SKU-001,31,White,0,2026-07-03,0,0,Skinny,jean
+Bleecker,SKU-001,31,Stone Wash,4,2026-06-23,0,4,Skinny,jean
+Bleecker,SKU-001,31,Raw Denim,7,2026-07-06,0,7,Skinny,jean
+Bleecker,SKU-001,31,Vintage Blue,2,2026-07-02,0,2,Skinny,jean
+Bleecker,SKU-001,32,Indigo,2,2026-07-02,0,2,Skinny,jean
+Bleecker,SKU-001,32,Black,0,2026-06-22,0,0,Skinny,jean
+Bleecker,SKU-001,32,White,4,2026-06-22,0,4,Skinny,jean
+Bleecker,SKU-001,32,Stone Wash,0,2026-06-24,0,0,Skinny,jean
+Bleecker,SKU-001,32,Raw Denim,0,2026-06-23,0,0,Skinny,jean
+Bleecker,SKU-001,32,Vintage Blue,3,2026-06-26,0,3,Skinny,jean
+Bleecker,SKU-001,33,Indigo,3,2026-06-29,0,3,Skinny,jean
+Bleecker,SKU-001,33,Black,8,2026-06-26,0,8,Skinny,jean
+Bleecker,SKU-001,33,White,2,2026-07-02,0,2,Skinny,jean
+Bleecker,SKU-001,33,Stone Wash,0,2026-07-01,0,0,Skinny,jean
+Bleecker,SKU-001,33,Raw Denim,0,2026-07-03,0,0,Skinny,jean
+Bleecker,SKU-001,33,Vintage Blue,5,2026-06-27,0,5,Skinny,jean
+Bleecker,SKU-001,34,Indigo,4,2026-06-26,0,4,Skinny,jean
+Bleecker,SKU-001,34,Black,4,2026-06-23,0,4,Skinny,jean
+Bleecker,SKU-001,34,White,3,2026-06-26,0,3,Skinny,jean
+Bleecker,SKU-001,34,Stone Wash,0,2026-06-30,0,0,Skinny,jean
+Bleecker,SKU-001,34,Raw Denim,0,2026-06-26,0,0,Skinny,jean
+Bleecker,SKU-001,34,Vintage Blue,3,2026-06-29,0,3,Skinny,jean
+Bleecker,SKU-002,24,Indigo,3,2026-07-01,0,3,Straight,jean
+Bleecker,SKU-002,24,Black,0,2026-06-23,0,0,Straight,jean
+Bleecker,SKU-002,24,White,0,2026-06-30,0,0,Straight,jean
+Bleecker,SKU-002,24,Stone Wash,4,2026-06-23,0,4,Straight,jean
+Bleecker,SKU-002,24,Raw Denim,3,2026-07-06,0,3,Straight,jean
+Bleecker,SKU-002,24,Vintage Blue,11,2026-06-28,0,11,Straight,jean
+Bleecker,SKU-002,25,Indigo,3,2026-06-26,0,3,Straight,jean
+Bleecker,SKU-002,25,Black,3,2026-06-25,0,3,Straight,jean
+Bleecker,SKU-002,25,White,8,2026-07-04,0,8,Straight,jean
+Bleecker,SKU-002,25,Stone Wash,0,2026-06-27,0,0,Straight,jean
+Bleecker,SKU-002,25,Raw Denim,1,2026-07-01,0,1,Straight,jean
+Bleecker,SKU-002,25,Vintage Blue,4,2026-06-22,0,4,Straight,jean
+Bleecker,SKU-002,26,Indigo,4,2026-07-06,0,4,Straight,jean
+Bleecker,SKU-002,26,Black,6,2026-07-02,0,6,Straight,jean
+Bleecker,SKU-002,26,White,0,2026-06-29,0,0,Straight,jean
+Bleecker,SKU-002,26,Stone Wash,1,2026-06-28,0,1,Straight,jean
+Bleecker,SKU-002,26,Raw Denim,6,2026-06-29,0,6,Straight,jean
+Bleecker,SKU-002,26,Vintage Blue,6,2026-07-04,0,6,Straight,jean
+Bleecker,SKU-002,27,Indigo,1,2026-07-02,0,1,Straight,jean
+Bleecker,SKU-002,27,Black,4,2026-07-04,0,4,Straight,jean
+Bleecker,SKU-002,27,White,5,2026-06-26,0,5,Straight,jean
+Bleecker,SKU-002,27,Stone Wash,6,2026-06-25,0,6,Straight,jean
+Bleecker,SKU-002,27,Raw Denim,0,2026-06-30,0,0,Straight,jean
+Bleecker,SKU-002,27,Vintage Blue,1,2026-06-22,0,1,Straight,jean
+Bleecker,SKU-002,28,Indigo,0,2026-06-28,0,0,Straight,jean
+Bleecker,SKU-002,28,Black,0,2026-06-29,0,0,Straight,jean
+Bleecker,SKU-002,28,White,3,2026-06-28,0,3,Straight,jean
+Bleecker,SKU-002,28,Stone Wash,1,2026-06-30,1,2,Straight,jean
+Bleecker,SKU-002,28,Raw Denim,4,2026-07-06,0,4,Straight,jean
+Bleecker,SKU-002,28,Vintage Blue,1,2026-06-30,0,1,Straight,jean
+Bleecker,SKU-002,29,Indigo,4,2026-06-30,0,4,Straight,jean
+Bleecker,SKU-002,29,Black,1,2026-06-23,0,1,Straight,jean
+Bleecker,SKU-002,29,White,5,2026-07-06,0,5,Straight,jean
+Bleecker,SKU-002,29,Stone Wash,2,2026-07-03,0,2,Straight,jean
+Bleecker,SKU-002,29,Raw Denim,6,2026-07-02,0,6,Straight,jean
+Bleecker,SKU-002,29,Vintage Blue,8,2026-07-03,1,9,Straight,jean
+Bleecker,SKU-002,30,Indigo,4,2026-06-25,0,4,Straight,jean
+Bleecker,SKU-002,30,Black,3,2026-07-03,0,3,Straight,jean
+Bleecker,SKU-002,30,White,9,2026-07-03,0,9,Straight,jean
+Bleecker,SKU-002,30,Stone Wash,3,2026-07-03,0,3,Straight,jean
+Bleecker,SKU-002,30,Raw Denim,6,2026-07-05,0,6,Straight,jean
+Bleecker,SKU-002,30,Vintage Blue,0,2026-06-22,0,0,Straight,jean
+Bleecker,SKU-002,31,Indigo,8,2026-07-02,0,8,Straight,jean
+Bleecker,SKU-002,31,Black,7,2026-06-26,0,7,Straight,jean
+Bleecker,SKU-002,31,White,6,2026-06-28,0,6,Straight,jean
+Bleecker,SKU-002,31,Stone Wash,3,2026-06-28,0,3,Straight,jean
+Bleecker,SKU-002,31,Raw Denim,1,2026-07-01,0,1,Straight,jean
+Bleecker,SKU-002,31,Vintage Blue,6,2026-07-01,0,6,Straight,jean
+Bleecker,SKU-002,32,Indigo,5,2026-07-04,0,5,Straight,jean
+Bleecker,SKU-002,32,Black,5,2026-06-27,0,5,Straight,jean
+Bleecker,SKU-002,32,White,1,2026-07-02,0,1,Straight,jean
+Bleecker,SKU-002,32,Stone Wash,5,2026-07-03,0,5,Straight,jean
+Bleecker,SKU-002,32,Raw Denim,0,2026-07-02,0,0,Straight,jean
+Bleecker,SKU-002,32,Vintage Blue,5,2026-07-01,0,5,Straight,jean
+Bleecker,SKU-002,33,Indigo,0,2026-07-03,0,0,Straight,jean
+Bleecker,SKU-002,33,Black,5,2026-07-01,0,5,Straight,jean
+Bleecker,SKU-002,33,White,6,2026-06-27,0,6,Straight,jean
+Bleecker,SKU-002,33,Stone Wash,4,2026-06-22,0,4,Straight,jean
+Bleecker,SKU-002,33,Raw Denim,0,2026-06-29,0,0,Straight,jean
+Bleecker,SKU-002,33,Vintage Blue,2,2026-06-25,0,2,Straight,jean
+Bleecker,SKU-002,34,Indigo,7,2026-07-01,0,7,Straight,jean
+Bleecker,SKU-002,34,Black,1,2026-07-01,0,1,Straight,jean
+Bleecker,SKU-002,34,White,10,2026-06-22,0,10,Straight,jean
+Bleecker,SKU-002,34,Stone Wash,2,2026-06-27,0,2,Straight,jean
+Bleecker,SKU-002,34,Raw Denim,0,2026-06-26,0,0,Straight,jean
+Bleecker,SKU-002,34,Vintage Blue,6,2026-07-03,0,6,Straight,jean
+Bleecker,SKU-003,24,Indigo,4,2026-06-24,0,4,Bootcut,jean
+Bleecker,SKU-003,24,Black,0,2026-06-27,0,0,Bootcut,jean
+Bleecker,SKU-003,24,White,0,2026-06-28,0,0,Bootcut,jean
+Bleecker,SKU-003,24,Stone Wash,8,2026-06-30,0,8,Bootcut,jean
+Bleecker,SKU-003,24,Raw Denim,2,2026-06-26,0,2,Bootcut,jean
+Bleecker,SKU-003,24,Vintage Blue,2,2026-06-28,0,2,Bootcut,jean
+Bleecker,SKU-003,25,Indigo,5,2026-06-26,0,5,Bootcut,jean
+Bleecker,SKU-003,25,Black,2,2026-06-30,0,2,Bootcut,jean
+Bleecker,SKU-003,25,White,7,2026-06-27,0,7,Bootcut,jean
+Bleecker,SKU-003,25,Stone Wash,0,2026-06-27,0,0,Bootcut,jean
+Bleecker,SKU-003,25,Raw Denim,3,2026-06-24,0,3,Bootcut,jean
+Bleecker,SKU-003,25,Vintage Blue,0,2026-06-23,0,0,Bootcut,jean
+Bleecker,SKU-003,26,Indigo,6,2026-07-02,0,6,Bootcut,jean
+Bleecker,SKU-003,26,Black,1,2026-06-23,0,1,Bootcut,jean
+Bleecker,SKU-003,26,White,0,2026-06-26,0,0,Bootcut,jean
+Bleecker,SKU-003,26,Stone Wash,5,2026-06-29,0,5,Bootcut,jean
+Bleecker,SKU-003,26,Raw Denim,0,2026-06-27,0,0,Bootcut,jean
+Bleecker,SKU-003,26,Vintage Blue,6,2026-07-03,1,7,Bootcut,jean
+Bleecker,SKU-003,27,Indigo,0,2026-06-22,0,0,Bootcut,jean
+Bleecker,SKU-003,27,Black,7,2026-06-28,0,7,Bootcut,jean
+Bleecker,SKU-003,27,White,2,2026-06-23,0,2,Bootcut,jean
+Bleecker,SKU-003,27,Stone Wash,6,2026-07-01,0,6,Bootcut,jean
+Bleecker,SKU-003,27,Raw Denim,5,2026-06-27,0,5,Bootcut,jean
+Bleecker,SKU-003,27,Vintage Blue,0,2026-06-29,0,0,Bootcut,jean
+Bleecker,SKU-003,28,Indigo,4,2026-06-25,0,4,Bootcut,jean
+Bleecker,SKU-003,28,Black,6,2026-06-23,0,6,Bootcut,jean
+Bleecker,SKU-003,28,White,0,2026-07-05,0,0,Bootcut,jean
+Bleecker,SKU-003,28,Stone Wash,0,2026-06-23,0,0,Bootcut,jean
+Bleecker,SKU-003,28,Raw Denim,4,2026-06-22,0,4,Bootcut,jean
+Bleecker,SKU-003,28,Vintage Blue,2,2026-06-23,0,2,Bootcut,jean
+Bleecker,SKU-003,29,Indigo,6,2026-06-27,0,6,Bootcut,jean
+Bleecker,SKU-003,29,Black,0,2026-06-24,0,0,Bootcut,jean
+Bleecker,SKU-003,29,White,8,2026-06-27,0,8,Bootcut,jean
+Bleecker,SKU-003,29,Stone Wash,5,2026-07-01,0,5,Bootcut,jean
+Bleecker,SKU-003,29,Raw Denim,6,2026-06-23,0,6,Bootcut,jean
+Bleecker,SKU-003,29,Vintage Blue,0,2026-07-04,0,0,Bootcut,jean
+Bleecker,SKU-003,30,Indigo,4,2026-06-26,0,4,Bootcut,jean
+Bleecker,SKU-003,30,Black,1,2026-06-29,0,1,Bootcut,jean
+Bleecker,SKU-003,30,White,7,2026-07-05,0,7,Bootcut,jean
+Bleecker,SKU-003,30,Stone Wash,9,2026-06-24,0,9,Bootcut,jean
+Bleecker,SKU-003,30,Raw Denim,5,2026-07-05,0,5,Bootcut,jean
+Bleecker,SKU-003,30,Vintage Blue,1,2026-06-27,0,1,Bootcut,jean
+Bleecker,SKU-003,31,Indigo,5,2026-07-01,0,5,Bootcut,jean
+Bleecker,SKU-003,31,Black,4,2026-06-25,0,4,Bootcut,jean
+Bleecker,SKU-003,31,White,4,2026-07-02,0,4,Bootcut,jean
+Bleecker,SKU-003,31,Stone Wash,1,2026-06-23,0,1,Bootcut,jean
+Bleecker,SKU-003,31,Raw Denim,5,2026-06-25,0,5,Bootcut,jean
+Bleecker,SKU-003,31,Vintage Blue,3,2026-07-04,0,3,Bootcut,jean
+Bleecker,SKU-003,32,Indigo,4,2026-07-01,0,4,Bootcut,jean
+Bleecker,SKU-003,32,Black,4,2026-06-30,0,4,Bootcut,jean
+Bleecker,SKU-003,32,White,0,2026-07-03,0,0,Bootcut,jean
+Bleecker,SKU-003,32,Stone Wash,5,2026-06-27,0,5,Bootcut,jean
+Bleecker,SKU-003,32,Raw Denim,4,2026-07-06,0,4,Bootcut,jean
+Bleecker,SKU-003,32,Vintage Blue,7,2026-06-28,0,7,Bootcut,jean
+Bleecker,SKU-003,33,Indigo,4,2026-07-04,0,4,Bootcut,jean
+Bleecker,SKU-003,33,Black,5,2026-06-30,0,5,Bootcut,jean
+Bleecker,SKU-003,33,White,5,2026-06-28,0,5,Bootcut,jean
+Bleecker,SKU-003,33,Stone Wash,5,2026-07-05,0,5,Bootcut,jean
+Bleecker,SKU-003,33,Raw Denim,3,2026-07-06,0,3,Bootcut,jean
+Bleecker,SKU-003,33,Vintage Blue,3,2026-06-26,0,3,Bootcut,jean
+Bleecker,SKU-003,34,Indigo,0,2026-06-23,0,0,Bootcut,jean
+Bleecker,SKU-003,34,Black,3,2026-06-27,0,3,Bootcut,jean
+Bleecker,SKU-003,34,White,3,2026-07-05,0,3,Bootcut,jean
+Bleecker,SKU-003,34,Stone Wash,0,2026-06-26,0,0,Bootcut,jean
+Bleecker,SKU-003,34,Raw Denim,3,2026-07-04,0,3,Bootcut,jean
+Bleecker,SKU-003,34,Vintage Blue,5,2026-06-22,0,5,Bootcut,jean
+Bleecker,SKU-004,24,Indigo,2,2026-06-24,0,2,Wide Leg,jean
+Bleecker,SKU-004,24,Black,5,2026-07-01,0,5,Wide Leg,jean
+Bleecker,SKU-004,24,White,5,2026-07-06,0,5,Wide Leg,jean
+Bleecker,SKU-004,24,Stone Wash,4,2026-06-24,0,4,Wide Leg,jean
+Bleecker,SKU-004,24,Raw Denim,7,2026-06-25,0,7,Wide Leg,jean
+Bleecker,SKU-004,24,Vintage Blue,2,2026-06-23,0,2,Wide Leg,jean
+Bleecker,SKU-004,25,Indigo,3,2026-07-06,0,3,Wide Leg,jean
+Bleecker,SKU-004,25,Black,5,2026-06-23,0,5,Wide Leg,jean
+Bleecker,SKU-004,25,White,0,2026-06-27,0,0,Wide Leg,jean
+Bleecker,SKU-004,25,Stone Wash,0,2026-06-27,0,0,Wide Leg,jean
+Bleecker,SKU-004,25,Raw Denim,3,2026-07-02,0,3,Wide Leg,jean
+Bleecker,SKU-004,25,Vintage Blue,2,2026-07-02,0,2,Wide Leg,jean
+Bleecker,SKU-004,26,Indigo,10,2026-07-03,0,10,Wide Leg,jean
+Bleecker,SKU-004,26,Black,3,2026-07-05,0,3,Wide Leg,jean
+Bleecker,SKU-004,26,White,7,2026-06-29,0,7,Wide Leg,jean
+Bleecker,SKU-004,26,Stone Wash,4,2026-06-29,0,4,Wide Leg,jean
+Bleecker,SKU-004,26,Raw Denim,6,2026-07-03,0,6,Wide Leg,jean
+Bleecker,SKU-004,26,Vintage Blue,5,2026-06-26,1,6,Wide Leg,jean
+Bleecker,SKU-004,27,Indigo,1,2026-06-22,0,1,Wide Leg,jean
+Bleecker,SKU-004,27,Black,7,2026-07-04,0,7,Wide Leg,jean
+Bleecker,SKU-004,27,White,3,2026-06-26,0,3,Wide Leg,jean
+Bleecker,SKU-004,27,Stone Wash,0,2026-06-26,0,0,Wide Leg,jean
+Bleecker,SKU-004,27,Raw Denim,4,2026-07-01,0,4,Wide Leg,jean
+Bleecker,SKU-004,27,Vintage Blue,6,2026-07-02,0,6,Wide Leg,jean
+Bleecker,SKU-004,28,Indigo,2,2026-07-04,0,2,Wide Leg,jean
+Bleecker,SKU-004,28,Black,3,2026-06-29,0,3,Wide Leg,jean
+Bleecker,SKU-004,28,White,0,2026-07-01,0,0,Wide Leg,jean
+Bleecker,SKU-004,28,Stone Wash,9,2026-07-01,0,9,Wide Leg,jean
+Bleecker,SKU-004,28,Raw Denim,0,2026-07-02,0,0,Wide Leg,jean
+Bleecker,SKU-004,28,Vintage Blue,9,2026-06-29,0,9,Wide Leg,jean
+Bleecker,SKU-004,29,Indigo,5,2026-06-30,0,5,Wide Leg,jean
+Bleecker,SKU-004,29,Black,2,2026-06-30,0,2,Wide Leg,jean
+Bleecker,SKU-004,29,White,1,2026-06-26,1,2,Wide Leg,jean
+Bleecker,SKU-004,29,Stone Wash,4,2026-07-03,0,4,Wide Leg,jean
+Bleecker,SKU-004,29,Raw Denim,0,2026-06-27,0,0,Wide Leg,jean
+Bleecker,SKU-004,29,Vintage Blue,0,2026-06-25,0,0,Wide Leg,jean
+Bleecker,SKU-004,30,Indigo,6,2026-07-04,0,6,Wide Leg,jean
+Bleecker,SKU-004,30,Black,0,2026-06-29,0,0,Wide Leg,jean
+Bleecker,SKU-004,30,White,2,2026-07-05,0,2,Wide Leg,jean
+Bleecker,SKU-004,30,Stone Wash,0,2026-07-01,0,0,Wide Leg,jean
+Bleecker,SKU-004,30,Raw Denim,7,2026-07-03,0,7,Wide Leg,jean
+Bleecker,SKU-004,30,Vintage Blue,5,2026-06-22,0,5,Wide Leg,jean
+Bleecker,SKU-004,31,Indigo,3,2026-06-26,0,3,Wide Leg,jean
+Bleecker,SKU-004,31,Black,9,2026-07-03,0,9,Wide Leg,jean
+Bleecker,SKU-004,31,White,0,2026-06-29,0,0,Wide Leg,jean
+Bleecker,SKU-004,31,Stone Wash,2,2026-06-27,0,2,Wide Leg,jean
+Bleecker,SKU-004,31,Raw Denim,5,2026-06-27,0,5,Wide Leg,jean
+Bleecker,SKU-004,31,Vintage Blue,0,2026-06-26,0,0,Wide Leg,jean
+Bleecker,SKU-004,32,Indigo,6,2026-06-22,0,6,Wide Leg,jean
+Bleecker,SKU-004,32,Black,1,2026-07-02,0,1,Wide Leg,jean
+Bleecker,SKU-004,32,White,4,2026-07-03,0,4,Wide Leg,jean
+Bleecker,SKU-004,32,Stone Wash,0,2026-06-25,0,0,Wide Leg,jean
+Bleecker,SKU-004,32,Raw Denim,6,2026-06-23,0,6,Wide Leg,jean
+Bleecker,SKU-004,32,Vintage Blue,0,2026-07-04,0,0,Wide Leg,jean
+Bleecker,SKU-004,33,Indigo,0,2026-07-06,0,0,Wide Leg,jean
+Bleecker,SKU-004,33,Black,1,2026-07-03,0,1,Wide Leg,jean
+Bleecker,SKU-004,33,White,2,2026-06-27,0,2,Wide Leg,jean
+Bleecker,SKU-004,33,Stone Wash,3,2026-07-05,0,3,Wide Leg,jean
+Bleecker,SKU-004,33,Raw Denim,5,2026-06-27,0,5,Wide Leg,jean
+Bleecker,SKU-004,33,Vintage Blue,6,2026-07-03,0,6,Wide Leg,jean
+Bleecker,SKU-004,34,Indigo,0,2026-07-01,0,0,Wide Leg,jean
+Bleecker,SKU-004,34,Black,1,2026-06-29,0,1,Wide Leg,jean
+Bleecker,SKU-004,34,White,2,2026-07-02,0,2,Wide Leg,jean
+Bleecker,SKU-004,34,Stone Wash,2,2026-06-24,0,2,Wide Leg,jean
+Bleecker,SKU-004,34,Raw Denim,5,2026-07-05,0,5,Wide Leg,jean
+Bleecker,SKU-004,34,Vintage Blue,8,2026-06-30,0,8,Wide Leg,jean
+Bleecker,SKU-005,24,Indigo,5,2026-07-04,0,5,Slim Straight,jean
+Bleecker,SKU-005,24,Black,2,2026-07-06,0,2,Slim Straight,jean
+Bleecker,SKU-005,24,White,5,2026-06-23,0,5,Slim Straight,jean
+Bleecker,SKU-005,24,Stone Wash,0,2026-06-26,0,0,Slim Straight,jean
+Bleecker,SKU-005,24,Raw Denim,3,2026-07-05,0,3,Slim Straight,jean
+Bleecker,SKU-005,24,Vintage Blue,0,2026-07-06,0,0,Slim Straight,jean
+Bleecker,SKU-005,25,Indigo,5,2026-07-02,0,5,Slim Straight,jean
+Bleecker,SKU-005,25,Black,3,2026-07-03,0,3,Slim Straight,jean
+Bleecker,SKU-005,25,White,0,2026-06-30,0,0,Slim Straight,jean
+Bleecker,SKU-005,25,Stone Wash,7,2026-07-02,0,7,Slim Straight,jean
+Bleecker,SKU-005,25,Raw Denim,2,2026-07-04,0,2,Slim Straight,jean
+Bleecker,SKU-005,25,Vintage Blue,5,2026-06-25,0,5,Slim Straight,jean
+Bleecker,SKU-005,26,Indigo,4,2026-06-30,0,4,Slim Straight,jean
+Bleecker,SKU-005,26,Black,0,2026-06-27,0,0,Slim Straight,jean
+Bleecker,SKU-005,26,White,4,2026-06-25,0,4,Slim Straight,jean
+Bleecker,SKU-005,26,Stone Wash,4,2026-06-24,0,4,Slim Straight,jean
+Bleecker,SKU-005,26,Raw Denim,8,2026-06-26,0,8,Slim Straight,jean
+Bleecker,SKU-005,26,Vintage Blue,2,2026-07-06,0,2,Slim Straight,jean
+Bleecker,SKU-005,27,Indigo,1,2026-06-22,0,1,Slim Straight,jean
+Bleecker,SKU-005,27,Black,3,2026-06-22,0,3,Slim Straight,jean
+Bleecker,SKU-005,27,White,6,2026-06-28,0,6,Slim Straight,jean
+Bleecker,SKU-005,27,Stone Wash,2,2026-07-03,0,2,Slim Straight,jean
+Bleecker,SKU-005,27,Raw Denim,2,2026-07-06,0,2,Slim Straight,jean
+Bleecker,SKU-005,27,Vintage Blue,6,2026-06-23,0,6,Slim Straight,jean
+Bleecker,SKU-005,28,Indigo,0,2026-06-22,0,0,Slim Straight,jean
+Bleecker,SKU-005,28,Black,0,2026-06-29,0,0,Slim Straight,jean
+Bleecker,SKU-005,28,White,5,2026-06-29,0,5,Slim Straight,jean
+Bleecker,SKU-005,28,Stone Wash,2,2026-07-05,0,2,Slim Straight,jean
+Bleecker,SKU-005,28,Raw Denim,9,2026-07-03,0,9,Slim Straight,jean
+Bleecker,SKU-005,28,Vintage Blue,5,2026-06-28,0,5,Slim Straight,jean
+Bleecker,SKU-005,29,Indigo,3,2026-07-06,0,3,Slim Straight,jean
+Bleecker,SKU-005,29,Black,1,2026-07-06,0,1,Slim Straight,jean
+Bleecker,SKU-005,29,White,0,2026-06-26,0,0,Slim Straight,jean
+Bleecker,SKU-005,29,Stone Wash,0,2026-06-30,0,0,Slim Straight,jean
+Bleecker,SKU-005,29,Raw Denim,5,2026-07-01,0,5,Slim Straight,jean
+Bleecker,SKU-005,29,Vintage Blue,11,2026-06-28,0,11,Slim Straight,jean
+Bleecker,SKU-005,30,Indigo,3,2026-06-29,0,3,Slim Straight,jean
+Bleecker,SKU-005,30,Black,0,2026-06-22,0,0,Slim Straight,jean
+Bleecker,SKU-005,30,White,0,2026-06-30,0,0,Slim Straight,jean
+Bleecker,SKU-005,30,Stone Wash,4,2026-07-01,0,4,Slim Straight,jean
+Bleecker,SKU-005,30,Raw Denim,2,2026-07-04,0,2,Slim Straight,jean
+Bleecker,SKU-005,30,Vintage Blue,3,2026-06-28,0,3,Slim Straight,jean
+Bleecker,SKU-005,31,Indigo,0,2026-06-26,0,0,Slim Straight,jean
+Bleecker,SKU-005,31,Black,0,2026-07-06,0,0,Slim Straight,jean
+Bleecker,SKU-005,31,White,3,2026-06-30,0,3,Slim Straight,jean
+Bleecker,SKU-005,31,Stone Wash,5,2026-06-26,0,5,Slim Straight,jean
+Bleecker,SKU-005,31,Raw Denim,3,2026-07-02,0,3,Slim Straight,jean
+Bleecker,SKU-005,31,Vintage Blue,5,2026-06-23,0,5,Slim Straight,jean
+Bleecker,SKU-005,32,Indigo,0,2026-06-24,0,0,Slim Straight,jean
+Bleecker,SKU-005,32,Black,6,2026-06-26,0,6,Slim Straight,jean
+Bleecker,SKU-005,32,White,0,2026-07-02,0,0,Slim Straight,jean
+Bleecker,SKU-005,32,Stone Wash,6,2026-06-23,0,6,Slim Straight,jean
+Bleecker,SKU-005,32,Raw Denim,3,2026-06-25,0,3,Slim Straight,jean
+Bleecker,SKU-005,32,Vintage Blue,0,2026-06-30,0,0,Slim Straight,jean
+Bleecker,SKU-005,33,Indigo,3,2026-06-29,0,3,Slim Straight,jean
+Bleecker,SKU-005,33,Black,0,2026-07-01,0,0,Slim Straight,jean
+Bleecker,SKU-005,33,White,0,2026-06-24,0,0,Slim Straight,jean
+Bleecker,SKU-005,33,Stone Wash,3,2026-07-05,0,3,Slim Straight,jean
+Bleecker,SKU-005,33,Raw Denim,4,2026-07-05,0,4,Slim Straight,jean
+Bleecker,SKU-005,33,Vintage Blue,0,2026-06-24,0,0,Slim Straight,jean
+Bleecker,SKU-005,34,Indigo,2,2026-06-30,0,2,Slim Straight,jean
+Bleecker,SKU-005,34,Black,0,2026-06-27,0,0,Slim Straight,jean
+Bleecker,SKU-005,34,White,2,2026-06-23,0,2,Slim Straight,jean
+Bleecker,SKU-005,34,Stone Wash,0,2026-06-27,0,0,Slim Straight,jean
+Bleecker,SKU-005,34,Raw Denim,0,2026-07-01,0,0,Slim Straight,jean
+Bleecker,SKU-005,34,Vintage Blue,6,2026-06-24,0,6,Slim Straight,jean
+Bleecker,SKU-006,24,Indigo,2,2026-06-22,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,24,Black,3,2026-06-26,0,3,High-Rise Skinny,jean
+Bleecker,SKU-006,24,White,9,2026-07-03,0,9,High-Rise Skinny,jean
+Bleecker,SKU-006,24,Stone Wash,0,2026-06-25,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,24,Raw Denim,4,2026-07-04,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,24,Vintage Blue,8,2026-07-04,0,8,High-Rise Skinny,jean
+Bleecker,SKU-006,25,Indigo,0,2026-07-02,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,25,Black,2,2026-06-28,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,25,White,3,2026-07-06,0,3,High-Rise Skinny,jean
+Bleecker,SKU-006,25,Stone Wash,5,2026-06-27,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,25,Raw Denim,7,2026-07-04,0,7,High-Rise Skinny,jean
+Bleecker,SKU-006,25,Vintage Blue,10,2026-07-01,0,10,High-Rise Skinny,jean
+Bleecker,SKU-006,26,Indigo,5,2026-07-01,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,26,Black,4,2026-06-29,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,26,White,7,2026-06-23,0,7,High-Rise Skinny,jean
+Bleecker,SKU-006,26,Stone Wash,1,2026-06-25,0,1,High-Rise Skinny,jean
+Bleecker,SKU-006,26,Raw Denim,4,2026-07-03,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,26,Vintage Blue,7,2026-06-29,0,7,High-Rise Skinny,jean
+Bleecker,SKU-006,27,Indigo,2,2026-07-05,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,27,Black,4,2026-07-02,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,27,White,5,2026-07-03,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,27,Stone Wash,5,2026-07-06,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,27,Raw Denim,5,2026-07-06,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,27,Vintage Blue,8,2026-06-28,0,8,High-Rise Skinny,jean
+Bleecker,SKU-006,28,Indigo,8,2026-07-04,0,8,High-Rise Skinny,jean
+Bleecker,SKU-006,28,Black,5,2026-07-04,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,28,White,2,2026-07-06,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,28,Stone Wash,2,2026-06-27,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,28,Raw Denim,4,2026-06-24,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,28,Vintage Blue,0,2026-07-04,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,29,Indigo,0,2026-07-03,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,29,Black,11,2026-06-27,0,11,High-Rise Skinny,jean
+Bleecker,SKU-006,29,White,5,2026-07-01,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,29,Stone Wash,6,2026-07-06,0,6,High-Rise Skinny,jean
+Bleecker,SKU-006,29,Raw Denim,11,2026-06-26,0,11,High-Rise Skinny,jean
+Bleecker,SKU-006,29,Vintage Blue,8,2026-06-22,0,8,High-Rise Skinny,jean
+Bleecker,SKU-006,30,Indigo,2,2026-07-04,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,30,Black,6,2026-06-28,0,6,High-Rise Skinny,jean
+Bleecker,SKU-006,30,White,3,2026-06-30,0,3,High-Rise Skinny,jean
+Bleecker,SKU-006,30,Stone Wash,6,2026-06-26,0,6,High-Rise Skinny,jean
+Bleecker,SKU-006,30,Raw Denim,1,2026-07-01,0,1,High-Rise Skinny,jean
+Bleecker,SKU-006,30,Vintage Blue,0,2026-07-03,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,31,Indigo,0,2026-06-29,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,31,Black,0,2026-06-28,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,31,White,7,2026-06-26,0,7,High-Rise Skinny,jean
+Bleecker,SKU-006,31,Stone Wash,1,2026-07-02,0,1,High-Rise Skinny,jean
+Bleecker,SKU-006,31,Raw Denim,3,2026-06-26,0,3,High-Rise Skinny,jean
+Bleecker,SKU-006,31,Vintage Blue,0,2026-06-27,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,32,Indigo,10,2026-06-29,0,10,High-Rise Skinny,jean
+Bleecker,SKU-006,32,Black,4,2026-06-28,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,32,White,4,2026-06-30,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,32,Stone Wash,5,2026-06-30,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,32,Raw Denim,1,2026-06-28,0,1,High-Rise Skinny,jean
+Bleecker,SKU-006,32,Vintage Blue,5,2026-07-03,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,33,Indigo,0,2026-07-06,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,33,Black,5,2026-06-26,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,33,White,7,2026-07-03,0,7,High-Rise Skinny,jean
+Bleecker,SKU-006,33,Stone Wash,2,2026-06-28,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,33,Raw Denim,2,2026-06-26,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,33,Vintage Blue,4,2026-06-25,0,4,High-Rise Skinny,jean
+Bleecker,SKU-006,34,Indigo,0,2026-06-28,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,34,Black,7,2026-07-01,0,7,High-Rise Skinny,jean
+Bleecker,SKU-006,34,White,2,2026-06-24,0,2,High-Rise Skinny,jean
+Bleecker,SKU-006,34,Stone Wash,5,2026-06-26,0,5,High-Rise Skinny,jean
+Bleecker,SKU-006,34,Raw Denim,0,2026-06-24,0,0,High-Rise Skinny,jean
+Bleecker,SKU-006,34,Vintage Blue,5,2026-07-04,0,5,High-Rise Skinny,jean
+Bleecker,SKU-007,24,Indigo,0,2026-06-23,0,0,Mom Jean,jean
+Bleecker,SKU-007,24,Black,6,2026-07-04,0,6,Mom Jean,jean
+Bleecker,SKU-007,24,White,5,2026-07-04,0,5,Mom Jean,jean
+Bleecker,SKU-007,24,Stone Wash,9,2026-07-01,0,9,Mom Jean,jean
+Bleecker,SKU-007,24,Raw Denim,0,2026-06-29,0,0,Mom Jean,jean
+Bleecker,SKU-007,24,Vintage Blue,5,2026-07-03,0,5,Mom Jean,jean
+Bleecker,SKU-007,25,Indigo,1,2026-06-23,0,1,Mom Jean,jean
+Bleecker,SKU-007,25,Black,1,2026-06-22,0,1,Mom Jean,jean
+Bleecker,SKU-007,25,White,0,2026-06-25,0,0,Mom Jean,jean
+Bleecker,SKU-007,25,Stone Wash,5,2026-06-27,0,5,Mom Jean,jean
+Bleecker,SKU-007,25,Raw Denim,2,2026-07-06,0,2,Mom Jean,jean
+Bleecker,SKU-007,25,Vintage Blue,0,2026-06-25,0,0,Mom Jean,jean
+Bleecker,SKU-007,26,Indigo,2,2026-07-03,0,2,Mom Jean,jean
+Bleecker,SKU-007,26,Black,0,2026-06-24,0,0,Mom Jean,jean
+Bleecker,SKU-007,26,White,2,2026-06-26,0,2,Mom Jean,jean
+Bleecker,SKU-007,26,Stone Wash,1,2026-07-02,0,1,Mom Jean,jean
+Bleecker,SKU-007,26,Raw Denim,9,2026-06-30,0,9,Mom Jean,jean
+Bleecker,SKU-007,26,Vintage Blue,0,2026-06-30,0,0,Mom Jean,jean
+Bleecker,SKU-007,27,Indigo,5,2026-06-22,0,5,Mom Jean,jean
+Bleecker,SKU-007,27,Black,5,2026-07-02,0,5,Mom Jean,jean
+Bleecker,SKU-007,27,White,0,2026-07-05,0,0,Mom Jean,jean
+Bleecker,SKU-007,27,Stone Wash,0,2026-06-28,0,0,Mom Jean,jean
+Bleecker,SKU-007,27,Raw Denim,6,2026-06-28,0,6,Mom Jean,jean
+Bleecker,SKU-007,27,Vintage Blue,4,2026-06-30,0,4,Mom Jean,jean
+Bleecker,SKU-007,28,Indigo,6,2026-06-30,0,6,Mom Jean,jean
+Bleecker,SKU-007,28,Black,8,2026-06-24,0,8,Mom Jean,jean
+Bleecker,SKU-007,28,White,3,2026-06-28,0,3,Mom Jean,jean
+Bleecker,SKU-007,28,Stone Wash,0,2026-06-29,0,0,Mom Jean,jean
+Bleecker,SKU-007,28,Raw Denim,7,2026-07-04,0,7,Mom Jean,jean
+Bleecker,SKU-007,28,Vintage Blue,2,2026-07-02,0,2,Mom Jean,jean
+Bleecker,SKU-007,29,Indigo,7,2026-07-02,0,7,Mom Jean,jean
+Bleecker,SKU-007,29,Black,2,2026-06-22,0,2,Mom Jean,jean
+Bleecker,SKU-007,29,White,5,2026-06-22,0,5,Mom Jean,jean
+Bleecker,SKU-007,29,Stone Wash,3,2026-06-24,0,3,Mom Jean,jean
+Bleecker,SKU-007,29,Raw Denim,3,2026-06-27,0,3,Mom Jean,jean
+Bleecker,SKU-007,29,Vintage Blue,0,2026-07-01,0,0,Mom Jean,jean
+Bleecker,SKU-007,30,Indigo,10,2026-06-27,0,10,Mom Jean,jean
+Bleecker,SKU-007,30,Black,7,2026-06-25,0,7,Mom Jean,jean
+Bleecker,SKU-007,30,White,1,2026-07-03,0,1,Mom Jean,jean
+Bleecker,SKU-007,30,Stone Wash,8,2026-06-26,0,8,Mom Jean,jean
+Bleecker,SKU-007,30,Raw Denim,3,2026-06-28,0,3,Mom Jean,jean
+Bleecker,SKU-007,30,Vintage Blue,4,2026-06-28,0,4,Mom Jean,jean
+Bleecker,SKU-007,31,Indigo,4,2026-06-23,0,4,Mom Jean,jean
+Bleecker,SKU-007,31,Black,7,2026-07-05,0,7,Mom Jean,jean
+Bleecker,SKU-007,31,White,0,2026-07-05,0,0,Mom Jean,jean
+Bleecker,SKU-007,31,Stone Wash,2,2026-06-30,0,2,Mom Jean,jean
+Bleecker,SKU-007,31,Raw Denim,1,2026-06-29,0,1,Mom Jean,jean
+Bleecker,SKU-007,31,Vintage Blue,2,2026-06-30,0,2,Mom Jean,jean
+Bleecker,SKU-007,32,Indigo,0,2026-06-26,0,0,Mom Jean,jean
+Bleecker,SKU-007,32,Black,0,2026-06-23,0,0,Mom Jean,jean
+Bleecker,SKU-007,32,White,4,2026-06-29,0,4,Mom Jean,jean
+Bleecker,SKU-007,32,Stone Wash,1,2026-06-27,0,1,Mom Jean,jean
+Bleecker,SKU-007,32,Raw Denim,5,2026-06-27,0,5,Mom Jean,jean
+Bleecker,SKU-007,32,Vintage Blue,3,2026-06-28,0,3,Mom Jean,jean
+Bleecker,SKU-007,33,Indigo,3,2026-06-26,0,3,Mom Jean,jean
+Bleecker,SKU-007,33,Black,2,2026-06-22,0,2,Mom Jean,jean
+Bleecker,SKU-007,33,White,7,2026-07-06,0,7,Mom Jean,jean
+Bleecker,SKU-007,33,Stone Wash,9,2026-07-05,0,9,Mom Jean,jean
+Bleecker,SKU-007,33,Raw Denim,2,2026-06-24,0,2,Mom Jean,jean
+Bleecker,SKU-007,33,Vintage Blue,4,2026-07-01,0,4,Mom Jean,jean
+Bleecker,SKU-007,34,Indigo,3,2026-07-04,0,3,Mom Jean,jean
+Bleecker,SKU-007,34,Black,3,2026-07-03,0,3,Mom Jean,jean
+Bleecker,SKU-007,34,White,0,2026-07-03,0,0,Mom Jean,jean
+Bleecker,SKU-007,34,Stone Wash,2,2026-07-05,0,2,Mom Jean,jean
+Bleecker,SKU-007,34,Raw Denim,5,2026-06-23,0,5,Mom Jean,jean
+Bleecker,SKU-007,34,Vintage Blue,2,2026-06-30,0,2,Mom Jean,jean
+Bleecker,SKU-008,24,Indigo,0,2026-06-26,0,0,Boyfriend,jean
+Bleecker,SKU-008,24,Black,0,2026-07-05,0,0,Boyfriend,jean
+Bleecker,SKU-008,24,White,3,2026-06-28,0,3,Boyfriend,jean
+Bleecker,SKU-008,24,Stone Wash,3,2026-07-04,0,3,Boyfriend,jean
+Bleecker,SKU-008,24,Raw Denim,6,2026-07-04,0,6,Boyfriend,jean
+Bleecker,SKU-008,24,Vintage Blue,5,2026-07-03,0,5,Boyfriend,jean
+Bleecker,SKU-008,25,Indigo,6,2026-06-30,0,6,Boyfriend,jean
+Bleecker,SKU-008,25,Black,6,2026-06-29,0,6,Boyfriend,jean
+Bleecker,SKU-008,25,White,5,2026-07-04,0,5,Boyfriend,jean
+Bleecker,SKU-008,25,Stone Wash,8,2026-06-27,0,8,Boyfriend,jean
+Bleecker,SKU-008,25,Raw Denim,3,2026-06-23,0,3,Boyfriend,jean
+Bleecker,SKU-008,25,Vintage Blue,3,2026-07-03,0,3,Boyfriend,jean
+Bleecker,SKU-008,26,Indigo,7,2026-06-29,0,7,Boyfriend,jean
+Bleecker,SKU-008,26,Black,6,2026-06-26,0,6,Boyfriend,jean
+Bleecker,SKU-008,26,White,0,2026-06-25,0,0,Boyfriend,jean
+Bleecker,SKU-008,26,Stone Wash,9,2026-06-25,0,9,Boyfriend,jean
+Bleecker,SKU-008,26,Raw Denim,8,2026-06-25,0,8,Boyfriend,jean
+Bleecker,SKU-008,26,Vintage Blue,3,2026-07-05,0,3,Boyfriend,jean
+Bleecker,SKU-008,27,Indigo,1,2026-06-24,0,1,Boyfriend,jean
+Bleecker,SKU-008,27,Black,0,2026-06-25,0,0,Boyfriend,jean
+Bleecker,SKU-008,27,White,6,2026-06-23,1,7,Boyfriend,jean
+Bleecker,SKU-008,27,Stone Wash,5,2026-07-01,0,5,Boyfriend,jean
+Bleecker,SKU-008,27,Raw Denim,6,2026-06-23,0,6,Boyfriend,jean
+Bleecker,SKU-008,27,Vintage Blue,0,2026-06-24,0,0,Boyfriend,jean
+Bleecker,SKU-008,28,Indigo,4,2026-07-02,0,4,Boyfriend,jean
+Bleecker,SKU-008,28,Black,5,2026-06-28,0,5,Boyfriend,jean
+Bleecker,SKU-008,28,White,4,2026-06-24,0,4,Boyfriend,jean
+Bleecker,SKU-008,28,Stone Wash,12,2026-06-23,0,12,Boyfriend,jean
+Bleecker,SKU-008,28,Raw Denim,0,2026-07-05,0,0,Boyfriend,jean
+Bleecker,SKU-008,28,Vintage Blue,3,2026-07-01,0,3,Boyfriend,jean
+Bleecker,SKU-008,29,Indigo,5,2026-06-25,0,5,Boyfriend,jean
+Bleecker,SKU-008,29,Black,2,2026-06-29,0,2,Boyfriend,jean
+Bleecker,SKU-008,29,White,2,2026-07-05,0,2,Boyfriend,jean
+Bleecker,SKU-008,29,Stone Wash,7,2026-06-29,0,7,Boyfriend,jean
+Bleecker,SKU-008,29,Raw Denim,4,2026-06-25,0,4,Boyfriend,jean
+Bleecker,SKU-008,29,Vintage Blue,3,2026-06-25,0,3,Boyfriend,jean
+Bleecker,SKU-008,30,Indigo,3,2026-06-29,0,3,Boyfriend,jean
+Bleecker,SKU-008,30,Black,3,2026-07-04,0,3,Boyfriend,jean
+Bleecker,SKU-008,30,White,1,2026-07-06,0,1,Boyfriend,jean
+Bleecker,SKU-008,30,Stone Wash,3,2026-06-23,0,3,Boyfriend,jean
+Bleecker,SKU-008,30,Raw Denim,3,2026-07-03,0,3,Boyfriend,jean
+Bleecker,SKU-008,30,Vintage Blue,4,2026-06-26,0,4,Boyfriend,jean
+Bleecker,SKU-008,31,Indigo,8,2026-07-06,0,8,Boyfriend,jean
+Bleecker,SKU-008,31,Black,3,2026-06-23,0,3,Boyfriend,jean
+Bleecker,SKU-008,31,White,8,2026-07-03,0,8,Boyfriend,jean
+Bleecker,SKU-008,31,Stone Wash,0,2026-07-02,0,0,Boyfriend,jean
+Bleecker,SKU-008,31,Raw Denim,0,2026-07-05,0,0,Boyfriend,jean
+Bleecker,SKU-008,31,Vintage Blue,0,2026-07-04,0,0,Boyfriend,jean
+Bleecker,SKU-008,32,Indigo,4,2026-06-30,0,4,Boyfriend,jean
+Bleecker,SKU-008,32,Black,1,2026-06-26,0,1,Boyfriend,jean
+Bleecker,SKU-008,32,White,3,2026-06-23,0,3,Boyfriend,jean
+Bleecker,SKU-008,32,Stone Wash,2,2026-06-27,0,2,Boyfriend,jean
+Bleecker,SKU-008,32,Raw Denim,4,2026-07-02,0,4,Boyfriend,jean
+Bleecker,SKU-008,32,Vintage Blue,1,2026-06-25,0,1,Boyfriend,jean
+Bleecker,SKU-008,33,Indigo,5,2026-06-26,0,5,Boyfriend,jean
+Bleecker,SKU-008,33,Black,4,2026-06-25,0,4,Boyfriend,jean
+Bleecker,SKU-008,33,White,3,2026-06-29,0,3,Boyfriend,jean
+Bleecker,SKU-008,33,Stone Wash,1,2026-06-30,0,1,Boyfriend,jean
+Bleecker,SKU-008,33,Raw Denim,4,2026-06-23,0,4,Boyfriend,jean
+Bleecker,SKU-008,33,Vintage Blue,4,2026-07-06,0,4,Boyfriend,jean
+Bleecker,SKU-008,34,Indigo,4,2026-07-05,0,4,Boyfriend,jean
+Bleecker,SKU-008,34,Black,2,2026-07-05,0,2,Boyfriend,jean
+Bleecker,SKU-008,34,White,0,2026-06-25,0,0,Boyfriend,jean
+Bleecker,SKU-008,34,Stone Wash,4,2026-07-02,0,4,Boyfriend,jean
+Bleecker,SKU-008,34,Raw Denim,7,2026-06-25,0,7,Boyfriend,jean
+Bleecker,SKU-008,34,Vintage Blue,9,2026-07-03,0,9,Boyfriend,jean
+Bleecker,SKU-009,24,Indigo,4,2026-06-26,0,4,Cropped Straight,jean
+Bleecker,SKU-009,24,Black,6,2026-07-06,0,6,Cropped Straight,jean
+Bleecker,SKU-009,24,White,7,2026-06-30,0,7,Cropped Straight,jean
+Bleecker,SKU-009,24,Stone Wash,6,2026-06-29,0,6,Cropped Straight,jean
+Bleecker,SKU-009,24,Raw Denim,2,2026-06-30,0,2,Cropped Straight,jean
+Bleecker,SKU-009,24,Vintage Blue,3,2026-06-22,0,3,Cropped Straight,jean
+Bleecker,SKU-009,25,Indigo,0,2026-06-28,0,0,Cropped Straight,jean
+Bleecker,SKU-009,25,Black,4,2026-06-30,0,4,Cropped Straight,jean
+Bleecker,SKU-009,25,White,2,2026-07-06,0,2,Cropped Straight,jean
+Bleecker,SKU-009,25,Stone Wash,0,2026-07-04,0,0,Cropped Straight,jean
+Bleecker,SKU-009,25,Raw Denim,2,2026-06-28,0,2,Cropped Straight,jean
+Bleecker,SKU-009,25,Vintage Blue,5,2026-06-30,0,5,Cropped Straight,jean
+Bleecker,SKU-009,26,Indigo,7,2026-06-30,0,7,Cropped Straight,jean
+Bleecker,SKU-009,26,Black,0,2026-06-29,1,1,Cropped Straight,jean
+Bleecker,SKU-009,26,White,3,2026-07-04,0,3,Cropped Straight,jean
+Bleecker,SKU-009,26,Stone Wash,4,2026-07-06,0,4,Cropped Straight,jean
+Bleecker,SKU-009,26,Raw Denim,1,2026-06-29,0,1,Cropped Straight,jean
+Bleecker,SKU-009,26,Vintage Blue,1,2026-06-26,0,1,Cropped Straight,jean
+Bleecker,SKU-009,27,Indigo,6,2026-07-03,0,6,Cropped Straight,jean
+Bleecker,SKU-009,27,Black,0,2026-06-26,0,0,Cropped Straight,jean
+Bleecker,SKU-009,27,White,5,2026-06-26,0,5,Cropped Straight,jean
+Bleecker,SKU-009,27,Stone Wash,1,2026-07-06,0,1,Cropped Straight,jean
+Bleecker,SKU-009,27,Raw Denim,2,2026-06-27,0,2,Cropped Straight,jean
+Bleecker,SKU-009,27,Vintage Blue,5,2026-06-28,0,5,Cropped Straight,jean
+Bleecker,SKU-009,28,Indigo,3,2026-06-26,0,3,Cropped Straight,jean
+Bleecker,SKU-009,28,Black,4,2026-07-01,0,4,Cropped Straight,jean
+Bleecker,SKU-009,28,White,6,2026-07-01,0,6,Cropped Straight,jean
+Bleecker,SKU-009,28,Stone Wash,3,2026-07-06,0,3,Cropped Straight,jean
+Bleecker,SKU-009,28,Raw Denim,0,2026-07-04,0,0,Cropped Straight,jean
+Bleecker,SKU-009,28,Vintage Blue,2,2026-06-28,0,2,Cropped Straight,jean
+Bleecker,SKU-009,29,Indigo,1,2026-06-29,0,1,Cropped Straight,jean
+Bleecker,SKU-009,29,Black,10,2026-07-06,0,10,Cropped Straight,jean
+Bleecker,SKU-009,29,White,3,2026-07-02,0,3,Cropped Straight,jean
+Bleecker,SKU-009,29,Stone Wash,6,2026-06-30,0,6,Cropped Straight,jean
+Bleecker,SKU-009,29,Raw Denim,0,2026-06-25,0,0,Cropped Straight,jean
+Bleecker,SKU-009,29,Vintage Blue,4,2026-07-06,0,4,Cropped Straight,jean
+Bleecker,SKU-009,30,Indigo,0,2026-07-06,0,0,Cropped Straight,jean
+Bleecker,SKU-009,30,Black,1,2026-06-26,0,1,Cropped Straight,jean
+Bleecker,SKU-009,30,White,1,2026-07-02,0,1,Cropped Straight,jean
+Bleecker,SKU-009,30,Stone Wash,4,2026-06-23,0,4,Cropped Straight,jean
+Bleecker,SKU-009,30,Raw Denim,10,2026-07-03,0,10,Cropped Straight,jean
+Bleecker,SKU-009,30,Vintage Blue,5,2026-07-01,0,5,Cropped Straight,jean
+Bleecker,SKU-009,31,Indigo,0,2026-07-05,0,0,Cropped Straight,jean
+Bleecker,SKU-009,31,Black,9,2026-06-29,0,9,Cropped Straight,jean
+Bleecker,SKU-009,31,White,6,2026-06-29,0,6,Cropped Straight,jean
+Bleecker,SKU-009,31,Stone Wash,1,2026-06-26,0,1,Cropped Straight,jean
+Bleecker,SKU-009,31,Raw Denim,0,2026-06-22,0,0,Cropped Straight,jean
+Bleecker,SKU-009,31,Vintage Blue,1,2026-06-25,0,1,Cropped Straight,jean
+Bleecker,SKU-009,32,Indigo,4,2026-07-06,0,4,Cropped Straight,jean
+Bleecker,SKU-009,32,Black,4,2026-07-05,0,4,Cropped Straight,jean
+Bleecker,SKU-009,32,White,5,2026-07-03,0,5,Cropped Straight,jean
+Bleecker,SKU-009,32,Stone Wash,0,2026-07-04,0,0,Cropped Straight,jean
+Bleecker,SKU-009,32,Raw Denim,4,2026-06-24,0,4,Cropped Straight,jean
+Bleecker,SKU-009,32,Vintage Blue,3,2026-07-04,0,3,Cropped Straight,jean
+Bleecker,SKU-009,33,Indigo,5,2026-07-06,0,5,Cropped Straight,jean
+Bleecker,SKU-009,33,Black,4,2026-06-30,0,4,Cropped Straight,jean
+Bleecker,SKU-009,33,White,8,2026-06-28,0,8,Cropped Straight,jean
+Bleecker,SKU-009,33,Stone Wash,0,2026-07-06,0,0,Cropped Straight,jean
+Bleecker,SKU-009,33,Raw Denim,7,2026-07-06,0,7,Cropped Straight,jean
+Bleecker,SKU-009,33,Vintage Blue,5,2026-07-01,0,5,Cropped Straight,jean
+Bleecker,SKU-009,34,Indigo,6,2026-06-30,0,6,Cropped Straight,jean
+Bleecker,SKU-009,34,Black,3,2026-07-01,0,3,Cropped Straight,jean
+Bleecker,SKU-009,34,White,7,2026-06-26,0,7,Cropped Straight,jean
+Bleecker,SKU-009,34,Stone Wash,5,2026-06-25,0,5,Cropped Straight,jean
+Bleecker,SKU-009,34,Raw Denim,6,2026-06-29,0,6,Cropped Straight,jean
+Bleecker,SKU-009,34,Vintage Blue,0,2026-06-24,0,0,Cropped Straight,jean
+Bleecker,SKU-010,24,Indigo,4,2026-07-06,0,4,Flare,jean
+Bleecker,SKU-010,24,Black,4,2026-06-26,0,4,Flare,jean
+Bleecker,SKU-010,24,White,0,2026-06-24,0,0,Flare,jean
+Bleecker,SKU-010,24,Stone Wash,5,2026-06-23,0,5,Flare,jean
+Bleecker,SKU-010,24,Raw Denim,0,2026-06-28,0,0,Flare,jean
+Bleecker,SKU-010,24,Vintage Blue,4,2026-06-28,0,4,Flare,jean
+Bleecker,SKU-010,25,Indigo,1,2026-06-26,0,1,Flare,jean
+Bleecker,SKU-010,25,Black,4,2026-07-05,0,4,Flare,jean
+Bleecker,SKU-010,25,White,7,2026-06-24,0,7,Flare,jean
+Bleecker,SKU-010,25,Stone Wash,9,2026-07-02,0,9,Flare,jean
+Bleecker,SKU-010,25,Raw Denim,5,2026-06-26,0,5,Flare,jean
+Bleecker,SKU-010,25,Vintage Blue,0,2026-06-27,0,0,Flare,jean
+Bleecker,SKU-010,26,Indigo,7,2026-06-28,0,7,Flare,jean
+Bleecker,SKU-010,26,Black,4,2026-06-26,0,4,Flare,jean
+Bleecker,SKU-010,26,White,5,2026-06-26,0,5,Flare,jean
+Bleecker,SKU-010,26,Stone Wash,4,2026-06-28,0,4,Flare,jean
+Bleecker,SKU-010,26,Raw Denim,4,2026-07-05,0,4,Flare,jean
+Bleecker,SKU-010,26,Vintage Blue,4,2026-07-05,0,4,Flare,jean
+Bleecker,SKU-010,27,Indigo,10,2026-07-02,0,10,Flare,jean
+Bleecker,SKU-010,27,Black,3,2026-06-23,0,3,Flare,jean
+Bleecker,SKU-010,27,White,7,2026-06-29,0,7,Flare,jean
+Bleecker,SKU-010,27,Stone Wash,0,2026-06-24,0,0,Flare,jean
+Bleecker,SKU-010,27,Raw Denim,2,2026-06-30,0,2,Flare,jean
+Bleecker,SKU-010,27,Vintage Blue,0,2026-06-22,0,0,Flare,jean
+Bleecker,SKU-010,28,Indigo,8,2026-07-04,0,8,Flare,jean
+Bleecker,SKU-010,28,Black,6,2026-07-02,0,6,Flare,jean
+Bleecker,SKU-010,28,White,0,2026-07-05,0,0,Flare,jean
+Bleecker,SKU-010,28,Stone Wash,1,2026-06-29,0,1,Flare,jean
+Bleecker,SKU-010,28,Raw Denim,5,2026-07-05,0,5,Flare,jean
+Bleecker,SKU-010,28,Vintage Blue,3,2026-06-29,0,3,Flare,jean
+Bleecker,SKU-010,29,Indigo,1,2026-06-22,0,1,Flare,jean
+Bleecker,SKU-010,29,Black,4,2026-06-22,0,4,Flare,jean
+Bleecker,SKU-010,29,White,0,2026-06-24,0,0,Flare,jean
+Bleecker,SKU-010,29,Stone Wash,4,2026-06-24,0,4,Flare,jean
+Bleecker,SKU-010,29,Raw Denim,9,2026-06-26,0,9,Flare,jean
+Bleecker,SKU-010,29,Vintage Blue,5,2026-07-03,0,5,Flare,jean
+Bleecker,SKU-010,30,Indigo,1,2026-07-01,0,1,Flare,jean
+Bleecker,SKU-010,30,Black,2,2026-07-03,0,2,Flare,jean
+Bleecker,SKU-010,30,White,2,2026-07-04,0,2,Flare,jean
+Bleecker,SKU-010,30,Stone Wash,6,2026-06-29,0,6,Flare,jean
+Bleecker,SKU-010,30,Raw Denim,0,2026-06-29,1,1,Flare,jean
+Bleecker,SKU-010,30,Vintage Blue,2,2026-07-03,0,2,Flare,jean
+Bleecker,SKU-010,31,Indigo,1,2026-06-25,0,1,Flare,jean
+Bleecker,SKU-010,31,Black,5,2026-07-01,0,5,Flare,jean
+Bleecker,SKU-010,31,White,6,2026-06-26,0,6,Flare,jean
+Bleecker,SKU-010,31,Stone Wash,0,2026-06-28,0,0,Flare,jean
+Bleecker,SKU-010,31,Raw Denim,1,2026-07-02,0,1,Flare,jean
+Bleecker,SKU-010,31,Vintage Blue,0,2026-06-24,0,0,Flare,jean
+Bleecker,SKU-010,32,Indigo,2,2026-07-03,0,2,Flare,jean
+Bleecker,SKU-010,32,Black,1,2026-07-04,0,1,Flare,jean
+Bleecker,SKU-010,32,White,6,2026-06-29,0,6,Flare,jean
+Bleecker,SKU-010,32,Stone Wash,7,2026-06-22,0,7,Flare,jean
+Bleecker,SKU-010,32,Raw Denim,2,2026-07-03,0,2,Flare,jean
+Bleecker,SKU-010,32,Vintage Blue,4,2026-06-25,0,4,Flare,jean
+Bleecker,SKU-010,33,Indigo,8,2026-06-29,0,8,Flare,jean
+Bleecker,SKU-010,33,Black,6,2026-07-04,0,6,Flare,jean
+Bleecker,SKU-010,33,White,0,2026-06-25,0,0,Flare,jean
+Bleecker,SKU-010,33,Stone Wash,4,2026-06-23,0,4,Flare,jean
+Bleecker,SKU-010,33,Raw Denim,3,2026-06-27,1,4,Flare,jean
+Bleecker,SKU-010,33,Vintage Blue,3,2026-06-26,0,3,Flare,jean
+Bleecker,SKU-010,34,Indigo,7,2026-06-30,0,7,Flare,jean
+Bleecker,SKU-010,34,Black,4,2026-06-28,0,4,Flare,jean
+Bleecker,SKU-010,34,White,7,2026-07-02,0,7,Flare,jean
+Bleecker,SKU-010,34,Stone Wash,3,2026-07-02,0,3,Flare,jean
+Bleecker,SKU-010,34,Raw Denim,1,2026-07-02,0,1,Flare,jean
+Bleecker,SKU-010,34,Vintage Blue,5,2026-06-27,0,5,Flare,jean
+Bleecker,SKU-011,XS,Indigo,5,2026-06-28,0,5,Denim Jacket,jacket
+Bleecker,SKU-011,XS,Black,4,2026-06-30,0,4,Denim Jacket,jacket
+Bleecker,SKU-011,XS,Stone Wash,8,2026-06-24,0,8,Denim Jacket,jacket
+Bleecker,SKU-011,XS,Raw Denim,2,2026-07-03,0,2,Denim Jacket,jacket
+Bleecker,SKU-011,S,Indigo,2,2026-06-27,0,2,Denim Jacket,jacket
+Bleecker,SKU-011,S,Black,7,2026-06-30,0,7,Denim Jacket,jacket
+Bleecker,SKU-011,S,Stone Wash,5,2026-06-26,0,5,Denim Jacket,jacket
+Bleecker,SKU-011,S,Raw Denim,1,2026-07-04,0,1,Denim Jacket,jacket
+Bleecker,SKU-011,M,Indigo,4,2026-06-29,0,4,Denim Jacket,jacket
+Bleecker,SKU-011,M,Black,3,2026-06-23,0,3,Denim Jacket,jacket
+Bleecker,SKU-011,M,Stone Wash,11,2026-07-03,0,11,Denim Jacket,jacket
+Bleecker,SKU-011,M,Raw Denim,6,2026-06-22,0,6,Denim Jacket,jacket
+Bleecker,SKU-011,L,Indigo,0,2026-07-06,0,0,Denim Jacket,jacket
+Bleecker,SKU-011,L,Black,7,2026-07-06,0,7,Denim Jacket,jacket
+Bleecker,SKU-011,L,Stone Wash,1,2026-06-23,0,1,Denim Jacket,jacket
+Bleecker,SKU-011,L,Raw Denim,5,2026-07-03,0,5,Denim Jacket,jacket
+Bleecker,SKU-011,XL,Indigo,5,2026-07-02,0,5,Denim Jacket,jacket
+Bleecker,SKU-011,XL,Black,3,2026-06-25,0,3,Denim Jacket,jacket
+Bleecker,SKU-011,XL,Stone Wash,2,2026-06-22,0,2,Denim Jacket,jacket
+Bleecker,SKU-011,XL,Raw Denim,5,2026-06-25,0,5,Denim Jacket,jacket
+Bleecker,SKU-012,XS,Indigo,5,2026-07-03,0,5,Chore Jacket,jacket
+Bleecker,SKU-012,XS,Black,3,2026-07-01,0,3,Chore Jacket,jacket
+Bleecker,SKU-012,XS,Stone Wash,8,2026-07-04,0,8,Chore Jacket,jacket
+Bleecker,SKU-012,XS,Raw Denim,6,2026-06-30,1,7,Chore Jacket,jacket
+Bleecker,SKU-012,S,Indigo,2,2026-07-04,0,2,Chore Jacket,jacket
+Bleecker,SKU-012,S,Black,4,2026-06-30,0,4,Chore Jacket,jacket
+Bleecker,SKU-012,S,Stone Wash,0,2026-07-04,0,0,Chore Jacket,jacket
+Bleecker,SKU-012,S,Raw Denim,4,2026-06-29,0,4,Chore Jacket,jacket
+Bleecker,SKU-012,M,Indigo,2,2026-07-06,0,2,Chore Jacket,jacket
+Bleecker,SKU-012,M,Black,3,2026-07-01,0,3,Chore Jacket,jacket
+Bleecker,SKU-012,M,Stone Wash,5,2026-06-24,0,5,Chore Jacket,jacket
+Bleecker,SKU-012,M,Raw Denim,2,2026-06-22,0,2,Chore Jacket,jacket
+Bleecker,SKU-012,L,Indigo,0,2026-06-26,0,0,Chore Jacket,jacket
+Bleecker,SKU-012,L,Black,5,2026-06-23,0,5,Chore Jacket,jacket
+Bleecker,SKU-012,L,Stone Wash,2,2026-07-02,0,2,Chore Jacket,jacket
+Bleecker,SKU-012,L,Raw Denim,4,2026-07-05,0,4,Chore Jacket,jacket
+Bleecker,SKU-012,XL,Indigo,2,2026-06-29,0,2,Chore Jacket,jacket
+Bleecker,SKU-012,XL,Black,0,2026-07-02,0,0,Chore Jacket,jacket
+Bleecker,SKU-012,XL,Stone Wash,8,2026-07-02,0,8,Chore Jacket,jacket
+Bleecker,SKU-012,XL,Raw Denim,6,2026-06-26,0,6,Chore Jacket,jacket
+Bleecker,SKU-013,XS,Indigo,3,2026-07-02,0,3,Trucker Jacket,jacket
+Bleecker,SKU-013,XS,Black,6,2026-06-26,0,6,Trucker Jacket,jacket
+Bleecker,SKU-013,XS,Stone Wash,8,2026-06-28,0,8,Trucker Jacket,jacket
+Bleecker,SKU-013,XS,Raw Denim,1,2026-06-23,0,1,Trucker Jacket,jacket
+Bleecker,SKU-013,S,Indigo,3,2026-06-26,0,3,Trucker Jacket,jacket
+Bleecker,SKU-013,S,Black,3,2026-06-28,0,3,Trucker Jacket,jacket
+Bleecker,SKU-013,S,Stone Wash,0,2026-07-05,0,0,Trucker Jacket,jacket
+Bleecker,SKU-013,S,Raw Denim,4,2026-06-27,0,4,Trucker Jacket,jacket
+Bleecker,SKU-013,M,Indigo,2,2026-07-05,0,2,Trucker Jacket,jacket
+Bleecker,SKU-013,M,Black,8,2026-07-02,0,8,Trucker Jacket,jacket
+Bleecker,SKU-013,M,Stone Wash,8,2026-06-24,0,8,Trucker Jacket,jacket
+Bleecker,SKU-013,M,Raw Denim,0,2026-06-22,0,0,Trucker Jacket,jacket
+Bleecker,SKU-013,L,Indigo,3,2026-07-02,0,3,Trucker Jacket,jacket
+Bleecker,SKU-013,L,Black,2,2026-06-27,0,2,Trucker Jacket,jacket
+Bleecker,SKU-013,L,Stone Wash,1,2026-06-27,0,1,Trucker Jacket,jacket
+Bleecker,SKU-013,L,Raw Denim,10,2026-07-04,0,10,Trucker Jacket,jacket
+Bleecker,SKU-013,XL,Indigo,0,2026-07-02,0,0,Trucker Jacket,jacket
+Bleecker,SKU-013,XL,Black,1,2026-07-03,0,1,Trucker Jacket,jacket
+Bleecker,SKU-013,XL,Stone Wash,4,2026-06-26,0,4,Trucker Jacket,jacket
+Bleecker,SKU-013,XL,Raw Denim,6,2026-06-22,0,6,Trucker Jacket,jacket
+Bleecker,SKU-014,XS,Indigo,1,2026-06-29,0,1,Denim Shirt,top
+Bleecker,SKU-014,XS,Black,0,2026-06-24,0,0,Denim Shirt,top
+Bleecker,SKU-014,XS,Stone Wash,6,2026-07-05,0,6,Denim Shirt,top
+Bleecker,SKU-014,XS,Raw Denim,0,2026-07-06,0,0,Denim Shirt,top
+Bleecker,SKU-014,S,Indigo,8,2026-06-29,0,8,Denim Shirt,top
+Bleecker,SKU-014,S,Black,2,2026-07-01,0,2,Denim Shirt,top
+Bleecker,SKU-014,S,Stone Wash,4,2026-06-26,0,4,Denim Shirt,top
+Bleecker,SKU-014,S,Raw Denim,6,2026-06-23,0,6,Denim Shirt,top
+Bleecker,SKU-014,M,Indigo,5,2026-07-02,0,5,Denim Shirt,top
+Bleecker,SKU-014,M,Black,0,2026-06-22,0,0,Denim Shirt,top
+Bleecker,SKU-014,M,Stone Wash,3,2026-06-26,0,3,Denim Shirt,top
+Bleecker,SKU-014,M,Raw Denim,4,2026-06-29,1,5,Denim Shirt,top
+Bleecker,SKU-014,L,Indigo,2,2026-06-23,0,2,Denim Shirt,top
+Bleecker,SKU-014,L,Black,4,2026-07-01,0,4,Denim Shirt,top
+Bleecker,SKU-014,L,Stone Wash,2,2026-06-25,0,2,Denim Shirt,top
+Bleecker,SKU-014,L,Raw Denim,3,2026-06-25,0,3,Denim Shirt,top
+Bleecker,SKU-014,XL,Indigo,4,2026-06-28,0,4,Denim Shirt,top
+Bleecker,SKU-014,XL,Black,5,2026-07-02,0,5,Denim Shirt,top
+Bleecker,SKU-014,XL,Stone Wash,4,2026-06-22,0,4,Denim Shirt,top
+Bleecker,SKU-014,XL,Raw Denim,8,2026-06-28,0,8,Denim Shirt,top
+Bleecker,SKU-015,XS,Indigo,1,2026-06-26,0,1,Denim Overalls,bottom
+Bleecker,SKU-015,XS,Black,0,2026-07-04,0,0,Denim Overalls,bottom
+Bleecker,SKU-015,XS,Stone Wash,0,2026-07-02,0,0,Denim Overalls,bottom
+Bleecker,SKU-015,XS,Raw Denim,3,2026-06-23,0,3,Denim Overalls,bottom
+Bleecker,SKU-015,S,Indigo,4,2026-06-26,0,4,Denim Overalls,bottom
+Bleecker,SKU-015,S,Black,5,2026-06-30,0,5,Denim Overalls,bottom
+Bleecker,SKU-015,S,Stone Wash,4,2026-07-06,0,4,Denim Overalls,bottom
+Bleecker,SKU-015,S,Raw Denim,0,2026-06-27,0,0,Denim Overalls,bottom
+Bleecker,SKU-015,M,Indigo,5,2026-06-30,0,5,Denim Overalls,bottom
+Bleecker,SKU-015,M,Black,4,2026-06-24,0,4,Denim Overalls,bottom
+Bleecker,SKU-015,M,Stone Wash,3,2026-06-23,0,3,Denim Overalls,bottom
+Bleecker,SKU-015,M,Raw Denim,0,2026-06-25,0,0,Denim Overalls,bottom
+Bleecker,SKU-015,L,Indigo,1,2026-06-29,0,1,Denim Overalls,bottom
+Bleecker,SKU-015,L,Black,7,2026-06-22,1,8,Denim Overalls,bottom
+Bleecker,SKU-015,L,Stone Wash,1,2026-06-24,0,1,Denim Overalls,bottom
+Bleecker,SKU-015,L,Raw Denim,7,2026-07-05,0,7,Denim Overalls,bottom
+Bleecker,SKU-015,XL,Indigo,8,2026-06-28,0,8,Denim Overalls,bottom
+Bleecker,SKU-015,XL,Black,6,2026-06-25,0,6,Denim Overalls,bottom
+Bleecker,SKU-015,XL,Stone Wash,1,2026-06-26,0,1,Denim Overalls,bottom
+Bleecker,SKU-015,XL,Raw Denim,6,2026-06-30,0,6,Denim Overalls,bottom
+Bleecker,SKU-016,XS,Indigo,4,2026-07-05,0,4,Denim Skirt,bottom
+Bleecker,SKU-016,XS,Black,4,2026-07-05,1,5,Denim Skirt,bottom
+Bleecker,SKU-016,XS,Stone Wash,1,2026-07-01,1,2,Denim Skirt,bottom
+Bleecker,SKU-016,XS,Raw Denim,2,2026-06-22,0,2,Denim Skirt,bottom
+Bleecker,SKU-016,S,Indigo,2,2026-07-04,0,2,Denim Skirt,bottom
+Bleecker,SKU-016,S,Black,2,2026-07-03,0,2,Denim Skirt,bottom
+Bleecker,SKU-016,S,Stone Wash,4,2026-07-05,0,4,Denim Skirt,bottom
+Bleecker,SKU-016,S,Raw Denim,3,2026-07-02,0,3,Denim Skirt,bottom
+Bleecker,SKU-016,M,Indigo,3,2026-06-24,0,3,Denim Skirt,bottom
+Bleecker,SKU-016,M,Black,9,2026-06-29,0,9,Denim Skirt,bottom
+Bleecker,SKU-016,M,Stone Wash,5,2026-07-04,0,5,Denim Skirt,bottom
+Bleecker,SKU-016,M,Raw Denim,0,2026-06-28,0,0,Denim Skirt,bottom
+Bleecker,SKU-016,L,Indigo,1,2026-06-30,0,1,Denim Skirt,bottom
+Bleecker,SKU-016,L,Black,5,2026-06-28,1,6,Denim Skirt,bottom
+Bleecker,SKU-016,L,Stone Wash,0,2026-07-03,0,0,Denim Skirt,bottom
+Bleecker,SKU-016,L,Raw Denim,2,2026-07-04,0,2,Denim Skirt,bottom
+Bleecker,SKU-016,XL,Indigo,2,2026-07-06,0,2,Denim Skirt,bottom
+Bleecker,SKU-016,XL,Black,0,2026-07-02,0,0,Denim Skirt,bottom
+Bleecker,SKU-016,XL,Stone Wash,1,2026-06-25,0,1,Denim Skirt,bottom
+Bleecker,SKU-016,XL,Raw Denim,2,2026-07-04,0,2,Denim Skirt,bottom
+SoHo,SKU-001,24,Indigo,0,2026-07-01,0,0,Skinny,jean
+SoHo,SKU-001,24,Black,6,2026-06-30,0,6,Skinny,jean
+SoHo,SKU-001,24,White,4,2026-06-24,0,4,Skinny,jean
+SoHo,SKU-001,24,Stone Wash,0,2026-06-26,0,0,Skinny,jean
+SoHo,SKU-001,24,Raw Denim,6,2026-06-24,0,6,Skinny,jean
+SoHo,SKU-001,24,Vintage Blue,6,2026-07-02,0,6,Skinny,jean
+SoHo,SKU-001,25,Indigo,2,2026-07-04,0,2,Skinny,jean
+SoHo,SKU-001,25,Black,4,2026-07-05,0,4,Skinny,jean
+SoHo,SKU-001,25,White,3,2026-07-02,0,3,Skinny,jean
+SoHo,SKU-001,25,Stone Wash,8,2026-07-04,0,8,Skinny,jean
+SoHo,SKU-001,25,Raw Denim,6,2026-07-02,0,6,Skinny,jean
+SoHo,SKU-001,25,Vintage Blue,0,2026-07-03,0,0,Skinny,jean
+SoHo,SKU-001,26,Indigo,6,2026-06-23,0,6,Skinny,jean
+SoHo,SKU-001,26,Black,1,2026-06-23,0,1,Skinny,jean
+SoHo,SKU-001,26,White,3,2026-06-28,0,3,Skinny,jean
+SoHo,SKU-001,26,Stone Wash,4,2026-07-01,0,4,Skinny,jean
+SoHo,SKU-001,26,Raw Denim,2,2026-06-27,0,2,Skinny,jean
+SoHo,SKU-001,26,Vintage Blue,1,2026-06-22,0,1,Skinny,jean
+SoHo,SKU-001,27,Indigo,6,2026-06-23,0,6,Skinny,jean
+SoHo,SKU-001,27,Black,1,2026-06-23,0,1,Skinny,jean
+SoHo,SKU-001,27,White,7,2026-06-27,0,7,Skinny,jean
+SoHo,SKU-001,27,Stone Wash,2,2026-06-26,0,2,Skinny,jean
+SoHo,SKU-001,27,Raw Denim,11,2026-06-29,0,11,Skinny,jean
+SoHo,SKU-001,27,Vintage Blue,2,2026-06-24,0,2,Skinny,jean
+SoHo,SKU-001,28,Indigo,1,2026-06-22,0,1,Skinny,jean
+SoHo,SKU-001,28,Black,0,2026-06-28,0,0,Skinny,jean
+SoHo,SKU-001,28,White,3,2026-07-04,0,3,Skinny,jean
+SoHo,SKU-001,28,Stone Wash,2,2026-07-01,0,2,Skinny,jean
+SoHo,SKU-001,28,Raw Denim,3,2026-06-29,0,3,Skinny,jean
+SoHo,SKU-001,28,Vintage Blue,0,2026-06-23,0,0,Skinny,jean
+SoHo,SKU-001,29,Indigo,3,2026-06-27,0,3,Skinny,jean
+SoHo,SKU-001,29,Black,0,2026-07-03,0,0,Skinny,jean
+SoHo,SKU-001,29,White,0,2026-06-30,0,0,Skinny,jean
+SoHo,SKU-001,29,Stone Wash,2,2026-07-02,0,2,Skinny,jean
+SoHo,SKU-001,29,Raw Denim,3,2026-06-25,0,3,Skinny,jean
+SoHo,SKU-001,29,Vintage Blue,2,2026-06-27,0,2,Skinny,jean
+SoHo,SKU-001,30,Indigo,2,2026-07-03,0,2,Skinny,jean
+SoHo,SKU-001,30,Black,0,2026-06-28,0,0,Skinny,jean
+SoHo,SKU-001,30,White,0,2026-07-05,0,0,Skinny,jean
+SoHo,SKU-001,30,Stone Wash,1,2026-06-23,0,1,Skinny,jean
+SoHo,SKU-001,30,Raw Denim,8,2026-06-23,0,8,Skinny,jean
+SoHo,SKU-001,30,Vintage Blue,3,2026-07-03,0,3,Skinny,jean
+SoHo,SKU-001,31,Indigo,4,2026-07-01,0,4,Skinny,jean
+SoHo,SKU-001,31,Black,6,2026-07-06,0,6,Skinny,jean
+SoHo,SKU-001,31,White,2,2026-06-23,0,2,Skinny,jean
+SoHo,SKU-001,31,Stone Wash,5,2026-06-28,0,5,Skinny,jean
+SoHo,SKU-001,31,Raw Denim,5,2026-06-26,0,5,Skinny,jean
+SoHo,SKU-001,31,Vintage Blue,0,2026-06-30,0,0,Skinny,jean
+SoHo,SKU-001,32,Indigo,5,2026-06-30,0,5,Skinny,jean
+SoHo,SKU-001,32,Black,2,2026-06-30,0,2,Skinny,jean
+SoHo,SKU-001,32,White,0,2026-07-03,0,0,Skinny,jean
+SoHo,SKU-001,32,Stone Wash,0,2026-06-22,0,0,Skinny,jean
+SoHo,SKU-001,32,Raw Denim,7,2026-06-22,0,7,Skinny,jean
+SoHo,SKU-001,32,Vintage Blue,0,2026-07-01,0,0,Skinny,jean
+SoHo,SKU-001,33,Indigo,7,2026-06-23,0,7,Skinny,jean
+SoHo,SKU-001,33,Black,5,2026-07-06,0,5,Skinny,jean
+SoHo,SKU-001,33,White,4,2026-07-05,0,4,Skinny,jean
+SoHo,SKU-001,33,Stone Wash,1,2026-07-04,0,1,Skinny,jean
+SoHo,SKU-001,33,Raw Denim,3,2026-06-26,0,3,Skinny,jean
+SoHo,SKU-001,33,Vintage Blue,5,2026-06-26,0,5,Skinny,jean
+SoHo,SKU-001,34,Indigo,5,2026-07-02,0,5,Skinny,jean
+SoHo,SKU-001,34,Black,6,2026-06-22,0,6,Skinny,jean
+SoHo,SKU-001,34,White,1,2026-06-24,0,1,Skinny,jean
+SoHo,SKU-001,34,Stone Wash,5,2026-06-27,0,5,Skinny,jean
+SoHo,SKU-001,34,Raw Denim,5,2026-07-02,0,5,Skinny,jean
+SoHo,SKU-001,34,Vintage Blue,6,2026-06-24,0,6,Skinny,jean
+SoHo,SKU-002,24,Indigo,4,2026-06-27,0,4,Straight,jean
+SoHo,SKU-002,24,Black,1,2026-07-01,0,1,Straight,jean
+SoHo,SKU-002,24,White,1,2026-07-03,0,1,Straight,jean
+SoHo,SKU-002,24,Stone Wash,0,2026-06-26,0,0,Straight,jean
+SoHo,SKU-002,24,Raw Denim,8,2026-07-03,0,8,Straight,jean
+SoHo,SKU-002,24,Vintage Blue,0,2026-06-25,0,0,Straight,jean
+SoHo,SKU-002,25,Indigo,4,2026-06-27,0,4,Straight,jean
+SoHo,SKU-002,25,Black,0,2026-06-25,0,0,Straight,jean
+SoHo,SKU-002,25,White,8,2026-06-22,0,8,Straight,jean
+SoHo,SKU-002,25,Stone Wash,0,2026-07-01,0,0,Straight,jean
+SoHo,SKU-002,25,Raw Denim,5,2026-06-24,0,5,Straight,jean
+SoHo,SKU-002,25,Vintage Blue,4,2026-07-03,0,4,Straight,jean
+SoHo,SKU-002,26,Indigo,0,2026-06-29,0,0,Straight,jean
+SoHo,SKU-002,26,Black,5,2026-06-24,0,5,Straight,jean
+SoHo,SKU-002,26,White,1,2026-06-25,0,1,Straight,jean
+SoHo,SKU-002,26,Stone Wash,4,2026-06-22,0,4,Straight,jean
+SoHo,SKU-002,26,Raw Denim,0,2026-06-25,0,0,Straight,jean
+SoHo,SKU-002,26,Vintage Blue,4,2026-07-04,0,4,Straight,jean
+SoHo,SKU-002,27,Indigo,4,2026-07-01,0,4,Straight,jean
+SoHo,SKU-002,27,Black,8,2026-06-23,0,8,Straight,jean
+SoHo,SKU-002,27,White,1,2026-07-02,0,1,Straight,jean
+SoHo,SKU-002,27,Stone Wash,0,2026-06-23,0,0,Straight,jean
+SoHo,SKU-002,27,Raw Denim,6,2026-06-26,0,6,Straight,jean
+SoHo,SKU-002,27,Vintage Blue,7,2026-06-24,0,7,Straight,jean
+SoHo,SKU-002,28,Indigo,4,2026-07-01,0,4,Straight,jean
+SoHo,SKU-002,28,Black,4,2026-06-23,0,4,Straight,jean
+SoHo,SKU-002,28,White,0,2026-06-29,0,0,Straight,jean
+SoHo,SKU-002,28,Stone Wash,0,2026-07-04,0,0,Straight,jean
+SoHo,SKU-002,28,Raw Denim,1,2026-06-27,0,1,Straight,jean
+SoHo,SKU-002,28,Vintage Blue,2,2026-06-23,0,2,Straight,jean
+SoHo,SKU-002,29,Indigo,8,2026-06-30,0,8,Straight,jean
+SoHo,SKU-002,29,Black,2,2026-06-24,0,2,Straight,jean
+SoHo,SKU-002,29,White,5,2026-06-27,0,5,Straight,jean
+SoHo,SKU-002,29,Stone Wash,1,2026-06-23,0,1,Straight,jean
+SoHo,SKU-002,29,Raw Denim,4,2026-06-27,0,4,Straight,jean
+SoHo,SKU-002,29,Vintage Blue,7,2026-07-06,0,7,Straight,jean
+SoHo,SKU-002,30,Indigo,2,2026-07-04,0,2,Straight,jean
+SoHo,SKU-002,30,Black,5,2026-06-28,0,5,Straight,jean
+SoHo,SKU-002,30,White,4,2026-07-01,0,4,Straight,jean
+SoHo,SKU-002,30,Stone Wash,3,2026-07-06,0,3,Straight,jean
+SoHo,SKU-002,30,Raw Denim,6,2026-06-28,0,6,Straight,jean
+SoHo,SKU-002,30,Vintage Blue,3,2026-06-27,0,3,Straight,jean
+SoHo,SKU-002,31,Indigo,4,2026-06-25,0,4,Straight,jean
+SoHo,SKU-002,31,Black,4,2026-07-04,0,4,Straight,jean
+SoHo,SKU-002,31,White,4,2026-06-30,0,4,Straight,jean
+SoHo,SKU-002,31,Stone Wash,1,2026-06-22,0,1,Straight,jean
+SoHo,SKU-002,31,Raw Denim,2,2026-07-01,0,2,Straight,jean
+SoHo,SKU-002,31,Vintage Blue,4,2026-07-01,0,4,Straight,jean
+SoHo,SKU-002,32,Indigo,8,2026-07-05,0,8,Straight,jean
+SoHo,SKU-002,32,Black,2,2026-06-27,0,2,Straight,jean
+SoHo,SKU-002,32,White,1,2026-06-23,0,1,Straight,jean
+SoHo,SKU-002,32,Stone Wash,0,2026-07-01,0,0,Straight,jean
+SoHo,SKU-002,32,Raw Denim,4,2026-07-04,0,4,Straight,jean
+SoHo,SKU-002,32,Vintage Blue,1,2026-07-02,0,1,Straight,jean
+SoHo,SKU-002,33,Indigo,1,2026-07-04,0,1,Straight,jean
+SoHo,SKU-002,33,Black,2,2026-07-06,0,2,Straight,jean
+SoHo,SKU-002,33,White,0,2026-07-02,0,0,Straight,jean
+SoHo,SKU-002,33,Stone Wash,6,2026-07-06,0,6,Straight,jean
+SoHo,SKU-002,33,Raw Denim,4,2026-06-30,0,4,Straight,jean
+SoHo,SKU-002,33,Vintage Blue,4,2026-06-22,0,4,Straight,jean
+SoHo,SKU-002,34,Indigo,1,2026-06-30,0,1,Straight,jean
+SoHo,SKU-002,34,Black,6,2026-06-29,0,6,Straight,jean
+SoHo,SKU-002,34,White,5,2026-06-28,0,5,Straight,jean
+SoHo,SKU-002,34,Stone Wash,0,2026-06-28,0,0,Straight,jean
+SoHo,SKU-002,34,Raw Denim,3,2026-07-04,0,3,Straight,jean
+SoHo,SKU-002,34,Vintage Blue,0,2026-06-27,0,0,Straight,jean
+SoHo,SKU-003,24,Indigo,0,2026-06-22,0,0,Bootcut,jean
+SoHo,SKU-003,24,Black,5,2026-06-25,0,5,Bootcut,jean
+SoHo,SKU-003,24,White,0,2026-06-28,0,0,Bootcut,jean
+SoHo,SKU-003,24,Stone Wash,4,2026-06-27,0,4,Bootcut,jean
+SoHo,SKU-003,24,Raw Denim,3,2026-07-05,0,3,Bootcut,jean
+SoHo,SKU-003,24,Vintage Blue,0,2026-06-24,0,0,Bootcut,jean
+SoHo,SKU-003,25,Indigo,4,2026-06-30,0,4,Bootcut,jean
+SoHo,SKU-003,25,Black,5,2026-06-23,0,5,Bootcut,jean
+SoHo,SKU-003,25,White,4,2026-06-25,0,4,Bootcut,jean
+SoHo,SKU-003,25,Stone Wash,4,2026-06-28,0,4,Bootcut,jean
+SoHo,SKU-003,25,Raw Denim,1,2026-06-23,0,1,Bootcut,jean
+SoHo,SKU-003,25,Vintage Blue,1,2026-06-28,0,1,Bootcut,jean
+SoHo,SKU-003,26,Indigo,5,2026-06-26,0,5,Bootcut,jean
+SoHo,SKU-003,26,Black,2,2026-06-24,0,2,Bootcut,jean
+SoHo,SKU-003,26,White,6,2026-06-23,0,6,Bootcut,jean
+SoHo,SKU-003,26,Stone Wash,0,2026-06-26,0,0,Bootcut,jean
+SoHo,SKU-003,26,Raw Denim,5,2026-07-06,0,5,Bootcut,jean
+SoHo,SKU-003,26,Vintage Blue,0,2026-07-05,0,0,Bootcut,jean
+SoHo,SKU-003,27,Indigo,0,2026-07-03,0,0,Bootcut,jean
+SoHo,SKU-003,27,Black,0,2026-07-06,0,0,Bootcut,jean
+SoHo,SKU-003,27,White,4,2026-06-25,0,4,Bootcut,jean
+SoHo,SKU-003,27,Stone Wash,7,2026-07-06,0,7,Bootcut,jean
+SoHo,SKU-003,27,Raw Denim,9,2026-06-27,0,9,Bootcut,jean
+SoHo,SKU-003,27,Vintage Blue,3,2026-06-25,0,3,Bootcut,jean
+SoHo,SKU-003,28,Indigo,6,2026-06-25,0,6,Bootcut,jean
+SoHo,SKU-003,28,Black,6,2026-06-29,0,6,Bootcut,jean
+SoHo,SKU-003,28,White,2,2026-06-24,0,2,Bootcut,jean
+SoHo,SKU-003,28,Stone Wash,1,2026-06-30,0,1,Bootcut,jean
+SoHo,SKU-003,28,Raw Denim,4,2026-07-01,0,4,Bootcut,jean
+SoHo,SKU-003,28,Vintage Blue,3,2026-07-02,0,3,Bootcut,jean
+SoHo,SKU-003,29,Indigo,0,2026-07-01,0,0,Bootcut,jean
+SoHo,SKU-003,29,Black,1,2026-06-22,0,1,Bootcut,jean
+SoHo,SKU-003,29,White,5,2026-07-06,0,5,Bootcut,jean
+SoHo,SKU-003,29,Stone Wash,5,2026-06-28,0,5,Bootcut,jean
+SoHo,SKU-003,29,Raw Denim,9,2026-07-05,0,9,Bootcut,jean
+SoHo,SKU-003,29,Vintage Blue,0,2026-06-25,0,0,Bootcut,jean
+SoHo,SKU-003,30,Indigo,0,2026-07-02,0,0,Bootcut,jean
+SoHo,SKU-003,30,Black,5,2026-06-25,0,5,Bootcut,jean
+SoHo,SKU-003,30,White,8,2026-07-05,0,8,Bootcut,jean
+SoHo,SKU-003,30,Stone Wash,4,2026-06-30,0,4,Bootcut,jean
+SoHo,SKU-003,30,Raw Denim,4,2026-06-27,0,4,Bootcut,jean
+SoHo,SKU-003,30,Vintage Blue,4,2026-07-03,0,4,Bootcut,jean
+SoHo,SKU-003,31,Indigo,6,2026-07-03,0,6,Bootcut,jean
+SoHo,SKU-003,31,Black,5,2026-06-25,0,5,Bootcut,jean
+SoHo,SKU-003,31,White,0,2026-06-24,0,0,Bootcut,jean
+SoHo,SKU-003,31,Stone Wash,6,2026-07-03,0,6,Bootcut,jean
+SoHo,SKU-003,31,Raw Denim,6,2026-06-26,0,6,Bootcut,jean
+SoHo,SKU-003,31,Vintage Blue,4,2026-07-01,0,4,Bootcut,jean
+SoHo,SKU-003,32,Indigo,3,2026-06-26,0,3,Bootcut,jean
+SoHo,SKU-003,32,Black,3,2026-06-26,0,3,Bootcut,jean
+SoHo,SKU-003,32,White,2,2026-06-28,0,2,Bootcut,jean
+SoHo,SKU-003,32,Stone Wash,1,2026-07-06,0,1,Bootcut,jean
+SoHo,SKU-003,32,Raw Denim,8,2026-06-29,0,8,Bootcut,jean
+SoHo,SKU-003,32,Vintage Blue,6,2026-07-06,0,6,Bootcut,jean
+SoHo,SKU-003,33,Indigo,3,2026-06-30,0,3,Bootcut,jean
+SoHo,SKU-003,33,Black,6,2026-07-06,0,6,Bootcut,jean
+SoHo,SKU-003,33,White,7,2026-06-30,0,7,Bootcut,jean
+SoHo,SKU-003,33,Stone Wash,0,2026-07-01,0,0,Bootcut,jean
+SoHo,SKU-003,33,Raw Denim,5,2026-06-26,0,5,Bootcut,jean
+SoHo,SKU-003,33,Vintage Blue,8,2026-07-02,0,8,Bootcut,jean
+SoHo,SKU-003,34,Indigo,3,2026-07-02,0,3,Bootcut,jean
+SoHo,SKU-003,34,Black,4,2026-07-04,0,4,Bootcut,jean
+SoHo,SKU-003,34,White,0,2026-07-05,0,0,Bootcut,jean
+SoHo,SKU-003,34,Stone Wash,9,2026-06-30,0,9,Bootcut,jean
+SoHo,SKU-003,34,Raw Denim,0,2026-07-02,0,0,Bootcut,jean
+SoHo,SKU-003,34,Vintage Blue,1,2026-07-02,0,1,Bootcut,jean
+SoHo,SKU-004,24,Indigo,2,2026-06-26,0,2,Wide Leg,jean
+SoHo,SKU-004,24,Black,6,2026-06-23,0,6,Wide Leg,jean
+SoHo,SKU-004,24,White,6,2026-06-22,0,6,Wide Leg,jean
+SoHo,SKU-004,24,Stone Wash,1,2026-07-04,1,2,Wide Leg,jean
+SoHo,SKU-004,24,Raw Denim,2,2026-06-27,0,2,Wide Leg,jean
+SoHo,SKU-004,24,Vintage Blue,2,2026-07-01,0,2,Wide Leg,jean
+SoHo,SKU-004,25,Indigo,6,2026-06-23,0,6,Wide Leg,jean
+SoHo,SKU-004,25,Black,1,2026-07-04,0,1,Wide Leg,jean
+SoHo,SKU-004,25,White,3,2026-06-26,0,3,Wide Leg,jean
+SoHo,SKU-004,25,Stone Wash,5,2026-06-24,0,5,Wide Leg,jean
+SoHo,SKU-004,25,Raw Denim,3,2026-06-24,1,4,Wide Leg,jean
+SoHo,SKU-004,25,Vintage Blue,6,2026-07-03,0,6,Wide Leg,jean
+SoHo,SKU-004,26,Indigo,2,2026-06-29,0,2,Wide Leg,jean
+SoHo,SKU-004,26,Black,2,2026-07-01,0,2,Wide Leg,jean
+SoHo,SKU-004,26,White,3,2026-06-28,0,3,Wide Leg,jean
+SoHo,SKU-004,26,Stone Wash,4,2026-06-24,0,4,Wide Leg,jean
+SoHo,SKU-004,26,Raw Denim,5,2026-06-28,0,5,Wide Leg,jean
+SoHo,SKU-004,26,Vintage Blue,2,2026-06-26,0,2,Wide Leg,jean
+SoHo,SKU-004,27,Indigo,2,2026-06-22,0,2,Wide Leg,jean
+SoHo,SKU-004,27,Black,5,2026-07-02,0,5,Wide Leg,jean
+SoHo,SKU-004,27,White,0,2026-06-23,0,0,Wide Leg,jean
+SoHo,SKU-004,27,Stone Wash,0,2026-06-30,0,0,Wide Leg,jean
+SoHo,SKU-004,27,Raw Denim,0,2026-06-26,0,0,Wide Leg,jean
+SoHo,SKU-004,27,Vintage Blue,2,2026-07-05,0,2,Wide Leg,jean
+SoHo,SKU-004,28,Indigo,0,2026-06-25,0,0,Wide Leg,jean
+SoHo,SKU-004,28,Black,2,2026-07-01,0,2,Wide Leg,jean
+SoHo,SKU-004,28,White,0,2026-06-23,0,0,Wide Leg,jean
+SoHo,SKU-004,28,Stone Wash,5,2026-07-02,0,5,Wide Leg,jean
+SoHo,SKU-004,28,Raw Denim,0,2026-07-02,0,0,Wide Leg,jean
+SoHo,SKU-004,28,Vintage Blue,0,2026-07-04,0,0,Wide Leg,jean
+SoHo,SKU-004,29,Indigo,5,2026-07-03,0,5,Wide Leg,jean
+SoHo,SKU-004,29,Black,3,2026-07-02,0,3,Wide Leg,jean
+SoHo,SKU-004,29,White,3,2026-07-05,0,3,Wide Leg,jean
+SoHo,SKU-004,29,Stone Wash,5,2026-06-23,0,5,Wide Leg,jean
+SoHo,SKU-004,29,Raw Denim,3,2026-07-04,0,3,Wide Leg,jean
+SoHo,SKU-004,29,Vintage Blue,9,2026-06-25,0,9,Wide Leg,jean
+SoHo,SKU-004,30,Indigo,2,2026-06-28,0,2,Wide Leg,jean
+SoHo,SKU-004,30,Black,0,2026-07-01,0,0,Wide Leg,jean
+SoHo,SKU-004,30,White,6,2026-07-02,0,6,Wide Leg,jean
+SoHo,SKU-004,30,Stone Wash,3,2026-07-05,0,3,Wide Leg,jean
+SoHo,SKU-004,30,Raw Denim,3,2026-06-28,0,3,Wide Leg,jean
+SoHo,SKU-004,30,Vintage Blue,0,2026-06-27,0,0,Wide Leg,jean
+SoHo,SKU-004,31,Indigo,0,2026-06-26,1,1,Wide Leg,jean
+SoHo,SKU-004,31,Black,2,2026-06-22,0,2,Wide Leg,jean
+SoHo,SKU-004,31,White,4,2026-06-26,0,4,Wide Leg,jean
+SoHo,SKU-004,31,Stone Wash,2,2026-07-06,0,2,Wide Leg,jean
+SoHo,SKU-004,31,Raw Denim,6,2026-06-25,0,6,Wide Leg,jean
+SoHo,SKU-004,31,Vintage Blue,7,2026-07-03,0,7,Wide Leg,jean
+SoHo,SKU-004,32,Indigo,1,2026-06-30,0,1,Wide Leg,jean
+SoHo,SKU-004,32,Black,0,2026-07-01,0,0,Wide Leg,jean
+SoHo,SKU-004,32,White,3,2026-06-22,0,3,Wide Leg,jean
+SoHo,SKU-004,32,Stone Wash,5,2026-06-28,0,5,Wide Leg,jean
+SoHo,SKU-004,32,Raw Denim,3,2026-06-25,0,3,Wide Leg,jean
+SoHo,SKU-004,32,Vintage Blue,8,2026-07-02,0,8,Wide Leg,jean
+SoHo,SKU-004,33,Indigo,4,2026-06-26,0,4,Wide Leg,jean
+SoHo,SKU-004,33,Black,6,2026-06-25,0,6,Wide Leg,jean
+SoHo,SKU-004,33,White,5,2026-07-06,0,5,Wide Leg,jean
+SoHo,SKU-004,33,Stone Wash,5,2026-07-02,0,5,Wide Leg,jean
+SoHo,SKU-004,33,Raw Denim,0,2026-06-25,0,0,Wide Leg,jean
+SoHo,SKU-004,33,Vintage Blue,4,2026-07-03,0,4,Wide Leg,jean
+SoHo,SKU-004,34,Indigo,2,2026-07-05,0,2,Wide Leg,jean
+SoHo,SKU-004,34,Black,1,2026-07-02,0,1,Wide Leg,jean
+SoHo,SKU-004,34,White,4,2026-07-06,0,4,Wide Leg,jean
+SoHo,SKU-004,34,Stone Wash,3,2026-07-04,0,3,Wide Leg,jean
+SoHo,SKU-004,34,Raw Denim,0,2026-06-24,0,0,Wide Leg,jean
+SoHo,SKU-004,34,Vintage Blue,2,2026-06-22,0,2,Wide Leg,jean
+SoHo,SKU-005,24,Indigo,2,2026-07-02,0,2,Slim Straight,jean
+SoHo,SKU-005,24,Black,1,2026-07-04,0,1,Slim Straight,jean
+SoHo,SKU-005,24,White,5,2026-06-29,0,5,Slim Straight,jean
+SoHo,SKU-005,24,Stone Wash,1,2026-06-25,0,1,Slim Straight,jean
+SoHo,SKU-005,24,Raw Denim,7,2026-06-28,0,7,Slim Straight,jean
+SoHo,SKU-005,24,Vintage Blue,2,2026-07-03,0,2,Slim Straight,jean
+SoHo,SKU-005,25,Indigo,0,2026-06-23,0,0,Slim Straight,jean
+SoHo,SKU-005,25,Black,6,2026-06-30,0,6,Slim Straight,jean
+SoHo,SKU-005,25,White,6,2026-06-29,0,6,Slim Straight,jean
+SoHo,SKU-005,25,Stone Wash,2,2026-06-22,0,2,Slim Straight,jean
+SoHo,SKU-005,25,Raw Denim,0,2026-07-05,0,0,Slim Straight,jean
+SoHo,SKU-005,25,Vintage Blue,7,2026-06-30,0,7,Slim Straight,jean
+SoHo,SKU-005,26,Indigo,2,2026-06-22,0,2,Slim Straight,jean
+SoHo,SKU-005,26,Black,6,2026-06-28,0,6,Slim Straight,jean
+SoHo,SKU-005,26,White,1,2026-07-05,0,1,Slim Straight,jean
+SoHo,SKU-005,26,Stone Wash,0,2026-07-05,0,0,Slim Straight,jean
+SoHo,SKU-005,26,Raw Denim,7,2026-06-25,0,7,Slim Straight,jean
+SoHo,SKU-005,26,Vintage Blue,0,2026-06-26,0,0,Slim Straight,jean
+SoHo,SKU-005,27,Indigo,8,2026-06-30,0,8,Slim Straight,jean
+SoHo,SKU-005,27,Black,6,2026-06-28,0,6,Slim Straight,jean
+SoHo,SKU-005,27,White,5,2026-06-27,0,5,Slim Straight,jean
+SoHo,SKU-005,27,Stone Wash,10,2026-06-27,0,10,Slim Straight,jean
+SoHo,SKU-005,27,Raw Denim,0,2026-07-03,0,0,Slim Straight,jean
+SoHo,SKU-005,27,Vintage Blue,0,2026-06-30,0,0,Slim Straight,jean
+SoHo,SKU-005,28,Indigo,5,2026-07-02,0,5,Slim Straight,jean
+SoHo,SKU-005,28,Black,3,2026-06-27,0,3,Slim Straight,jean
+SoHo,SKU-005,28,White,3,2026-06-22,0,3,Slim Straight,jean
+SoHo,SKU-005,28,Stone Wash,2,2026-06-30,0,2,Slim Straight,jean
+SoHo,SKU-005,28,Raw Denim,4,2026-07-05,0,4,Slim Straight,jean
+SoHo,SKU-005,28,Vintage Blue,4,2026-07-03,0,4,Slim Straight,jean
+SoHo,SKU-005,29,Indigo,2,2026-06-27,0,2,Slim Straight,jean
+SoHo,SKU-005,29,Black,0,2026-07-04,0,0,Slim Straight,jean
+SoHo,SKU-005,29,White,10,2026-07-04,0,10,Slim Straight,jean
+SoHo,SKU-005,29,Stone Wash,3,2026-07-05,0,3,Slim Straight,jean
+SoHo,SKU-005,29,Raw Denim,6,2026-06-28,0,6,Slim Straight,jean
+SoHo,SKU-005,29,Vintage Blue,5,2026-06-30,0,5,Slim Straight,jean
+SoHo,SKU-005,30,Indigo,5,2026-07-05,0,5,Slim Straight,jean
+SoHo,SKU-005,30,Black,2,2026-07-04,0,2,Slim Straight,jean
+SoHo,SKU-005,30,White,2,2026-06-26,0,2,Slim Straight,jean
+SoHo,SKU-005,30,Stone Wash,1,2026-06-29,0,1,Slim Straight,jean
+SoHo,SKU-005,30,Raw Denim,0,2026-06-23,0,0,Slim Straight,jean
+SoHo,SKU-005,30,Vintage Blue,3,2026-06-23,0,3,Slim Straight,jean
+SoHo,SKU-005,31,Indigo,0,2026-06-24,0,0,Slim Straight,jean
+SoHo,SKU-005,31,Black,2,2026-06-29,0,2,Slim Straight,jean
+SoHo,SKU-005,31,White,0,2026-06-28,0,0,Slim Straight,jean
+SoHo,SKU-005,31,Stone Wash,2,2026-06-24,0,2,Slim Straight,jean
+SoHo,SKU-005,31,Raw Denim,6,2026-06-23,0,6,Slim Straight,jean
+SoHo,SKU-005,31,Vintage Blue,0,2026-06-30,0,0,Slim Straight,jean
+SoHo,SKU-005,32,Indigo,3,2026-06-25,0,3,Slim Straight,jean
+SoHo,SKU-005,32,Black,4,2026-06-22,0,4,Slim Straight,jean
+SoHo,SKU-005,32,White,7,2026-07-03,0,7,Slim Straight,jean
+SoHo,SKU-005,32,Stone Wash,5,2026-06-26,0,5,Slim Straight,jean
+SoHo,SKU-005,32,Raw Denim,4,2026-07-06,0,4,Slim Straight,jean
+SoHo,SKU-005,32,Vintage Blue,3,2026-06-27,0,3,Slim Straight,jean
+SoHo,SKU-005,33,Indigo,5,2026-06-22,0,5,Slim Straight,jean
+SoHo,SKU-005,33,Black,4,2026-06-24,0,4,Slim Straight,jean
+SoHo,SKU-005,33,White,1,2026-07-01,0,1,Slim Straight,jean
+SoHo,SKU-005,33,Stone Wash,5,2026-06-30,0,5,Slim Straight,jean
+SoHo,SKU-005,33,Raw Denim,0,2026-07-02,0,0,Slim Straight,jean
+SoHo,SKU-005,33,Vintage Blue,3,2026-07-05,0,3,Slim Straight,jean
+SoHo,SKU-005,34,Indigo,3,2026-07-04,0,3,Slim Straight,jean
+SoHo,SKU-005,34,Black,0,2026-06-22,0,0,Slim Straight,jean
+SoHo,SKU-005,34,White,3,2026-06-25,1,4,Slim Straight,jean
+SoHo,SKU-005,34,Stone Wash,3,2026-06-30,0,3,Slim Straight,jean
+SoHo,SKU-005,34,Raw Denim,2,2026-07-03,0,2,Slim Straight,jean
+SoHo,SKU-005,34,Vintage Blue,8,2026-07-05,0,8,Slim Straight,jean
+SoHo,SKU-006,24,Indigo,2,2026-06-27,0,2,High-Rise Skinny,jean
+SoHo,SKU-006,24,Black,6,2026-07-03,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,24,White,0,2026-06-29,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,24,Stone Wash,7,2026-06-23,0,7,High-Rise Skinny,jean
+SoHo,SKU-006,24,Raw Denim,3,2026-06-28,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,24,Vintage Blue,1,2026-06-24,0,1,High-Rise Skinny,jean
+SoHo,SKU-006,25,Indigo,5,2026-06-30,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,25,Black,8,2026-07-04,0,8,High-Rise Skinny,jean
+SoHo,SKU-006,25,White,3,2026-07-03,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,25,Stone Wash,5,2026-06-30,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,25,Raw Denim,3,2026-06-29,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,25,Vintage Blue,4,2026-06-29,0,4,High-Rise Skinny,jean
+SoHo,SKU-006,26,Indigo,8,2026-06-29,0,8,High-Rise Skinny,jean
+SoHo,SKU-006,26,Black,0,2026-07-02,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,26,White,6,2026-07-04,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,26,Stone Wash,3,2026-06-24,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,26,Raw Denim,0,2026-07-05,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,26,Vintage Blue,6,2026-07-06,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,27,Indigo,3,2026-06-23,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,27,Black,4,2026-06-23,0,4,High-Rise Skinny,jean
+SoHo,SKU-006,27,White,3,2026-06-25,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,27,Stone Wash,4,2026-07-03,0,4,High-Rise Skinny,jean
+SoHo,SKU-006,27,Raw Denim,5,2026-06-24,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,27,Vintage Blue,7,2026-07-04,0,7,High-Rise Skinny,jean
+SoHo,SKU-006,28,Indigo,7,2026-06-25,0,7,High-Rise Skinny,jean
+SoHo,SKU-006,28,Black,0,2026-06-30,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,28,White,5,2026-07-03,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,28,Stone Wash,3,2026-06-26,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,28,Raw Denim,0,2026-06-25,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,28,Vintage Blue,3,2026-06-30,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,29,Indigo,6,2026-07-05,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,29,Black,6,2026-06-24,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,29,White,5,2026-07-04,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,29,Stone Wash,5,2026-06-28,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,29,Raw Denim,3,2026-07-06,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,29,Vintage Blue,2,2026-06-23,0,2,High-Rise Skinny,jean
+SoHo,SKU-006,30,Indigo,0,2026-06-26,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,30,Black,2,2026-06-28,0,2,High-Rise Skinny,jean
+SoHo,SKU-006,30,White,0,2026-06-26,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,30,Stone Wash,11,2026-06-26,0,11,High-Rise Skinny,jean
+SoHo,SKU-006,30,Raw Denim,2,2026-07-05,0,2,High-Rise Skinny,jean
+SoHo,SKU-006,30,Vintage Blue,1,2026-06-26,0,1,High-Rise Skinny,jean
+SoHo,SKU-006,31,Indigo,2,2026-06-26,0,2,High-Rise Skinny,jean
+SoHo,SKU-006,31,Black,6,2026-07-05,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,31,White,0,2026-06-26,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,31,Stone Wash,6,2026-07-05,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,31,Raw Denim,1,2026-06-29,0,1,High-Rise Skinny,jean
+SoHo,SKU-006,31,Vintage Blue,0,2026-06-24,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,32,Indigo,3,2026-07-03,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,32,Black,1,2026-06-30,0,1,High-Rise Skinny,jean
+SoHo,SKU-006,32,White,1,2026-07-03,0,1,High-Rise Skinny,jean
+SoHo,SKU-006,32,Stone Wash,0,2026-06-27,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,32,Raw Denim,6,2026-07-02,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,32,Vintage Blue,0,2026-06-26,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,33,Indigo,3,2026-07-03,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,33,Black,7,2026-07-01,0,7,High-Rise Skinny,jean
+SoHo,SKU-006,33,White,9,2026-06-27,0,9,High-Rise Skinny,jean
+SoHo,SKU-006,33,Stone Wash,0,2026-07-03,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,33,Raw Denim,3,2026-07-03,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,33,Vintage Blue,6,2026-07-06,0,6,High-Rise Skinny,jean
+SoHo,SKU-006,34,Indigo,3,2026-06-25,0,3,High-Rise Skinny,jean
+SoHo,SKU-006,34,Black,5,2026-07-02,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,34,White,7,2026-07-06,0,7,High-Rise Skinny,jean
+SoHo,SKU-006,34,Stone Wash,5,2026-07-03,0,5,High-Rise Skinny,jean
+SoHo,SKU-006,34,Raw Denim,0,2026-07-01,0,0,High-Rise Skinny,jean
+SoHo,SKU-006,34,Vintage Blue,2,2026-06-25,0,2,High-Rise Skinny,jean
+SoHo,SKU-007,24,Indigo,2,2026-07-05,0,2,Mom Jean,jean
+SoHo,SKU-007,24,Black,2,2026-07-02,0,2,Mom Jean,jean
+SoHo,SKU-007,24,White,2,2026-06-25,0,2,Mom Jean,jean
+SoHo,SKU-007,24,Stone Wash,0,2026-06-29,0,0,Mom Jean,jean
+SoHo,SKU-007,24,Raw Denim,8,2026-06-25,0,8,Mom Jean,jean
+SoHo,SKU-007,24,Vintage Blue,1,2026-07-05,0,1,Mom Jean,jean
+SoHo,SKU-007,25,Indigo,6,2026-06-27,0,6,Mom Jean,jean
+SoHo,SKU-007,25,Black,2,2026-06-24,0,2,Mom Jean,jean
+SoHo,SKU-007,25,White,2,2026-06-23,0,2,Mom Jean,jean
+SoHo,SKU-007,25,Stone Wash,3,2026-07-01,0,3,Mom Jean,jean
+SoHo,SKU-007,25,Raw Denim,1,2026-06-30,0,1,Mom Jean,jean
+SoHo,SKU-007,25,Vintage Blue,0,2026-06-29,0,0,Mom Jean,jean
+SoHo,SKU-007,26,Indigo,3,2026-06-24,0,3,Mom Jean,jean
+SoHo,SKU-007,26,Black,7,2026-06-24,0,7,Mom Jean,jean
+SoHo,SKU-007,26,White,5,2026-06-30,0,5,Mom Jean,jean
+SoHo,SKU-007,26,Stone Wash,2,2026-06-23,0,2,Mom Jean,jean
+SoHo,SKU-007,26,Raw Denim,5,2026-06-27,0,5,Mom Jean,jean
+SoHo,SKU-007,26,Vintage Blue,2,2026-07-05,0,2,Mom Jean,jean
+SoHo,SKU-007,27,Indigo,7,2026-06-28,0,7,Mom Jean,jean
+SoHo,SKU-007,27,Black,0,2026-06-27,0,0,Mom Jean,jean
+SoHo,SKU-007,27,White,7,2026-06-28,0,7,Mom Jean,jean
+SoHo,SKU-007,27,Stone Wash,3,2026-07-04,0,3,Mom Jean,jean
+SoHo,SKU-007,27,Raw Denim,7,2026-06-22,0,7,Mom Jean,jean
+SoHo,SKU-007,27,Vintage Blue,8,2026-07-01,0,8,Mom Jean,jean
+SoHo,SKU-007,28,Indigo,3,2026-07-05,0,3,Mom Jean,jean
+SoHo,SKU-007,28,Black,2,2026-06-29,0,2,Mom Jean,jean
+SoHo,SKU-007,28,White,6,2026-06-30,0,6,Mom Jean,jean
+SoHo,SKU-007,28,Stone Wash,3,2026-06-30,0,3,Mom Jean,jean
+SoHo,SKU-007,28,Raw Denim,4,2026-06-25,0,4,Mom Jean,jean
+SoHo,SKU-007,28,Vintage Blue,8,2026-06-29,0,8,Mom Jean,jean
+SoHo,SKU-007,29,Indigo,6,2026-06-30,0,6,Mom Jean,jean
+SoHo,SKU-007,29,Black,4,2026-06-22,0,4,Mom Jean,jean
+SoHo,SKU-007,29,White,2,2026-07-04,0,2,Mom Jean,jean
+SoHo,SKU-007,29,Stone Wash,8,2026-06-24,0,8,Mom Jean,jean
+SoHo,SKU-007,29,Raw Denim,2,2026-06-24,0,2,Mom Jean,jean
+SoHo,SKU-007,29,Vintage Blue,0,2026-06-26,0,0,Mom Jean,jean
+SoHo,SKU-007,30,Indigo,7,2026-07-01,0,7,Mom Jean,jean
+SoHo,SKU-007,30,Black,0,2026-06-27,0,0,Mom Jean,jean
+SoHo,SKU-007,30,White,0,2026-06-26,0,0,Mom Jean,jean
+SoHo,SKU-007,30,Stone Wash,5,2026-07-04,0,5,Mom Jean,jean
+SoHo,SKU-007,30,Raw Denim,0,2026-06-27,0,0,Mom Jean,jean
+SoHo,SKU-007,30,Vintage Blue,1,2026-06-27,0,1,Mom Jean,jean
+SoHo,SKU-007,31,Indigo,9,2026-06-24,0,9,Mom Jean,jean
+SoHo,SKU-007,31,Black,2,2026-06-25,0,2,Mom Jean,jean
+SoHo,SKU-007,31,White,7,2026-06-23,0,7,Mom Jean,jean
+SoHo,SKU-007,31,Stone Wash,3,2026-06-29,0,3,Mom Jean,jean
+SoHo,SKU-007,31,Raw Denim,9,2026-06-29,0,9,Mom Jean,jean
+SoHo,SKU-007,31,Vintage Blue,7,2026-06-23,0,7,Mom Jean,jean
+SoHo,SKU-007,32,Indigo,0,2026-06-30,0,0,Mom Jean,jean
+SoHo,SKU-007,32,Black,8,2026-06-22,0,8,Mom Jean,jean
+SoHo,SKU-007,32,White,6,2026-06-28,0,6,Mom Jean,jean
+SoHo,SKU-007,32,Stone Wash,0,2026-06-26,0,0,Mom Jean,jean
+SoHo,SKU-007,32,Raw Denim,2,2026-07-01,0,2,Mom Jean,jean
+SoHo,SKU-007,32,Vintage Blue,8,2026-06-22,0,8,Mom Jean,jean
+SoHo,SKU-007,33,Indigo,4,2026-06-22,0,4,Mom Jean,jean
+SoHo,SKU-007,33,Black,9,2026-06-23,0,9,Mom Jean,jean
+SoHo,SKU-007,33,White,4,2026-07-05,0,4,Mom Jean,jean
+SoHo,SKU-007,33,Stone Wash,2,2026-06-25,0,2,Mom Jean,jean
+SoHo,SKU-007,33,Raw Denim,0,2026-06-30,0,0,Mom Jean,jean
+SoHo,SKU-007,33,Vintage Blue,3,2026-07-04,0,3,Mom Jean,jean
+SoHo,SKU-007,34,Indigo,0,2026-07-03,0,0,Mom Jean,jean
+SoHo,SKU-007,34,Black,0,2026-06-25,0,0,Mom Jean,jean
+SoHo,SKU-007,34,White,1,2026-06-24,0,1,Mom Jean,jean
+SoHo,SKU-007,34,Stone Wash,4,2026-06-24,0,4,Mom Jean,jean
+SoHo,SKU-007,34,Raw Denim,0,2026-06-27,0,0,Mom Jean,jean
+SoHo,SKU-007,34,Vintage Blue,3,2026-07-06,0,3,Mom Jean,jean
+SoHo,SKU-008,24,Indigo,0,2026-06-22,0,0,Boyfriend,jean
+SoHo,SKU-008,24,Black,7,2026-07-05,0,7,Boyfriend,jean
+SoHo,SKU-008,24,White,7,2026-07-04,0,7,Boyfriend,jean
+SoHo,SKU-008,24,Stone Wash,3,2026-06-30,0,3,Boyfriend,jean
+SoHo,SKU-008,24,Raw Denim,2,2026-07-05,0,2,Boyfriend,jean
+SoHo,SKU-008,24,Vintage Blue,1,2026-07-03,0,1,Boyfriend,jean
+SoHo,SKU-008,25,Indigo,2,2026-06-30,0,2,Boyfriend,jean
+SoHo,SKU-008,25,Black,7,2026-06-28,0,7,Boyfriend,jean
+SoHo,SKU-008,25,White,4,2026-07-06,0,4,Boyfriend,jean
+SoHo,SKU-008,25,Stone Wash,6,2026-07-06,0,6,Boyfriend,jean
+SoHo,SKU-008,25,Raw Denim,3,2026-06-26,0,3,Boyfriend,jean
+SoHo,SKU-008,25,Vintage Blue,7,2026-06-22,0,7,Boyfriend,jean
+SoHo,SKU-008,26,Indigo,8,2026-07-03,0,8,Boyfriend,jean
+SoHo,SKU-008,26,Black,7,2026-06-28,0,7,Boyfriend,jean
+SoHo,SKU-008,26,White,1,2026-06-28,0,1,Boyfriend,jean
+SoHo,SKU-008,26,Stone Wash,4,2026-07-06,0,4,Boyfriend,jean
+SoHo,SKU-008,26,Raw Denim,4,2026-06-24,0,4,Boyfriend,jean
+SoHo,SKU-008,26,Vintage Blue,7,2026-06-30,0,7,Boyfriend,jean
+SoHo,SKU-008,27,Indigo,1,2026-06-23,0,1,Boyfriend,jean
+SoHo,SKU-008,27,Black,0,2026-06-29,0,0,Boyfriend,jean
+SoHo,SKU-008,27,White,4,2026-07-04,0,4,Boyfriend,jean
+SoHo,SKU-008,27,Stone Wash,5,2026-06-29,0,5,Boyfriend,jean
+SoHo,SKU-008,27,Raw Denim,2,2026-07-03,0,2,Boyfriend,jean
+SoHo,SKU-008,27,Vintage Blue,2,2026-07-03,0,2,Boyfriend,jean
+SoHo,SKU-008,28,Indigo,5,2026-06-22,0,5,Boyfriend,jean
+SoHo,SKU-008,28,Black,1,2026-07-06,0,1,Boyfriend,jean
+SoHo,SKU-008,28,White,5,2026-06-29,0,5,Boyfriend,jean
+SoHo,SKU-008,28,Stone Wash,0,2026-06-25,0,0,Boyfriend,jean
+SoHo,SKU-008,28,Raw Denim,0,2026-07-06,0,0,Boyfriend,jean
+SoHo,SKU-008,28,Vintage Blue,0,2026-07-01,0,0,Boyfriend,jean
+SoHo,SKU-008,29,Indigo,7,2026-06-29,0,7,Boyfriend,jean
+SoHo,SKU-008,29,Black,5,2026-06-23,0,5,Boyfriend,jean
+SoHo,SKU-008,29,White,0,2026-07-03,0,0,Boyfriend,jean
+SoHo,SKU-008,29,Stone Wash,0,2026-07-06,0,0,Boyfriend,jean
+SoHo,SKU-008,29,Raw Denim,1,2026-07-01,0,1,Boyfriend,jean
+SoHo,SKU-008,29,Vintage Blue,3,2026-07-03,0,3,Boyfriend,jean
+SoHo,SKU-008,30,Indigo,9,2026-06-27,0,9,Boyfriend,jean
+SoHo,SKU-008,30,Black,3,2026-06-25,0,3,Boyfriend,jean
+SoHo,SKU-008,30,White,6,2026-06-27,0,6,Boyfriend,jean
+SoHo,SKU-008,30,Stone Wash,10,2026-07-01,0,10,Boyfriend,jean
+SoHo,SKU-008,30,Raw Denim,3,2026-07-02,0,3,Boyfriend,jean
+SoHo,SKU-008,30,Vintage Blue,9,2026-06-26,0,9,Boyfriend,jean
+SoHo,SKU-008,31,Indigo,3,2026-06-28,0,3,Boyfriend,jean
+SoHo,SKU-008,31,Black,0,2026-06-25,0,0,Boyfriend,jean
+SoHo,SKU-008,31,White,3,2026-06-26,0,3,Boyfriend,jean
+SoHo,SKU-008,31,Stone Wash,6,2026-06-28,0,6,Boyfriend,jean
+SoHo,SKU-008,31,Raw Denim,4,2026-06-30,0,4,Boyfriend,jean
+SoHo,SKU-008,31,Vintage Blue,2,2026-07-04,0,2,Boyfriend,jean
+SoHo,SKU-008,32,Indigo,3,2026-07-01,0,3,Boyfriend,jean
+SoHo,SKU-008,32,Black,3,2026-06-27,0,3,Boyfriend,jean
+SoHo,SKU-008,32,White,4,2026-06-24,0,4,Boyfriend,jean
+SoHo,SKU-008,32,Stone Wash,6,2026-06-30,0,6,Boyfriend,jean
+SoHo,SKU-008,32,Raw Denim,8,2026-07-04,0,8,Boyfriend,jean
+SoHo,SKU-008,32,Vintage Blue,0,2026-06-24,0,0,Boyfriend,jean
+SoHo,SKU-008,33,Indigo,11,2026-06-28,0,11,Boyfriend,jean
+SoHo,SKU-008,33,Black,7,2026-06-27,0,7,Boyfriend,jean
+SoHo,SKU-008,33,White,0,2026-07-01,0,0,Boyfriend,jean
+SoHo,SKU-008,33,Stone Wash,0,2026-06-23,0,0,Boyfriend,jean
+SoHo,SKU-008,33,Raw Denim,3,2026-07-05,0,3,Boyfriend,jean
+SoHo,SKU-008,33,Vintage Blue,4,2026-06-23,0,4,Boyfriend,jean
+SoHo,SKU-008,34,Indigo,0,2026-07-01,0,0,Boyfriend,jean
+SoHo,SKU-008,34,Black,0,2026-06-25,0,0,Boyfriend,jean
+SoHo,SKU-008,34,White,1,2026-07-06,0,1,Boyfriend,jean
+SoHo,SKU-008,34,Stone Wash,4,2026-06-27,0,4,Boyfriend,jean
+SoHo,SKU-008,34,Raw Denim,3,2026-06-26,0,3,Boyfriend,jean
+SoHo,SKU-008,34,Vintage Blue,9,2026-07-06,0,9,Boyfriend,jean
+SoHo,SKU-009,24,Indigo,5,2026-06-29,0,5,Cropped Straight,jean
+SoHo,SKU-009,24,Black,4,2026-07-01,0,4,Cropped Straight,jean
+SoHo,SKU-009,24,White,6,2026-07-02,0,6,Cropped Straight,jean
+SoHo,SKU-009,24,Stone Wash,0,2026-06-25,0,0,Cropped Straight,jean
+SoHo,SKU-009,24,Raw Denim,7,2026-07-03,0,7,Cropped Straight,jean
+SoHo,SKU-009,24,Vintage Blue,0,2026-07-02,0,0,Cropped Straight,jean
+SoHo,SKU-009,25,Indigo,0,2026-07-03,0,0,Cropped Straight,jean
+SoHo,SKU-009,25,Black,6,2026-07-03,0,6,Cropped Straight,jean
+SoHo,SKU-009,25,White,0,2026-06-23,0,0,Cropped Straight,jean
+SoHo,SKU-009,25,Stone Wash,0,2026-06-28,0,0,Cropped Straight,jean
+SoHo,SKU-009,25,Raw Denim,0,2026-06-27,0,0,Cropped Straight,jean
+SoHo,SKU-009,25,Vintage Blue,3,2026-06-27,0,3,Cropped Straight,jean
+SoHo,SKU-009,26,Indigo,5,2026-06-28,0,5,Cropped Straight,jean
+SoHo,SKU-009,26,Black,1,2026-06-29,0,1,Cropped Straight,jean
+SoHo,SKU-009,26,White,7,2026-07-05,0,7,Cropped Straight,jean
+SoHo,SKU-009,26,Stone Wash,1,2026-07-03,0,1,Cropped Straight,jean
+SoHo,SKU-009,26,Raw Denim,3,2026-07-06,0,3,Cropped Straight,jean
+SoHo,SKU-009,26,Vintage Blue,2,2026-06-26,0,2,Cropped Straight,jean
+SoHo,SKU-009,27,Indigo,4,2026-06-28,0,4,Cropped Straight,jean
+SoHo,SKU-009,27,Black,0,2026-06-25,0,0,Cropped Straight,jean
+SoHo,SKU-009,27,White,0,2026-07-04,0,0,Cropped Straight,jean
+SoHo,SKU-009,27,Stone Wash,2,2026-07-05,0,2,Cropped Straight,jean
+SoHo,SKU-009,27,Raw Denim,4,2026-06-22,0,4,Cropped Straight,jean
+SoHo,SKU-009,27,Vintage Blue,2,2026-06-24,0,2,Cropped Straight,jean
+SoHo,SKU-009,28,Indigo,3,2026-07-01,0,3,Cropped Straight,jean
+SoHo,SKU-009,28,Black,0,2026-07-06,0,0,Cropped Straight,jean
+SoHo,SKU-009,28,White,0,2026-06-27,0,0,Cropped Straight,jean
+SoHo,SKU-009,28,Stone Wash,2,2026-07-02,0,2,Cropped Straight,jean
+SoHo,SKU-009,28,Raw Denim,7,2026-07-05,0,7,Cropped Straight,jean
+SoHo,SKU-009,28,Vintage Blue,4,2026-06-29,0,4,Cropped Straight,jean
+SoHo,SKU-009,29,Indigo,1,2026-06-27,0,1,Cropped Straight,jean
+SoHo,SKU-009,29,Black,0,2026-07-06,0,0,Cropped Straight,jean
+SoHo,SKU-009,29,White,0,2026-06-25,0,0,Cropped Straight,jean
+SoHo,SKU-009,29,Stone Wash,1,2026-07-04,0,1,Cropped Straight,jean
+SoHo,SKU-009,29,Raw Denim,0,2026-07-03,0,0,Cropped Straight,jean
+SoHo,SKU-009,29,Vintage Blue,0,2026-06-26,0,0,Cropped Straight,jean
+SoHo,SKU-009,30,Indigo,1,2026-06-30,0,1,Cropped Straight,jean
+SoHo,SKU-009,30,Black,6,2026-06-30,0,6,Cropped Straight,jean
+SoHo,SKU-009,30,White,3,2026-07-06,0,3,Cropped Straight,jean
+SoHo,SKU-009,30,Stone Wash,6,2026-07-04,0,6,Cropped Straight,jean
+SoHo,SKU-009,30,Raw Denim,3,2026-06-23,0,3,Cropped Straight,jean
+SoHo,SKU-009,30,Vintage Blue,2,2026-07-01,0,2,Cropped Straight,jean
+SoHo,SKU-009,31,Indigo,0,2026-06-22,0,0,Cropped Straight,jean
+SoHo,SKU-009,31,Black,4,2026-07-03,0,4,Cropped Straight,jean
+SoHo,SKU-009,31,White,3,2026-06-24,0,3,Cropped Straight,jean
+SoHo,SKU-009,31,Stone Wash,5,2026-06-26,0,5,Cropped Straight,jean
+SoHo,SKU-009,31,Raw Denim,2,2026-07-03,0,2,Cropped Straight,jean
+SoHo,SKU-009,31,Vintage Blue,0,2026-06-29,0,0,Cropped Straight,jean
+SoHo,SKU-009,32,Indigo,1,2026-06-28,0,1,Cropped Straight,jean
+SoHo,SKU-009,32,Black,4,2026-07-02,0,4,Cropped Straight,jean
+SoHo,SKU-009,32,White,6,2026-06-26,0,6,Cropped Straight,jean
+SoHo,SKU-009,32,Stone Wash,2,2026-06-28,0,2,Cropped Straight,jean
+SoHo,SKU-009,32,Raw Denim,1,2026-07-05,0,1,Cropped Straight,jean
+SoHo,SKU-009,32,Vintage Blue,0,2026-07-04,0,0,Cropped Straight,jean
+SoHo,SKU-009,33,Indigo,3,2026-06-25,0,3,Cropped Straight,jean
+SoHo,SKU-009,33,Black,3,2026-06-26,0,3,Cropped Straight,jean
+SoHo,SKU-009,33,White,0,2026-06-27,0,0,Cropped Straight,jean
+SoHo,SKU-009,33,Stone Wash,7,2026-06-25,0,7,Cropped Straight,jean
+SoHo,SKU-009,33,Raw Denim,0,2026-07-06,0,0,Cropped Straight,jean
+SoHo,SKU-009,33,Vintage Blue,5,2026-07-03,0,5,Cropped Straight,jean
+SoHo,SKU-009,34,Indigo,8,2026-06-28,0,8,Cropped Straight,jean
+SoHo,SKU-009,34,Black,3,2026-07-05,0,3,Cropped Straight,jean
+SoHo,SKU-009,34,White,3,2026-07-01,0,3,Cropped Straight,jean
+SoHo,SKU-009,34,Stone Wash,7,2026-06-28,0,7,Cropped Straight,jean
+SoHo,SKU-009,34,Raw Denim,1,2026-07-01,0,1,Cropped Straight,jean
+SoHo,SKU-009,34,Vintage Blue,5,2026-06-23,0,5,Cropped Straight,jean
+SoHo,SKU-010,24,Indigo,4,2026-07-05,0,4,Flare,jean
+SoHo,SKU-010,24,Black,6,2026-06-30,0,6,Flare,jean
+SoHo,SKU-010,24,White,5,2026-07-06,0,5,Flare,jean
+SoHo,SKU-010,24,Stone Wash,0,2026-06-30,0,0,Flare,jean
+SoHo,SKU-010,24,Raw Denim,8,2026-06-23,0,8,Flare,jean
+SoHo,SKU-010,24,Vintage Blue,2,2026-07-04,0,2,Flare,jean
+SoHo,SKU-010,25,Indigo,3,2026-06-25,0,3,Flare,jean
+SoHo,SKU-010,25,Black,4,2026-06-28,0,4,Flare,jean
+SoHo,SKU-010,25,White,0,2026-06-28,0,0,Flare,jean
+SoHo,SKU-010,25,Stone Wash,0,2026-06-23,0,0,Flare,jean
+SoHo,SKU-010,25,Raw Denim,0,2026-07-03,0,0,Flare,jean
+SoHo,SKU-010,25,Vintage Blue,5,2026-06-29,0,5,Flare,jean
+SoHo,SKU-010,26,Indigo,4,2026-07-01,0,4,Flare,jean
+SoHo,SKU-010,26,Black,4,2026-07-01,0,4,Flare,jean
+SoHo,SKU-010,26,White,1,2026-06-28,0,1,Flare,jean
+SoHo,SKU-010,26,Stone Wash,0,2026-07-03,0,0,Flare,jean
+SoHo,SKU-010,26,Raw Denim,0,2026-06-26,0,0,Flare,jean
+SoHo,SKU-010,26,Vintage Blue,4,2026-07-06,0,4,Flare,jean
+SoHo,SKU-010,27,Indigo,1,2026-06-30,0,1,Flare,jean
+SoHo,SKU-010,27,Black,0,2026-07-05,0,0,Flare,jean
+SoHo,SKU-010,27,White,4,2026-06-27,0,4,Flare,jean
+SoHo,SKU-010,27,Stone Wash,4,2026-06-24,0,4,Flare,jean
+SoHo,SKU-010,27,Raw Denim,2,2026-06-27,0,2,Flare,jean
+SoHo,SKU-010,27,Vintage Blue,0,2026-06-30,0,0,Flare,jean
+SoHo,SKU-010,28,Indigo,4,2026-07-01,0,4,Flare,jean
+SoHo,SKU-010,28,Black,0,2026-07-05,0,0,Flare,jean
+SoHo,SKU-010,28,White,8,2026-07-03,0,8,Flare,jean
+SoHo,SKU-010,28,Stone Wash,5,2026-06-23,0,5,Flare,jean
+SoHo,SKU-010,28,Raw Denim,2,2026-06-30,0,2,Flare,jean
+SoHo,SKU-010,28,Vintage Blue,1,2026-07-01,0,1,Flare,jean
+SoHo,SKU-010,29,Indigo,3,2026-07-05,0,3,Flare,jean
+SoHo,SKU-010,29,Black,2,2026-07-03,0,2,Flare,jean
+SoHo,SKU-010,29,White,1,2026-06-29,0,1,Flare,jean
+SoHo,SKU-010,29,Stone Wash,2,2026-06-29,0,2,Flare,jean
+SoHo,SKU-010,29,Raw Denim,4,2026-06-25,0,4,Flare,jean
+SoHo,SKU-010,29,Vintage Blue,1,2026-06-26,0,1,Flare,jean
+SoHo,SKU-010,30,Indigo,8,2026-06-24,0,8,Flare,jean
+SoHo,SKU-010,30,Black,6,2026-07-04,0,6,Flare,jean
+SoHo,SKU-010,30,White,2,2026-06-23,0,2,Flare,jean
+SoHo,SKU-010,30,Stone Wash,1,2026-06-26,0,1,Flare,jean
+SoHo,SKU-010,30,Raw Denim,7,2026-06-23,0,7,Flare,jean
+SoHo,SKU-010,30,Vintage Blue,7,2026-07-06,0,7,Flare,jean
+SoHo,SKU-010,31,Indigo,2,2026-06-25,0,2,Flare,jean
+SoHo,SKU-010,31,Black,6,2026-07-05,0,6,Flare,jean
+SoHo,SKU-010,31,White,5,2026-06-24,0,5,Flare,jean
+SoHo,SKU-010,31,Stone Wash,8,2026-07-01,0,8,Flare,jean
+SoHo,SKU-010,31,Raw Denim,0,2026-06-25,0,0,Flare,jean
+SoHo,SKU-010,31,Vintage Blue,0,2026-06-24,0,0,Flare,jean
+SoHo,SKU-010,32,Indigo,6,2026-07-03,0,6,Flare,jean
+SoHo,SKU-010,32,Black,0,2026-07-01,0,0,Flare,jean
+SoHo,SKU-010,32,White,2,2026-06-29,0,2,Flare,jean
+SoHo,SKU-010,32,Stone Wash,0,2026-06-29,0,0,Flare,jean
+SoHo,SKU-010,32,Raw Denim,5,2026-07-06,0,5,Flare,jean
+SoHo,SKU-010,32,Vintage Blue,2,2026-06-30,0,2,Flare,jean
+SoHo,SKU-010,33,Indigo,2,2026-06-24,0,2,Flare,jean
+SoHo,SKU-010,33,Black,9,2026-07-06,0,9,Flare,jean
+SoHo,SKU-010,33,White,0,2026-06-27,0,0,Flare,jean
+SoHo,SKU-010,33,Stone Wash,0,2026-07-03,0,0,Flare,jean
+SoHo,SKU-010,33,Raw Denim,2,2026-07-05,0,2,Flare,jean
+SoHo,SKU-010,33,Vintage Blue,4,2026-06-30,0,4,Flare,jean
+SoHo,SKU-010,34,Indigo,1,2026-07-01,0,1,Flare,jean
+SoHo,SKU-010,34,Black,2,2026-06-29,0,2,Flare,jean
+SoHo,SKU-010,34,White,1,2026-07-01,0,1,Flare,jean
+SoHo,SKU-010,34,Stone Wash,0,2026-07-03,0,0,Flare,jean
+SoHo,SKU-010,34,Raw Denim,3,2026-06-22,0,3,Flare,jean
+SoHo,SKU-010,34,Vintage Blue,0,2026-06-22,0,0,Flare,jean
+SoHo,SKU-011,XS,Indigo,0,2026-07-01,0,0,Denim Jacket,jacket
+SoHo,SKU-011,XS,Black,0,2026-06-23,0,0,Denim Jacket,jacket
+SoHo,SKU-011,XS,Stone Wash,6,2026-07-03,0,6,Denim Jacket,jacket
+SoHo,SKU-011,XS,Raw Denim,4,2026-07-03,0,4,Denim Jacket,jacket
+SoHo,SKU-011,S,Indigo,0,2026-07-02,0,0,Denim Jacket,jacket
+SoHo,SKU-011,S,Black,0,2026-07-04,0,0,Denim Jacket,jacket
+SoHo,SKU-011,S,Stone Wash,0,2026-07-02,0,0,Denim Jacket,jacket
+SoHo,SKU-011,S,Raw Denim,3,2026-07-01,0,3,Denim Jacket,jacket
+SoHo,SKU-011,M,Indigo,0,2026-07-05,0,0,Denim Jacket,jacket
+SoHo,SKU-011,M,Black,0,2026-07-01,0,0,Denim Jacket,jacket
+SoHo,SKU-011,M,Stone Wash,9,2026-06-25,0,9,Denim Jacket,jacket
+SoHo,SKU-011,M,Raw Denim,0,2026-06-26,0,0,Denim Jacket,jacket
+SoHo,SKU-011,L,Indigo,4,2026-07-04,0,4,Denim Jacket,jacket
+SoHo,SKU-011,L,Black,0,2026-07-06,0,0,Denim Jacket,jacket
+SoHo,SKU-011,L,Stone Wash,5,2026-06-23,0,5,Denim Jacket,jacket
+SoHo,SKU-011,L,Raw Denim,0,2026-07-02,0,0,Denim Jacket,jacket
+SoHo,SKU-011,XL,Indigo,0,2026-06-26,1,1,Denim Jacket,jacket
+SoHo,SKU-011,XL,Black,3,2026-06-29,0,3,Denim Jacket,jacket
+SoHo,SKU-011,XL,Stone Wash,0,2026-07-05,0,0,Denim Jacket,jacket
+SoHo,SKU-011,XL,Raw Denim,0,2026-06-25,0,0,Denim Jacket,jacket
+SoHo,SKU-012,XS,Indigo,6,2026-06-26,0,6,Chore Jacket,jacket
+SoHo,SKU-012,XS,Black,2,2026-06-22,0,2,Chore Jacket,jacket
+SoHo,SKU-012,XS,Stone Wash,4,2026-06-25,0,4,Chore Jacket,jacket
+SoHo,SKU-012,XS,Raw Denim,0,2026-06-27,0,0,Chore Jacket,jacket
+SoHo,SKU-012,S,Indigo,3,2026-06-22,0,3,Chore Jacket,jacket
+SoHo,SKU-012,S,Black,0,2026-06-29,0,0,Chore Jacket,jacket
+SoHo,SKU-012,S,Stone Wash,4,2026-06-30,0,4,Chore Jacket,jacket
+SoHo,SKU-012,S,Raw Denim,3,2026-06-22,0,3,Chore Jacket,jacket
+SoHo,SKU-012,M,Indigo,1,2026-07-03,0,1,Chore Jacket,jacket
+SoHo,SKU-012,M,Black,3,2026-06-26,0,3,Chore Jacket,jacket
+SoHo,SKU-012,M,Stone Wash,3,2026-06-28,0,3,Chore Jacket,jacket
+SoHo,SKU-012,M,Raw Denim,0,2026-06-29,0,0,Chore Jacket,jacket
+SoHo,SKU-012,L,Indigo,11,2026-06-28,0,11,Chore Jacket,jacket
+SoHo,SKU-012,L,Black,3,2026-06-25,0,3,Chore Jacket,jacket
+SoHo,SKU-012,L,Stone Wash,0,2026-07-04,0,0,Chore Jacket,jacket
+SoHo,SKU-012,L,Raw Denim,2,2026-06-23,0,2,Chore Jacket,jacket
+SoHo,SKU-012,XL,Indigo,4,2026-07-03,0,4,Chore Jacket,jacket
+SoHo,SKU-012,XL,Black,8,2026-07-04,0,8,Chore Jacket,jacket
+SoHo,SKU-012,XL,Stone Wash,0,2026-07-04,0,0,Chore Jacket,jacket
+SoHo,SKU-012,XL,Raw Denim,2,2026-07-05,0,2,Chore Jacket,jacket
+SoHo,SKU-013,XS,Indigo,0,2026-06-24,0,0,Trucker Jacket,jacket
+SoHo,SKU-013,XS,Black,5,2026-06-22,0,5,Trucker Jacket,jacket
+SoHo,SKU-013,XS,Stone Wash,0,2026-06-25,0,0,Trucker Jacket,jacket
+SoHo,SKU-013,XS,Raw Denim,4,2026-06-25,0,4,Trucker Jacket,jacket
+SoHo,SKU-013,S,Indigo,7,2026-07-06,0,7,Trucker Jacket,jacket
+SoHo,SKU-013,S,Black,6,2026-06-23,0,6,Trucker Jacket,jacket
+SoHo,SKU-013,S,Stone Wash,0,2026-06-30,0,0,Trucker Jacket,jacket
+SoHo,SKU-013,S,Raw Denim,4,2026-06-27,0,4,Trucker Jacket,jacket
+SoHo,SKU-013,M,Indigo,5,2026-07-02,0,5,Trucker Jacket,jacket
+SoHo,SKU-013,M,Black,4,2026-06-28,0,4,Trucker Jacket,jacket
+SoHo,SKU-013,M,Stone Wash,2,2026-07-01,0,2,Trucker Jacket,jacket
+SoHo,SKU-013,M,Raw Denim,3,2026-07-05,0,3,Trucker Jacket,jacket
+SoHo,SKU-013,L,Indigo,6,2026-06-23,0,6,Trucker Jacket,jacket
+SoHo,SKU-013,L,Black,1,2026-06-28,0,1,Trucker Jacket,jacket
+SoHo,SKU-013,L,Stone Wash,3,2026-06-22,0,3,Trucker Jacket,jacket
+SoHo,SKU-013,L,Raw Denim,0,2026-07-03,0,0,Trucker Jacket,jacket
+SoHo,SKU-013,XL,Indigo,2,2026-07-05,0,2,Trucker Jacket,jacket
+SoHo,SKU-013,XL,Black,3,2026-06-22,0,3,Trucker Jacket,jacket
+SoHo,SKU-013,XL,Stone Wash,3,2026-07-03,0,3,Trucker Jacket,jacket
+SoHo,SKU-013,XL,Raw Denim,2,2026-07-03,0,2,Trucker Jacket,jacket
+SoHo,SKU-014,XS,Indigo,5,2026-06-22,0,5,Denim Shirt,top
+SoHo,SKU-014,XS,Black,6,2026-06-30,0,6,Denim Shirt,top
+SoHo,SKU-014,XS,Stone Wash,1,2026-06-29,0,1,Denim Shirt,top
+SoHo,SKU-014,XS,Raw Denim,5,2026-06-23,0,5,Denim Shirt,top
+SoHo,SKU-014,S,Indigo,7,2026-06-27,0,7,Denim Shirt,top
+SoHo,SKU-014,S,Black,12,2026-06-27,0,12,Denim Shirt,top
+SoHo,SKU-014,S,Stone Wash,3,2026-06-23,0,3,Denim Shirt,top
+SoHo,SKU-014,S,Raw Denim,3,2026-07-01,0,3,Denim Shirt,top
+SoHo,SKU-014,M,Indigo,0,2026-06-29,0,0,Denim Shirt,top
+SoHo,SKU-014,M,Black,8,2026-06-28,0,8,Denim Shirt,top
+SoHo,SKU-014,M,Stone Wash,6,2026-06-27,0,6,Denim Shirt,top
+SoHo,SKU-014,M,Raw Denim,2,2026-07-05,0,2,Denim Shirt,top
+SoHo,SKU-014,L,Indigo,0,2026-07-03,0,0,Denim Shirt,top
+SoHo,SKU-014,L,Black,6,2026-07-01,0,6,Denim Shirt,top
+SoHo,SKU-014,L,Stone Wash,7,2026-07-06,0,7,Denim Shirt,top
+SoHo,SKU-014,L,Raw Denim,1,2026-06-28,0,1,Denim Shirt,top
+SoHo,SKU-014,XL,Indigo,3,2026-06-30,0,3,Denim Shirt,top
+SoHo,SKU-014,XL,Black,5,2026-07-02,0,5,Denim Shirt,top
+SoHo,SKU-014,XL,Stone Wash,2,2026-06-26,0,2,Denim Shirt,top
+SoHo,SKU-014,XL,Raw Denim,4,2026-07-06,0,4,Denim Shirt,top
+SoHo,SKU-015,XS,Indigo,6,2026-06-26,0,6,Denim Overalls,bottom
+SoHo,SKU-015,XS,Black,1,2026-06-28,0,1,Denim Overalls,bottom
+SoHo,SKU-015,XS,Stone Wash,0,2026-07-04,0,0,Denim Overalls,bottom
+SoHo,SKU-015,XS,Raw Denim,4,2026-06-23,0,4,Denim Overalls,bottom
+SoHo,SKU-015,S,Indigo,7,2026-07-01,0,7,Denim Overalls,bottom
+SoHo,SKU-015,S,Black,1,2026-06-27,0,1,Denim Overalls,bottom
+SoHo,SKU-015,S,Stone Wash,2,2026-06-24,0,2,Denim Overalls,bottom
+SoHo,SKU-015,S,Raw Denim,2,2026-06-29,1,3,Denim Overalls,bottom
+SoHo,SKU-015,M,Indigo,1,2026-06-22,0,1,Denim Overalls,bottom
+SoHo,SKU-015,M,Black,4,2026-07-03,1,5,Denim Overalls,bottom
+SoHo,SKU-015,M,Stone Wash,2,2026-07-05,0,2,Denim Overalls,bottom
+SoHo,SKU-015,M,Raw Denim,1,2026-06-23,0,1,Denim Overalls,bottom
+SoHo,SKU-015,L,Indigo,4,2026-06-28,1,5,Denim Overalls,bottom
+SoHo,SKU-015,L,Black,3,2026-06-29,0,3,Denim Overalls,bottom
+SoHo,SKU-015,L,Stone Wash,4,2026-07-04,0,4,Denim Overalls,bottom
+SoHo,SKU-015,L,Raw Denim,3,2026-07-04,0,3,Denim Overalls,bottom
+SoHo,SKU-015,XL,Indigo,0,2026-06-28,0,0,Denim Overalls,bottom
+SoHo,SKU-015,XL,Black,3,2026-07-03,0,3,Denim Overalls,bottom
+SoHo,SKU-015,XL,Stone Wash,1,2026-06-25,0,1,Denim Overalls,bottom
+SoHo,SKU-015,XL,Raw Denim,5,2026-07-06,0,5,Denim Overalls,bottom
+SoHo,SKU-016,XS,Indigo,1,2026-06-28,0,1,Denim Skirt,bottom
+SoHo,SKU-016,XS,Black,4,2026-06-22,0,4,Denim Skirt,bottom
+SoHo,SKU-016,XS,Stone Wash,1,2026-06-26,0,1,Denim Skirt,bottom
+SoHo,SKU-016,XS,Raw Denim,0,2026-06-26,0,0,Denim Skirt,bottom
+SoHo,SKU-016,S,Indigo,3,2026-07-05,1,4,Denim Skirt,bottom
+SoHo,SKU-016,S,Black,0,2026-07-02,0,0,Denim Skirt,bottom
+SoHo,SKU-016,S,Stone Wash,7,2026-06-23,0,7,Denim Skirt,bottom
+SoHo,SKU-016,S,Raw Denim,2,2026-06-26,0,2,Denim Skirt,bottom
+SoHo,SKU-016,M,Indigo,1,2026-07-06,0,1,Denim Skirt,bottom
+SoHo,SKU-016,M,Black,3,2026-06-25,0,3,Denim Skirt,bottom
+SoHo,SKU-016,M,Stone Wash,4,2026-06-25,0,4,Denim Skirt,bottom
+SoHo,SKU-016,M,Raw Denim,6,2026-06-24,0,6,Denim Skirt,bottom
+SoHo,SKU-016,L,Indigo,5,2026-06-30,0,5,Denim Skirt,bottom
+SoHo,SKU-016,L,Black,0,2026-07-04,0,0,Denim Skirt,bottom
+SoHo,SKU-016,L,Stone Wash,7,2026-06-28,0,7,Denim Skirt,bottom
+SoHo,SKU-016,L,Raw Denim,2,2026-07-02,0,2,Denim Skirt,bottom
+SoHo,SKU-016,XL,Indigo,9,2026-07-05,0,9,Denim Skirt,bottom
+SoHo,SKU-016,XL,Black,3,2026-06-26,0,3,Denim Skirt,bottom
+SoHo,SKU-016,XL,Stone Wash,3,2026-07-01,0,3,Denim Skirt,bottom
+SoHo,SKU-016,XL,Raw Denim,0,2026-06-23,0,0,Denim Skirt,bottom
+Flatiron,SKU-001,24,Indigo,5,2026-06-30,0,5,Skinny,jean
+Flatiron,SKU-001,24,Black,7,2026-07-01,0,7,Skinny,jean
+Flatiron,SKU-001,24,White,8,2026-07-05,0,8,Skinny,jean
+Flatiron,SKU-001,24,Stone Wash,3,2026-07-06,0,3,Skinny,jean
+Flatiron,SKU-001,24,Raw Denim,2,2026-06-28,0,2,Skinny,jean
+Flatiron,SKU-001,24,Vintage Blue,2,2026-07-06,0,2,Skinny,jean
+Flatiron,SKU-001,25,Indigo,6,2026-06-30,0,6,Skinny,jean
+Flatiron,SKU-001,25,Black,2,2026-06-25,0,2,Skinny,jean
+Flatiron,SKU-001,25,White,0,2026-07-06,0,0,Skinny,jean
+Flatiron,SKU-001,25,Stone Wash,3,2026-07-04,0,3,Skinny,jean
+Flatiron,SKU-001,25,Raw Denim,0,2026-06-23,0,0,Skinny,jean
+Flatiron,SKU-001,25,Vintage Blue,3,2026-06-30,0,3,Skinny,jean
+Flatiron,SKU-001,26,Indigo,3,2026-06-27,0,3,Skinny,jean
+Flatiron,SKU-001,26,Black,4,2026-07-02,0,4,Skinny,jean
+Flatiron,SKU-001,26,White,3,2026-06-27,0,3,Skinny,jean
+Flatiron,SKU-001,26,Stone Wash,2,2026-06-23,0,2,Skinny,jean
+Flatiron,SKU-001,26,Raw Denim,1,2026-06-26,0,1,Skinny,jean
+Flatiron,SKU-001,26,Vintage Blue,0,2026-06-25,0,0,Skinny,jean
+Flatiron,SKU-001,27,Indigo,0,2026-06-30,0,0,Skinny,jean
+Flatiron,SKU-001,27,Black,4,2026-07-02,0,4,Skinny,jean
+Flatiron,SKU-001,27,White,2,2026-07-02,0,2,Skinny,jean
+Flatiron,SKU-001,27,Stone Wash,4,2026-06-30,0,4,Skinny,jean
+Flatiron,SKU-001,27,Raw Denim,3,2026-06-26,0,3,Skinny,jean
+Flatiron,SKU-001,27,Vintage Blue,0,2026-07-01,0,0,Skinny,jean
+Flatiron,SKU-001,28,Indigo,3,2026-06-29,0,3,Skinny,jean
+Flatiron,SKU-001,28,Black,4,2026-06-23,0,4,Skinny,jean
+Flatiron,SKU-001,28,White,1,2026-07-04,0,1,Skinny,jean
+Flatiron,SKU-001,28,Stone Wash,6,2026-07-06,0,6,Skinny,jean
+Flatiron,SKU-001,28,Raw Denim,1,2026-06-23,0,1,Skinny,jean
+Flatiron,SKU-001,28,Vintage Blue,5,2026-07-04,0,5,Skinny,jean
+Flatiron,SKU-001,29,Indigo,7,2026-06-22,0,7,Skinny,jean
+Flatiron,SKU-001,29,Black,4,2026-07-03,0,4,Skinny,jean
+Flatiron,SKU-001,29,White,7,2026-07-01,0,7,Skinny,jean
+Flatiron,SKU-001,29,Stone Wash,3,2026-06-23,0,3,Skinny,jean
+Flatiron,SKU-001,29,Raw Denim,5,2026-07-06,0,5,Skinny,jean
+Flatiron,SKU-001,29,Vintage Blue,0,2026-06-26,0,0,Skinny,jean
+Flatiron,SKU-001,30,Indigo,4,2026-06-22,0,4,Skinny,jean
+Flatiron,SKU-001,30,Black,6,2026-07-04,0,6,Skinny,jean
+Flatiron,SKU-001,30,White,3,2026-06-27,0,3,Skinny,jean
+Flatiron,SKU-001,30,Stone Wash,2,2026-07-03,0,2,Skinny,jean
+Flatiron,SKU-001,30,Raw Denim,3,2026-06-26,0,3,Skinny,jean
+Flatiron,SKU-001,30,Vintage Blue,0,2026-06-26,0,0,Skinny,jean
+Flatiron,SKU-001,31,Indigo,0,2026-06-22,0,0,Skinny,jean
+Flatiron,SKU-001,31,Black,3,2026-06-30,0,3,Skinny,jean
+Flatiron,SKU-001,31,White,0,2026-06-29,0,0,Skinny,jean
+Flatiron,SKU-001,31,Stone Wash,6,2026-07-03,0,6,Skinny,jean
+Flatiron,SKU-001,31,Raw Denim,5,2026-06-22,0,5,Skinny,jean
+Flatiron,SKU-001,31,Vintage Blue,3,2026-07-05,0,3,Skinny,jean
+Flatiron,SKU-001,32,Indigo,5,2026-06-29,0,5,Skinny,jean
+Flatiron,SKU-001,32,Black,3,2026-06-27,0,3,Skinny,jean
+Flatiron,SKU-001,32,White,1,2026-06-24,0,1,Skinny,jean
+Flatiron,SKU-001,32,Stone Wash,2,2026-06-24,0,2,Skinny,jean
+Flatiron,SKU-001,32,Raw Denim,5,2026-07-05,0,5,Skinny,jean
+Flatiron,SKU-001,32,Vintage Blue,6,2026-06-23,0,6,Skinny,jean
+Flatiron,SKU-001,33,Indigo,9,2026-06-28,0,9,Skinny,jean
+Flatiron,SKU-001,33,Black,2,2026-06-24,0,2,Skinny,jean
+Flatiron,SKU-001,33,White,1,2026-06-27,0,1,Skinny,jean
+Flatiron,SKU-001,33,Stone Wash,3,2026-06-24,1,4,Skinny,jean
+Flatiron,SKU-001,33,Raw Denim,3,2026-07-04,0,3,Skinny,jean
+Flatiron,SKU-001,33,Vintage Blue,0,2026-06-28,0,0,Skinny,jean
+Flatiron,SKU-001,34,Indigo,3,2026-07-05,0,3,Skinny,jean
+Flatiron,SKU-001,34,Black,0,2026-07-06,0,0,Skinny,jean
+Flatiron,SKU-001,34,White,6,2026-06-28,0,6,Skinny,jean
+Flatiron,SKU-001,34,Stone Wash,0,2026-07-01,0,0,Skinny,jean
+Flatiron,SKU-001,34,Raw Denim,0,2026-07-04,0,0,Skinny,jean
+Flatiron,SKU-001,34,Vintage Blue,5,2026-06-30,0,5,Skinny,jean
+Flatiron,SKU-002,24,Indigo,5,2026-06-28,0,5,Straight,jean
+Flatiron,SKU-002,24,Black,11,2026-07-04,0,11,Straight,jean
+Flatiron,SKU-002,24,White,3,2026-06-30,0,3,Straight,jean
+Flatiron,SKU-002,24,Stone Wash,2,2026-07-06,0,2,Straight,jean
+Flatiron,SKU-002,24,Raw Denim,2,2026-06-23,0,2,Straight,jean
+Flatiron,SKU-002,24,Vintage Blue,3,2026-06-25,0,3,Straight,jean
+Flatiron,SKU-002,25,Indigo,4,2026-07-03,0,4,Straight,jean
+Flatiron,SKU-002,25,Black,5,2026-06-25,0,5,Straight,jean
+Flatiron,SKU-002,25,White,3,2026-06-22,0,3,Straight,jean
+Flatiron,SKU-002,25,Stone Wash,1,2026-06-27,0,1,Straight,jean
+Flatiron,SKU-002,25,Raw Denim,2,2026-07-02,0,2,Straight,jean
+Flatiron,SKU-002,25,Vintage Blue,3,2026-06-25,0,3,Straight,jean
+Flatiron,SKU-002,26,Indigo,5,2026-06-24,0,5,Straight,jean
+Flatiron,SKU-002,26,Black,3,2026-06-24,0,3,Straight,jean
+Flatiron,SKU-002,26,White,4,2026-07-04,0,4,Straight,jean
+Flatiron,SKU-002,26,Stone Wash,0,2026-06-23,0,0,Straight,jean
+Flatiron,SKU-002,26,Raw Denim,3,2026-07-04,0,3,Straight,jean
+Flatiron,SKU-002,26,Vintage Blue,4,2026-07-03,0,4,Straight,jean
+Flatiron,SKU-002,27,Indigo,1,2026-06-28,0,1,Straight,jean
+Flatiron,SKU-002,27,Black,5,2026-06-24,0,5,Straight,jean
+Flatiron,SKU-002,27,White,2,2026-06-22,0,2,Straight,jean
+Flatiron,SKU-002,27,Stone Wash,10,2026-06-26,0,10,Straight,jean
+Flatiron,SKU-002,27,Raw Denim,0,2026-06-23,0,0,Straight,jean
+Flatiron,SKU-002,27,Vintage Blue,3,2026-07-01,0,3,Straight,jean
+Flatiron,SKU-002,28,Indigo,7,2026-07-02,0,7,Straight,jean
+Flatiron,SKU-002,28,Black,4,2026-07-02,0,4,Straight,jean
+Flatiron,SKU-002,28,White,7,2026-07-04,0,7,Straight,jean
+Flatiron,SKU-002,28,Stone Wash,5,2026-07-01,0,5,Straight,jean
+Flatiron,SKU-002,28,Raw Denim,0,2026-06-25,0,0,Straight,jean
+Flatiron,SKU-002,28,Vintage Blue,1,2026-07-06,0,1,Straight,jean
+Flatiron,SKU-002,29,Indigo,3,2026-06-28,0,3,Straight,jean
+Flatiron,SKU-002,29,Black,1,2026-07-05,0,1,Straight,jean
+Flatiron,SKU-002,29,White,4,2026-07-02,0,4,Straight,jean
+Flatiron,SKU-002,29,Stone Wash,0,2026-06-23,0,0,Straight,jean
+Flatiron,SKU-002,29,Raw Denim,1,2026-07-04,0,1,Straight,jean
+Flatiron,SKU-002,29,Vintage Blue,2,2026-07-01,0,2,Straight,jean
+Flatiron,SKU-002,30,Indigo,2,2026-06-24,0,2,Straight,jean
+Flatiron,SKU-002,30,Black,11,2026-06-24,0,11,Straight,jean
+Flatiron,SKU-002,30,White,4,2026-06-23,0,4,Straight,jean
+Flatiron,SKU-002,30,Stone Wash,2,2026-06-23,0,2,Straight,jean
+Flatiron,SKU-002,30,Raw Denim,7,2026-06-29,0,7,Straight,jean
+Flatiron,SKU-002,30,Vintage Blue,2,2026-07-06,0,2,Straight,jean
+Flatiron,SKU-002,31,Indigo,1,2026-06-23,0,1,Straight,jean
+Flatiron,SKU-002,31,Black,1,2026-06-22,0,1,Straight,jean
+Flatiron,SKU-002,31,White,7,2026-07-03,0,7,Straight,jean
+Flatiron,SKU-002,31,Stone Wash,1,2026-07-06,0,1,Straight,jean
+Flatiron,SKU-002,31,Raw Denim,3,2026-06-27,0,3,Straight,jean
+Flatiron,SKU-002,31,Vintage Blue,5,2026-07-02,0,5,Straight,jean
+Flatiron,SKU-002,32,Indigo,4,2026-06-29,0,4,Straight,jean
+Flatiron,SKU-002,32,Black,1,2026-07-05,0,1,Straight,jean
+Flatiron,SKU-002,32,White,2,2026-06-25,0,2,Straight,jean
+Flatiron,SKU-002,32,Stone Wash,4,2026-07-02,0,4,Straight,jean
+Flatiron,SKU-002,32,Raw Denim,4,2026-06-23,0,4,Straight,jean
+Flatiron,SKU-002,32,Vintage Blue,3,2026-06-25,0,3,Straight,jean
+Flatiron,SKU-002,33,Indigo,2,2026-07-02,0,2,Straight,jean
+Flatiron,SKU-002,33,Black,1,2026-06-22,0,1,Straight,jean
+Flatiron,SKU-002,33,White,6,2026-06-28,0,6,Straight,jean
+Flatiron,SKU-002,33,Stone Wash,0,2026-06-28,0,0,Straight,jean
+Flatiron,SKU-002,33,Raw Denim,0,2026-06-30,0,0,Straight,jean
+Flatiron,SKU-002,33,Vintage Blue,0,2026-06-24,0,0,Straight,jean
+Flatiron,SKU-002,34,Indigo,9,2026-07-03,0,9,Straight,jean
+Flatiron,SKU-002,34,Black,0,2026-06-27,0,0,Straight,jean
+Flatiron,SKU-002,34,White,4,2026-06-30,0,4,Straight,jean
+Flatiron,SKU-002,34,Stone Wash,0,2026-06-29,0,0,Straight,jean
+Flatiron,SKU-002,34,Raw Denim,7,2026-07-04,0,7,Straight,jean
+Flatiron,SKU-002,34,Vintage Blue,4,2026-07-06,0,4,Straight,jean
+Flatiron,SKU-003,24,Indigo,6,2026-06-24,0,6,Bootcut,jean
+Flatiron,SKU-003,24,Black,1,2026-06-29,0,1,Bootcut,jean
+Flatiron,SKU-003,24,White,9,2026-07-02,0,9,Bootcut,jean
+Flatiron,SKU-003,24,Stone Wash,3,2026-07-05,0,3,Bootcut,jean
+Flatiron,SKU-003,24,Raw Denim,3,2026-06-28,0,3,Bootcut,jean
+Flatiron,SKU-003,24,Vintage Blue,6,2026-06-27,0,6,Bootcut,jean
+Flatiron,SKU-003,25,Indigo,3,2026-07-03,0,3,Bootcut,jean
+Flatiron,SKU-003,25,Black,1,2026-06-23,0,1,Bootcut,jean
+Flatiron,SKU-003,25,White,3,2026-06-23,0,3,Bootcut,jean
+Flatiron,SKU-003,25,Stone Wash,5,2026-06-27,0,5,Bootcut,jean
+Flatiron,SKU-003,25,Raw Denim,6,2026-06-26,0,6,Bootcut,jean
+Flatiron,SKU-003,25,Vintage Blue,2,2026-06-27,0,2,Bootcut,jean
+Flatiron,SKU-003,26,Indigo,6,2026-07-03,0,6,Bootcut,jean
+Flatiron,SKU-003,26,Black,3,2026-07-06,0,3,Bootcut,jean
+Flatiron,SKU-003,26,White,2,2026-07-04,0,2,Bootcut,jean
+Flatiron,SKU-003,26,Stone Wash,0,2026-07-01,0,0,Bootcut,jean
+Flatiron,SKU-003,26,Raw Denim,6,2026-06-29,0,6,Bootcut,jean
+Flatiron,SKU-003,26,Vintage Blue,6,2026-06-25,0,6,Bootcut,jean
+Flatiron,SKU-003,27,Indigo,3,2026-06-22,0,3,Bootcut,jean
+Flatiron,SKU-003,27,Black,0,2026-06-28,0,0,Bootcut,jean
+Flatiron,SKU-003,27,White,5,2026-06-22,0,5,Bootcut,jean
+Flatiron,SKU-003,27,Stone Wash,7,2026-07-05,0,7,Bootcut,jean
+Flatiron,SKU-003,27,Raw Denim,4,2026-06-30,0,4,Bootcut,jean
+Flatiron,SKU-003,27,Vintage Blue,4,2026-07-05,0,4,Bootcut,jean
+Flatiron,SKU-003,28,Indigo,6,2026-06-29,0,6,Bootcut,jean
+Flatiron,SKU-003,28,Black,2,2026-06-26,0,2,Bootcut,jean
+Flatiron,SKU-003,28,White,5,2026-06-28,0,5,Bootcut,jean
+Flatiron,SKU-003,28,Stone Wash,5,2026-06-29,0,5,Bootcut,jean
+Flatiron,SKU-003,28,Raw Denim,4,2026-06-30,0,4,Bootcut,jean
+Flatiron,SKU-003,28,Vintage Blue,4,2026-06-23,0,4,Bootcut,jean
+Flatiron,SKU-003,29,Indigo,2,2026-06-22,0,2,Bootcut,jean
+Flatiron,SKU-003,29,Black,5,2026-06-27,0,5,Bootcut,jean
+Flatiron,SKU-003,29,White,2,2026-07-03,0,2,Bootcut,jean
+Flatiron,SKU-003,29,Stone Wash,10,2026-06-24,0,10,Bootcut,jean
+Flatiron,SKU-003,29,Raw Denim,4,2026-07-01,0,4,Bootcut,jean
+Flatiron,SKU-003,29,Vintage Blue,3,2026-06-25,0,3,Bootcut,jean
+Flatiron,SKU-003,30,Indigo,6,2026-06-25,0,6,Bootcut,jean
+Flatiron,SKU-003,30,Black,5,2026-06-28,0,5,Bootcut,jean
+Flatiron,SKU-003,30,White,1,2026-06-26,0,1,Bootcut,jean
+Flatiron,SKU-003,30,Stone Wash,0,2026-07-04,0,0,Bootcut,jean
+Flatiron,SKU-003,30,Raw Denim,2,2026-06-27,0,2,Bootcut,jean
+Flatiron,SKU-003,30,Vintage Blue,5,2026-06-22,0,5,Bootcut,jean
+Flatiron,SKU-003,31,Indigo,0,2026-07-03,0,0,Bootcut,jean
+Flatiron,SKU-003,31,Black,1,2026-07-05,0,1,Bootcut,jean
+Flatiron,SKU-003,31,White,9,2026-07-05,0,9,Bootcut,jean
+Flatiron,SKU-003,31,Stone Wash,3,2026-06-29,0,3,Bootcut,jean
+Flatiron,SKU-003,31,Raw Denim,8,2026-06-23,0,8,Bootcut,jean
+Flatiron,SKU-003,31,Vintage Blue,2,2026-07-01,0,2,Bootcut,jean
+Flatiron,SKU-003,32,Indigo,0,2026-07-02,0,0,Bootcut,jean
+Flatiron,SKU-003,32,Black,3,2026-06-23,0,3,Bootcut,jean
+Flatiron,SKU-003,32,White,1,2026-06-26,0,1,Bootcut,jean
+Flatiron,SKU-003,32,Stone Wash,0,2026-07-02,0,0,Bootcut,jean
+Flatiron,SKU-003,32,Raw Denim,4,2026-06-24,1,5,Bootcut,jean
+Flatiron,SKU-003,32,Vintage Blue,0,2026-06-27,0,0,Bootcut,jean
+Flatiron,SKU-003,33,Indigo,1,2026-06-30,0,1,Bootcut,jean
+Flatiron,SKU-003,33,Black,2,2026-07-02,0,2,Bootcut,jean
+Flatiron,SKU-003,33,White,3,2026-07-01,0,3,Bootcut,jean
+Flatiron,SKU-003,33,Stone Wash,4,2026-06-23,0,4,Bootcut,jean
+Flatiron,SKU-003,33,Raw Denim,0,2026-07-01,0,0,Bootcut,jean
+Flatiron,SKU-003,33,Vintage Blue,0,2026-07-03,0,0,Bootcut,jean
+Flatiron,SKU-003,34,Indigo,0,2026-06-27,0,0,Bootcut,jean
+Flatiron,SKU-003,34,Black,0,2026-07-06,0,0,Bootcut,jean
+Flatiron,SKU-003,34,White,6,2026-06-26,0,6,Bootcut,jean
+Flatiron,SKU-003,34,Stone Wash,4,2026-07-06,0,4,Bootcut,jean
+Flatiron,SKU-003,34,Raw Denim,7,2026-07-01,0,7,Bootcut,jean
+Flatiron,SKU-003,34,Vintage Blue,0,2026-06-30,0,0,Bootcut,jean
+Flatiron,SKU-004,24,Indigo,4,2026-06-28,0,4,Wide Leg,jean
+Flatiron,SKU-004,24,Black,7,2026-07-05,0,7,Wide Leg,jean
+Flatiron,SKU-004,24,White,0,2026-06-22,0,0,Wide Leg,jean
+Flatiron,SKU-004,24,Stone Wash,9,2026-07-06,0,9,Wide Leg,jean
+Flatiron,SKU-004,24,Raw Denim,5,2026-07-02,0,5,Wide Leg,jean
+Flatiron,SKU-004,24,Vintage Blue,5,2026-06-29,0,5,Wide Leg,jean
+Flatiron,SKU-004,25,Indigo,0,2026-06-22,0,0,Wide Leg,jean
+Flatiron,SKU-004,25,Black,1,2026-07-02,0,1,Wide Leg,jean
+Flatiron,SKU-004,25,White,7,2026-06-22,0,7,Wide Leg,jean
+Flatiron,SKU-004,25,Stone Wash,4,2026-06-25,0,4,Wide Leg,jean
+Flatiron,SKU-004,25,Raw Denim,6,2026-06-22,0,6,Wide Leg,jean
+Flatiron,SKU-004,25,Vintage Blue,4,2026-06-26,0,4,Wide Leg,jean
+Flatiron,SKU-004,26,Indigo,4,2026-06-28,0,4,Wide Leg,jean
+Flatiron,SKU-004,26,Black,1,2026-06-26,0,1,Wide Leg,jean
+Flatiron,SKU-004,26,White,0,2026-06-29,0,0,Wide Leg,jean
+Flatiron,SKU-004,26,Stone Wash,4,2026-06-30,0,4,Wide Leg,jean
+Flatiron,SKU-004,26,Raw Denim,0,2026-06-22,0,0,Wide Leg,jean
+Flatiron,SKU-004,26,Vintage Blue,2,2026-07-01,0,2,Wide Leg,jean
+Flatiron,SKU-004,27,Indigo,2,2026-06-28,0,2,Wide Leg,jean
+Flatiron,SKU-004,27,Black,1,2026-07-03,0,1,Wide Leg,jean
+Flatiron,SKU-004,27,White,4,2026-07-02,0,4,Wide Leg,jean
+Flatiron,SKU-004,27,Stone Wash,3,2026-07-02,0,3,Wide Leg,jean
+Flatiron,SKU-004,27,Raw Denim,1,2026-06-28,0,1,Wide Leg,jean
+Flatiron,SKU-004,27,Vintage Blue,5,2026-06-28,0,5,Wide Leg,jean
+Flatiron,SKU-004,28,Indigo,0,2026-06-22,0,0,Wide Leg,jean
+Flatiron,SKU-004,28,Black,2,2026-06-22,0,2,Wide Leg,jean
+Flatiron,SKU-004,28,White,0,2026-07-05,0,0,Wide Leg,jean
+Flatiron,SKU-004,28,Stone Wash,6,2026-06-24,0,6,Wide Leg,jean
+Flatiron,SKU-004,28,Raw Denim,2,2026-06-29,0,2,Wide Leg,jean
+Flatiron,SKU-004,28,Vintage Blue,2,2026-07-05,0,2,Wide Leg,jean
+Flatiron,SKU-004,29,Indigo,0,2026-06-28,0,0,Wide Leg,jean
+Flatiron,SKU-004,29,Black,9,2026-06-27,0,9,Wide Leg,jean
+Flatiron,SKU-004,29,White,2,2026-06-23,0,2,Wide Leg,jean
+Flatiron,SKU-004,29,Stone Wash,7,2026-06-24,0,7,Wide Leg,jean
+Flatiron,SKU-004,29,Raw Denim,7,2026-06-28,0,7,Wide Leg,jean
+Flatiron,SKU-004,29,Vintage Blue,0,2026-06-28,0,0,Wide Leg,jean
+Flatiron,SKU-004,30,Indigo,0,2026-07-01,0,0,Wide Leg,jean
+Flatiron,SKU-004,30,Black,5,2026-06-27,0,5,Wide Leg,jean
+Flatiron,SKU-004,30,White,2,2026-06-26,0,2,Wide Leg,jean
+Flatiron,SKU-004,30,Stone Wash,0,2026-06-30,0,0,Wide Leg,jean
+Flatiron,SKU-004,30,Raw Denim,1,2026-07-06,0,1,Wide Leg,jean
+Flatiron,SKU-004,30,Vintage Blue,1,2026-06-25,0,1,Wide Leg,jean
+Flatiron,SKU-004,31,Indigo,1,2026-06-25,0,1,Wide Leg,jean
+Flatiron,SKU-004,31,Black,0,2026-06-24,0,0,Wide Leg,jean
+Flatiron,SKU-004,31,White,12,2026-07-01,0,12,Wide Leg,jean
+Flatiron,SKU-004,31,Stone Wash,4,2026-06-25,0,4,Wide Leg,jean
+Flatiron,SKU-004,31,Raw Denim,2,2026-07-03,0,2,Wide Leg,jean
+Flatiron,SKU-004,31,Vintage Blue,8,2026-07-03,0,8,Wide Leg,jean
+Flatiron,SKU-004,32,Indigo,5,2026-06-29,0,5,Wide Leg,jean
+Flatiron,SKU-004,32,Black,5,2026-06-28,0,5,Wide Leg,jean
+Flatiron,SKU-004,32,White,2,2026-07-01,0,2,Wide Leg,jean
+Flatiron,SKU-004,32,Stone Wash,1,2026-06-29,0,1,Wide Leg,jean
+Flatiron,SKU-004,32,Raw Denim,5,2026-07-06,0,5,Wide Leg,jean
+Flatiron,SKU-004,32,Vintage Blue,1,2026-06-24,0,1,Wide Leg,jean
+Flatiron,SKU-004,33,Indigo,3,2026-06-27,0,3,Wide Leg,jean
+Flatiron,SKU-004,33,Black,4,2026-06-25,0,4,Wide Leg,jean
+Flatiron,SKU-004,33,White,1,2026-06-22,0,1,Wide Leg,jean
+Flatiron,SKU-004,33,Stone Wash,4,2026-07-02,0,4,Wide Leg,jean
+Flatiron,SKU-004,33,Raw Denim,1,2026-07-06,0,1,Wide Leg,jean
+Flatiron,SKU-004,33,Vintage Blue,8,2026-07-02,0,8,Wide Leg,jean
+Flatiron,SKU-004,34,Indigo,3,2026-07-06,0,3,Wide Leg,jean
+Flatiron,SKU-004,34,Black,4,2026-07-06,0,4,Wide Leg,jean
+Flatiron,SKU-004,34,White,0,2026-07-04,0,0,Wide Leg,jean
+Flatiron,SKU-004,34,Stone Wash,3,2026-07-05,0,3,Wide Leg,jean
+Flatiron,SKU-004,34,Raw Denim,9,2026-07-06,0,9,Wide Leg,jean
+Flatiron,SKU-004,34,Vintage Blue,3,2026-06-24,0,3,Wide Leg,jean
+Flatiron,SKU-005,24,Indigo,0,2026-07-06,0,0,Slim Straight,jean
+Flatiron,SKU-005,24,Black,0,2026-06-29,0,0,Slim Straight,jean
+Flatiron,SKU-005,24,White,6,2026-07-04,0,6,Slim Straight,jean
+Flatiron,SKU-005,24,Stone Wash,0,2026-07-04,0,0,Slim Straight,jean
+Flatiron,SKU-005,24,Raw Denim,1,2026-07-04,0,1,Slim Straight,jean
+Flatiron,SKU-005,24,Vintage Blue,3,2026-06-22,0,3,Slim Straight,jean
+Flatiron,SKU-005,25,Indigo,0,2026-07-01,0,0,Slim Straight,jean
+Flatiron,SKU-005,25,Black,3,2026-06-29,0,3,Slim Straight,jean
+Flatiron,SKU-005,25,White,0,2026-06-22,0,0,Slim Straight,jean
+Flatiron,SKU-005,25,Stone Wash,4,2026-06-27,0,4,Slim Straight,jean
+Flatiron,SKU-005,25,Raw Denim,5,2026-06-25,0,5,Slim Straight,jean
+Flatiron,SKU-005,25,Vintage Blue,0,2026-06-27,0,0,Slim Straight,jean
+Flatiron,SKU-005,26,Indigo,4,2026-07-04,0,4,Slim Straight,jean
+Flatiron,SKU-005,26,Black,5,2026-06-24,0,5,Slim Straight,jean
+Flatiron,SKU-005,26,White,1,2026-06-23,0,1,Slim Straight,jean
+Flatiron,SKU-005,26,Stone Wash,0,2026-06-25,0,0,Slim Straight,jean
+Flatiron,SKU-005,26,Raw Denim,0,2026-07-03,0,0,Slim Straight,jean
+Flatiron,SKU-005,26,Vintage Blue,4,2026-06-23,0,4,Slim Straight,jean
+Flatiron,SKU-005,27,Indigo,0,2026-06-22,0,0,Slim Straight,jean
+Flatiron,SKU-005,27,Black,2,2026-06-25,0,2,Slim Straight,jean
+Flatiron,SKU-005,27,White,5,2026-07-01,0,5,Slim Straight,jean
+Flatiron,SKU-005,27,Stone Wash,0,2026-06-23,0,0,Slim Straight,jean
+Flatiron,SKU-005,27,Raw Denim,3,2026-06-28,0,3,Slim Straight,jean
+Flatiron,SKU-005,27,Vintage Blue,1,2026-06-25,0,1,Slim Straight,jean
+Flatiron,SKU-005,28,Indigo,0,2026-07-03,0,0,Slim Straight,jean
+Flatiron,SKU-005,28,Black,6,2026-07-05,0,6,Slim Straight,jean
+Flatiron,SKU-005,28,White,2,2026-06-22,0,2,Slim Straight,jean
+Flatiron,SKU-005,28,Stone Wash,7,2026-07-03,0,7,Slim Straight,jean
+Flatiron,SKU-005,28,Raw Denim,5,2026-06-27,0,5,Slim Straight,jean
+Flatiron,SKU-005,28,Vintage Blue,3,2026-06-26,0,3,Slim Straight,jean
+Flatiron,SKU-005,29,Indigo,1,2026-06-25,0,1,Slim Straight,jean
+Flatiron,SKU-005,29,Black,0,2026-06-25,0,0,Slim Straight,jean
+Flatiron,SKU-005,29,White,0,2026-06-24,0,0,Slim Straight,jean
+Flatiron,SKU-005,29,Stone Wash,1,2026-07-01,0,1,Slim Straight,jean
+Flatiron,SKU-005,29,Raw Denim,3,2026-07-03,0,3,Slim Straight,jean
+Flatiron,SKU-005,29,Vintage Blue,3,2026-06-26,0,3,Slim Straight,jean
+Flatiron,SKU-005,30,Indigo,3,2026-07-05,0,3,Slim Straight,jean
+Flatiron,SKU-005,30,Black,0,2026-06-25,0,0,Slim Straight,jean
+Flatiron,SKU-005,30,White,4,2026-07-06,0,4,Slim Straight,jean
+Flatiron,SKU-005,30,Stone Wash,3,2026-07-04,0,3,Slim Straight,jean
+Flatiron,SKU-005,30,Raw Denim,11,2026-07-01,0,11,Slim Straight,jean
+Flatiron,SKU-005,30,Vintage Blue,0,2026-07-06,0,0,Slim Straight,jean
+Flatiron,SKU-005,31,Indigo,7,2026-07-02,0,7,Slim Straight,jean
+Flatiron,SKU-005,31,Black,8,2026-06-30,0,8,Slim Straight,jean
+Flatiron,SKU-005,31,White,7,2026-06-26,0,7,Slim Straight,jean
+Flatiron,SKU-005,31,Stone Wash,0,2026-07-01,0,0,Slim Straight,jean
+Flatiron,SKU-005,31,Raw Denim,5,2026-07-04,0,5,Slim Straight,jean
+Flatiron,SKU-005,31,Vintage Blue,0,2026-06-29,0,0,Slim Straight,jean
+Flatiron,SKU-005,32,Indigo,4,2026-07-05,0,4,Slim Straight,jean
+Flatiron,SKU-005,32,Black,9,2026-06-27,0,9,Slim Straight,jean
+Flatiron,SKU-005,32,White,3,2026-06-25,0,3,Slim Straight,jean
+Flatiron,SKU-005,32,Stone Wash,3,2026-06-29,0,3,Slim Straight,jean
+Flatiron,SKU-005,32,Raw Denim,0,2026-06-30,0,0,Slim Straight,jean
+Flatiron,SKU-005,32,Vintage Blue,5,2026-07-06,0,5,Slim Straight,jean
+Flatiron,SKU-005,33,Indigo,10,2026-06-30,0,10,Slim Straight,jean
+Flatiron,SKU-005,33,Black,7,2026-07-04,0,7,Slim Straight,jean
+Flatiron,SKU-005,33,White,0,2026-06-25,0,0,Slim Straight,jean
+Flatiron,SKU-005,33,Stone Wash,0,2026-06-27,0,0,Slim Straight,jean
+Flatiron,SKU-005,33,Raw Denim,4,2026-06-22,0,4,Slim Straight,jean
+Flatiron,SKU-005,33,Vintage Blue,5,2026-06-28,0,5,Slim Straight,jean
+Flatiron,SKU-005,34,Indigo,3,2026-06-28,0,3,Slim Straight,jean
+Flatiron,SKU-005,34,Black,1,2026-06-25,0,1,Slim Straight,jean
+Flatiron,SKU-005,34,White,0,2026-06-30,0,0,Slim Straight,jean
+Flatiron,SKU-005,34,Stone Wash,1,2026-06-23,0,1,Slim Straight,jean
+Flatiron,SKU-005,34,Raw Denim,3,2026-07-04,0,3,Slim Straight,jean
+Flatiron,SKU-005,34,Vintage Blue,5,2026-07-04,0,5,Slim Straight,jean
+Flatiron,SKU-006,24,Indigo,0,2026-06-25,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,24,Black,2,2026-07-05,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,24,White,5,2026-06-30,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,24,Stone Wash,0,2026-06-27,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,24,Raw Denim,0,2026-07-05,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,24,Vintage Blue,2,2026-06-30,1,3,High-Rise Skinny,jean
+Flatiron,SKU-006,25,Indigo,5,2026-07-02,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,25,Black,4,2026-06-30,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,25,White,2,2026-07-06,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,25,Stone Wash,4,2026-06-29,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,25,Raw Denim,0,2026-06-22,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,25,Vintage Blue,0,2026-07-06,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,26,Indigo,2,2026-06-26,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,26,Black,4,2026-06-30,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,26,White,7,2026-06-25,0,7,High-Rise Skinny,jean
+Flatiron,SKU-006,26,Stone Wash,5,2026-06-24,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,26,Raw Denim,2,2026-06-25,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,26,Vintage Blue,0,2026-07-04,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,27,Indigo,7,2026-06-30,0,7,High-Rise Skinny,jean
+Flatiron,SKU-006,27,Black,5,2026-07-06,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,27,White,2,2026-06-25,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,27,Stone Wash,0,2026-07-03,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,27,Raw Denim,0,2026-07-05,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,27,Vintage Blue,4,2026-06-24,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,28,Indigo,2,2026-06-26,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,28,Black,8,2026-06-30,0,8,High-Rise Skinny,jean
+Flatiron,SKU-006,28,White,5,2026-06-30,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,28,Stone Wash,0,2026-07-01,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,28,Raw Denim,4,2026-07-02,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,28,Vintage Blue,2,2026-06-25,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,29,Indigo,1,2026-06-26,0,1,High-Rise Skinny,jean
+Flatiron,SKU-006,29,Black,4,2026-06-26,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,29,White,5,2026-07-05,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,29,Stone Wash,2,2026-06-27,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,29,Raw Denim,0,2026-07-02,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,29,Vintage Blue,3,2026-07-04,0,3,High-Rise Skinny,jean
+Flatiron,SKU-006,30,Indigo,5,2026-06-28,0,5,High-Rise Skinny,jean
+Flatiron,SKU-006,30,Black,3,2026-06-29,0,3,High-Rise Skinny,jean
+Flatiron,SKU-006,30,White,0,2026-06-28,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,30,Stone Wash,2,2026-06-22,0,2,High-Rise Skinny,jean
+Flatiron,SKU-006,30,Raw Denim,1,2026-07-05,0,1,High-Rise Skinny,jean
+Flatiron,SKU-006,30,Vintage Blue,4,2026-07-06,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,31,Indigo,11,2026-07-01,0,11,High-Rise Skinny,jean
+Flatiron,SKU-006,31,Black,1,2026-07-03,0,1,High-Rise Skinny,jean
+Flatiron,SKU-006,31,White,4,2026-06-30,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,31,Stone Wash,4,2026-06-28,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,31,Raw Denim,0,2026-06-24,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,31,Vintage Blue,7,2026-06-30,1,8,High-Rise Skinny,jean
+Flatiron,SKU-006,32,Indigo,1,2026-07-02,0,1,High-Rise Skinny,jean
+Flatiron,SKU-006,32,Black,0,2026-07-04,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,32,White,7,2026-06-30,1,8,High-Rise Skinny,jean
+Flatiron,SKU-006,32,Stone Wash,4,2026-06-29,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,32,Raw Denim,4,2026-07-06,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,32,Vintage Blue,6,2026-07-01,0,6,High-Rise Skinny,jean
+Flatiron,SKU-006,33,Indigo,3,2026-06-29,0,3,High-Rise Skinny,jean
+Flatiron,SKU-006,33,Black,11,2026-07-04,0,11,High-Rise Skinny,jean
+Flatiron,SKU-006,33,White,3,2026-06-27,0,3,High-Rise Skinny,jean
+Flatiron,SKU-006,33,Stone Wash,4,2026-06-30,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,33,Raw Denim,3,2026-06-28,0,3,High-Rise Skinny,jean
+Flatiron,SKU-006,33,Vintage Blue,0,2026-07-02,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,34,Indigo,3,2026-07-05,0,3,High-Rise Skinny,jean
+Flatiron,SKU-006,34,Black,4,2026-06-22,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,34,White,4,2026-06-26,0,4,High-Rise Skinny,jean
+Flatiron,SKU-006,34,Stone Wash,0,2026-06-25,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,34,Raw Denim,0,2026-06-28,0,0,High-Rise Skinny,jean
+Flatiron,SKU-006,34,Vintage Blue,0,2026-06-22,0,0,High-Rise Skinny,jean
+Flatiron,SKU-007,24,Indigo,1,2026-06-22,0,1,Mom Jean,jean
+Flatiron,SKU-007,24,Black,2,2026-07-04,0,2,Mom Jean,jean
+Flatiron,SKU-007,24,White,6,2026-06-23,0,6,Mom Jean,jean
+Flatiron,SKU-007,24,Stone Wash,1,2026-07-06,0,1,Mom Jean,jean
+Flatiron,SKU-007,24,Raw Denim,5,2026-07-06,0,5,Mom Jean,jean
+Flatiron,SKU-007,24,Vintage Blue,2,2026-06-26,0,2,Mom Jean,jean
+Flatiron,SKU-007,25,Indigo,4,2026-07-01,0,4,Mom Jean,jean
+Flatiron,SKU-007,25,Black,4,2026-06-24,0,4,Mom Jean,jean
+Flatiron,SKU-007,25,White,3,2026-06-24,0,3,Mom Jean,jean
+Flatiron,SKU-007,25,Stone Wash,9,2026-06-29,0,9,Mom Jean,jean
+Flatiron,SKU-007,25,Raw Denim,1,2026-06-25,0,1,Mom Jean,jean
+Flatiron,SKU-007,25,Vintage Blue,4,2026-06-27,0,4,Mom Jean,jean
+Flatiron,SKU-007,26,Indigo,3,2026-07-03,0,3,Mom Jean,jean
+Flatiron,SKU-007,26,Black,0,2026-06-27,0,0,Mom Jean,jean
+Flatiron,SKU-007,26,White,4,2026-07-01,0,4,Mom Jean,jean
+Flatiron,SKU-007,26,Stone Wash,4,2026-07-04,0,4,Mom Jean,jean
+Flatiron,SKU-007,26,Raw Denim,9,2026-06-29,0,9,Mom Jean,jean
+Flatiron,SKU-007,26,Vintage Blue,4,2026-06-23,0,4,Mom Jean,jean
+Flatiron,SKU-007,27,Indigo,1,2026-07-02,0,1,Mom Jean,jean
+Flatiron,SKU-007,27,Black,4,2026-06-26,0,4,Mom Jean,jean
+Flatiron,SKU-007,27,White,0,2026-07-06,0,0,Mom Jean,jean
+Flatiron,SKU-007,27,Stone Wash,1,2026-06-29,0,1,Mom Jean,jean
+Flatiron,SKU-007,27,Raw Denim,0,2026-06-30,0,0,Mom Jean,jean
+Flatiron,SKU-007,27,Vintage Blue,2,2026-07-02,1,3,Mom Jean,jean
+Flatiron,SKU-007,28,Indigo,2,2026-06-30,0,2,Mom Jean,jean
+Flatiron,SKU-007,28,Black,3,2026-06-26,0,3,Mom Jean,jean
+Flatiron,SKU-007,28,White,0,2026-06-30,0,0,Mom Jean,jean
+Flatiron,SKU-007,28,Stone Wash,5,2026-06-25,0,5,Mom Jean,jean
+Flatiron,SKU-007,28,Raw Denim,4,2026-06-24,0,4,Mom Jean,jean
+Flatiron,SKU-007,28,Vintage Blue,7,2026-07-03,0,7,Mom Jean,jean
+Flatiron,SKU-007,29,Indigo,0,2026-07-04,0,0,Mom Jean,jean
+Flatiron,SKU-007,29,Black,4,2026-06-26,0,4,Mom Jean,jean
+Flatiron,SKU-007,29,White,2,2026-06-24,0,2,Mom Jean,jean
+Flatiron,SKU-007,29,Stone Wash,3,2026-06-29,0,3,Mom Jean,jean
+Flatiron,SKU-007,29,Raw Denim,9,2026-07-06,0,9,Mom Jean,jean
+Flatiron,SKU-007,29,Vintage Blue,3,2026-07-06,1,4,Mom Jean,jean
+Flatiron,SKU-007,30,Indigo,0,2026-07-05,0,0,Mom Jean,jean
+Flatiron,SKU-007,30,Black,2,2026-07-04,0,2,Mom Jean,jean
+Flatiron,SKU-007,30,White,8,2026-06-27,0,8,Mom Jean,jean
+Flatiron,SKU-007,30,Stone Wash,3,2026-06-28,0,3,Mom Jean,jean
+Flatiron,SKU-007,30,Raw Denim,2,2026-06-28,0,2,Mom Jean,jean
+Flatiron,SKU-007,30,Vintage Blue,2,2026-06-28,0,2,Mom Jean,jean
+Flatiron,SKU-007,31,Indigo,8,2026-06-27,0,8,Mom Jean,jean
+Flatiron,SKU-007,31,Black,6,2026-07-03,0,6,Mom Jean,jean
+Flatiron,SKU-007,31,White,0,2026-06-29,0,0,Mom Jean,jean
+Flatiron,SKU-007,31,Stone Wash,4,2026-06-28,0,4,Mom Jean,jean
+Flatiron,SKU-007,31,Raw Denim,0,2026-06-26,0,0,Mom Jean,jean
+Flatiron,SKU-007,31,Vintage Blue,4,2026-06-25,0,4,Mom Jean,jean
+Flatiron,SKU-007,32,Indigo,0,2026-06-23,0,0,Mom Jean,jean
+Flatiron,SKU-007,32,Black,3,2026-07-04,0,3,Mom Jean,jean
+Flatiron,SKU-007,32,White,1,2026-06-22,0,1,Mom Jean,jean
+Flatiron,SKU-007,32,Stone Wash,2,2026-06-24,0,2,Mom Jean,jean
+Flatiron,SKU-007,32,Raw Denim,4,2026-06-22,0,4,Mom Jean,jean
+Flatiron,SKU-007,32,Vintage Blue,3,2026-07-06,0,3,Mom Jean,jean
+Flatiron,SKU-007,33,Indigo,3,2026-06-28,0,3,Mom Jean,jean
+Flatiron,SKU-007,33,Black,5,2026-06-28,0,5,Mom Jean,jean
+Flatiron,SKU-007,33,White,1,2026-06-24,0,1,Mom Jean,jean
+Flatiron,SKU-007,33,Stone Wash,0,2026-07-01,0,0,Mom Jean,jean
+Flatiron,SKU-007,33,Raw Denim,0,2026-06-23,0,0,Mom Jean,jean
+Flatiron,SKU-007,33,Vintage Blue,0,2026-07-06,0,0,Mom Jean,jean
+Flatiron,SKU-007,34,Indigo,0,2026-06-28,0,0,Mom Jean,jean
+Flatiron,SKU-007,34,Black,3,2026-07-03,0,3,Mom Jean,jean
+Flatiron,SKU-007,34,White,3,2026-07-02,0,3,Mom Jean,jean
+Flatiron,SKU-007,34,Stone Wash,3,2026-07-06,0,3,Mom Jean,jean
+Flatiron,SKU-007,34,Raw Denim,2,2026-06-28,0,2,Mom Jean,jean
+Flatiron,SKU-007,34,Vintage Blue,4,2026-06-25,0,4,Mom Jean,jean
+Flatiron,SKU-008,24,Indigo,2,2026-06-22,0,2,Boyfriend,jean
+Flatiron,SKU-008,24,Black,6,2026-06-25,0,6,Boyfriend,jean
+Flatiron,SKU-008,24,White,4,2026-07-03,0,4,Boyfriend,jean
+Flatiron,SKU-008,24,Stone Wash,1,2026-06-25,0,1,Boyfriend,jean
+Flatiron,SKU-008,24,Raw Denim,7,2026-06-23,0,7,Boyfriend,jean
+Flatiron,SKU-008,24,Vintage Blue,0,2026-06-27,0,0,Boyfriend,jean
+Flatiron,SKU-008,25,Indigo,0,2026-06-27,0,0,Boyfriend,jean
+Flatiron,SKU-008,25,Black,5,2026-07-05,0,5,Boyfriend,jean
+Flatiron,SKU-008,25,White,3,2026-06-24,0,3,Boyfriend,jean
+Flatiron,SKU-008,25,Stone Wash,3,2026-06-30,0,3,Boyfriend,jean
+Flatiron,SKU-008,25,Raw Denim,4,2026-06-25,0,4,Boyfriend,jean
+Flatiron,SKU-008,25,Vintage Blue,1,2026-07-06,0,1,Boyfriend,jean
+Flatiron,SKU-008,26,Indigo,4,2026-06-22,0,4,Boyfriend,jean
+Flatiron,SKU-008,26,Black,6,2026-07-04,0,6,Boyfriend,jean
+Flatiron,SKU-008,26,White,6,2026-06-22,0,6,Boyfriend,jean
+Flatiron,SKU-008,26,Stone Wash,5,2026-06-30,0,5,Boyfriend,jean
+Flatiron,SKU-008,26,Raw Denim,2,2026-06-29,0,2,Boyfriend,jean
+Flatiron,SKU-008,26,Vintage Blue,5,2026-07-04,0,5,Boyfriend,jean
+Flatiron,SKU-008,27,Indigo,0,2026-06-28,0,0,Boyfriend,jean
+Flatiron,SKU-008,27,Black,7,2026-06-25,0,7,Boyfriend,jean
+Flatiron,SKU-008,27,White,6,2026-06-25,0,6,Boyfriend,jean
+Flatiron,SKU-008,27,Stone Wash,1,2026-07-03,0,1,Boyfriend,jean
+Flatiron,SKU-008,27,Raw Denim,6,2026-06-30,0,6,Boyfriend,jean
+Flatiron,SKU-008,27,Vintage Blue,3,2026-06-23,0,3,Boyfriend,jean
+Flatiron,SKU-008,28,Indigo,2,2026-06-24,0,2,Boyfriend,jean
+Flatiron,SKU-008,28,Black,3,2026-06-28,0,3,Boyfriend,jean
+Flatiron,SKU-008,28,White,7,2026-06-24,0,7,Boyfriend,jean
+Flatiron,SKU-008,28,Stone Wash,5,2026-06-25,0,5,Boyfriend,jean
+Flatiron,SKU-008,28,Raw Denim,0,2026-06-25,0,0,Boyfriend,jean
+Flatiron,SKU-008,28,Vintage Blue,2,2026-07-04,0,2,Boyfriend,jean
+Flatiron,SKU-008,29,Indigo,4,2026-06-30,0,4,Boyfriend,jean
+Flatiron,SKU-008,29,Black,7,2026-07-06,0,7,Boyfriend,jean
+Flatiron,SKU-008,29,White,3,2026-07-03,0,3,Boyfriend,jean
+Flatiron,SKU-008,29,Stone Wash,4,2026-07-02,0,4,Boyfriend,jean
+Flatiron,SKU-008,29,Raw Denim,8,2026-06-25,0,8,Boyfriend,jean
+Flatiron,SKU-008,29,Vintage Blue,0,2026-06-26,0,0,Boyfriend,jean
+Flatiron,SKU-008,30,Indigo,4,2026-07-01,0,4,Boyfriend,jean
+Flatiron,SKU-008,30,Black,0,2026-07-05,0,0,Boyfriend,jean
+Flatiron,SKU-008,30,White,3,2026-06-24,0,3,Boyfriend,jean
+Flatiron,SKU-008,30,Stone Wash,1,2026-06-23,0,1,Boyfriend,jean
+Flatiron,SKU-008,30,Raw Denim,4,2026-06-23,0,4,Boyfriend,jean
+Flatiron,SKU-008,30,Vintage Blue,7,2026-07-03,0,7,Boyfriend,jean
+Flatiron,SKU-008,31,Indigo,1,2026-07-06,0,1,Boyfriend,jean
+Flatiron,SKU-008,31,Black,2,2026-07-01,1,3,Boyfriend,jean
+Flatiron,SKU-008,31,White,7,2026-06-23,0,7,Boyfriend,jean
+Flatiron,SKU-008,31,Stone Wash,5,2026-06-28,0,5,Boyfriend,jean
+Flatiron,SKU-008,31,Raw Denim,4,2026-06-27,0,4,Boyfriend,jean
+Flatiron,SKU-008,31,Vintage Blue,2,2026-06-26,0,2,Boyfriend,jean
+Flatiron,SKU-008,32,Indigo,0,2026-07-05,0,0,Boyfriend,jean
+Flatiron,SKU-008,32,Black,1,2026-06-28,0,1,Boyfriend,jean
+Flatiron,SKU-008,32,White,5,2026-06-30,0,5,Boyfriend,jean
+Flatiron,SKU-008,32,Stone Wash,6,2026-06-22,0,6,Boyfriend,jean
+Flatiron,SKU-008,32,Raw Denim,7,2026-06-27,1,8,Boyfriend,jean
+Flatiron,SKU-008,32,Vintage Blue,4,2026-06-22,0,4,Boyfriend,jean
+Flatiron,SKU-008,33,Indigo,2,2026-07-04,0,2,Boyfriend,jean
+Flatiron,SKU-008,33,Black,4,2026-07-06,0,4,Boyfriend,jean
+Flatiron,SKU-008,33,White,0,2026-06-29,0,0,Boyfriend,jean
+Flatiron,SKU-008,33,Stone Wash,12,2026-06-22,0,12,Boyfriend,jean
+Flatiron,SKU-008,33,Raw Denim,3,2026-06-25,0,3,Boyfriend,jean
+Flatiron,SKU-008,33,Vintage Blue,7,2026-06-29,0,7,Boyfriend,jean
+Flatiron,SKU-008,34,Indigo,2,2026-06-30,0,2,Boyfriend,jean
+Flatiron,SKU-008,34,Black,3,2026-06-30,0,3,Boyfriend,jean
+Flatiron,SKU-008,34,White,10,2026-07-05,0,10,Boyfriend,jean
+Flatiron,SKU-008,34,Stone Wash,6,2026-06-27,0,6,Boyfriend,jean
+Flatiron,SKU-008,34,Raw Denim,0,2026-07-01,0,0,Boyfriend,jean
+Flatiron,SKU-008,34,Vintage Blue,6,2026-07-01,0,6,Boyfriend,jean
+Flatiron,SKU-009,24,Indigo,0,2026-06-29,0,0,Cropped Straight,jean
+Flatiron,SKU-009,24,Black,3,2026-07-05,0,3,Cropped Straight,jean
+Flatiron,SKU-009,24,White,7,2026-06-28,0,7,Cropped Straight,jean
+Flatiron,SKU-009,24,Stone Wash,3,2026-06-23,0,3,Cropped Straight,jean
+Flatiron,SKU-009,24,Raw Denim,0,2026-06-28,0,0,Cropped Straight,jean
+Flatiron,SKU-009,24,Vintage Blue,4,2026-06-22,0,4,Cropped Straight,jean
+Flatiron,SKU-009,25,Indigo,5,2026-07-06,0,5,Cropped Straight,jean
+Flatiron,SKU-009,25,Black,0,2026-06-26,0,0,Cropped Straight,jean
+Flatiron,SKU-009,25,White,3,2026-06-23,0,3,Cropped Straight,jean
+Flatiron,SKU-009,25,Stone Wash,8,2026-06-26,0,8,Cropped Straight,jean
+Flatiron,SKU-009,25,Raw Denim,0,2026-06-26,0,0,Cropped Straight,jean
+Flatiron,SKU-009,25,Vintage Blue,0,2026-06-27,0,0,Cropped Straight,jean
+Flatiron,SKU-009,26,Indigo,4,2026-06-28,1,5,Cropped Straight,jean
+Flatiron,SKU-009,26,Black,4,2026-07-04,0,4,Cropped Straight,jean
+Flatiron,SKU-009,26,White,2,2026-07-06,0,2,Cropped Straight,jean
+Flatiron,SKU-009,26,Stone Wash,0,2026-06-30,0,0,Cropped Straight,jean
+Flatiron,SKU-009,26,Raw Denim,4,2026-06-27,0,4,Cropped Straight,jean
+Flatiron,SKU-009,26,Vintage Blue,4,2026-06-22,0,4,Cropped Straight,jean
+Flatiron,SKU-009,27,Indigo,6,2026-06-27,0,6,Cropped Straight,jean
+Flatiron,SKU-009,27,Black,2,2026-06-29,0,2,Cropped Straight,jean
+Flatiron,SKU-009,27,White,4,2026-06-30,0,4,Cropped Straight,jean
+Flatiron,SKU-009,27,Stone Wash,2,2026-06-30,0,2,Cropped Straight,jean
+Flatiron,SKU-009,27,Raw Denim,1,2026-06-28,0,1,Cropped Straight,jean
+Flatiron,SKU-009,27,Vintage Blue,3,2026-06-29,0,3,Cropped Straight,jean
+Flatiron,SKU-009,28,Indigo,8,2026-07-01,0,8,Cropped Straight,jean
+Flatiron,SKU-009,28,Black,3,2026-06-28,0,3,Cropped Straight,jean
+Flatiron,SKU-009,28,White,5,2026-07-03,0,5,Cropped Straight,jean
+Flatiron,SKU-009,28,Stone Wash,0,2026-06-24,0,0,Cropped Straight,jean
+Flatiron,SKU-009,28,Raw Denim,0,2026-07-01,0,0,Cropped Straight,jean
+Flatiron,SKU-009,28,Vintage Blue,7,2026-06-29,0,7,Cropped Straight,jean
+Flatiron,SKU-009,29,Indigo,2,2026-06-23,0,2,Cropped Straight,jean
+Flatiron,SKU-009,29,Black,0,2026-07-06,0,0,Cropped Straight,jean
+Flatiron,SKU-009,29,White,1,2026-07-04,0,1,Cropped Straight,jean
+Flatiron,SKU-009,29,Stone Wash,7,2026-06-23,0,7,Cropped Straight,jean
+Flatiron,SKU-009,29,Raw Denim,0,2026-06-23,0,0,Cropped Straight,jean
+Flatiron,SKU-009,29,Vintage Blue,7,2026-07-06,0,7,Cropped Straight,jean
+Flatiron,SKU-009,30,Indigo,0,2026-07-05,0,0,Cropped Straight,jean
+Flatiron,SKU-009,30,Black,5,2026-06-26,0,5,Cropped Straight,jean
+Flatiron,SKU-009,30,White,0,2026-07-06,0,0,Cropped Straight,jean
+Flatiron,SKU-009,30,Stone Wash,0,2026-07-01,0,0,Cropped Straight,jean
+Flatiron,SKU-009,30,Raw Denim,5,2026-06-23,0,5,Cropped Straight,jean
+Flatiron,SKU-009,30,Vintage Blue,4,2026-06-30,0,4,Cropped Straight,jean
+Flatiron,SKU-009,31,Indigo,2,2026-06-26,0,2,Cropped Straight,jean
+Flatiron,SKU-009,31,Black,3,2026-06-29,0,3,Cropped Straight,jean
+Flatiron,SKU-009,31,White,1,2026-07-03,0,1,Cropped Straight,jean
+Flatiron,SKU-009,31,Stone Wash,4,2026-07-02,0,4,Cropped Straight,jean
+Flatiron,SKU-009,31,Raw Denim,0,2026-07-05,0,0,Cropped Straight,jean
+Flatiron,SKU-009,31,Vintage Blue,9,2026-07-02,0,9,Cropped Straight,jean
+Flatiron,SKU-009,32,Indigo,3,2026-06-25,0,3,Cropped Straight,jean
+Flatiron,SKU-009,32,Black,3,2026-06-25,0,3,Cropped Straight,jean
+Flatiron,SKU-009,32,White,4,2026-07-03,0,4,Cropped Straight,jean
+Flatiron,SKU-009,32,Stone Wash,4,2026-06-25,0,4,Cropped Straight,jean
+Flatiron,SKU-009,32,Raw Denim,5,2026-07-05,0,5,Cropped Straight,jean
+Flatiron,SKU-009,32,Vintage Blue,4,2026-06-26,0,4,Cropped Straight,jean
+Flatiron,SKU-009,33,Indigo,0,2026-06-25,0,0,Cropped Straight,jean
+Flatiron,SKU-009,33,Black,0,2026-06-27,0,0,Cropped Straight,jean
+Flatiron,SKU-009,33,White,4,2026-06-26,0,4,Cropped Straight,jean
+Flatiron,SKU-009,33,Stone Wash,6,2026-06-26,0,6,Cropped Straight,jean
+Flatiron,SKU-009,33,Raw Denim,4,2026-06-29,0,4,Cropped Straight,jean
+Flatiron,SKU-009,33,Vintage Blue,5,2026-06-29,0,5,Cropped Straight,jean
+Flatiron,SKU-009,34,Indigo,2,2026-06-26,0,2,Cropped Straight,jean
+Flatiron,SKU-009,34,Black,0,2026-06-25,0,0,Cropped Straight,jean
+Flatiron,SKU-009,34,White,0,2026-06-22,0,0,Cropped Straight,jean
+Flatiron,SKU-009,34,Stone Wash,7,2026-07-06,0,7,Cropped Straight,jean
+Flatiron,SKU-009,34,Raw Denim,6,2026-07-02,0,6,Cropped Straight,jean
+Flatiron,SKU-009,34,Vintage Blue,5,2026-07-02,0,5,Cropped Straight,jean
+Flatiron,SKU-010,24,Indigo,3,2026-07-03,0,3,Flare,jean
+Flatiron,SKU-010,24,Black,3,2026-07-04,0,3,Flare,jean
+Flatiron,SKU-010,24,White,0,2026-06-30,0,0,Flare,jean
+Flatiron,SKU-010,24,Stone Wash,4,2026-06-28,0,4,Flare,jean
+Flatiron,SKU-010,24,Raw Denim,3,2026-06-29,0,3,Flare,jean
+Flatiron,SKU-010,24,Vintage Blue,0,2026-06-27,0,0,Flare,jean
+Flatiron,SKU-010,25,Indigo,4,2026-06-24,0,4,Flare,jean
+Flatiron,SKU-010,25,Black,2,2026-06-23,1,3,Flare,jean
+Flatiron,SKU-010,25,White,5,2026-06-22,0,5,Flare,jean
+Flatiron,SKU-010,25,Stone Wash,3,2026-07-04,0,3,Flare,jean
+Flatiron,SKU-010,25,Raw Denim,1,2026-07-01,0,1,Flare,jean
+Flatiron,SKU-010,25,Vintage Blue,4,2026-06-27,0,4,Flare,jean
+Flatiron,SKU-010,26,Indigo,5,2026-07-04,0,5,Flare,jean
+Flatiron,SKU-010,26,Black,4,2026-06-22,0,4,Flare,jean
+Flatiron,SKU-010,26,White,4,2026-06-24,0,4,Flare,jean
+Flatiron,SKU-010,26,Stone Wash,0,2026-07-04,0,0,Flare,jean
+Flatiron,SKU-010,26,Raw Denim,3,2026-06-29,0,3,Flare,jean
+Flatiron,SKU-010,26,Vintage Blue,0,2026-06-26,0,0,Flare,jean
+Flatiron,SKU-010,27,Indigo,4,2026-07-01,0,4,Flare,jean
+Flatiron,SKU-010,27,Black,12,2026-06-26,0,12,Flare,jean
+Flatiron,SKU-010,27,White,6,2026-06-24,0,6,Flare,jean
+Flatiron,SKU-010,27,Stone Wash,0,2026-07-04,0,0,Flare,jean
+Flatiron,SKU-010,27,Raw Denim,2,2026-07-05,0,2,Flare,jean
+Flatiron,SKU-010,27,Vintage Blue,9,2026-06-28,0,9,Flare,jean
+Flatiron,SKU-010,28,Indigo,7,2026-07-02,0,7,Flare,jean
+Flatiron,SKU-010,28,Black,2,2026-06-25,0,2,Flare,jean
+Flatiron,SKU-010,28,White,3,2026-06-30,0,3,Flare,jean
+Flatiron,SKU-010,28,Stone Wash,4,2026-06-23,0,4,Flare,jean
+Flatiron,SKU-010,28,Raw Denim,5,2026-06-30,0,5,Flare,jean
+Flatiron,SKU-010,28,Vintage Blue,2,2026-06-28,0,2,Flare,jean
+Flatiron,SKU-010,29,Indigo,0,2026-06-23,0,0,Flare,jean
+Flatiron,SKU-010,29,Black,0,2026-06-24,0,0,Flare,jean
+Flatiron,SKU-010,29,White,3,2026-06-24,0,3,Flare,jean
+Flatiron,SKU-010,29,Stone Wash,8,2026-06-26,0,8,Flare,jean
+Flatiron,SKU-010,29,Raw Denim,3,2026-07-02,0,3,Flare,jean
+Flatiron,SKU-010,29,Vintage Blue,0,2026-06-26,0,0,Flare,jean
+Flatiron,SKU-010,30,Indigo,5,2026-06-25,0,5,Flare,jean
+Flatiron,SKU-010,30,Black,7,2026-07-03,0,7,Flare,jean
+Flatiron,SKU-010,30,White,0,2026-07-01,0,0,Flare,jean
+Flatiron,SKU-010,30,Stone Wash,0,2026-07-02,0,0,Flare,jean
+Flatiron,SKU-010,30,Raw Denim,0,2026-06-29,0,0,Flare,jean
+Flatiron,SKU-010,30,Vintage Blue,3,2026-06-30,0,3,Flare,jean
+Flatiron,SKU-010,31,Indigo,2,2026-06-27,0,2,Flare,jean
+Flatiron,SKU-010,31,Black,2,2026-07-03,0,2,Flare,jean
+Flatiron,SKU-010,31,White,0,2026-06-26,0,0,Flare,jean
+Flatiron,SKU-010,31,Stone Wash,0,2026-07-03,0,0,Flare,jean
+Flatiron,SKU-010,31,Raw Denim,1,2026-07-04,0,1,Flare,jean
+Flatiron,SKU-010,31,Vintage Blue,2,2026-06-22,0,2,Flare,jean
+Flatiron,SKU-010,32,Indigo,2,2026-07-01,0,2,Flare,jean
+Flatiron,SKU-010,32,Black,3,2026-06-30,0,3,Flare,jean
+Flatiron,SKU-010,32,White,4,2026-06-25,0,4,Flare,jean
+Flatiron,SKU-010,32,Stone Wash,1,2026-06-27,1,2,Flare,jean
+Flatiron,SKU-010,32,Raw Denim,0,2026-07-02,0,0,Flare,jean
+Flatiron,SKU-010,32,Vintage Blue,0,2026-06-26,0,0,Flare,jean
+Flatiron,SKU-010,33,Indigo,8,2026-06-29,0,8,Flare,jean
+Flatiron,SKU-010,33,Black,0,2026-06-28,0,0,Flare,jean
+Flatiron,SKU-010,33,White,2,2026-06-24,0,2,Flare,jean
+Flatiron,SKU-010,33,Stone Wash,0,2026-07-03,0,0,Flare,jean
+Flatiron,SKU-010,33,Raw Denim,1,2026-06-25,1,2,Flare,jean
+Flatiron,SKU-010,33,Vintage Blue,0,2026-06-23,0,0,Flare,jean
+Flatiron,SKU-010,34,Indigo,6,2026-07-03,0,6,Flare,jean
+Flatiron,SKU-010,34,Black,5,2026-06-25,0,5,Flare,jean
+Flatiron,SKU-010,34,White,1,2026-07-02,0,1,Flare,jean
+Flatiron,SKU-010,34,Stone Wash,4,2026-06-24,0,4,Flare,jean
+Flatiron,SKU-010,34,Raw Denim,0,2026-06-27,0,0,Flare,jean
+Flatiron,SKU-010,34,Vintage Blue,8,2026-07-05,0,8,Flare,jean
+Flatiron,SKU-011,XS,Indigo,9,2026-06-25,0,9,Denim Jacket,jacket
+Flatiron,SKU-011,XS,Black,0,2026-07-04,0,0,Denim Jacket,jacket
+Flatiron,SKU-011,XS,Stone Wash,1,2026-07-03,0,1,Denim Jacket,jacket
+Flatiron,SKU-011,XS,Raw Denim,6,2026-06-26,0,6,Denim Jacket,jacket
+Flatiron,SKU-011,S,Indigo,2,2026-07-06,1,3,Denim Jacket,jacket
+Flatiron,SKU-011,S,Black,5,2026-07-03,0,5,Denim Jacket,jacket
+Flatiron,SKU-011,S,Stone Wash,4,2026-06-29,0,4,Denim Jacket,jacket
+Flatiron,SKU-011,S,Raw Denim,0,2026-06-30,0,0,Denim Jacket,jacket
+Flatiron,SKU-011,M,Indigo,3,2026-06-26,0,3,Denim Jacket,jacket
+Flatiron,SKU-011,M,Black,5,2026-06-27,1,6,Denim Jacket,jacket
+Flatiron,SKU-011,M,Stone Wash,9,2026-06-30,0,9,Denim Jacket,jacket
+Flatiron,SKU-011,M,Raw Denim,5,2026-06-24,1,6,Denim Jacket,jacket
+Flatiron,SKU-011,L,Indigo,1,2026-06-27,0,1,Denim Jacket,jacket
+Flatiron,SKU-011,L,Black,9,2026-06-26,0,9,Denim Jacket,jacket
+Flatiron,SKU-011,L,Stone Wash,1,2026-06-29,1,2,Denim Jacket,jacket
+Flatiron,SKU-011,L,Raw Denim,0,2026-06-28,0,0,Denim Jacket,jacket
+Flatiron,SKU-011,XL,Indigo,1,2026-06-26,0,1,Denim Jacket,jacket
+Flatiron,SKU-011,XL,Black,0,2026-06-24,0,0,Denim Jacket,jacket
+Flatiron,SKU-011,XL,Stone Wash,0,2026-07-04,0,0,Denim Jacket,jacket
+Flatiron,SKU-011,XL,Raw Denim,7,2026-06-26,1,8,Denim Jacket,jacket
+Flatiron,SKU-012,XS,Indigo,3,2026-07-05,0,3,Chore Jacket,jacket
+Flatiron,SKU-012,XS,Black,4,2026-06-25,0,4,Chore Jacket,jacket
+Flatiron,SKU-012,XS,Stone Wash,3,2026-07-02,0,3,Chore Jacket,jacket
+Flatiron,SKU-012,XS,Raw Denim,5,2026-06-26,0,5,Chore Jacket,jacket
+Flatiron,SKU-012,S,Indigo,8,2026-06-30,0,8,Chore Jacket,jacket
+Flatiron,SKU-012,S,Black,1,2026-07-01,0,1,Chore Jacket,jacket
+Flatiron,SKU-012,S,Stone Wash,1,2026-07-05,0,1,Chore Jacket,jacket
+Flatiron,SKU-012,S,Raw Denim,2,2026-07-01,0,2,Chore Jacket,jacket
+Flatiron,SKU-012,M,Indigo,5,2026-07-05,0,5,Chore Jacket,jacket
+Flatiron,SKU-012,M,Black,3,2026-06-24,0,3,Chore Jacket,jacket
+Flatiron,SKU-012,M,Stone Wash,7,2026-06-24,0,7,Chore Jacket,jacket
+Flatiron,SKU-012,M,Raw Denim,7,2026-06-29,0,7,Chore Jacket,jacket
+Flatiron,SKU-012,L,Indigo,4,2026-07-05,0,4,Chore Jacket,jacket
+Flatiron,SKU-012,L,Black,0,2026-06-24,0,0,Chore Jacket,jacket
+Flatiron,SKU-012,L,Stone Wash,0,2026-07-06,0,0,Chore Jacket,jacket
+Flatiron,SKU-012,L,Raw Denim,3,2026-06-25,0,3,Chore Jacket,jacket
+Flatiron,SKU-012,XL,Indigo,3,2026-07-02,0,3,Chore Jacket,jacket
+Flatiron,SKU-012,XL,Black,1,2026-06-25,0,1,Chore Jacket,jacket
+Flatiron,SKU-012,XL,Stone Wash,1,2026-06-29,0,1,Chore Jacket,jacket
+Flatiron,SKU-012,XL,Raw Denim,5,2026-06-26,0,5,Chore Jacket,jacket
+Flatiron,SKU-013,XS,Indigo,2,2026-07-04,1,3,Trucker Jacket,jacket
+Flatiron,SKU-013,XS,Black,0,2026-06-26,0,0,Trucker Jacket,jacket
+Flatiron,SKU-013,XS,Stone Wash,3,2026-07-02,0,3,Trucker Jacket,jacket
+Flatiron,SKU-013,XS,Raw Denim,6,2026-06-27,0,6,Trucker Jacket,jacket
+Flatiron,SKU-013,S,Indigo,0,2026-06-30,0,0,Trucker Jacket,jacket
+Flatiron,SKU-013,S,Black,0,2026-07-04,0,0,Trucker Jacket,jacket
+Flatiron,SKU-013,S,Stone Wash,5,2026-06-27,0,5,Trucker Jacket,jacket
+Flatiron,SKU-013,S,Raw Denim,2,2026-06-23,0,2,Trucker Jacket,jacket
+Flatiron,SKU-013,M,Indigo,6,2026-07-06,0,6,Trucker Jacket,jacket
+Flatiron,SKU-013,M,Black,6,2026-06-29,0,6,Trucker Jacket,jacket
+Flatiron,SKU-013,M,Stone Wash,2,2026-07-05,0,2,Trucker Jacket,jacket
+Flatiron,SKU-013,M,Raw Denim,2,2026-07-01,0,2,Trucker Jacket,jacket
+Flatiron,SKU-013,L,Indigo,2,2026-07-05,0,2,Trucker Jacket,jacket
+Flatiron,SKU-013,L,Black,4,2026-06-22,0,4,Trucker Jacket,jacket
+Flatiron,SKU-013,L,Stone Wash,5,2026-07-02,0,5,Trucker Jacket,jacket
+Flatiron,SKU-013,L,Raw Denim,5,2026-07-01,0,5,Trucker Jacket,jacket
+Flatiron,SKU-013,XL,Indigo,10,2026-07-03,0,10,Trucker Jacket,jacket
+Flatiron,SKU-013,XL,Black,6,2026-06-26,0,6,Trucker Jacket,jacket
+Flatiron,SKU-013,XL,Stone Wash,2,2026-06-29,0,2,Trucker Jacket,jacket
+Flatiron,SKU-013,XL,Raw Denim,1,2026-07-03,0,1,Trucker Jacket,jacket
+Flatiron,SKU-014,XS,Indigo,0,2026-07-02,0,0,Denim Shirt,top
+Flatiron,SKU-014,XS,Black,7,2026-07-04,0,7,Denim Shirt,top
+Flatiron,SKU-014,XS,Stone Wash,0,2026-06-30,0,0,Denim Shirt,top
+Flatiron,SKU-014,XS,Raw Denim,5,2026-06-28,0,5,Denim Shirt,top
+Flatiron,SKU-014,S,Indigo,0,2026-06-23,0,0,Denim Shirt,top
+Flatiron,SKU-014,S,Black,2,2026-06-26,0,2,Denim Shirt,top
+Flatiron,SKU-014,S,Stone Wash,3,2026-07-05,1,4,Denim Shirt,top
+Flatiron,SKU-014,S,Raw Denim,8,2026-06-27,0,8,Denim Shirt,top
+Flatiron,SKU-014,M,Indigo,3,2026-06-29,0,3,Denim Shirt,top
+Flatiron,SKU-014,M,Black,1,2026-06-29,0,1,Denim Shirt,top
+Flatiron,SKU-014,M,Stone Wash,2,2026-06-22,0,2,Denim Shirt,top
+Flatiron,SKU-014,M,Raw Denim,0,2026-06-26,0,0,Denim Shirt,top
+Flatiron,SKU-014,L,Indigo,4,2026-06-26,0,4,Denim Shirt,top
+Flatiron,SKU-014,L,Black,4,2026-06-24,0,4,Denim Shirt,top
+Flatiron,SKU-014,L,Stone Wash,6,2026-06-30,0,6,Denim Shirt,top
+Flatiron,SKU-014,L,Raw Denim,7,2026-06-27,0,7,Denim Shirt,top
+Flatiron,SKU-014,XL,Indigo,5,2026-06-27,0,5,Denim Shirt,top
+Flatiron,SKU-014,XL,Black,9,2026-06-30,0,9,Denim Shirt,top
+Flatiron,SKU-014,XL,Stone Wash,4,2026-06-30,0,4,Denim Shirt,top
+Flatiron,SKU-014,XL,Raw Denim,9,2026-06-27,0,9,Denim Shirt,top
+Flatiron,SKU-015,XS,Indigo,0,2026-06-24,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,XS,Black,0,2026-06-29,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,XS,Stone Wash,3,2026-07-04,0,3,Denim Overalls,bottom
+Flatiron,SKU-015,XS,Raw Denim,5,2026-06-25,0,5,Denim Overalls,bottom
+Flatiron,SKU-015,S,Indigo,0,2026-07-05,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,S,Black,0,2026-07-04,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,S,Stone Wash,4,2026-07-02,0,4,Denim Overalls,bottom
+Flatiron,SKU-015,S,Raw Denim,3,2026-06-30,0,3,Denim Overalls,bottom
+Flatiron,SKU-015,M,Indigo,0,2026-06-28,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,M,Black,2,2026-06-25,0,2,Denim Overalls,bottom
+Flatiron,SKU-015,M,Stone Wash,1,2026-07-06,0,1,Denim Overalls,bottom
+Flatiron,SKU-015,M,Raw Denim,4,2026-07-03,0,4,Denim Overalls,bottom
+Flatiron,SKU-015,L,Indigo,6,2026-06-30,0,6,Denim Overalls,bottom
+Flatiron,SKU-015,L,Black,8,2026-06-27,0,8,Denim Overalls,bottom
+Flatiron,SKU-015,L,Stone Wash,1,2026-07-01,0,1,Denim Overalls,bottom
+Flatiron,SKU-015,L,Raw Denim,2,2026-07-01,0,2,Denim Overalls,bottom
+Flatiron,SKU-015,XL,Indigo,0,2026-06-28,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,XL,Black,0,2026-06-30,0,0,Denim Overalls,bottom
+Flatiron,SKU-015,XL,Stone Wash,5,2026-06-29,0,5,Denim Overalls,bottom
+Flatiron,SKU-015,XL,Raw Denim,4,2026-06-29,0,4,Denim Overalls,bottom
+Flatiron,SKU-016,XS,Indigo,8,2026-06-28,0,8,Denim Skirt,bottom
+Flatiron,SKU-016,XS,Black,3,2026-06-26,0,3,Denim Skirt,bottom
+Flatiron,SKU-016,XS,Stone Wash,0,2026-06-29,0,0,Denim Skirt,bottom
+Flatiron,SKU-016,XS,Raw Denim,5,2026-06-26,0,5,Denim Skirt,bottom
+Flatiron,SKU-016,S,Indigo,7,2026-06-27,0,7,Denim Skirt,bottom
+Flatiron,SKU-016,S,Black,2,2026-06-30,0,2,Denim Skirt,bottom
+Flatiron,SKU-016,S,Stone Wash,6,2026-07-02,0,6,Denim Skirt,bottom
+Flatiron,SKU-016,S,Raw Denim,6,2026-06-26,0,6,Denim Skirt,bottom
+Flatiron,SKU-016,M,Indigo,2,2026-07-05,0,2,Denim Skirt,bottom
+Flatiron,SKU-016,M,Black,4,2026-07-02,0,4,Denim Skirt,bottom
+Flatiron,SKU-016,M,Stone Wash,6,2026-06-27,0,6,Denim Skirt,bottom
+Flatiron,SKU-016,M,Raw Denim,1,2026-07-03,0,1,Denim Skirt,bottom
+Flatiron,SKU-016,L,Indigo,0,2026-06-26,0,0,Denim Skirt,bottom
+Flatiron,SKU-016,L,Black,0,2026-07-05,0,0,Denim Skirt,bottom
+Flatiron,SKU-016,L,Stone Wash,7,2026-06-24,0,7,Denim Skirt,bottom
+Flatiron,SKU-016,L,Raw Denim,1,2026-06-22,0,1,Denim Skirt,bottom
+Flatiron,SKU-016,XL,Indigo,2,2026-06-29,0,2,Denim Skirt,bottom
+Flatiron,SKU-016,XL,Black,1,2026-07-02,0,1,Denim Skirt,bottom
+Flatiron,SKU-016,XL,Stone Wash,7,2026-07-03,0,7,Denim Skirt,bottom
+Flatiron,SKU-016,XL,Raw Denim,0,2026-06-27,0,0,Denim Skirt,bottom
