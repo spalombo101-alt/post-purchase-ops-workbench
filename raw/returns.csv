@@ -1,0 +1,451 @@
+return_id,order_id,item_id,return_date,return_location,return_reason,refund_type,item_condition,inventory_processed_flag,inventory_processed_date
+RET-00001,ORD-002159,SKU-010,2026-07-04,Bleecker,fit_large,original_payment,sellable,False,
+RET-00002,ORD-003024,SKU-014,2024-12-03,Madison Ave,fit_small,original_payment,sellable,True,2024-12-03
+RET-00003,ORD-002916,SKU-014,2026-06-15,Bleecker,changed_mind,original_payment,sellable,True,2026-06-22
+RET-00004,ORD-002849,SKU-006,2026-05-13,Bleecker,fit_small,exchange,sellable,True,2026-05-19
+RET-00005,ORD-000932,SKU-005,2025-04-22,Bleecker,changed_mind,store_credit,sellable,True,2025-04-28
+RET-00006,ORD-002408,SKU-006,2026-07-01,SoHo,fit_small,original_payment,sellable,True,2026-07-05
+RET-00007,ORD-001867,SKU-008,2026-07-06,Madison Ave,changed_mind,store_credit,sellable,False,
+RET-00008,ORD-001901,SKU-014,2025-09-29,Flatiron,changed_mind,exchange,damaged,True,2025-09-30
+RET-00009,ORD-002706,SKU-009,2025-06-08,SoHo,fit_small,original_payment,sellable,True,2025-06-12
+RET-00010,ORD-000160,SKU-006,2026-05-27,Bleecker,fit_small,original_payment,sellable,True,2026-06-02
+RET-00011,ORD-001221,SKU-011,2026-06-07,Madison Ave,fit_small,original_payment,sellable,True,2026-06-10
+RET-00012,ORD-000432,SKU-014,2025-11-29,Flatiron,fit_small,exchange,sellable,True,2025-12-03
+RET-00013,ORD-000430,SKU-004,2025-12-20,Bleecker,fit_large,store_credit,sellable,True,2025-12-21
+RET-00014,ORD-001725,SKU-004,2026-04-16,SoHo,fit_small,original_payment,sellable,True,2026-04-16
+RET-00015,ORD-001980,SKU-005,2025-12-28,SoHo,fit_large,original_payment,sellable,True,2025-12-28
+RET-00016,ORD-002319,SKU-014,2026-03-16,Madison Ave,fit_small,store_credit,sellable,True,2026-03-16
+RET-00017,ORD-002234,SKU-015,2026-04-25,Madison Ave,fit_small,original_payment,sellable,False,
+RET-00018,ORD-000286,SKU-005,2025-12-21,Madison Ave,fit_large,original_payment,sellable,True,2025-12-21
+RET-00019,ORD-001494,SKU-007,2026-05-14,SoHo,changed_mind,original_payment,damaged,True,2026-05-16
+RET-00020,ORD-002437,SKU-001,2026-05-27,Flatiron,fit_small,original_payment,sellable,True,2026-05-29
+RET-00021,ORD-001748,SKU-002,2025-06-17,Flatiron,fit_large,original_payment,sellable,True,2025-06-23
+RET-00022,ORD-002658,SKU-006,2025-08-15,Flatiron,fit_small,exchange,sellable,True,2025-08-19
+RET-00023,ORD-001189,SKU-014,2025-06-16,Madison Ave,fit_large,exchange,sellable,False,
+RET-00024,ORD-001660,SKU-004,2025-11-11,Flatiron,fit_large,original_payment,sellable,True,2025-11-16
+RET-00025,ORD-002688,SKU-015,2026-04-13,Bleecker,fit_small,original_payment,sellable,False,
+RET-00026,ORD-001910,SKU-012,2026-03-23,Madison Ave,changed_mind,store_credit,sellable,True,2026-03-24
+RET-00027,ORD-000973,SKU-011,2025-11-27,SoHo,changed_mind,exchange,damaged,True,2025-11-29
+RET-00028,ORD-002194,SKU-003,2026-03-21,Flatiron,fit_large,store_credit,sellable,False,
+RET-00029,ORD-001624,SKU-013,2024-06-21,Madison Ave,fit_large,store_credit,damaged,True,2024-06-21
+RET-00030,ORD-001427,SKU-004,2026-06-30,Madison Ave,fit_large,store_credit,sellable,True,2026-06-30
+RET-00031,ORD-001579,SKU-001,2026-02-22,Flatiron,changed_mind,store_credit,sellable,True,2026-02-26
+RET-00032,ORD-002539,SKU-012,2026-06-03,Flatiron,fit_large,original_payment,sellable,True,2026-06-06
+RET-00033,ORD-000042,SKU-012,2026-02-15,Flatiron,fit_small,store_credit,sellable,True,2026-02-18
+RET-00034,ORD-001237,SKU-010,2025-10-29,SoHo,changed_mind,original_payment,sellable,True,2025-10-29
+RET-00035,ORD-001160,SKU-004,2026-03-30,Flatiron,changed_mind,store_credit,sellable,True,2026-04-03
+RET-00036,ORD-002140,SKU-013,2026-04-30,Madison Ave,quality,original_payment,damaged,True,2026-04-30
+RET-00037,ORD-002796,SKU-006,2025-08-17,Flatiron,fit_large,original_payment,sellable,True,2025-08-23
+RET-00038,ORD-001103,SKU-009,2026-03-30,Madison Ave,fit_large,store_credit,sellable,True,2026-03-31
+RET-00039,ORD-002795,SKU-014,2024-08-19,Bleecker,quality,original_payment,sellable,False,
+RET-00040,ORD-001791,SKU-003,2025-09-24,Flatiron,fit_large,original_payment,sellable,True,2025-09-25
+RET-00041,ORD-002076,SKU-002,2025-02-26,Flatiron,changed_mind,store_credit,sellable,True,2025-02-27
+RET-00042,ORD-000954,SKU-015,2026-07-03,SoHo,quality,store_credit,damaged,True,2026-07-05
+RET-00043,ORD-000864,SKU-006,2025-11-10,SoHo,fit_large,exchange,sellable,True,2025-11-11
+RET-00044,ORD-000782,SKU-014,2025-08-31,Flatiron,changed_mind,store_credit,sellable,True,2025-09-02
+RET-00045,ORD-002963,SKU-010,2025-09-27,Bleecker,fit_small,store_credit,sellable,True,2025-10-04
+RET-00046,ORD-000745,SKU-016,2026-04-15,Madison Ave,changed_mind,store_credit,sellable,False,
+RET-00047,ORD-002601,SKU-016,2024-07-28,Madison Ave,fit_small,original_payment,sellable,True,2024-07-28
+RET-00048,ORD-000291,SKU-008,2026-05-05,Flatiron,changed_mind,exchange,sellable,False,
+RET-00049,ORD-002873,SKU-015,2025-04-18,Bleecker,quality,exchange,sellable,True,2025-04-23
+RET-00050,ORD-000682,SKU-012,2026-06-22,SoHo,quality,original_payment,sellable,True,2026-06-25
+RET-00051,ORD-001180,SKU-011,2026-04-10,SoHo,fit_large,original_payment,sellable,True,2026-04-14
+RET-00052,ORD-002262,SKU-015,2025-08-30,Bleecker,fit_large,store_credit,sellable,True,2025-09-05
+RET-00053,ORD-002512,SKU-002,2025-09-26,Bleecker,fit_large,store_credit,sellable,True,2025-10-01
+RET-00054,ORD-001373,SKU-009,2026-05-22,SoHo,quality,original_payment,sellable,True,2026-05-25
+RET-00055,ORD-001463,SKU-012,2026-05-15,Flatiron,fit_small,original_payment,sellable,True,2026-05-21
+RET-00056,ORD-002222,SKU-001,2025-11-19,Bleecker,fit_small,original_payment,sellable,True,2025-11-26
+RET-00057,ORD-001930,SKU-007,2026-03-28,Bleecker,changed_mind,original_payment,sellable,True,2026-04-02
+RET-00058,ORD-002872,SKU-009,2026-07-01,Flatiron,changed_mind,original_payment,sellable,True,2026-07-04
+RET-00059,ORD-001817,SKU-014,2025-12-05,Bleecker,fit_small,original_payment,sellable,True,2025-12-09
+RET-00060,ORD-000120,SKU-008,2025-10-11,Flatiron,fit_small,store_credit,sellable,True,2025-10-12
+RET-00061,ORD-000044,SKU-005,2026-06-21,Flatiron,changed_mind,original_payment,damaged,True,2026-06-25
+RET-00062,ORD-002747,SKU-010,2025-01-24,Madison Ave,fit_small,store_credit,sellable,True,2025-01-27
+RET-00063,ORD-001756,SKU-008,2026-02-01,Flatiron,changed_mind,exchange,sellable,False,
+RET-00064,ORD-000675,SKU-007,2026-07-01,Bleecker,changed_mind,original_payment,damaged,True,2026-07-06
+RET-00065,ORD-000999,SKU-012,2025-09-02,Bleecker,changed_mind,store_credit,sellable,True,2025-09-05
+RET-00066,ORD-002821,SKU-001,2025-06-24,Flatiron,fit_small,store_credit,sellable,True,2025-06-28
+RET-00067,ORD-002564,SKU-003,2026-01-09,Bleecker,changed_mind,original_payment,sellable,True,2026-01-13
+RET-00068,ORD-001092,SKU-005,2026-06-26,Bleecker,fit_large,store_credit,sellable,True,2026-07-01
+RET-00069,ORD-001302,SKU-006,2025-12-12,SoHo,changed_mind,original_payment,damaged,True,2025-12-12
+RET-00070,ORD-002432,SKU-013,2026-03-24,SoHo,fit_small,original_payment,sellable,True,2026-03-25
+RET-00071,ORD-002474,SKU-014,2026-03-06,Bleecker,fit_large,original_payment,sellable,True,2026-03-09
+RET-00072,ORD-002982,SKU-013,2026-06-09,Bleecker,quality,original_payment,sellable,True,2026-06-14
+RET-00073,ORD-001162,SKU-012,2026-06-12,Madison Ave,quality,original_payment,sellable,True,2026-06-12
+RET-00074,ORD-000661,SKU-004,2026-06-12,SoHo,fit_large,original_payment,sellable,True,2026-06-15
+RET-00075,ORD-001750,SKU-001,2026-06-23,Madison Ave,fit_small,original_payment,sellable,True,2026-06-23
+RET-00076,ORD-001144,SKU-007,2024-12-17,SoHo,fit_small,store_credit,sellable,True,2024-12-20
+RET-00077,ORD-000132,SKU-011,2025-11-20,Bleecker,fit_large,original_payment,sellable,True,2025-11-22
+RET-00078,ORD-002029,SKU-008,2025-09-13,SoHo,changed_mind,original_payment,damaged,True,2025-09-17
+RET-00079,ORD-001712,SKU-013,2026-04-16,Bleecker,quality,store_credit,sellable,True,2026-04-18
+RET-00080,ORD-000100,SKU-015,2026-01-19,Flatiron,fit_large,original_payment,sellable,True,2026-01-25
+RET-00081,ORD-002652,SKU-007,2025-06-23,Madison Ave,fit_large,original_payment,sellable,True,2025-06-24
+RET-00082,ORD-002306,SKU-014,2024-06-21,Bleecker,fit_large,store_credit,sellable,True,2024-06-23
+RET-00083,ORD-002481,SKU-002,2026-07-04,Madison Ave,changed_mind,original_payment,sellable,True,2026-07-06
+RET-00084,ORD-001344,SKU-001,2026-05-06,Flatiron,changed_mind,exchange,sellable,True,2026-05-11
+RET-00085,ORD-000861,SKU-015,2025-03-06,SoHo,fit_large,original_payment,sellable,True,2025-03-08
+RET-00086,ORD-000245,SKU-007,2026-05-28,SoHo,changed_mind,original_payment,sellable,True,2026-06-01
+RET-00087,ORD-000351,SKU-006,2024-07-19,Bleecker,changed_mind,original_payment,sellable,True,2024-07-22
+RET-00088,ORD-000534,SKU-004,2026-01-03,Flatiron,changed_mind,original_payment,sellable,True,2026-01-05
+RET-00089,ORD-000195,SKU-013,2025-12-10,Flatiron,fit_large,original_payment,sellable,True,2025-12-16
+RET-00090,ORD-000943,SKU-011,2026-07-05,Flatiron,fit_small,original_payment,sellable,False,
+RET-00091,ORD-001023,SKU-002,2024-12-21,SoHo,fit_large,store_credit,sellable,True,2024-12-25
+RET-00092,ORD-002396,SKU-002,2025-12-29,SoHo,quality,store_credit,sellable,True,2025-12-29
+RET-00093,ORD-002126,SKU-013,2026-06-23,SoHo,fit_large,original_payment,sellable,True,2026-06-27
+RET-00094,ORD-002988,SKU-001,2025-10-15,Flatiron,quality,store_credit,sellable,True,2025-10-21
+RET-00095,ORD-002889,SKU-004,2026-05-22,Bleecker,fit_small,original_payment,sellable,True,2026-05-28
+RET-00096,ORD-000486,SKU-003,2026-02-19,Flatiron,changed_mind,store_credit,sellable,True,2026-02-22
+RET-00097,ORD-001008,SKU-009,2024-09-06,Madison Ave,fit_large,original_payment,sellable,True,2024-09-09
+RET-00098,ORD-002097,SKU-010,2026-05-18,Flatiron,fit_small,store_credit,sellable,False,
+RET-00099,ORD-002074,SKU-002,2025-12-13,Bleecker,fit_large,original_payment,sellable,True,2025-12-16
+RET-00100,ORD-000376,SKU-005,2026-05-05,Madison Ave,fit_large,store_credit,sellable,True,2026-05-08
+RET-00101,ORD-001562,SKU-013,2026-04-10,SoHo,changed_mind,exchange,sellable,True,2026-04-14
+RET-00102,ORD-000596,SKU-012,2026-05-07,Flatiron,fit_large,original_payment,sellable,True,2026-05-09
+RET-00103,ORD-002997,SKU-007,2024-07-20,Madison Ave,fit_small,original_payment,sellable,True,2024-07-20
+RET-00104,ORD-000935,SKU-015,2025-07-05,Bleecker,changed_mind,exchange,damaged,True,2025-07-09
+RET-00105,ORD-001034,SKU-006,2026-06-28,Bleecker,changed_mind,exchange,sellable,True,2026-07-05
+RET-00106,ORD-001478,SKU-012,2026-07-01,Flatiron,changed_mind,original_payment,sellable,True,2026-07-06
+RET-00107,ORD-001760,SKU-005,2026-06-24,SoHo,changed_mind,store_credit,sellable,True,2026-06-24
+RET-00108,ORD-002284,SKU-008,2026-03-29,Madison Ave,changed_mind,original_payment,sellable,True,2026-04-01
+RET-00109,ORD-002605,SKU-002,2025-03-17,Madison Ave,changed_mind,original_payment,sellable,True,2025-03-19
+RET-00110,ORD-000220,SKU-001,2025-08-23,Flatiron,changed_mind,store_credit,sellable,True,2025-08-29
+RET-00111,ORD-001333,SKU-001,2026-05-24,SoHo,changed_mind,store_credit,sellable,True,2026-05-27
+RET-00112,ORD-002278,SKU-009,2025-10-26,Madison Ave,changed_mind,store_credit,sellable,True,2025-10-26
+RET-00113,ORD-000313,SKU-010,2025-08-11,Flatiron,changed_mind,original_payment,damaged,True,2025-08-12
+RET-00114,ORD-000158,SKU-002,2024-11-10,SoHo,fit_small,original_payment,sellable,True,2024-11-13
+RET-00115,ORD-002248,SKU-013,2025-10-20,Flatiron,fit_large,original_payment,sellable,True,2025-10-22
+RET-00116,ORD-002806,SKU-010,2026-06-26,Bleecker,fit_small,original_payment,sellable,True,2026-07-02
+RET-00117,ORD-000071,SKU-009,2025-11-29,Bleecker,fit_small,store_credit,sellable,True,2025-12-02
+RET-00118,ORD-000485,SKU-001,2024-12-11,Bleecker,fit_small,store_credit,sellable,True,2024-12-12
+RET-00119,ORD-001521,SKU-009,2025-12-01,Bleecker,changed_mind,original_payment,damaged,True,2025-12-04
+RET-00120,ORD-000911,SKU-007,2024-10-31,Bleecker,fit_small,store_credit,sellable,True,2024-11-02
+RET-00121,ORD-000862,SKU-016,2026-02-06,Madison Ave,fit_small,store_credit,sellable,True,2026-02-09
+RET-00122,ORD-001897,SKU-014,2025-08-10,SoHo,quality,original_payment,damaged,True,2025-08-12
+RET-00123,ORD-001167,SKU-007,2026-07-01,Bleecker,fit_small,original_payment,sellable,True,2026-07-02
+RET-00124,ORD-000824,SKU-013,2026-07-04,Madison Ave,changed_mind,original_payment,sellable,True,2026-07-04
+RET-00125,ORD-001356,SKU-016,2026-01-26,Bleecker,fit_large,original_payment,sellable,True,2026-01-30
+RET-00126,ORD-001676,SKU-009,2026-05-19,Bleecker,changed_mind,original_payment,sellable,True,2026-05-22
+RET-00127,ORD-001902,SKU-001,2026-01-02,Madison Ave,quality,original_payment,sellable,False,
+RET-00128,ORD-000088,SKU-009,2026-05-25,Madison Ave,changed_mind,original_payment,sellable,True,2026-05-28
+RET-00129,ORD-000536,SKU-002,2026-07-05,SoHo,changed_mind,original_payment,sellable,True,2026-07-05
+RET-00130,ORD-002651,SKU-003,2026-04-02,Madison Ave,fit_large,store_credit,sellable,True,2026-04-03
+RET-00131,ORD-002733,SKU-003,2026-06-26,Madison Ave,changed_mind,original_payment,sellable,True,2026-06-26
+RET-00132,ORD-003043,SKU-015,2026-06-13,Madison Ave,fit_small,original_payment,sellable,True,2026-06-15
+RET-00133,ORD-002041,SKU-011,2026-07-01,Bleecker,changed_mind,original_payment,damaged,True,2026-07-02
+RET-00134,ORD-000693,SKU-009,2026-04-26,Bleecker,quality,store_credit,sellable,False,
+RET-00135,ORD-002955,SKU-004,2026-06-26,Madison Ave,quality,store_credit,sellable,True,2026-06-26
+RET-00136,ORD-001912,SKU-011,2025-11-28,Flatiron,changed_mind,original_payment,damaged,True,2025-12-04
+RET-00137,ORD-000293,SKU-006,2026-02-23,Flatiron,fit_large,original_payment,sellable,False,
+RET-00138,ORD-001326,SKU-016,2025-02-04,Bleecker,changed_mind,store_credit,sellable,False,
+RET-00139,ORD-001583,SKU-001,2026-02-20,Madison Ave,fit_small,original_payment,sellable,True,2026-02-21
+RET-00140,ORD-001520,SKU-008,2026-04-22,Bleecker,changed_mind,store_credit,damaged,True,2026-04-29
+RET-00141,ORD-002536,SKU-012,2026-05-12,SoHo,fit_large,exchange,sellable,True,2026-05-12
+RET-00142,ORD-001792,SKU-004,2026-05-21,Flatiron,fit_large,store_credit,sellable,True,2026-05-26
+RET-00143,ORD-002750,SKU-010,2026-02-18,Bleecker,quality,original_payment,sellable,True,2026-02-25
+RET-00144,ORD-002590,SKU-007,2026-06-29,Madison Ave,changed_mind,exchange,sellable,True,2026-06-29
+RET-00145,ORD-001529,SKU-009,2025-08-25,Flatiron,fit_small,store_credit,sellable,True,2025-08-28
+RET-00146,ORD-001920,SKU-002,2025-12-02,SoHo,fit_large,store_credit,sellable,True,2025-12-05
+RET-00147,ORD-002427,SKU-008,2025-02-24,Bleecker,changed_mind,store_credit,damaged,True,2025-02-28
+RET-00148,ORD-002782,SKU-011,2026-02-20,SoHo,quality,original_payment,sellable,False,
+RET-00149,ORD-001232,SKU-010,2026-01-04,Bleecker,fit_large,store_credit,sellable,True,2026-01-10
+RET-00150,ORD-001468,SKU-007,2026-04-29,Bleecker,quality,store_credit,sellable,True,2026-05-04
+RET-00151,ORD-002056,SKU-006,2026-02-07,Bleecker,fit_large,original_payment,sellable,True,2026-02-13
+RET-00152,ORD-001416,SKU-006,2026-04-04,Flatiron,changed_mind,exchange,sellable,True,2026-04-06
+RET-00153,ORD-002365,SKU-011,2026-06-23,Flatiron,changed_mind,original_payment,sellable,True,2026-06-28
+RET-00154,ORD-001426,SKU-002,2025-07-19,Madison Ave,changed_mind,exchange,sellable,True,2025-07-22
+RET-00155,ORD-002551,SKU-009,2025-11-03,Madison Ave,quality,original_payment,sellable,False,
+RET-00156,ORD-002372,SKU-008,2026-06-23,Flatiron,changed_mind,store_credit,sellable,True,2026-06-26
+RET-00157,ORD-001541,SKU-014,2026-02-22,Madison Ave,quality,exchange,sellable,True,2026-02-25
+RET-00158,ORD-001528,SKU-004,2025-04-01,Madison Ave,quality,store_credit,sellable,True,2025-04-01
+RET-00159,ORD-000106,SKU-003,2026-03-02,Flatiron,changed_mind,original_payment,sellable,True,2026-03-07
+RET-00160,ORD-001424,SKU-004,2025-10-19,SoHo,fit_large,original_payment,sellable,True,2025-10-21
+RET-00161,ORD-001348,SKU-007,2026-06-01,Madison Ave,fit_small,original_payment,damaged,True,2026-06-03
+RET-00162,ORD-002703,SKU-008,2026-06-27,Flatiron,changed_mind,store_credit,sellable,True,2026-06-30
+RET-00163,ORD-001003,SKU-006,2026-04-11,Madison Ave,fit_small,original_payment,damaged,True,2026-04-11
+RET-00164,ORD-002867,SKU-003,2026-07-04,Bleecker,changed_mind,store_credit,sellable,False,
+RET-00165,ORD-002624,SKU-013,2026-06-28,Flatiron,fit_large,store_credit,sellable,True,2026-07-01
+RET-00166,ORD-001607,SKU-014,2026-05-24,Bleecker,fit_small,original_payment,sellable,True,2026-05-25
+RET-00167,ORD-000555,SKU-010,2026-01-24,SoHo,fit_small,original_payment,sellable,True,2026-01-26
+RET-00168,ORD-002342,SKU-010,2026-06-19,Flatiron,quality,original_payment,damaged,True,2026-06-21
+RET-00169,ORD-002633,SKU-014,2026-06-22,Bleecker,changed_mind,original_payment,sellable,True,2026-06-26
+RET-00170,ORD-000342,SKU-011,2026-06-25,Flatiron,fit_small,original_payment,sellable,True,2026-06-30
+RET-00171,ORD-001839,SKU-015,2025-11-29,SoHo,changed_mind,original_payment,sellable,True,2025-12-02
+RET-00172,ORD-000474,SKU-008,2025-10-13,Flatiron,fit_large,original_payment,sellable,True,2025-10-17
+RET-00173,ORD-001251,SKU-014,2026-07-04,Madison Ave,fit_large,original_payment,damaged,True,2026-07-05
+RET-00174,ORD-002136,SKU-011,2026-05-28,Madison Ave,changed_mind,original_payment,sellable,True,2026-05-29
+RET-00175,ORD-001515,SKU-014,2025-01-22,SoHo,fit_small,original_payment,sellable,True,2025-01-26
+RET-00176,ORD-001192,SKU-016,2025-12-17,Bleecker,changed_mind,exchange,sellable,True,2025-12-24
+RET-00177,ORD-000307,SKU-010,2026-02-17,Madison Ave,fit_large,original_payment,sellable,True,2026-02-18
+RET-00178,ORD-002324,SKU-006,2026-05-05,Flatiron,fit_large,original_payment,damaged,True,2026-05-06
+RET-00179,ORD-000937,SKU-014,2025-07-21,Flatiron,changed_mind,original_payment,sellable,True,2025-07-23
+RET-00180,ORD-002603,SKU-011,2026-07-05,Flatiron,fit_large,store_credit,sellable,False,
+RET-00181,ORD-001434,SKU-016,2024-12-21,SoHo,quality,original_payment,sellable,True,2024-12-21
+RET-00182,ORD-000665,SKU-013,2025-11-28,Flatiron,changed_mind,original_payment,sellable,True,2025-12-01
+RET-00183,ORD-002979,SKU-013,2026-06-19,Bleecker,changed_mind,store_credit,sellable,True,2026-06-26
+RET-00184,ORD-000543,SKU-002,2026-07-06,Bleecker,changed_mind,original_payment,sellable,False,
+RET-00185,ORD-002761,SKU-001,2026-06-20,Flatiron,fit_small,original_payment,sellable,True,2026-06-25
+RET-00186,ORD-001525,SKU-014,2025-07-20,Madison Ave,fit_small,store_credit,damaged,True,2025-07-23
+RET-00187,ORD-000595,SKU-010,2026-02-14,Bleecker,fit_large,original_payment,damaged,True,2026-02-19
+RET-00188,ORD-000255,SKU-003,2025-10-14,Flatiron,changed_mind,store_credit,sellable,True,2025-10-18
+RET-00189,ORD-001881,SKU-013,2026-06-02,Bleecker,changed_mind,exchange,sellable,True,2026-06-09
+RET-00190,ORD-002786,SKU-007,2026-01-18,SoHo,fit_small,exchange,sellable,True,2026-01-21
+RET-00191,ORD-002202,SKU-015,2024-08-08,Bleecker,fit_small,original_payment,sellable,True,2024-08-10
+RET-00192,ORD-002689,SKU-009,2025-11-26,SoHo,quality,store_credit,sellable,True,2025-11-28
+RET-00193,ORD-002081,SKU-006,2025-05-04,Bleecker,fit_large,original_payment,sellable,True,2025-05-09
+RET-00194,ORD-000686,SKU-016,2025-12-25,SoHo,fit_small,original_payment,sellable,True,2025-12-25
+RET-00195,ORD-002871,SKU-010,2026-07-05,Flatiron,quality,original_payment,sellable,False,
+RET-00196,ORD-001638,SKU-005,2026-05-28,Bleecker,fit_large,original_payment,sellable,True,2026-06-04
+RET-00197,ORD-002709,SKU-014,2026-02-15,Flatiron,changed_mind,store_credit,sellable,True,2026-02-21
+RET-00198,ORD-001304,SKU-011,2026-06-13,Madison Ave,changed_mind,original_payment,sellable,True,2026-06-13
+RET-00199,ORD-000398,SKU-004,2025-03-18,Bleecker,fit_large,original_payment,sellable,False,
+RET-00200,ORD-000277,SKU-016,2024-12-07,SoHo,fit_small,store_credit,sellable,True,2024-12-09
+RET-00201,ORD-002545,SKU-011,2025-12-23,Flatiron,fit_small,exchange,sellable,True,2025-12-28
+RET-00202,ORD-002883,SKU-013,2026-07-05,Madison Ave,changed_mind,original_payment,sellable,False,
+RET-00203,ORD-000772,SKU-011,2026-04-18,Flatiron,fit_large,original_payment,sellable,False,
+RET-00204,ORD-000383,SKU-016,2026-04-20,Madison Ave,changed_mind,store_credit,sellable,True,2026-04-23
+RET-00205,ORD-001247,SKU-015,2026-05-12,Flatiron,fit_small,original_payment,sellable,True,2026-05-13
+RET-00206,ORD-001554,SKU-014,2026-07-01,Madison Ave,changed_mind,original_payment,sellable,True,2026-07-02
+RET-00207,ORD-002042,SKU-007,2026-06-28,SoHo,changed_mind,original_payment,sellable,True,2026-07-01
+RET-00208,ORD-001230,SKU-005,2026-06-30,SoHo,fit_small,original_payment,sellable,True,2026-07-01
+RET-00209,ORD-002899,SKU-008,2025-10-03,Madison Ave,fit_large,original_payment,sellable,True,2025-10-03
+RET-00210,ORD-001330,SKU-013,2025-11-04,Flatiron,fit_large,original_payment,sellable,True,2025-11-10
+RET-00211,ORD-000618,SKU-009,2026-06-29,SoHo,changed_mind,original_payment,sellable,True,2026-07-01
+RET-00212,ORD-000248,SKU-014,2026-05-25,SoHo,fit_large,original_payment,sellable,True,2026-05-27
+RET-00213,ORD-000853,SKU-009,2026-06-29,SoHo,quality,original_payment,sellable,True,2026-07-03
+RET-00214,ORD-000167,SKU-007,2025-08-11,Madison Ave,changed_mind,store_credit,sellable,True,2025-08-12
+RET-00215,ORD-002770,SKU-003,2025-12-03,Flatiron,fit_small,exchange,sellable,True,2025-12-06
+RET-00216,ORD-000562,SKU-004,2026-01-11,Bleecker,fit_small,store_credit,sellable,True,2026-01-18
+RET-00217,ORD-001967,SKU-015,2025-09-29,SoHo,changed_mind,original_payment,sellable,True,2025-10-03
+RET-00218,ORD-002630,SKU-007,2026-06-21,Madison Ave,quality,original_payment,damaged,True,2026-06-21
+RET-00219,ORD-001602,SKU-001,2025-11-18,SoHo,quality,original_payment,sellable,True,2025-11-20
+RET-00220,ORD-002598,SKU-008,2026-04-04,Madison Ave,fit_small,store_credit,sellable,True,2026-04-04
+RET-00221,ORD-001093,SKU-012,2026-07-06,Bleecker,changed_mind,exchange,sellable,False,
+RET-00222,ORD-001922,SKU-009,2025-05-25,Bleecker,quality,store_credit,sellable,True,2025-05-29
+RET-00223,ORD-000845,SKU-014,2025-09-01,Madison Ave,fit_small,store_credit,damaged,True,2025-09-04
+RET-00224,ORD-000107,SKU-002,2026-01-21,Madison Ave,fit_small,original_payment,sellable,True,2026-01-23
+RET-00225,ORD-002131,SKU-002,2026-05-14,SoHo,changed_mind,original_payment,sellable,True,2026-05-18
+RET-00226,ORD-002273,SKU-005,2026-06-14,Madison Ave,fit_large,exchange,sellable,True,2026-06-16
+RET-00227,ORD-000587,SKU-004,2025-11-20,Bleecker,fit_small,original_payment,sellable,True,2025-11-23
+RET-00228,ORD-001250,SKU-015,2025-09-10,SoHo,fit_small,original_payment,sellable,False,
+RET-00229,ORD-000235,SKU-002,2026-05-09,Flatiron,fit_large,original_payment,sellable,True,2026-05-10
+RET-00230,ORD-000787,SKU-011,2025-11-15,Flatiron,changed_mind,original_payment,sellable,True,2025-11-17
+RET-00231,ORD-001506,SKU-003,2026-04-04,Madison Ave,fit_large,store_credit,sellable,True,2026-04-04
+RET-00232,ORD-001011,SKU-009,2025-06-23,Madison Ave,fit_large,original_payment,sellable,True,2025-06-23
+RET-00233,ORD-000720,SKU-014,2026-04-30,Flatiron,fit_large,exchange,sellable,True,2026-05-01
+RET-00234,ORD-000379,SKU-011,2026-06-05,Madison Ave,changed_mind,original_payment,sellable,True,2026-06-08
+RET-00235,ORD-000705,SKU-006,2026-05-23,Flatiron,fit_small,store_credit,sellable,True,2026-05-29
+RET-00236,ORD-001185,SKU-009,2025-06-17,Flatiron,quality,store_credit,sellable,False,
+RET-00237,ORD-001190,SKU-010,2025-03-21,Bleecker,fit_small,exchange,sellable,True,2025-03-26
+RET-00238,ORD-000040,SKU-010,2024-09-05,Flatiron,changed_mind,original_payment,sellable,False,
+RET-00239,ORD-000723,SKU-015,2025-07-30,Madison Ave,changed_mind,store_credit,sellable,True,2025-07-31
+RET-00240,ORD-002978,SKU-001,2026-06-29,Madison Ave,fit_small,store_credit,sellable,True,2026-06-30
+RET-00241,ORD-000836,SKU-004,2025-02-09,Bleecker,changed_mind,original_payment,sellable,True,2025-02-12
+RET-00242,ORD-001812,SKU-013,2025-12-23,Flatiron,changed_mind,original_payment,sellable,True,2025-12-24
+RET-00243,ORD-000976,SKU-013,2026-06-10,SoHo,fit_small,store_credit,sellable,True,2026-06-13
+RET-00244,ORD-001207,SKU-015,2026-02-07,Flatiron,fit_large,store_credit,sellable,True,2026-02-12
+RET-00245,ORD-002684,SKU-012,2025-05-02,Flatiron,fit_small,store_credit,sellable,True,2025-05-07
+RET-00246,ORD-000092,SKU-016,2025-04-18,Madison Ave,fit_large,store_credit,sellable,True,2025-04-19
+RET-00247,ORD-002956,SKU-007,2026-07-02,Flatiron,quality,original_payment,sellable,False,
+RET-00248,ORD-001046,SKU-012,2025-01-25,Bleecker,quality,exchange,damaged,True,2025-01-29
+RET-00249,ORD-000372,SKU-014,2026-06-22,Bleecker,fit_large,original_payment,sellable,True,2026-06-26
+RET-00250,ORD-000736,SKU-011,2026-06-11,Flatiron,changed_mind,exchange,sellable,True,2026-06-14
+RET-00251,ORD-000365,SKU-006,2025-08-16,SoHo,fit_small,store_credit,sellable,True,2025-08-20
+RET-00252,ORD-002292,SKU-010,2026-02-28,SoHo,changed_mind,original_payment,sellable,True,2026-03-01
+RET-00253,ORD-003040,SKU-006,2026-07-03,Bleecker,quality,exchange,sellable,True,2026-07-05
+RET-00254,ORD-001503,SKU-010,2025-04-02,Bleecker,fit_large,original_payment,sellable,False,
+RET-00255,ORD-002905,SKU-001,2024-05-20,Flatiron,fit_small,original_payment,sellable,True,2024-05-23
+RET-00256,ORD-000689,SKU-014,2026-04-29,Bleecker,fit_large,store_credit,sellable,True,2026-04-30
+RET-00257,ORD-001469,SKU-014,2026-03-24,Flatiron,fit_small,original_payment,sellable,True,2026-03-29
+RET-00258,ORD-001986,SKU-007,2026-06-30,Madison Ave,changed_mind,original_payment,sellable,True,2026-07-03
+RET-00259,ORD-002379,SKU-005,2025-10-31,Madison Ave,fit_small,store_credit,sellable,True,2025-11-03
+RET-00260,ORD-001319,SKU-014,2025-02-26,Flatiron,fit_large,exchange,sellable,False,
+RET-00261,ORD-002433,SKU-003,2026-04-19,Flatiron,fit_large,store_credit,sellable,True,2026-04-22
+RET-00262,ORD-002895,SKU-015,2026-05-13,Flatiron,quality,original_payment,sellable,True,2026-05-17
+RET-00263,ORD-000253,SKU-011,2025-10-25,Madison Ave,fit_large,exchange,damaged,True,2025-10-28
+RET-00264,ORD-000112,SKU-013,2026-01-17,Madison Ave,fit_large,exchange,sellable,True,2026-01-20
+RET-00265,ORD-001176,SKU-003,2026-05-13,Madison Ave,fit_large,exchange,damaged,True,2026-05-16
+RET-00266,ORD-001987,SKU-015,2026-06-26,Flatiron,changed_mind,original_payment,sellable,True,2026-06-27
+RET-00267,ORD-002535,SKU-004,2024-07-19,SoHo,changed_mind,original_payment,sellable,False,
+RET-00268,ORD-001055,SKU-013,2025-06-05,Bleecker,fit_large,store_credit,sellable,True,2025-06-08
+RET-00269,ORD-003012,SKU-003,2025-04-11,Flatiron,fit_large,exchange,sellable,True,2025-04-13
+RET-00270,ORD-000565,SKU-005,2025-04-14,Madison Ave,quality,original_payment,sellable,True,2025-04-16
+RET-00271,ORD-002731,SKU-001,2024-10-01,SoHo,fit_small,store_credit,sellable,True,2024-10-03
+RET-00272,ORD-000989,SKU-004,2025-04-29,Madison Ave,quality,store_credit,sellable,True,2025-05-02
+RET-00273,ORD-000638,SKU-005,2026-06-10,Bleecker,fit_large,original_payment,sellable,True,2026-06-17
+RET-00274,ORD-001351,SKU-012,2026-01-07,Madison Ave,fit_small,store_credit,damaged,True,2026-01-07
+RET-00275,ORD-001259,SKU-011,2025-04-21,Madison Ave,fit_large,store_credit,damaged,True,2025-04-22
+RET-00276,ORD-001688,SKU-006,2026-01-26,Bleecker,fit_small,original_payment,sellable,True,2026-01-29
+RET-00277,ORD-000034,SKU-006,2026-06-24,Flatiron,quality,exchange,sellable,True,2026-06-29
+RET-00278,ORD-000356,SKU-013,2026-04-15,Flatiron,fit_small,exchange,sellable,False,
+RET-00279,ORD-002300,SKU-010,2026-06-18,Madison Ave,changed_mind,store_credit,sellable,True,2026-06-21
+RET-00280,ORD-002480,SKU-012,2026-05-24,Madison Ave,quality,original_payment,sellable,True,2026-05-26
+RET-00281,ORD-000359,SKU-006,2026-05-28,Madison Ave,fit_large,exchange,sellable,True,2026-05-30
+RET-00282,ORD-000471,SKU-014,2025-09-15,SoHo,changed_mind,store_credit,sellable,True,2025-09-17
+RET-00283,ORD-000851,SKU-004,2025-07-21,Bleecker,fit_small,original_payment,sellable,True,2025-07-28
+RET-00284,ORD-001260,SKU-014,2026-06-17,Flatiron,changed_mind,original_payment,sellable,True,2026-06-20
+RET-00285,ORD-000975,SKU-006,2026-06-13,Madison Ave,fit_small,store_credit,sellable,True,2026-06-15
+RET-00286,ORD-002826,SKU-016,2025-01-30,SoHo,quality,store_credit,sellable,True,2025-02-03
+RET-00287,ORD-002088,SKU-009,2025-11-18,Madison Ave,fit_large,original_payment,sellable,True,2025-11-20
+RET-00288,ORD-001524,SKU-006,2026-06-05,Madison Ave,changed_mind,store_credit,sellable,True,2026-06-05
+RET-00289,ORD-001965,SKU-015,2026-04-07,SoHo,fit_large,store_credit,sellable,True,2026-04-11
+RET-00290,ORD-000284,SKU-012,2026-02-01,Madison Ave,fit_small,original_payment,sellable,True,2026-02-02
+RET-00291,ORD-000843,SKU-007,2025-08-31,Bleecker,fit_small,exchange,damaged,True,2025-09-01
+RET-00292,ORD-000894,SKU-013,2026-07-05,Bleecker,changed_mind,store_credit,sellable,True,2026-07-06
+RET-00293,ORD-002506,SKU-012,2026-05-28,SoHo,fit_large,original_payment,sellable,True,2026-06-01
+RET-00294,ORD-002600,SKU-001,2025-02-08,Flatiron,quality,original_payment,sellable,True,2025-02-09
+RET-00295,ORD-001796,SKU-013,2026-05-25,Flatiron,fit_large,original_payment,damaged,True,2026-05-29
+RET-00296,ORD-000735,SKU-007,2026-07-06,SoHo,changed_mind,original_payment,sellable,True,2026-07-06
+RET-00297,ORD-001916,SKU-012,2025-08-24,Madison Ave,quality,original_payment,sellable,True,2025-08-25
+RET-00298,ORD-001776,SKU-013,2026-03-29,SoHo,changed_mind,exchange,sellable,True,2026-03-30
+RET-00299,ORD-002272,SKU-001,2026-05-29,SoHo,changed_mind,original_payment,sellable,True,2026-05-29
+RET-00300,ORD-001726,SKU-009,2026-03-20,Bleecker,fit_small,exchange,sellable,True,2026-03-22
+RET-00301,ORD-000360,SKU-005,2026-06-24,Madison Ave,quality,store_credit,sellable,False,
+RET-00302,ORD-000775,SKU-010,2025-09-25,Bleecker,fit_small,original_payment,sellable,True,2025-09-30
+RET-00303,ORD-002051,SKU-014,2026-02-21,Madison Ave,fit_small,original_payment,sellable,False,
+RET-00304,ORD-002983,SKU-003,2026-07-04,Madison Ave,changed_mind,store_credit,sellable,True,2026-07-06
+RET-00305,ORD-001210,SKU-005,2025-11-23,SoHo,fit_small,original_payment,sellable,False,
+RET-00306,ORD-000533,SKU-007,2026-02-23,Flatiron,fit_small,original_payment,sellable,True,2026-02-26
+RET-00307,ORD-000481,SKU-001,2025-11-17,Madison Ave,fit_small,original_payment,sellable,True,2025-11-19
+RET-00308,ORD-000483,SKU-011,2024-11-03,Bleecker,quality,original_payment,damaged,True,2024-11-07
+RET-00309,ORD-000625,SKU-008,2026-05-29,SoHo,fit_small,original_payment,sellable,True,2026-05-30
+RET-00310,ORD-000108,SKU-007,2024-12-29,SoHo,fit_small,original_payment,sellable,True,2024-12-30
+RET-00311,ORD-000692,SKU-002,2026-04-17,SoHo,changed_mind,original_payment,sellable,True,2026-04-20
+RET-00312,ORD-002582,SKU-010,2026-05-29,Flatiron,quality,original_payment,sellable,True,2026-05-31
+RET-00313,ORD-002769,SKU-005,2026-06-23,Flatiron,quality,store_credit,sellable,True,2026-06-28
+RET-00314,ORD-000850,SKU-005,2025-02-22,Madison Ave,fit_large,original_payment,sellable,True,2025-02-24
+RET-00315,ORD-002089,SKU-012,2026-06-18,SoHo,fit_small,original_payment,sellable,True,2026-06-20
+RET-00316,ORD-000345,SKU-011,2026-01-30,Madison Ave,fit_small,original_payment,sellable,True,2026-02-02
+RET-00317,ORD-002944,SKU-002,2025-11-21,Flatiron,fit_large,original_payment,sellable,True,2025-11-22
+RET-00318,ORD-000163,SKU-011,2025-04-02,Flatiron,fit_small,original_payment,sellable,False,
+RET-00319,ORD-000381,SKU-004,2026-06-10,Bleecker,quality,exchange,sellable,True,2026-06-14
+RET-00320,ORD-001208,SKU-016,2025-10-19,Madison Ave,quality,store_credit,damaged,True,2025-10-20
+RET-00321,ORD-002471,SKU-009,2025-08-08,Madison Ave,fit_small,exchange,sellable,False,
+RET-00322,ORD-001271,SKU-001,2024-07-16,SoHo,fit_small,original_payment,sellable,True,2024-07-18
+RET-00323,ORD-002329,SKU-006,2024-07-07,Bleecker,quality,store_credit,damaged,True,2024-07-11
+RET-00324,ORD-000142,SKU-016,2025-01-03,Bleecker,fit_large,store_credit,damaged,True,2025-01-07
+RET-00325,ORD-000681,SKU-003,2026-07-01,Flatiron,fit_small,original_payment,sellable,True,2026-07-02
+RET-00326,ORD-002577,SKU-011,2025-11-04,Bleecker,changed_mind,original_payment,sellable,True,2025-11-05
+RET-00327,ORD-002185,SKU-016,2025-12-23,SoHo,fit_large,exchange,sellable,True,2025-12-24
+RET-00328,ORD-002513,SKU-007,2025-08-08,Flatiron,changed_mind,store_credit,sellable,True,2025-08-09
+RET-00329,ORD-000209,SKU-008,2026-06-21,Flatiron,changed_mind,original_payment,sellable,True,2026-06-22
+RET-00330,ORD-002311,SKU-016,2026-05-15,Madison Ave,quality,original_payment,sellable,True,2026-05-15
+RET-00331,ORD-002265,SKU-004,2025-12-01,SoHo,changed_mind,store_credit,sellable,False,
+RET-00332,ORD-002687,SKU-015,2026-02-08,SoHo,fit_large,original_payment,sellable,False,
+RET-00333,ORD-002196,SKU-015,2025-12-02,Bleecker,changed_mind,store_credit,sellable,True,2025-12-06
+RET-00334,ORD-000290,SKU-007,2026-05-08,Madison Ave,fit_large,exchange,sellable,True,2026-05-11
+RET-00335,ORD-002407,SKU-009,2026-07-03,Flatiron,quality,original_payment,sellable,True,2026-07-06
+RET-00336,ORD-001578,SKU-002,2026-02-11,Bleecker,fit_small,original_payment,sellable,True,2026-02-15
+RET-00337,ORD-001711,SKU-016,2026-06-22,SoHo,quality,store_credit,sellable,True,2026-06-24
+RET-00338,ORD-001258,SKU-006,2026-05-19,SoHo,fit_large,original_payment,sellable,True,2026-05-22
+RET-00339,ORD-001497,SKU-015,2026-01-01,SoHo,fit_small,store_credit,sellable,True,2026-01-02
+RET-00340,ORD-000654,SKU-016,2026-04-17,SoHo,fit_large,original_payment,sellable,True,2026-04-20
+RET-00341,ORD-000786,SKU-015,2026-06-29,Madison Ave,changed_mind,original_payment,sellable,True,2026-07-01
+RET-00342,ORD-002930,SKU-012,2026-02-14,Flatiron,fit_small,original_payment,sellable,True,2026-02-17
+RET-00343,ORD-002382,SKU-003,2026-03-11,Madison Ave,fit_large,store_credit,sellable,True,2026-03-11
+RET-00344,ORD-000446,SKU-014,2025-12-05,SoHo,fit_small,original_payment,sellable,True,2025-12-09
+RET-00345,ORD-002800,SKU-008,2025-08-30,Bleecker,changed_mind,store_credit,sellable,False,
+RET-00346,ORD-002463,SKU-001,2026-06-13,Madison Ave,changed_mind,original_payment,damaged,True,2026-06-16
+RET-00347,ORD-000149,SKU-004,2025-04-14,Flatiron,quality,original_payment,damaged,True,2025-04-15
+RET-00348,ORD-002132,SKU-016,2026-07-01,Bleecker,changed_mind,store_credit,sellable,False,
+RET-00349,ORD-000639,SKU-003,2026-04-28,Bleecker,fit_large,store_credit,sellable,True,2026-04-30
+RET-00350,ORD-002713,SKU-016,2026-05-26,Bleecker,changed_mind,store_credit,sellable,True,2026-06-01
+RET-00351,ORD-000905,SKU-001,2024-12-11,SoHo,fit_small,original_payment,sellable,True,2024-12-13
+RET-00352,ORD-000802,SKU-007,2025-10-29,Bleecker,fit_large,original_payment,sellable,True,2025-11-04
+RET-00353,ORD-001335,SKU-002,2026-06-19,Flatiron,changed_mind,store_credit,sellable,True,2026-06-22
+RET-00354,ORD-001630,SKU-002,2026-06-30,Flatiron,changed_mind,original_payment,sellable,True,2026-07-06
+RET-00355,ORD-002335,SKU-002,2026-05-20,Flatiron,changed_mind,original_payment,sellable,True,2026-05-25
+RET-00356,ORD-000863,SKU-002,2026-04-29,Bleecker,quality,exchange,sellable,False,
+RET-00357,ORD-000389,SKU-005,2026-02-11,Bleecker,fit_small,exchange,sellable,True,2026-02-12
+RET-00358,ORD-001836,SKU-007,2026-06-13,Bleecker,fit_large,store_credit,sellable,True,2026-06-19
+RET-00359,ORD-000628,SKU-010,2026-06-23,SoHo,fit_large,original_payment,sellable,True,2026-06-27
+RET-00360,ORD-002804,SKU-001,2024-10-23,SoHo,fit_large,original_payment,sellable,True,2024-10-24
+RET-00361,ORD-001790,SKU-007,2026-07-05,Flatiron,fit_small,original_payment,sellable,False,
+RET-00362,ORD-002611,SKU-012,2026-02-06,Madison Ave,changed_mind,original_payment,damaged,True,2026-02-09
+RET-00363,ORD-001656,SKU-007,2026-05-05,Bleecker,fit_large,original_payment,sellable,True,2026-05-12
+RET-00364,ORD-002033,SKU-016,2026-04-28,Bleecker,fit_large,original_payment,sellable,False,
+RET-00365,ORD-000222,SKU-004,2026-03-09,Madison Ave,changed_mind,original_payment,sellable,True,2026-03-09
+RET-00366,ORD-002875,SKU-007,2026-07-02,SoHo,fit_small,exchange,sellable,True,2026-07-04
+RET-00367,ORD-003031,SKU-005,2024-08-01,Bleecker,fit_small,store_credit,sellable,True,2024-08-05
+RET-00368,ORD-002013,SKU-015,2026-05-13,Bleecker,fit_small,store_credit,sellable,True,2026-05-16
+RET-00369,ORD-002961,SKU-011,2026-07-02,SoHo,quality,original_payment,sellable,True,2026-07-02
+RET-00370,ORD-000047,SKU-010,2026-03-22,Flatiron,changed_mind,store_credit,sellable,True,2026-03-26
+RET-00371,ORD-000908,SKU-009,2026-04-26,Bleecker,quality,exchange,sellable,True,2026-04-30
+RET-00372,ORD-002277,SKU-004,2026-05-14,SoHo,changed_mind,original_payment,sellable,True,2026-05-17
+RET-00373,ORD-002880,SKU-007,2026-03-25,Bleecker,fit_large,original_payment,sellable,True,2026-03-28
+RET-00374,ORD-002728,SKU-011,2025-07-28,Madison Ave,fit_large,original_payment,sellable,True,2025-07-29
+RET-00375,ORD-002578,SKU-014,2026-05-21,Madison Ave,quality,exchange,sellable,False,
+RET-00376,ORD-000477,SKU-004,2026-01-30,Bleecker,fit_large,original_payment,sellable,True,2026-02-01
+RET-00377,ORD-002104,SKU-014,2026-06-29,Bleecker,fit_small,exchange,sellable,True,2026-07-05
+RET-00378,ORD-001991,SKU-015,2026-07-03,Madison Ave,quality,original_payment,sellable,True,2026-07-06
+RET-00379,ORD-001211,SKU-015,2025-05-30,SoHo,fit_small,original_payment,sellable,False,
+RET-00380,ORD-000148,SKU-010,2026-04-09,SoHo,fit_large,original_payment,sellable,True,2026-04-13
+RET-00381,ORD-001336,SKU-008,2026-06-05,Bleecker,quality,original_payment,sellable,True,2026-06-07
+RET-00382,ORD-000125,SKU-010,2025-06-22,Bleecker,fit_large,exchange,sellable,True,2025-06-27
+RET-00383,ORD-000463,SKU-008,2025-10-29,SoHo,quality,exchange,sellable,True,2025-10-29
+RET-00384,ORD-002743,SKU-001,2024-10-25,Flatiron,changed_mind,original_payment,sellable,True,2024-10-27
+RET-00385,ORD-000859,SKU-006,2026-04-14,Madison Ave,fit_small,original_payment,sellable,True,2026-04-16
+RET-00386,ORD-000658,SKU-014,2026-01-20,Bleecker,fit_large,original_payment,sellable,True,2026-01-21
+RET-00387,ORD-000095,SKU-002,2025-10-13,Madison Ave,fit_small,original_payment,sellable,False,
+RET-00388,ORD-001039,SKU-013,2026-03-08,Bleecker,fit_large,store_credit,sellable,True,2026-03-12
+RET-00389,ORD-001135,SKU-012,2025-10-07,Madison Ave,fit_large,original_payment,sellable,True,2025-10-08
+RET-00390,ORD-001099,SKU-016,2026-07-02,Bleecker,fit_large,store_credit,sellable,True,2026-07-06
+RET-00391,ORD-002472,SKU-009,2026-07-05,Madison Ave,fit_large,exchange,sellable,True,2026-07-05
+RET-00392,ORD-002890,SKU-011,2026-03-16,Flatiron,fit_large,exchange,sellable,False,
+RET-00393,ORD-001785,SKU-006,2025-05-12,SoHo,changed_mind,store_credit,sellable,True,2025-05-13
+RET-00394,ORD-000115,SKU-005,2026-01-02,Flatiron,changed_mind,store_credit,sellable,True,2026-01-07
+RET-00395,ORD-002049,SKU-001,2026-01-04,Flatiron,fit_small,original_payment,sellable,True,2026-01-07
+RET-00396,ORD-000316,SKU-006,2026-03-31,Flatiron,fit_large,store_credit,sellable,False,
+RET-00397,ORD-001068,SKU-008,2025-12-21,Bleecker,changed_mind,store_credit,sellable,True,2025-12-28
+RET-00398,ORD-002157,SKU-011,2025-03-13,Bleecker,fit_small,original_payment,sellable,True,2025-03-15
+RET-00399,ORD-001972,SKU-005,2025-08-31,Flatiron,fit_small,original_payment,sellable,True,2025-09-03
+RET-00400,ORD-001623,SKU-002,2025-07-08,Flatiron,changed_mind,store_credit,damaged,True,2025-07-11
+RET-00401,ORD-001433,SKU-014,2026-04-26,Bleecker,quality,original_payment,sellable,True,2026-04-30
+RET-00402,ORD-000240,SKU-004,2026-02-20,Bleecker,quality,exchange,sellable,False,
+RET-00403,ORD-002061,SKU-014,2026-06-12,Bleecker,fit_small,exchange,sellable,True,2026-06-18
+RET-00404,ORD-001883,SKU-010,2024-12-13,Bleecker,changed_mind,store_credit,sellable,True,2024-12-20
+RET-00405,ORD-001441,SKU-010,2026-05-17,SoHo,changed_mind,store_credit,sellable,True,2026-05-21
+RET-00406,ORD-000636,SKU-005,2025-06-24,Bleecker,changed_mind,original_payment,sellable,True,2025-06-26
+RET-00407,ORD-001487,SKU-002,2026-01-23,Flatiron,changed_mind,original_payment,sellable,True,2026-01-28
+RET-00408,ORD-001906,SKU-008,2026-06-23,Madison Ave,fit_large,exchange,damaged,True,2026-06-26
+RET-00409,ORD-000630,SKU-013,2026-07-01,Flatiron,fit_large,original_payment,damaged,False,
+RET-00410,ORD-000946,SKU-001,2025-12-25,Flatiron,fit_small,original_payment,sellable,False,
+RET-00411,ORD-000311,SKU-004,2025-01-20,Madison Ave,fit_small,store_credit,sellable,True,2025-01-20
+RET-00412,ORD-001568,SKU-010,2026-03-17,SoHo,fit_small,store_credit,sellable,True,2026-03-19
+RET-00413,ORD-000871,SKU-008,2026-04-25,SoHo,fit_small,store_credit,damaged,True,2026-04-27
+RET-00414,ORD-000487,SKU-002,2026-02-22,Madison Ave,quality,store_credit,sellable,True,2026-02-22
+RET-00415,ORD-002852,SKU-005,2026-06-13,SoHo,fit_small,exchange,sellable,True,2026-06-16
+RET-00416,ORD-002737,SKU-015,2026-04-27,SoHo,changed_mind,store_credit,sellable,True,2026-04-27
+RET-00417,ORD-000817,SKU-011,2026-06-22,SoHo,fit_small,original_payment,sellable,True,2026-06-25
+RET-00418,ORD-002068,SKU-013,2026-02-03,Madison Ave,changed_mind,store_credit,sellable,True,2026-02-06
+RET-00419,ORD-002094,SKU-005,2026-05-21,Bleecker,changed_mind,original_payment,damaged,True,2026-05-26
+RET-00420,ORD-000317,SKU-014,2026-02-14,Bleecker,fit_small,store_credit,sellable,True,2026-02-18
+RET-00421,ORD-000384,SKU-014,2026-07-01,Madison Ave,fit_small,original_payment,sellable,True,2026-07-01
+RET-00422,ORD-000226,SKU-010,2024-08-01,Flatiron,fit_small,original_payment,sellable,True,2024-08-05
+RET-00423,ORD-001313,SKU-001,2026-06-25,Madison Ave,changed_mind,exchange,sellable,True,2026-06-26
+RET-00424,ORD-001825,SKU-011,2025-11-03,Flatiron,fit_large,store_credit,sellable,True,2025-11-06
+RET-00425,ORD-000128,SKU-009,2025-09-21,Madison Ave,fit_small,store_credit,sellable,True,2025-09-22
+RET-00426,ORD-000784,SKU-011,2025-01-19,Madison Ave,fit_large,store_credit,sellable,True,2025-01-21
+RET-00427,ORD-002386,SKU-005,2026-01-28,Flatiron,fit_large,original_payment,sellable,True,2026-02-01
+RET-00428,ORD-002552,SKU-009,2026-06-30,Bleecker,fit_large,original_payment,sellable,True,2026-07-02
+RET-00429,ORD-001575,SKU-009,2026-05-26,Flatiron,fit_large,original_payment,sellable,True,2026-05-27
+RET-00430,ORD-000858,SKU-010,2025-03-05,Flatiron,fit_large,store_credit,sellable,True,2025-03-11
+RET-00431,ORD-000250,SKU-003,2026-06-30,SoHo,quality,store_credit,sellable,True,2026-07-04
+RET-00432,ORD-001761,SKU-004,2026-05-08,Bleecker,fit_large,exchange,sellable,True,2026-05-14
+RET-00433,ORD-001657,SKU-009,2025-06-06,Madison Ave,fit_small,store_credit,sellable,True,2025-06-08
+RET-00434,ORD-001915,SKU-002,2026-06-24,Bleecker,fit_large,exchange,sellable,True,2026-06-29
+RET-00435,ORD-002660,SKU-014,2025-12-13,Flatiron,fit_large,store_credit,sellable,True,2025-12-16
+RET-00436,ORD-000056,SKU-012,2025-08-12,Flatiron,fit_large,original_payment,sellable,True,2025-08-16
+RET-00437,ORD-001435,SKU-011,2025-04-28,SoHo,fit_small,original_payment,sellable,True,2025-05-02
+RET-00438,ORD-002478,SKU-006,2026-07-06,Flatiron,fit_large,original_payment,sellable,False,
+RET-00439,ORD-002534,SKU-015,2026-03-07,Bleecker,changed_mind,store_credit,sellable,True,2026-03-10
+RET-00440,ORD-001170,SKU-012,2026-05-31,Flatiron,fit_large,exchange,sellable,True,2026-06-01
+RET-00441,ORD-001672,SKU-006,2026-03-16,SoHo,changed_mind,original_payment,sellable,True,2026-03-16
+RET-00442,ORD-002492,SKU-013,2026-06-29,Flatiron,changed_mind,exchange,sellable,True,2026-07-02
+RET-00443,ORD-001648,SKU-004,2026-05-05,SoHo,changed_mind,exchange,sellable,False,
+RET-00444,ORD-001649,SKU-016,2026-06-08,SoHo,quality,original_payment,sellable,False,
+RET-00445,ORD-002522,SKU-016,2024-08-19,SoHo,changed_mind,original_payment,damaged,True,2024-08-20
+RET-00446,ORD-001025,SKU-003,2025-10-20,Bleecker,fit_small,exchange,damaged,True,2025-10-23
+RET-00447,ORD-000567,SKU-003,2025-07-20,Flatiron,fit_large,original_payment,sellable,True,2025-07-26
+RET-00448,ORD-001035,SKU-002,2025-11-24,Madison Ave,changed_mind,store_credit,sellable,True,2025-11-26
+RET-00449,ORD-000910,SKU-009,2024-06-17,Bleecker,quality,store_credit,sellable,True,2024-06-20
+RET-00450,ORD-001914,SKU-005,2026-04-05,Bleecker,quality,store_credit,damaged,True,2026-04-12

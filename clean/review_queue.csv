@@ -1,0 +1,38 @@
+review_id,ref_a,name_a,ref_b,name_b,confidence_score,reason,status
+REV-00001,POS-00117,Amy Adkins,POS-00118,Amy Adkins,0.48,same first name (Amy); same last name (Adkins); different store (Flatiron vs Madison Ave); 415 days apart,pending
+REV-00002,POS-00117,Amy Adkins,ECOM-00044,Amy Adkins,0.4,same first name (Amy); same last name (Adkins); store not comparable (online record involved); 592 days apart,pending
+REV-00003,POS-00228,Melissa Ashley,POS-00229,Melissa Ashley,0.473,same first name (Melissa); same last name (Ashley); different store (Flatiron vs Madison Ave); 422 days apart,pending
+REV-00004,POS-00407,Rachel Byrd,POS-00408,Rachel Byrd,0.513,same first name (Rachel); same last name (Byrd); different store (SoHo vs Flatiron); 379 days apart,pending
+REV-00005,POS-00408,Rachel Byrd,ECOM-00199,Rachel Byrd,0.424,same first name (Rachel); same last name (Byrd); store not comparable (online record involved); 487 days apart,pending
+REV-00006,POS-00412,James Cruz,POS-00413,James Cruz,0.549,same first name (James); same last name (Cruz); different store (SoHo vs Bleecker); 341 days apart,pending
+REV-00007,POS-00313,Scott Dalton,ECOM-00148,Scott Dalton,0.548,same first name (Scott); same last name (Dalton); store not comparable (online record involved); 421 days apart,pending
+REV-00008,POS-00396,Brandon Flynn,ECOM-00196,Brandon Flynn,0.4,same first name (Brandon); same last name (Flynn); store not comparable (online record involved); 598 days apart,pending
+REV-00009,POS-00397,Brandon Flynn,ECOM-00196,Brandon Flynn,0.526,same first name (Brandon); same last name (Flynn); store not comparable (online record involved); 433 days apart,pending
+REV-00010,POS-00239,Kathleen Gray,ECOM-00112,Kathleen Gray,0.4,same first name (Kathleen); same last name (Gray); store not comparable (online record involved); 540 days apart,pending
+REV-00011,POS-00393,Julie Hamilton,ECOM-00193,Julie Hamilton,0.497,same first name (Julie); same last name (Hamilton); store not comparable (online record involved); 448 days apart,pending
+REV-00012,POS-00074,Chad Hodges,ECOM-00024,Chad Hodges,0.512,same first name (Chad); same last name (Hodges); store not comparable (online record involved); 440 days apart,pending
+REV-00013,POS-00197,Laura Jackson,POS-00198,Laura Jackson,0.426,same first name (Laura); same last name (Jackson); different store (Madison Ave vs SoHo); 472 days apart,pending
+REV-00014,POS-00197,Laura Jackson,ECOM-00085,Laura Jackson,0.4,same first name (Laura); same last name (Jackson); store not comparable (online record involved); 547 days apart,pending
+REV-00015,POS-00234,Richard Martin,POS-00235,Richard Martin,0.468,same first name (Richard); same last name (Martin); different store (Flatiron vs Bleecker); 427 days apart,pending
+REV-00016,POS-00092,Jessica Nunez,POS-00093,Jessica Nunez,0.573,same first name (Jessica); same last name (Nunez); different store (Bleecker vs SoHo); 316 days apart,pending
+REV-00017,POS-00188,Kyle Ortiz,ECOM-00081,Kyle Ortiz,0.409,same first name (Kyle); same last name (Ortiz); store not comparable (online record involved); 495 days apart,pending
+REV-00018,POS-00355,Andrea Pennington,POS-00356,Andrea Pennington,0.445,same first name (Andrea); same last name (Pennington); different store (SoHo vs Flatiron); 452 days apart,pending
+REV-00019,POS-00347,Lisa Pierce,ECOM-00165,Lisa Pierce,0.569,same first name (Lisa); same last name (Pierce); store not comparable (online record involved); 410 days apart,pending
+REV-00020,POS-00267,Cynthia Poole,ECOM-00125,Cynthia Poole,0.4,same first name (Cynthia); same last name (Poole); store not comparable (online record involved); 528 days apart,pending
+REV-00021,POS-00332,Bill Reynolds,POS-00333,Will Reynolds,0.366,nickname variants (Bill / Will); same last name (Reynolds); different store (Flatiron vs Madison Ave); 472 days apart,pending
+REV-00022,POS-00260,David Riggs,ECOM-00121,David Riggs,0.4,same first name (David); same last name (Riggs); store not comparable (online record involved); 545 days apart,pending
+REV-00023,POS-00290,Julie Rivera,POS-00291,Julie Rivera,0.439,same first name (Julie); same last name (Rivera); different store (Bleecker vs SoHo); 458 days apart,pending
+REV-00024,POS-00012,Lisa Smith,ECOM-00003,Lisa Smith,0.4,same first name (Lisa); same last name (Smith); store not comparable (online record involved); 532 days apart,pending
+REV-00025,POS-00013,Lisa Smith,ECOM-00003,Lisa Smith,0.557,same first name (Lisa); same last name (Smith); store not comparable (online record involved); 416 days apart,pending
+REV-00026,POS-00169,Steven Torres,POS-00170,Steven Torres,0.545,same first name (Steven); same last name (Torres); different store (Bleecker vs Madison Ave); 345 days apart,pending
+REV-00027,POS-00169,Steven Torres,ECOM-00072,Steven Torres,0.514,same first name (Steven); same last name (Torres); store not comparable (online record involved); 439 days apart,pending
+REV-00028,POS-00080,David Walker,POS-00081,David Walker,0.411,same first name (David); same last name (Walker); different store (Bleecker vs Madison Ave); 488 days apart,pending
+REV-00029,POS-00081,David Walker,ECOM-00031,David Walker,0.4,same first name (David); same last name (Walker); store not comparable (online record involved); 537 days apart,pending
+REV-00030,POS-00272,Amanda Webb,ECOM-00128,Amanda Webb,0.499,same first name (Amanda); same last name (Webb); store not comparable (online record involved); 447 days apart,pending
+REV-00031,POS-00177,Tara White,POS-00178,Tara White,0.51,same first name (Tara); same last name (White); different store (SoHo vs Madison Ave); 383 days apart,pending
+REV-00032,POS-00049,Christopher Williams,ECOM-00016,Chris Williams,0.413,nickname variants (Christopher / Chris); same last name (Williams); store not comparable (online record involved); 461 days apart,pending
+REV-00033,POS-00102,Andrea Williams,ECOM-00038,Andrea Williams,0.544,same first name (Andrea); same last name (Williams); store not comparable (online record involved); 423 days apart,pending
+REV-00034,POS-00176,Sheila Wilson,ECOM-00074,Sheila Wilson,0.505,same first name (Sheila); same last name (Wilson); store not comparable (online record involved); 444 days apart,pending
+REV-00035,POS-00334,Marcus Wright,POS-00335,Marcus Wright,0.445,same first name (Marcus); same last name (Wright); different store (SoHo vs Madison Ave); 452 days apart,pending
+REV-00036,POS-00334,Marcus Wright,ECOM-00157,Marcus Wright,0.73,same first name (Marcus); same last name (Wright); store not comparable (online record involved); 324 days apart,pending
+REV-00037,POS-00121,Eric Yu,ECOM-00045,Eric Yu,0.4,same first name (Eric); same last name (Yu); store not comparable (online record involved); 500 days apart,pending

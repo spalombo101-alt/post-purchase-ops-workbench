@@ -1,0 +1,501 @@
+true_person_id,first_name,last_name,group,pos_record_ids,ecom_id,pos_dup_expected_tier,ecom_link_expected_tier,expected_resolution_tier,home_store
+0,Danielle,Johnson,pos_only,POS-00001,,n/a,n/a,single_record,Madison Ave
+1,Joshua,Walker,both,POS-00002;POS-00003,ECOM-00001,tier2_fuzzy,tier2_fuzzy,tier2_fuzzy,Madison Ave
+2,Kathryn,Miller,pos_only,POS-00004;POS-00005,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+3,Patricia,Miller,pos_only,POS-00006,,n/a,n/a,single_record,SoHo
+4,Robert,Johnson,pos_only,POS-00007,,n/a,n/a,single_record,SoHo
+5,Jeffery,Wagner,pos_only,POS-00008,,n/a,n/a,single_record,Flatiron
+6,Anthony,Gonzalez,both,POS-00009,ECOM-00002,n/a,tier1_exact,tier1_exact,Madison Ave
+7,Debra,Gardner,pos_only,POS-00010,,n/a,n/a,single_record,Flatiron
+8,Jeffrey,Lawrence,pos_only,POS-00011,,n/a,n/a,single_record,Bleecker
+9,Lisa,Smith,both,POS-00012;POS-00013,ECOM-00003,tier2_fuzzy,tier3_ambiguous,tier3_ambiguous,SoHo
+10,Linda,Wolfe,ecom_only,,ECOM-00004,n/a,n/a,single_record,Madison Ave
+11,Matthew,Moore,ecom_only,,ECOM-00005,n/a,n/a,single_record,Flatiron
+12,Susan,Rogers,pos_only,POS-00014,,n/a,n/a,single_record,Madison Ave
+13,Christopher,Davis,pos_only,POS-00015,,n/a,n/a,single_record,Bleecker
+14,Melanie,Munoz,ecom_only,,ECOM-00006,n/a,n/a,single_record,SoHo
+15,Lindsay,Blair,pos_only,POS-00016,,n/a,n/a,single_record,Flatiron
+16,Amanda,Dudley,both,POS-00017,ECOM-00007,n/a,tier1_exact,tier1_exact,Madison Ave
+17,Nicholas,Arnold,pos_only,POS-00018,,n/a,n/a,single_record,SoHo
+18,Maria,Montgomery,pos_only,POS-00019,,n/a,n/a,single_record,SoHo
+19,Michelle,Ray,pos_only,POS-00020,,n/a,n/a,single_record,Madison Ave
+20,Janet,Williams,ecom_only,,ECOM-00008,n/a,n/a,single_record,SoHo
+21,Jeremy,Roberts,both,POS-00021,ECOM-00009,n/a,tier1_exact,tier1_exact,SoHo
+22,Christopher,Hall,both,POS-00022,ECOM-00010,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+23,Craig,Ramirez,both,POS-00023,ECOM-00011,n/a,tier1_exact,tier1_exact,SoHo
+24,Cynthia,Diaz,pos_only,POS-00024,,n/a,n/a,single_record,Flatiron
+25,Mitchell,Clark,ecom_only,,ECOM-00012,n/a,n/a,single_record,SoHo
+26,Joseph,Zuniga,pos_only,POS-00025;POS-00026,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+27,Deborah,Lynch,pos_only,POS-00027;POS-00028,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+28,George,Daniel,pos_only,POS-00029,,n/a,n/a,single_record,Flatiron
+29,Frank,Gray,pos_only,POS-00030;POS-00031,,tier1_exact,n/a,tier1_exact,Flatiron
+30,Veronica,Bowman,pos_only,POS-00032,,n/a,n/a,single_record,Bleecker
+31,Angela,Cohen,pos_only,POS-00033;POS-00034,,tier1_exact,n/a,tier1_exact,SoHo
+32,Megan,Parsons,pos_only,POS-00035,,n/a,n/a,single_record,Flatiron
+33,Jeremy,Johnson,pos_only,POS-00036,,n/a,n/a,single_record,Madison Ave
+34,Leslie,Adams,both,POS-00037,ECOM-00013,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+35,Jason,Hahn,pos_only,POS-00038;POS-00039,,tier2_fuzzy,n/a,tier2_fuzzy,SoHo
+36,Nancy,Edwards,ecom_only,,ECOM-00014,n/a,n/a,single_record,Bleecker
+37,Diana,Foster,pos_only,POS-00040,,n/a,n/a,single_record,Flatiron
+38,Robin,Ellis,pos_only,POS-00041,,n/a,n/a,single_record,SoHo
+39,Joseph,Wright,pos_only,POS-00042,,n/a,n/a,single_record,Flatiron
+40,Anna,Baker,both,POS-00043;POS-00044,ECOM-00015,tier2_fuzzy,tier1_exact,tier2_fuzzy,Flatiron
+41,Brenda,Hurst,pos_only,POS-00045;POS-00046,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+42,Reginald,Robinson,pos_only,POS-00047,,n/a,n/a,single_record,Bleecker
+43,Whitney,Hicks,pos_only,POS-00048,,n/a,n/a,single_record,Flatiron
+44,Christopher,Williams,both,POS-00049,ECOM-00016,n/a,tier3_ambiguous,tier3_ambiguous,Bleecker
+45,Daniel,Burton,pos_only,POS-00050,,n/a,n/a,single_record,Madison Ave
+46,Laura,Henderson,pos_only,POS-00051,,n/a,n/a,single_record,SoHo
+47,Bryan,James,both,POS-00052;POS-00053,ECOM-00017,tier2_fuzzy,tier1_exact,tier2_fuzzy,SoHo
+48,Wendy,Rice,pos_only,POS-00054,,n/a,n/a,single_record,Madison Ave
+49,Tasha,Valencia,pos_only,POS-00055,,n/a,n/a,single_record,Bleecker
+50,Alexander,Le,pos_only,POS-00056,,n/a,n/a,single_record,SoHo
+51,Erin,Herrera,pos_only,POS-00057,,n/a,n/a,single_record,Bleecker
+52,Joseph,Davidson,ecom_only,,ECOM-00018,n/a,n/a,single_record,Bleecker
+53,Daniel,Graham,both,POS-00058,ECOM-00019,n/a,tier1_exact,tier1_exact,Bleecker
+54,Shawn,Mckay,pos_only,POS-00059,,n/a,n/a,single_record,Madison Ave
+55,Nancy,Baker,pos_only,POS-00060,,n/a,n/a,single_record,Madison Ave
+56,Vincent,White,both,POS-00061,ECOM-00020,n/a,tier1_exact,tier1_exact,Bleecker
+57,Rita,Harrell,pos_only,POS-00062;POS-00063,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+58,Kenneth,Fowler,pos_only,POS-00064,,n/a,n/a,single_record,Madison Ave
+59,Chelsea,Hernandez,both,POS-00065,ECOM-00021,n/a,tier1_exact,tier1_exact,Flatiron
+60,Kathryn,Ryan,pos_only,POS-00066,,n/a,n/a,single_record,Flatiron
+61,Kimberly,Moreno,both,POS-00067,ECOM-00022,n/a,tier2_fuzzy,tier2_fuzzy,Bleecker
+62,Aaron,Nguyen,pos_only,POS-00068,,n/a,n/a,single_record,Flatiron
+63,Andrew,Hickman,pos_only,POS-00069,,n/a,n/a,single_record,Flatiron
+64,Natasha,Decker,pos_only,POS-00070,,n/a,n/a,single_record,Flatiron
+65,Kyle,Brown,pos_only,POS-00071,,n/a,n/a,single_record,Bleecker
+66,Natalie,Arroyo,both,POS-00072,ECOM-00023,n/a,tier2_fuzzy,tier2_fuzzy,Bleecker
+67,Christopher,Tucker,pos_only,POS-00073,,n/a,n/a,single_record,Madison Ave
+68,Chad,Hodges,both,POS-00074,ECOM-00024,n/a,tier3_ambiguous,tier3_ambiguous,Madison Ave
+69,Katie,Anderson,ecom_only,,ECOM-00025,n/a,n/a,single_record,Flatiron
+70,Thomas,Pierce,pos_only,POS-00075,,n/a,n/a,single_record,Bleecker
+71,Joseph,Brennan,ecom_only,,ECOM-00026,n/a,n/a,single_record,Bleecker
+72,Rodney,Lewis,both,POS-00076,ECOM-00027,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+73,Amber,Blair,both,POS-00077,ECOM-00028,n/a,tier1_exact,tier1_exact,Madison Ave
+74,James,Collins,ecom_only,,ECOM-00029,n/a,n/a,single_record,Bleecker
+75,Wanda,Santos,ecom_only,,ECOM-00030,n/a,n/a,single_record,Madison Ave
+76,Samuel,Holmes,pos_only,POS-00078;POS-00079,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+77,David,Walker,both,POS-00080;POS-00081,ECOM-00031,tier3_ambiguous,tier1_exact,tier3_ambiguous,Bleecker
+78,Matthew,Chapman,pos_only,POS-00082,,n/a,n/a,single_record,Flatiron
+79,Jerry,Robinson,pos_only,POS-00083;POS-00084,,tier2_fuzzy,n/a,tier2_fuzzy,SoHo
+80,Chad,Welch,pos_only,POS-00085,,n/a,n/a,single_record,Flatiron
+81,Jeremy,Whitehead,pos_only,POS-00086,,n/a,n/a,single_record,Flatiron
+82,Michele,Jones,ecom_only,,ECOM-00032,n/a,n/a,single_record,Flatiron
+83,John,Caldwell,pos_only,POS-00087,,n/a,n/a,single_record,Bleecker
+84,Jason,Anderson,both,POS-00088,ECOM-00033,n/a,tier1_exact,tier1_exact,Flatiron
+85,Selena,Duncan,ecom_only,,ECOM-00034,n/a,n/a,single_record,Flatiron
+86,Thomas,Mueller,both,POS-00089,ECOM-00035,n/a,tier1_exact,tier1_exact,SoHo
+87,Lindsey,Lee,pos_only,POS-00090,,n/a,n/a,single_record,Bleecker
+88,Collin,Jordan,ecom_only,,ECOM-00036,n/a,n/a,single_record,SoHo
+89,Rodney,Owens,pos_only,POS-00091,,n/a,n/a,single_record,Flatiron
+90,Jessica,Nunez,pos_only,POS-00092;POS-00093,,tier3_ambiguous,n/a,tier3_ambiguous,Bleecker
+91,Tracey,Garcia,pos_only,POS-00094,,n/a,n/a,single_record,SoHo
+92,Richard,Morgan,pos_only,POS-00095,,n/a,n/a,single_record,Flatiron
+93,Michelle,Wright,pos_only,POS-00096;POS-00097,,tier2_fuzzy,n/a,tier2_fuzzy,Madison Ave
+94,James,West,pos_only,POS-00098,,n/a,n/a,single_record,SoHo
+95,Robert,Ramirez,pos_only,POS-00099;POS-00100,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+96,John,Leblanc,pos_only,POS-00101,,n/a,n/a,single_record,SoHo
+97,Scott,Callahan,ecom_only,,ECOM-00037,n/a,n/a,single_record,SoHo
+98,Andrea,Williams,both,POS-00102,ECOM-00038,n/a,tier3_ambiguous,tier3_ambiguous,SoHo
+99,Yvette,Huff,pos_only,POS-00103,,n/a,n/a,single_record,Madison Ave
+100,Tanya,House,pos_only,POS-00104,,n/a,n/a,single_record,Bleecker
+101,Melinda,Martin,both,POS-00105,ECOM-00039,n/a,tier1_exact,tier1_exact,Bleecker
+102,Todd,Lewis,pos_only,POS-00106,,n/a,n/a,single_record,Bleecker
+103,Richard,Brown,both,POS-00107,ECOM-00040,n/a,tier1_exact,tier1_exact,Flatiron
+104,Nicholas,Galloway,pos_only,POS-00108,,n/a,n/a,single_record,Bleecker
+105,Joseph,Bowers,both,POS-00109;POS-00110,ECOM-00041,tier2_fuzzy,tier1_exact,tier2_fuzzy,Bleecker
+106,Spencer,Henderson,pos_only,POS-00111,,n/a,n/a,single_record,Madison Ave
+107,Susan,Cowan,both,POS-00112,ECOM-00042,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+108,Angela,Higgins,pos_only,POS-00113,,n/a,n/a,single_record,Flatiron
+109,Eric,Phillips,both,POS-00114,ECOM-00043,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+110,Tanya,Riley,pos_only,POS-00115;POS-00116,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+111,Amy,Adkins,both,POS-00117;POS-00118,ECOM-00044,tier3_ambiguous,tier2_fuzzy,tier3_ambiguous,Flatiron
+112,Brian,Silva,pos_only,POS-00119,,n/a,n/a,single_record,Madison Ave
+113,Wesley,Farrell,pos_only,POS-00120,,n/a,n/a,single_record,Bleecker
+114,Eric,Yu,both,POS-00121,ECOM-00045,n/a,tier3_ambiguous,tier3_ambiguous,Flatiron
+115,Christopher,Lopez,ecom_only,,ECOM-00046,n/a,n/a,single_record,Flatiron
+116,Brooke,Leonard,ecom_only,,ECOM-00047,n/a,n/a,single_record,Madison Ave
+117,Joe,Wilson,pos_only,POS-00122;POS-00123,,tier1_exact,n/a,tier1_exact,Flatiron
+118,Pamela,Sanchez,pos_only,POS-00124,,n/a,n/a,single_record,Flatiron
+119,Brooke,Harvey,pos_only,POS-00125,,n/a,n/a,single_record,Madison Ave
+120,Robert,Silva,pos_only,POS-00126,,n/a,n/a,single_record,SoHo
+121,Alexandra,Donovan,pos_only,POS-00127,,n/a,n/a,single_record,SoHo
+122,James,Moran,ecom_only,,ECOM-00048,n/a,n/a,single_record,Flatiron
+123,John,Foster,pos_only,POS-00128,,n/a,n/a,single_record,Flatiron
+124,Emily,Evans,pos_only,POS-00129,,n/a,n/a,single_record,Bleecker
+125,Leslie,Walton,ecom_only,,ECOM-00049,n/a,n/a,single_record,Flatiron
+126,Charles,Ellis,both,POS-00130,ECOM-00050,n/a,tier1_exact,tier1_exact,Bleecker
+127,Yolanda,Ferrell,pos_only,POS-00131;POS-00132,,tier1_exact,n/a,tier1_exact,SoHo
+128,Charles,Lewis,pos_only,POS-00133,,n/a,n/a,single_record,Flatiron
+129,Joseph,Mahoney,both,POS-00134,ECOM-00051,n/a,tier1_exact,tier1_exact,Flatiron
+130,Nicole,Suarez,both,POS-00135,ECOM-00052,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+131,Mike,Moore,pos_only,POS-00136,,n/a,n/a,single_record,Flatiron
+132,Martha,Warner,pos_only,POS-00137,,n/a,n/a,single_record,SoHo
+133,Cheryl,Archer,ecom_only,,ECOM-00053,n/a,n/a,single_record,Flatiron
+134,Destiny,Smith,pos_only,POS-00138,,n/a,n/a,single_record,Bleecker
+135,Lisa,Evans,pos_only,POS-00139,,n/a,n/a,single_record,Flatiron
+136,Elizabeth,Mcmillan,pos_only,POS-00140,,n/a,n/a,single_record,Bleecker
+137,Dennis,Wilson,both,POS-00141,ECOM-00054,n/a,tier1_exact,tier1_exact,Madison Ave
+138,Daniel,Tran,both,POS-00142,ECOM-00055,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+139,Joseph,Jacobs,ecom_only,,ECOM-00056,n/a,n/a,single_record,Madison Ave
+140,Jennifer,Harris,pos_only,POS-00143,,n/a,n/a,single_record,Madison Ave
+141,Cynthia,Baker,ecom_only,,ECOM-00057,n/a,n/a,single_record,Flatiron
+142,Tracy,Whitehead,pos_only,POS-00144,,n/a,n/a,single_record,Bleecker
+143,Meghan,Davis,pos_only,POS-00145,,n/a,n/a,single_record,Flatiron
+144,Rodney,Hill,pos_only,POS-00146,,n/a,n/a,single_record,Bleecker
+145,Adam,Wise,pos_only,POS-00147,,n/a,n/a,single_record,Madison Ave
+146,Dana,Green,ecom_only,,ECOM-00058,n/a,n/a,single_record,SoHo
+147,Joyce,Arnold,both,POS-00148,ECOM-00059,n/a,tier1_exact,tier1_exact,Flatiron
+148,Ronald,Smith,pos_only,POS-00149,,n/a,n/a,single_record,SoHo
+149,Charles,Ware,ecom_only,,ECOM-00060,n/a,n/a,single_record,Bleecker
+150,Rebecca,Gardner,pos_only,POS-00150;POS-00151,,tier1_exact,n/a,tier1_exact,Flatiron
+151,Mary,Aguilar,pos_only,POS-00152;POS-00153,,tier2_fuzzy,n/a,tier2_fuzzy,SoHo
+152,Earl,Anderson,ecom_only,,ECOM-00061,n/a,n/a,single_record,SoHo
+153,Kyle,Nolan,both,POS-00154,ECOM-00062,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+154,Laura,Valencia,both,POS-00155,ECOM-00063,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+155,Rachel,Clark,ecom_only,,ECOM-00064,n/a,n/a,single_record,Flatiron
+156,John,Garcia,both,POS-00156,ECOM-00065,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+157,Kimberly,Henson,pos_only,POS-00157,,n/a,n/a,single_record,Madison Ave
+158,Richard,Oliver,ecom_only,,ECOM-00066,n/a,n/a,single_record,Flatiron
+159,Eric,Spears,pos_only,POS-00158,,n/a,n/a,single_record,Madison Ave
+160,Michelle,Cherry,pos_only,POS-00159,,n/a,n/a,single_record,Madison Ave
+161,Lisa,Keith,pos_only,POS-00160,,n/a,n/a,single_record,SoHo
+162,Angel,Doyle,both,POS-00161,ECOM-00067,n/a,tier2_fuzzy,tier2_fuzzy,Bleecker
+163,Martin,Galvan,both,POS-00162,ECOM-00068,n/a,tier1_exact,tier1_exact,Madison Ave
+164,Leah,Shields,both,POS-00163;POS-00164,ECOM-00069,tier1_exact,tier2_fuzzy,tier2_fuzzy,Madison Ave
+165,Lisa,Adams,both,POS-00165,ECOM-00070,n/a,tier1_exact,tier1_exact,Madison Ave
+166,Kristin,Rodriguez,pos_only,POS-00166,,n/a,n/a,single_record,Bleecker
+167,Monica,Garrison,pos_only,POS-00167,,n/a,n/a,single_record,Bleecker
+168,Jeffrey,Velasquez,both,POS-00168,ECOM-00071,n/a,tier1_exact,tier1_exact,Madison Ave
+169,Steven,Torres,both,POS-00169;POS-00170,ECOM-00072,tier3_ambiguous,tier2_fuzzy,tier3_ambiguous,Bleecker
+170,Laura,Perez,pos_only,POS-00171,,n/a,n/a,single_record,Bleecker
+171,Andrew,Lee,pos_only,POS-00172,,n/a,n/a,single_record,Bleecker
+172,Mark,Lin,ecom_only,,ECOM-00073,n/a,n/a,single_record,Flatiron
+173,Tammy,Ramirez,pos_only,POS-00173,,n/a,n/a,single_record,Madison Ave
+174,Darlene,Ross,pos_only,POS-00174,,n/a,n/a,single_record,Bleecker
+175,Tina,Herrera,pos_only,POS-00175,,n/a,n/a,single_record,Flatiron
+176,Sheila,Wilson,both,POS-00176,ECOM-00074,n/a,tier3_ambiguous,tier3_ambiguous,SoHo
+177,Tara,White,pos_only,POS-00177;POS-00178,,tier3_ambiguous,n/a,tier3_ambiguous,SoHo
+178,Sydney,Baker,both,POS-00179,ECOM-00075,n/a,tier1_exact,tier1_exact,Bleecker
+179,Daniel,Hamilton,ecom_only,,ECOM-00076,n/a,n/a,single_record,Madison Ave
+180,Jessica,Edwards,pos_only,POS-00180,,n/a,n/a,single_record,Bleecker
+181,Catherine,Dixon,pos_only,POS-00181,,n/a,n/a,single_record,SoHo
+182,Paul,Ray,pos_only,POS-00182,,n/a,n/a,single_record,Madison Ave
+183,Jonathan,Fletcher,ecom_only,,ECOM-00077,n/a,n/a,single_record,Madison Ave
+184,Aaron,Frost,ecom_only,,ECOM-00078,n/a,n/a,single_record,SoHo
+185,Amanda,Ball,pos_only,POS-00183,,n/a,n/a,single_record,Flatiron
+186,Judy,Lambert,pos_only,POS-00184,,n/a,n/a,single_record,Flatiron
+187,Michael,Jones,ecom_only,,ECOM-00079,n/a,n/a,single_record,Bleecker
+188,Elizabeth,Rivera,pos_only,POS-00185,,n/a,n/a,single_record,Madison Ave
+189,Lee,Charles,pos_only,POS-00186,,n/a,n/a,single_record,Bleecker
+190,Jennifer,Evans,both,POS-00187,ECOM-00080,n/a,tier1_exact,tier1_exact,Madison Ave
+191,Kyle,Ortiz,both,POS-00188,ECOM-00081,n/a,tier3_ambiguous,tier3_ambiguous,SoHo
+192,Richard,Phillips,both,POS-00189,ECOM-00082,n/a,tier1_exact,tier1_exact,Madison Ave
+193,David,Fisher,ecom_only,,ECOM-00083,n/a,n/a,single_record,Madison Ave
+194,Shelby,Byrd,pos_only,POS-00190,,n/a,n/a,single_record,SoHo
+195,Raven,Gilbert,pos_only,POS-00191,,n/a,n/a,single_record,Flatiron
+196,Kevin,Kelley,pos_only,POS-00192,,n/a,n/a,single_record,SoHo
+197,Aaron,Mitchell,pos_only,POS-00193,,n/a,n/a,single_record,Madison Ave
+198,Russell,Carpenter,pos_only,POS-00194,,n/a,n/a,single_record,SoHo
+199,Diana,Marshall,ecom_only,,ECOM-00084,n/a,n/a,single_record,Madison Ave
+200,Scott,Lewis,pos_only,POS-00195,,n/a,n/a,single_record,Flatiron
+201,Thomas,Santana,pos_only,POS-00196,,n/a,n/a,single_record,Flatiron
+202,Laura,Jackson,both,POS-00197;POS-00198,ECOM-00085,tier3_ambiguous,tier2_fuzzy,tier3_ambiguous,Madison Ave
+203,Christopher,Robertson,ecom_only,,ECOM-00086,n/a,n/a,single_record,Flatiron
+204,Cynthia,Rogers,pos_only,POS-00199,,n/a,n/a,single_record,SoHo
+205,Loretta,Potter,ecom_only,,ECOM-00087,n/a,n/a,single_record,Flatiron
+206,Emily,Walker,pos_only,POS-00200;POS-00201,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+207,James,Johnson,pos_only,POS-00202,,n/a,n/a,single_record,Flatiron
+208,John,Alvarez,pos_only,POS-00203;POS-00204,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+209,Melissa,Jones,pos_only,POS-00205,,n/a,n/a,single_record,SoHo
+210,Robert,Soto,both,POS-00206;POS-00207,ECOM-00088,tier2_fuzzy,tier1_exact,tier2_fuzzy,Flatiron
+211,James,Horton,both,POS-00208,ECOM-00089,n/a,tier1_exact,tier1_exact,Flatiron
+212,Troy,Sanchez,ecom_only,,ECOM-00090,n/a,n/a,single_record,Flatiron
+213,Diana,Smith,both,POS-00209,ECOM-00091,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+214,Karen,Carrillo,ecom_only,,ECOM-00092,n/a,n/a,single_record,SoHo
+215,Daniel,Coleman,both,POS-00210,ECOM-00093,n/a,tier1_exact,tier1_exact,Bleecker
+216,Gregory,Rubio,pos_only,POS-00211,,n/a,n/a,single_record,Madison Ave
+217,April,Williams,ecom_only,,ECOM-00094,n/a,n/a,single_record,SoHo
+218,John,Charles,ecom_only,,ECOM-00095,n/a,n/a,single_record,Flatiron
+219,Stephen,Solis,pos_only,POS-00212,,n/a,n/a,single_record,Bleecker
+220,Elizabeth,Travis,pos_only,POS-00213,,n/a,n/a,single_record,Flatiron
+221,Caitlin,Dodson,ecom_only,,ECOM-00096,n/a,n/a,single_record,Flatiron
+222,Patricia,Salazar,pos_only,POS-00214,,n/a,n/a,single_record,SoHo
+223,Jennifer,Wagner,both,POS-00215;POS-00216,ECOM-00097,tier2_fuzzy,tier2_fuzzy,tier2_fuzzy,Madison Ave
+224,Maria,Kelley,pos_only,POS-00217,,n/a,n/a,single_record,Flatiron
+225,Phyllis,Manning,ecom_only,,ECOM-00098,n/a,n/a,single_record,SoHo
+226,Thomas,Green,pos_only,POS-00218,,n/a,n/a,single_record,Bleecker
+227,John,Walsh,both,POS-00219,ECOM-00099,n/a,tier1_exact,tier1_exact,Flatiron
+228,Katie,Boyd,pos_only,POS-00220,,n/a,n/a,single_record,Bleecker
+229,Courtney,Hill,ecom_only,,ECOM-00100,n/a,n/a,single_record,SoHo
+230,Chris,Mitchell,ecom_only,,ECOM-00101,n/a,n/a,single_record,SoHo
+231,Joseph,Flores,ecom_only,,ECOM-00102,n/a,n/a,single_record,SoHo
+232,Amber,Taylor,pos_only,POS-00221,,n/a,n/a,single_record,SoHo
+233,Jesse,Benson,ecom_only,,ECOM-00103,n/a,n/a,single_record,SoHo
+234,Jasmine,Brown,pos_only,POS-00222,,n/a,n/a,single_record,Madison Ave
+235,Rick,Daniels,both,POS-00223,ECOM-00104,n/a,tier1_exact,tier1_exact,Bleecker
+236,Robert,Clark,pos_only,POS-00224,,n/a,n/a,single_record,Madison Ave
+237,Robert,Stein,ecom_only,,ECOM-00105,n/a,n/a,single_record,Bleecker
+238,Brandy,Dominguez,pos_only,POS-00225,,n/a,n/a,single_record,Flatiron
+239,Melissa,Cannon,pos_only,POS-00226,,n/a,n/a,single_record,Flatiron
+240,Omar,Smith,ecom_only,,ECOM-00106,n/a,n/a,single_record,Bleecker
+241,Michael,Molina,pos_only,POS-00227,,n/a,n/a,single_record,Flatiron
+242,Melissa,Ashley,pos_only,POS-00228;POS-00229,,tier3_ambiguous,n/a,tier3_ambiguous,Flatiron
+243,Robert,Adkins,pos_only,POS-00230,,n/a,n/a,single_record,Flatiron
+244,Amy,Morrison,pos_only,POS-00231,,n/a,n/a,single_record,Madison Ave
+245,Jeffrey,Robinson,pos_only,POS-00232,,n/a,n/a,single_record,Madison Ave
+246,Ryan,Johnson,pos_only,POS-00233,,n/a,n/a,single_record,SoHo
+247,Matthew,Shelton,ecom_only,,ECOM-00107,n/a,n/a,single_record,Bleecker
+248,Richard,Martin,pos_only,POS-00234;POS-00235,,tier3_ambiguous,n/a,tier3_ambiguous,Flatiron
+249,Tanner,Anderson,pos_only,POS-00236,,n/a,n/a,single_record,Bleecker
+250,Cindy,Johnson,pos_only,POS-00237,,n/a,n/a,single_record,SoHo
+251,Phillip,Elliott,ecom_only,,ECOM-00108,n/a,n/a,single_record,SoHo
+252,Anthony,Day,ecom_only,,ECOM-00109,n/a,n/a,single_record,Flatiron
+253,Derek,Murray,ecom_only,,ECOM-00110,n/a,n/a,single_record,SoHo
+254,Brent,Gray,ecom_only,,ECOM-00111,n/a,n/a,single_record,Flatiron
+255,Jason,Murphy,pos_only,POS-00238,,n/a,n/a,single_record,SoHo
+256,Kathleen,Gray,both,POS-00239,ECOM-00112,n/a,tier3_ambiguous,tier3_ambiguous,SoHo
+257,Karen,Decker,ecom_only,,ECOM-00113,n/a,n/a,single_record,Flatiron
+258,Johnny,Miller,pos_only,POS-00240,,n/a,n/a,single_record,SoHo
+259,Andrew,Ryan,pos_only,POS-00241,,n/a,n/a,single_record,SoHo
+260,Zoe,Bell,pos_only,POS-00242,,n/a,n/a,single_record,SoHo
+261,Debra,Harrington,both,POS-00243,ECOM-00114,n/a,tier1_exact,tier1_exact,Bleecker
+262,Denise,Webster,pos_only,POS-00244,,n/a,n/a,single_record,Madison Ave
+263,Stefanie,Gonzalez,pos_only,POS-00245,,n/a,n/a,single_record,Bleecker
+264,Andrew,Hernandez,pos_only,POS-00246,,n/a,n/a,single_record,SoHo
+265,David,Caldwell,ecom_only,,ECOM-00115,n/a,n/a,single_record,Madison Ave
+266,Anne,Robinson,ecom_only,,ECOM-00116,n/a,n/a,single_record,Bleecker
+267,Holly,Wang,both,POS-00247,ECOM-00117,n/a,tier1_exact,tier1_exact,Bleecker
+268,Gary,Lawson,both,POS-00248,ECOM-00118,n/a,tier1_exact,tier1_exact,Bleecker
+269,Julie,Wilson,pos_only,POS-00249,,n/a,n/a,single_record,Flatiron
+270,Lori,Oconnell,pos_only,POS-00250,,n/a,n/a,single_record,SoHo
+271,Daniel,Johnson,both,POS-00251,ECOM-00119,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+272,Larry,Byrd,pos_only,POS-00252,,n/a,n/a,single_record,Madison Ave
+273,Susan,Sanders,both,POS-00253,ECOM-00120,n/a,tier2_fuzzy,tier2_fuzzy,Bleecker
+274,Jennifer,Jones,pos_only,POS-00254,,n/a,n/a,single_record,SoHo
+275,Hannah,Burton,pos_only,POS-00255;POS-00256,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+276,Curtis,Barton,pos_only,POS-00257,,n/a,n/a,single_record,SoHo
+277,Melissa,Burke,pos_only,POS-00258;POS-00259,,tier1_exact,n/a,tier1_exact,Bleecker
+278,David,Riggs,both,POS-00260,ECOM-00121,n/a,tier3_ambiguous,tier3_ambiguous,SoHo
+279,Kimberly,Reed,both,POS-00261,ECOM-00122,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+280,Ross,Wood,pos_only,POS-00262;POS-00263,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+281,William,Peterson,pos_only,POS-00264,,n/a,n/a,single_record,SoHo
+282,Melissa,Short,both,POS-00265,ECOM-00123,n/a,tier1_exact,tier1_exact,Madison Ave
+283,Daniel,Yu,both,POS-00266,ECOM-00124,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+284,Cynthia,Poole,both,POS-00267,ECOM-00125,n/a,tier3_ambiguous,tier3_ambiguous,SoHo
+285,Jasmine,Graham,both,POS-00268,ECOM-00126,n/a,tier1_exact,tier1_exact,Bleecker
+286,Jessica,Sheppard,both,POS-00269;POS-00270,ECOM-00127,tier1_exact,tier1_exact,tier1_exact,Flatiron
+287,Joseph,Morton,pos_only,POS-00271,,n/a,n/a,single_record,Madison Ave
+288,Amanda,Webb,both,POS-00272,ECOM-00128,n/a,tier3_ambiguous,tier3_ambiguous,Madison Ave
+289,Ryan,Simon,pos_only,POS-00273,,n/a,n/a,single_record,SoHo
+290,Joseph,Christian,pos_only,POS-00274,,n/a,n/a,single_record,Flatiron
+291,Mariah,Miller,pos_only,POS-00275,,n/a,n/a,single_record,Flatiron
+292,Nicole,Sanchez,pos_only,POS-00276,,n/a,n/a,single_record,Flatiron
+293,Steven,Bishop,ecom_only,,ECOM-00129,n/a,n/a,single_record,SoHo
+294,Nicholas,Johnson,pos_only,POS-00277,,n/a,n/a,single_record,Bleecker
+295,Melissa,White,pos_only,POS-00278,,n/a,n/a,single_record,Madison Ave
+296,Jason,Salinas,ecom_only,,ECOM-00130,n/a,n/a,single_record,SoHo
+297,Matthew,Beard,both,POS-00279,ECOM-00131,n/a,tier1_exact,tier1_exact,Flatiron
+298,Jacqueline,Hill,pos_only,POS-00280,,n/a,n/a,single_record,Madison Ave
+299,Alejandro,Vaughan,pos_only,POS-00281,,n/a,n/a,single_record,Madison Ave
+300,Christopher,Cortez,pos_only,POS-00282,,n/a,n/a,single_record,Flatiron
+301,Tracy,Chang,pos_only,POS-00283,,n/a,n/a,single_record,Flatiron
+302,Hannah,Brewer,both,POS-00284,ECOM-00132,n/a,tier1_exact,tier1_exact,Madison Ave
+303,Travis,Mcguire,both,POS-00285,ECOM-00133,n/a,tier1_exact,tier1_exact,Madison Ave
+304,Christopher,Walker,pos_only,POS-00286,,n/a,n/a,single_record,Bleecker
+305,Heather,Torres,pos_only,POS-00287,,n/a,n/a,single_record,Bleecker
+306,Bonnie,Kennedy,pos_only,POS-00288,,n/a,n/a,single_record,SoHo
+307,Alyssa,Coleman,both,POS-00289,ECOM-00134,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+308,Julie,Rivera,pos_only,POS-00290;POS-00291,,tier3_ambiguous,n/a,tier3_ambiguous,Bleecker
+309,Jacqueline,Nelson,pos_only,POS-00292,,n/a,n/a,single_record,Madison Ave
+310,John,Martinez,both,POS-00293,ECOM-00135,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+311,James,Wilson,pos_only,POS-00294,,n/a,n/a,single_record,Bleecker
+312,Amanda,Gill,pos_only,POS-00295,,n/a,n/a,single_record,Flatiron
+313,Jacob,Robinson,both,POS-00296;POS-00297,ECOM-00136,tier2_fuzzy,tier1_exact,tier2_fuzzy,Flatiron
+314,Todd,Hardy,ecom_only,,ECOM-00137,n/a,n/a,single_record,Flatiron
+315,Tiffany,Warren,both,POS-00298,ECOM-00138,n/a,tier1_exact,tier1_exact,SoHo
+316,Justin,Garcia,both,POS-00299;POS-00300,ECOM-00139,tier2_fuzzy,tier1_exact,tier2_fuzzy,Flatiron
+317,James,Perez,pos_only,POS-00301,,n/a,n/a,single_record,SoHo
+318,Harry,Smith,pos_only,POS-00302,,n/a,n/a,single_record,Madison Ave
+319,Amanda,Hill,pos_only,POS-00303,,n/a,n/a,single_record,Madison Ave
+320,Terri,Tran,pos_only,POS-00304,,n/a,n/a,single_record,Bleecker
+321,Heidi,Martinez,pos_only,POS-00305,,n/a,n/a,single_record,Bleecker
+322,Miranda,Henry,ecom_only,,ECOM-00140,n/a,n/a,single_record,SoHo
+323,Monique,Andrews,pos_only,POS-00306,,n/a,n/a,single_record,Madison Ave
+324,Taylor,Alexander,ecom_only,,ECOM-00141,n/a,n/a,single_record,Bleecker
+325,Jack,Williams,pos_only,POS-00307,,n/a,n/a,single_record,Bleecker
+326,Shelley,Woods,pos_only,POS-00308;POS-00309,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+327,Lynn,Morales,ecom_only,,ECOM-00142,n/a,n/a,single_record,Madison Ave
+328,Charles,Soto,ecom_only,,ECOM-00143,n/a,n/a,single_record,Bleecker
+329,Brian,Hernandez,ecom_only,,ECOM-00144,n/a,n/a,single_record,Madison Ave
+330,Anna,Torres,both,POS-00310,ECOM-00145,n/a,tier1_exact,tier1_exact,Flatiron
+331,Victoria,Wilson,ecom_only,,ECOM-00146,n/a,n/a,single_record,Flatiron
+332,Kathy,Obrien,ecom_only,,ECOM-00147,n/a,n/a,single_record,Flatiron
+333,Krystal,Perez,pos_only,POS-00311,,n/a,n/a,single_record,SoHo
+334,Alexandra,Hayes,pos_only,POS-00312,,n/a,n/a,single_record,Madison Ave
+335,Scott,Dalton,both,POS-00313,ECOM-00148,n/a,tier3_ambiguous,tier3_ambiguous,Bleecker
+336,Veronica,Torres,pos_only,POS-00314,,n/a,n/a,single_record,SoHo
+337,Christine,Lynch,pos_only,POS-00315,,n/a,n/a,single_record,SoHo
+338,Jody,Meza,pos_only,POS-00316,,n/a,n/a,single_record,Flatiron
+339,Jared,Clark,ecom_only,,ECOM-00149,n/a,n/a,single_record,Madison Ave
+340,Donna,Moore,pos_only,POS-00317,,n/a,n/a,single_record,Bleecker
+341,Glenn,Jones,pos_only,POS-00318,,n/a,n/a,single_record,SoHo
+342,Aaron,Hayes,pos_only,POS-00319,,n/a,n/a,single_record,Bleecker
+343,Brittney,Carter,both,POS-00320,ECOM-00150,n/a,tier1_exact,tier1_exact,Flatiron
+344,Jesse,Mann,ecom_only,,ECOM-00151,n/a,n/a,single_record,Madison Ave
+345,Jacqueline,Gibson,ecom_only,,ECOM-00152,n/a,n/a,single_record,Bleecker
+346,Grace,Bradshaw,ecom_only,,ECOM-00153,n/a,n/a,single_record,Bleecker
+347,Kristin,Weber,pos_only,POS-00321,,n/a,n/a,single_record,SoHo
+348,Donna,Peck,pos_only,POS-00322,,n/a,n/a,single_record,Bleecker
+349,Ronald,Stephens,pos_only,POS-00323,,n/a,n/a,single_record,Madison Ave
+350,Deborah,Kerr,pos_only,POS-00324;POS-00325,,tier2_fuzzy,n/a,tier2_fuzzy,Madison Ave
+351,Margaret,Jones,pos_only,POS-00326,,n/a,n/a,single_record,Bleecker
+352,Gabriel,Parker,pos_only,POS-00327,,n/a,n/a,single_record,SoHo
+353,Kaitlyn,Carroll,pos_only,POS-00328,,n/a,n/a,single_record,SoHo
+354,Keith,Martinez,both,POS-00329,ECOM-00154,n/a,tier1_exact,tier1_exact,Flatiron
+355,Haley,Lyons,ecom_only,,ECOM-00155,n/a,n/a,single_record,Madison Ave
+356,Sherri,Mason,pos_only,POS-00330,,n/a,n/a,single_record,Flatiron
+357,Troy,Miller,both,POS-00331,ECOM-00156,n/a,tier1_exact,tier1_exact,SoHo
+358,Bill,Reynolds,pos_only,POS-00332;POS-00333,,tier3_ambiguous,n/a,tier3_ambiguous,Flatiron
+359,Marcus,Wright,both,POS-00334;POS-00335,ECOM-00157,tier3_ambiguous,tier2_fuzzy,tier3_ambiguous,SoHo
+360,Christopher,Hayden,pos_only,POS-00336,,n/a,n/a,single_record,Flatiron
+361,Mary,Johnston,both,POS-00337,ECOM-00158,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+362,Stephanie,Key,ecom_only,,ECOM-00159,n/a,n/a,single_record,Madison Ave
+363,Emily,Adams,pos_only,POS-00338;POS-00339,,tier2_fuzzy,n/a,tier2_fuzzy,Madison Ave
+364,Billy,Avila,ecom_only,,ECOM-00160,n/a,n/a,single_record,Flatiron
+365,Thomas,Pearson,ecom_only,,ECOM-00161,n/a,n/a,single_record,SoHo
+366,Sabrina,White,pos_only,POS-00340,,n/a,n/a,single_record,SoHo
+367,Brenda,Walters,pos_only,POS-00341,,n/a,n/a,single_record,Madison Ave
+368,Travis,Davis,both,POS-00342,ECOM-00162,n/a,tier1_exact,tier1_exact,Madison Ave
+369,Michael,Cook,pos_only,POS-00343,,n/a,n/a,single_record,Bleecker
+370,Elizabeth,Hodge,pos_only,POS-00344,,n/a,n/a,single_record,Madison Ave
+371,Mark,Steele,both,POS-00345,ECOM-00163,n/a,tier1_exact,tier1_exact,SoHo
+372,Keith,Landry,both,POS-00346,ECOM-00164,n/a,tier1_exact,tier1_exact,Madison Ave
+373,Lisa,Pierce,both,POS-00347,ECOM-00165,n/a,tier3_ambiguous,tier3_ambiguous,Bleecker
+374,Shawn,Edwards,both,POS-00348,ECOM-00166,n/a,tier1_exact,tier1_exact,Flatiron
+375,Marcus,Cordova,both,POS-00349,ECOM-00167,n/a,tier1_exact,tier1_exact,Flatiron
+376,Richard,Robertson,pos_only,POS-00350,,n/a,n/a,single_record,SoHo
+377,Vanessa,Sandoval,pos_only,POS-00351,,n/a,n/a,single_record,Bleecker
+378,Amy,Gutierrez,pos_only,POS-00352,,n/a,n/a,single_record,Flatiron
+379,Jacob,Cox,pos_only,POS-00353,,n/a,n/a,single_record,Flatiron
+380,Katherine,Garrett,pos_only,POS-00354,,n/a,n/a,single_record,Madison Ave
+381,Kathleen,Harris,ecom_only,,ECOM-00168,n/a,n/a,single_record,Flatiron
+382,Andrea,Pennington,pos_only,POS-00355;POS-00356,,tier3_ambiguous,n/a,tier3_ambiguous,SoHo
+383,Samuel,Wolfe,pos_only,POS-00357,,n/a,n/a,single_record,Flatiron
+384,David,Dudley,pos_only,POS-00358,,n/a,n/a,single_record,SoHo
+385,Chelsea,Allen,both,POS-00359,ECOM-00169,n/a,tier1_exact,tier1_exact,SoHo
+386,Eric,Pierce,ecom_only,,ECOM-00170,n/a,n/a,single_record,Madison Ave
+387,Andrea,Davis,both,POS-00360,ECOM-00171,n/a,tier1_exact,tier1_exact,Bleecker
+388,Victoria,Durham,both,POS-00361,ECOM-00172,n/a,tier1_exact,tier1_exact,SoHo
+389,Steven,Wilson,ecom_only,,ECOM-00173,n/a,n/a,single_record,Flatiron
+390,Marilyn,Jimenez,pos_only,POS-00362,,n/a,n/a,single_record,Flatiron
+391,Jennifer,Hicks,ecom_only,,ECOM-00174,n/a,n/a,single_record,SoHo
+392,Joshua,Davenport,pos_only,POS-00363,,n/a,n/a,single_record,Flatiron
+393,Tina,Sanchez,ecom_only,,ECOM-00175,n/a,n/a,single_record,Madison Ave
+394,Andrea,Reyes,ecom_only,,ECOM-00176,n/a,n/a,single_record,Flatiron
+395,Sandra,Romero,ecom_only,,ECOM-00177,n/a,n/a,single_record,Madison Ave
+396,Natasha,Shields,pos_only,POS-00364,,n/a,n/a,single_record,SoHo
+397,Joshua,Tyler,pos_only,POS-00365,,n/a,n/a,single_record,SoHo
+398,Robert,Villa,ecom_only,,ECOM-00178,n/a,n/a,single_record,SoHo
+399,William,Hoover,both,POS-00366,ECOM-00179,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+400,Justin,Evans,pos_only,POS-00367,,n/a,n/a,single_record,Flatiron
+401,Brenda,Duarte,both,POS-00368,ECOM-00180,n/a,tier1_exact,tier1_exact,Madison Ave
+402,Tracy,Hernandez,both,POS-00369,ECOM-00181,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+403,Amanda,Reed,ecom_only,,ECOM-00182,n/a,n/a,single_record,Flatiron
+404,Andrea,Daniels,pos_only,POS-00370,,n/a,n/a,single_record,Madison Ave
+405,Stanley,Morris,both,POS-00371,ECOM-00183,n/a,tier1_exact,tier1_exact,Bleecker
+406,Jacob,Terry,pos_only,POS-00372,,n/a,n/a,single_record,SoHo
+407,Ashley,Hall,pos_only,POS-00373,,n/a,n/a,single_record,Flatiron
+408,Kimberly,Williams,pos_only,POS-00374,,n/a,n/a,single_record,Flatiron
+409,Julie,Thornton,pos_only,POS-00375,,n/a,n/a,single_record,Madison Ave
+410,Lisa,Hughes,pos_only,POS-00376,,n/a,n/a,single_record,Bleecker
+411,Elizabeth,Hoover,both,POS-00377;POS-00378,ECOM-00184,tier1_exact,tier1_exact,tier1_exact,SoHo
+412,Tina,Simpson,pos_only,POS-00379,,n/a,n/a,single_record,Bleecker
+413,Benjamin,Shaw,ecom_only,,ECOM-00185,n/a,n/a,single_record,SoHo
+414,Brittany,Kane,ecom_only,,ECOM-00186,n/a,n/a,single_record,Flatiron
+415,Morgan,Alexander,pos_only,POS-00380,,n/a,n/a,single_record,Flatiron
+416,Alicia,Bryant,ecom_only,,ECOM-00187,n/a,n/a,single_record,Madison Ave
+417,Jennifer,Ortiz,ecom_only,,ECOM-00188,n/a,n/a,single_record,Madison Ave
+418,Diana,Moore,pos_only,POS-00381,,n/a,n/a,single_record,Bleecker
+419,Terrance,Costa,both,POS-00382,ECOM-00189,n/a,tier1_exact,tier1_exact,Bleecker
+420,Matthew,Schwartz,pos_only,POS-00383;POS-00384,,tier1_exact,n/a,tier1_exact,SoHo
+421,Debra,Christian,both,POS-00385,ECOM-00190,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+422,Melissa,Villarreal,pos_only,POS-00386,,n/a,n/a,single_record,Flatiron
+423,Norman,Stewart,pos_only,POS-00387,,n/a,n/a,single_record,Madison Ave
+424,Jennifer,Malone,both,POS-00388,ECOM-00191,n/a,tier1_exact,tier1_exact,Bleecker
+425,Monique,Johnson,pos_only,POS-00389,,n/a,n/a,single_record,Madison Ave
+426,Casey,Welch,both,POS-00390,ECOM-00192,n/a,tier1_exact,tier1_exact,Flatiron
+427,Samantha,Bright,pos_only,POS-00391;POS-00392,,tier2_fuzzy,n/a,tier2_fuzzy,Madison Ave
+428,Julie,Hamilton,both,POS-00393,ECOM-00193,n/a,tier3_ambiguous,tier3_ambiguous,Bleecker
+429,Corey,Schultz,both,POS-00394,ECOM-00194,n/a,tier1_exact,tier1_exact,Flatiron
+430,Monique,Wallace,ecom_only,,ECOM-00195,n/a,n/a,single_record,SoHo
+431,Heather,Berger,pos_only,POS-00395,,n/a,n/a,single_record,SoHo
+432,Brandon,Flynn,both,POS-00396;POS-00397,ECOM-00196,tier2_fuzzy,tier3_ambiguous,tier3_ambiguous,Flatiron
+433,Kelly,Brooks,pos_only,POS-00398,,n/a,n/a,single_record,Flatiron
+434,Dustin,Schmidt,pos_only,POS-00399,,n/a,n/a,single_record,Flatiron
+435,Ashlee,Sparks,pos_only,POS-00400,,n/a,n/a,single_record,Bleecker
+436,George,Miller,pos_only,POS-00401,,n/a,n/a,single_record,Flatiron
+437,Monica,Harvey,pos_only,POS-00402,,n/a,n/a,single_record,Bleecker
+438,John,Durham,both,POS-00403,ECOM-00197,n/a,tier1_exact,tier1_exact,Flatiron
+439,Douglas,Murray,pos_only,POS-00404,,n/a,n/a,single_record,Bleecker
+440,Jonathan,Scott,ecom_only,,ECOM-00198,n/a,n/a,single_record,Bleecker
+441,Albert,Ballard,pos_only,POS-00405;POS-00406,,tier2_fuzzy,n/a,tier2_fuzzy,Madison Ave
+442,Rachel,Byrd,both,POS-00407;POS-00408,ECOM-00199,tier3_ambiguous,tier1_exact,tier3_ambiguous,SoHo
+443,Eric,Alexander,pos_only,POS-00409,,n/a,n/a,single_record,Flatiron
+444,Michael,Matthews,ecom_only,,ECOM-00200,n/a,n/a,single_record,SoHo
+445,Danielle,Coleman,pos_only,POS-00410,,n/a,n/a,single_record,SoHo
+446,John,Bruce,pos_only,POS-00411,,n/a,n/a,single_record,Madison Ave
+447,James,Cruz,pos_only,POS-00412;POS-00413,,tier3_ambiguous,n/a,tier3_ambiguous,SoHo
+448,Timothy,Young,ecom_only,,ECOM-00201,n/a,n/a,single_record,SoHo
+449,Ashley,Andrews,ecom_only,,ECOM-00202,n/a,n/a,single_record,Flatiron
+450,Victoria,Phillips,pos_only,POS-00414,,n/a,n/a,single_record,Bleecker
+451,Tiffany,Barrett,both,POS-00415,ECOM-00203,n/a,tier1_exact,tier1_exact,Flatiron
+452,Joshua,Knight,pos_only,POS-00416,,n/a,n/a,single_record,Flatiron
+453,Gina,Garner,pos_only,POS-00417,,n/a,n/a,single_record,SoHo
+454,Brandon,Obrien,ecom_only,,ECOM-00204,n/a,n/a,single_record,SoHo
+455,Tyler,Strong,pos_only,POS-00418,,n/a,n/a,single_record,Flatiron
+456,Justin,Lindsey,ecom_only,,ECOM-00205,n/a,n/a,single_record,Flatiron
+457,Catherine,Gomez,both,POS-00419,ECOM-00206,n/a,tier1_exact,tier1_exact,SoHo
+458,Dana,Oliver,pos_only,POS-00420;POS-00421,,tier2_fuzzy,n/a,tier2_fuzzy,Bleecker
+459,Erica,Le,ecom_only,,ECOM-00207,n/a,n/a,single_record,Bleecker
+460,Donna,Massey,both,POS-00422,ECOM-00208,n/a,tier1_exact,tier1_exact,Flatiron
+461,Courtney,Berger,pos_only,POS-00423,,n/a,n/a,single_record,Bleecker
+462,Debbie,Parker,ecom_only,,ECOM-00209,n/a,n/a,single_record,Flatiron
+463,Scott,Riley,ecom_only,,ECOM-00210,n/a,n/a,single_record,Madison Ave
+464,Jessica,Davis,pos_only,POS-00424,,n/a,n/a,single_record,SoHo
+465,Kenneth,Burgess,both,POS-00425,ECOM-00211,n/a,tier1_exact,tier1_exact,Flatiron
+466,Gregory,Anderson,pos_only,POS-00426;POS-00427,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+467,Amber,Mata,pos_only,POS-00428;POS-00429,,tier1_exact,n/a,tier1_exact,Flatiron
+468,Alyssa,Mcintyre,pos_only,POS-00430,,n/a,n/a,single_record,Bleecker
+469,Maria,Scott,ecom_only,,ECOM-00212,n/a,n/a,single_record,Flatiron
+470,Makayla,Olson,both,POS-00431,ECOM-00213,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+471,Lindsay,Francis,both,POS-00432,ECOM-00214,n/a,tier1_exact,tier1_exact,Bleecker
+472,Matthew,Wilson,both,POS-00433,ECOM-00215,n/a,tier1_exact,tier1_exact,SoHo
+473,Sydney,Taylor,pos_only,POS-00434,,n/a,n/a,single_record,Madison Ave
+474,Tammy,Dalton,both,POS-00435,ECOM-00216,n/a,tier2_fuzzy,tier2_fuzzy,Flatiron
+475,Jennifer,Whitney,pos_only,POS-00436,,n/a,n/a,single_record,Madison Ave
+476,Tammy,Ballard,both,POS-00437,ECOM-00217,n/a,tier1_exact,tier1_exact,Flatiron
+477,Michael,Gibbs,pos_only,POS-00438,,n/a,n/a,single_record,Madison Ave
+478,Alexander,Herrera,pos_only,POS-00439,,n/a,n/a,single_record,Bleecker
+479,Shawn,Chambers,pos_only,POS-00440,,n/a,n/a,single_record,Flatiron
+480,Emily,Richards,pos_only,POS-00441,,n/a,n/a,single_record,Bleecker
+481,Lynn,Bentley,pos_only,POS-00442,,n/a,n/a,single_record,Madison Ave
+482,Daniel,Hall,pos_only,POS-00443,,n/a,n/a,single_record,Flatiron
+483,Angel,Henson,pos_only,POS-00444,,n/a,n/a,single_record,SoHo
+484,Anna,Herman,both,POS-00445,ECOM-00218,n/a,tier2_fuzzy,tier2_fuzzy,SoHo
+485,Jeffrey,Brown,pos_only,POS-00446;POS-00447,,tier2_fuzzy,n/a,tier2_fuzzy,Flatiron
+486,Madison,Blankenship,both,POS-00448;POS-00449,ECOM-00219,tier1_exact,tier1_exact,tier1_exact,Madison Ave
+487,Kevin,Ortiz,ecom_only,,ECOM-00220,n/a,n/a,single_record,SoHo
+488,Donald,Shah,ecom_only,,ECOM-00221,n/a,n/a,single_record,Flatiron
+489,Kevin,Vasquez,both,POS-00450,ECOM-00222,n/a,tier1_exact,tier1_exact,SoHo
+490,Colton,Clay,pos_only,POS-00451,,n/a,n/a,single_record,Flatiron
+491,Derek,Chavez,both,POS-00452,ECOM-00223,n/a,tier2_fuzzy,tier2_fuzzy,Madison Ave
+492,Ellen,Paul,pos_only,POS-00453,,n/a,n/a,single_record,Madison Ave
+493,Sonya,Barnes,pos_only,POS-00454,,n/a,n/a,single_record,Bleecker
+494,Julia,Moore,pos_only,POS-00455,,n/a,n/a,single_record,SoHo
+495,Robert,Garcia,pos_only,POS-00456,,n/a,n/a,single_record,Bleecker
+496,Tracy,Russell,both,POS-00457,ECOM-00224,n/a,tier1_exact,tier1_exact,Madison Ave
+497,Stephanie,Johnson,pos_only,POS-00458,,n/a,n/a,single_record,Flatiron
+498,Mitchell,Ramos,pos_only,POS-00459,,n/a,n/a,single_record,Madison Ave
+499,Stephanie,Foley,both,POS-00460,ECOM-00225,n/a,tier1_exact,tier1_exact,Madison Ave
