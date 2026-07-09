@@ -4,6 +4,7 @@ name/phone/email, not just their canonical one -- a customer merged
 from a messy POS record and a separate ecom record should be findable
 by either.
 """
+import json
 import os
 
 import pandas as pd
@@ -45,12 +46,22 @@ def load_all():
     customers = customers.merge(search_index, on="customer_id", how="left")
     customers["search_blob"] = customers["search_blob"].fillna("")
 
+    outreach_queue = pd.read_csv(os.path.join(CLEAN_DIR, "outreach_queue.csv"), keep_default_na=False)
+    reason_clustering = pd.read_csv(os.path.join(CLEAN_DIR, "return_reason_clustering.csv"), keep_default_na=False)
+    review_queue = pd.read_csv(os.path.join(CLEAN_DIR, "review_queue.csv"), keep_default_na=False)
+    with open(os.path.join(CLEAN_DIR, "analytics_summary.json")) as f:
+        analytics_summary = json.load(f)
+
     return {
         "customers": customers,
         "return_windows": return_windows,
         "true_inventory": true_inventory,
         "pending_detail": pending_detail,
         "catalog": dfs["product_catalog"],
+        "outreach_queue": outreach_queue,
+        "reason_clustering": reason_clustering,
+        "review_queue": review_queue,
+        "analytics_summary": analytics_summary,
     }
 
 

@@ -40,7 +40,7 @@ def main():
     inventory_df = generate_inventory(catalog_df, hero_info)
 
     print("Generating call log...")
-    call_log_df = generate_call_log()
+    call_log_df = generate_call_log(customer_index, catalog_df, hero_info)
 
     print("Generating outreach log...")
     all_refs = pos_df["pos_record_id"].tolist() + ecom_df["ecom_id"].tolist()

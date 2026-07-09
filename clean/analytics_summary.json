@@ -1,0 +1,52 @@
+{
+  "excluded_no_consent": 10,
+  "time_lost": {
+    "total_calls": 363,
+    "total_hours": 48.3,
+    "hours_per_week": 1.9,
+    "share_of_all_calls": 0.605
+  },
+  "time_lost_by_store": [
+    {
+      "store_location": "Bleecker",
+      "total_minutes": 582.0,
+      "call_count": 73,
+      "minutes_per_week": 22.6
+    },
+    {
+      "store_location": "Flatiron",
+      "total_minutes": 922.2,
+      "call_count": 117,
+      "minutes_per_week": 35.9
+    },
+    {
+      "store_location": "Madison Ave",
+      "total_minutes": 877.4,
+      "call_count": 108,
+      "minutes_per_week": 34.1
+    },
+    {
+      "store_location": "SoHo",
+      "total_minutes": 517.8,
+      "call_count": 65,
+      "minutes_per_week": 20.1
+    }
+  ],
+  "outreach_comparison": {
+    "old_time_blast": {
+      "total_sent": 1200,
+      "open_rate": 0.337,
+      "reply_rate": 0.025,
+      "purchase_conversion_rate": 0.028
+    },
+    "new_reason_driven": {
+      "total_queued": 55,
+      "by_trigger_type": {
+        "Return window": 41,
+        "Called asking": 7,
+        "VIP customer": 7
+      },
+      "note": "No conversion data yet -- this queue hasn't been sent. Shown here is volume and targeting logic, not a real performance comparison. Conversion should be tracked once it goes live."
+    }
+  }
+}

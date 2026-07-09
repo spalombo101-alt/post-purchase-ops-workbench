@@ -41,6 +41,11 @@ def main():
     customers_enriched["relationship_tier"] = customers_enriched["relationship_tier"].fillna("new")
     for col in ["lifetime_spend", "total_orders", "total_returns", "return_rate"]:
         customers_enriched[col] = customers_enriched[col].fillna(0)
+    # Sentinel, not 0: 0 would misleadingly read as "bought something
+    # today." These customers have no order history at all (vip_flag is
+    # always False for them, so the sentinel can never trigger a VIP
+    # dormant outreach by accident).
+    customers_enriched["days_since_last_purchase"] = customers_enriched["days_since_last_purchase"].fillna(99999).astype(int)
     customers_enriched["vip_flag"] = customers_enriched["vip_flag"].map(lambda x: x is True)
     customers_enriched["fraud_watch_flag"] = customers_enriched["fraud_watch_flag"].map(lambda x: x is True)
 

@@ -57,7 +57,11 @@ def variant_for(name: str, rng) -> str:
     group = _NAME_TO_GROUP.get(name.lower())
     if not group:
         return name
-    choices = [n for n in group if n.lower() != name.lower()]
+    # sorted(): set iteration order depends on the process's hash seed,
+    # which is randomized per run -- without this, rng.choice() picks a
+    # deterministic INDEX into a non-deterministically-ordered list, which
+    # silently breaks the "fixed seed -> reproducible dataset" guarantee.
+    choices = sorted(n for n in group if n.lower() != name.lower())
     return rng.choice(choices) if choices else name
 
 

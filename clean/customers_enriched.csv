@@ -1,530 +1,530 @@
 customer_id,canonical_name,canonical_email,canonical_phone,record_count,resolution_tier,linked_source_records,lifetime_spend,total_orders,total_returns,return_rate,first_purchase_date,last_purchase_date,days_since_last_purchase,vip_flag,fraud_watch_flag,relationship_tier
-CUST-00001,Joshua Walker,ndavis@hotmail.com,,3,tier2,POS-00002:tier2:conf=1.00:via=POS-00003;POS-00003:tier2:conf=1.00:via=POS-00002;ECOM-00001:tier2:conf=1.00:via=POS-00002,1003.53,6.0,0.0,0.0,2025-11-26,2026-04-15,82.0,False,False,regular
-CUST-00002,Anthony Gonzalez,lauren10@gmail.com,,2,tier1,POS-00009:tier1:conf=1.00:via=ECOM-00002;ECOM-00002:tier1:conf=1.00:via=POS-00009,1940.88,9.0,2.0,0.222,2024-08-09,2026-05-09,58.0,False,False,regular
-CUST-00003,Lisa Smith,hayesjeffrey@hotmail.com,,1,single_record,ECOM-00003:anchor,860.0,4.0,0.0,0.0,2026-04-08,2026-06-24,12.0,False,False,regular
-CUST-00004,Linda Wolfe,acostaregina@hotmail.com,,1,single_record,ECOM-00004:anchor,530.41,3.0,0.0,0.0,2025-06-11,2025-08-07,333.0,False,False,regular
-CUST-00005,Matthew Moore,stephen00@yahoo.com,,1,single_record,ECOM-00005:anchor,1877.24,10.0,1.0,0.1,2024-05-30,2026-06-20,16.0,True,False,VIP
-CUST-00006,Melanie Munoz,fjones@yahoo.com,,1,single_record,ECOM-00006:anchor,1066.26,4.0,0.0,0.0,2025-08-24,2026-06-19,17.0,False,False,regular
-CUST-00007,Amanda Dudley,oscar98@yahoo.com,(859) 536-3093,2,tier1,POS-00017:tier1:conf=1.00:via=ECOM-00007;ECOM-00007:tier1:conf=1.00:via=POS-00017,1840.0,7.0,2.0,0.286,2025-03-20,2026-01-30,157.0,False,False,regular
-CUST-00008,Janet Williams,maria66@hotmail.com,,1,single_record,ECOM-00008:anchor,416.0,2.0,0.0,0.0,2024-02-05,2025-03-26,467.0,False,False,regular
-CUST-00009,Jeremy Roberts,edwardslarry@yahoo.com,(385) 419-6598,2,tier1,POS-00021:tier1:conf=1.00:via=ECOM-00009;ECOM-00009:tier1:conf=1.00:via=POS-00021,2613.39,12.0,3.0,0.25,2025-03-03,2026-06-20,16.0,True,False,VIP
-CUST-00010,Christopher Hall,,(341) 358-2264,2,tier2,POS-00022:tier2:conf=1.00:via=ECOM-00010;ECOM-00010:tier2:conf=1.00:via=POS-00022,1256.0,6.0,1.0,0.167,2025-07-24,2026-04-30,67.0,False,False,regular
-CUST-00011,Craig Ramirez,daviscolin@hotmail.com,,2,tier1,POS-00023:tier1:conf=1.00:via=ECOM-00011;ECOM-00011:tier1:conf=1.00:via=POS-00023,1986.05,10.0,1.0,0.1,2024-11-26,2026-06-16,20.0,True,False,VIP
-CUST-00012,Mitchell Clark,elizabeth65@hotmail.com,,1,single_record,ECOM-00012:anchor,1599.84,7.0,3.0,0.429,2024-09-09,2026-04-19,78.0,False,False,regular
-CUST-00013,Leslie Adams,davisalyssa@yahoo.com,(584) 429-1461,2,tier2,POS-00037:tier2:conf=1.00:via=ECOM-00013;ECOM-00013:tier2:conf=1.00:via=POS-00037,1588.7,7.0,2.0,0.286,2025-04-21,2026-06-22,14.0,False,False,regular
-CUST-00014,Nancy Edwards,moorekaren@gmail.com,,1,single_record,ECOM-00014:anchor,1233.53,7.0,0.0,0.0,2026-03-05,2026-07-05,1.0,False,False,regular
-CUST-00015,Anna Baker,reeddaniel@hotmail.com,,3,tier2,POS-00043:tier1:conf=1.00:via=ECOM-00015;POS-00044:tier2:conf=1.00:via=POS-00043;ECOM-00015:tier1:conf=1.00:via=POS-00043,1118.88,5.0,0.0,0.0,2025-04-16,2026-03-09,119.0,False,False,regular
-CUST-00016,Chris Williams,ythompson@hotmail.com,,1,single_record,ECOM-00016:anchor,1128.0,5.0,0.0,0.0,2025-06-21,2026-01-06,181.0,False,False,regular
-CUST-00017,Bryan James,tberry@hotmail.com,(245) 850-7338,3,tier2,POS-00052:tier1:conf=1.00:via=ECOM-00017;POS-00053:tier2:conf=1.00:via=POS-00052;ECOM-00017:tier1:conf=1.00:via=POS-00052,555.62,3.0,1.0,0.333,2026-02-11,2026-05-23,44.0,False,False,regular
-CUST-00018,Joseph Davidson,zwarren@yahoo.com,,1,single_record,ECOM-00018:anchor,1160.0,4.0,1.0,0.25,2025-12-12,2026-03-06,122.0,False,False,regular
-CUST-00019,Daniel Graham,jeffrey21@hotmail.com,,2,tier1,POS-00058:tier1:conf=1.00:via=ECOM-00019;ECOM-00019:tier1:conf=1.00:via=POS-00058,1182.91,6.0,1.0,0.167,2024-07-15,2026-06-08,28.0,False,False,regular
-CUST-00020,Vincent White,jessica23@gmail.com,(757) 684-5150,2,tier1,POS-00061:tier1:conf=1.00:via=ECOM-00020;ECOM-00020:tier1:conf=1.00:via=POS-00061,1076.92,5.0,1.0,0.2,2025-01-06,2026-03-27,101.0,False,False,regular
-CUST-00021,Chelsea Hernandez,wwebster@hotmail.com,(648) 609-8204,2,tier1,POS-00065:tier1:conf=1.00:via=ECOM-00021;ECOM-00021:tier1:conf=1.00:via=POS-00065,168.0,1.0,0.0,0.0,2024-06-12,2024-06-12,754.0,False,False,new
-CUST-00022,Kimberly Moreno,kmaldonado@hotmail.com,(732) 473-2353,2,tier2,POS-00067:tier2:conf=1.00:via=ECOM-00022;ECOM-00022:tier2:conf=1.00:via=POS-00067,1387.7,6.0,1.0,0.167,2025-02-27,2026-04-28,69.0,False,False,regular
-CUST-00023,Natalie Arroyo,xjohnson@yahoo.com,,2,tier2,POS-00072:tier2:conf=1.00:via=ECOM-00023;ECOM-00023:tier2:conf=1.00:via=POS-00072,866.52,5.0,0.0,0.0,2025-05-29,2026-06-03,33.0,False,False,regular
-CUST-00024,Chad Hodges,marcalvarez@gmail.com,,1,single_record,ECOM-00024:anchor,0.0,0.0,0.0,0.0,,,,False,False,new
-CUST-00025,Katie Anderson,hayeslisa@yahoo.com,,1,single_record,ECOM-00025:anchor,2336.85,11.0,1.0,0.091,2024-04-30,2026-06-30,6.0,True,False,VIP
-CUST-00026,Joseph Brennan,hritter@hotmail.com,,1,single_record,ECOM-00026:anchor,1394.37,8.0,1.0,0.125,2024-12-06,2026-07-03,3.0,False,False,regular
-CUST-00027,Rodney Lewis,,(861) 575-6933,2,tier2,POS-00076:tier2:conf=1.00:via=ECOM-00027;ECOM-00027:tier2:conf=1.00:via=POS-00076,436.0,2.0,0.0,0.0,2026-01-18,2026-06-18,18.0,False,False,regular
-CUST-00028,Amber Blair,rschroeder@hotmail.com,,2,tier1,POS-00077:tier1:conf=1.00:via=ECOM-00028;ECOM-00028:tier1:conf=1.00:via=POS-00077,2584.7,10.0,3.0,0.3,2025-08-14,2026-07-05,1.0,True,False,VIP
-CUST-00029,James Collins,mccormickdeborah@gmail.com,,1,single_record,ECOM-00029:anchor,1340.32,8.0,3.0,0.375,2024-10-29,2026-06-12,24.0,False,False,regular
-CUST-00030,Wanda Santos,cody64@yahoo.com,,1,single_record,ECOM-00030:anchor,634.53,4.0,2.0,0.5,2026-01-14,2026-07-04,2.0,False,True,watch
-CUST-00031,David Walker,collinsnicholas@yahoo.com,(456) 316-1424,2,tier1,POS-00080:tier1:conf=1.00:via=ECOM-00031;ECOM-00031:tier1:conf=1.00:via=POS-00080,1114.08,5.0,0.0,0.0,2025-11-07,2026-06-10,26.0,False,False,regular
-CUST-00032,Michele Jones,ericphillips@gmail.com,,1,single_record,ECOM-00032:anchor,2381.41,12.0,2.0,0.167,2026-02-02,2026-06-30,6.0,True,False,VIP
-CUST-00033,Jason Anderson,carlamoore@gmail.com,(362) 928-3852,2,tier1,POS-00088:tier1:conf=1.00:via=ECOM-00033;ECOM-00033:tier1:conf=1.00:via=POS-00088,1868.98,8.0,3.0,0.375,2025-01-29,2026-06-24,12.0,False,False,regular
-CUST-00034,Selena Duncan,jenniferwilliams@yahoo.com,,1,single_record,ECOM-00034:anchor,1245.38,7.0,0.0,0.0,2025-01-18,2026-07-05,1.0,False,False,regular
-CUST-00035,Thomas Mueller,tarabishop@hotmail.com,,2,tier1,POS-00089:tier1:conf=1.00:via=ECOM-00035;ECOM-00035:tier1:conf=1.00:via=POS-00089,1055.04,6.0,0.0,0.0,2025-09-15,2026-06-14,22.0,False,False,regular
-CUST-00036,Collin Jordan,mmckee@yahoo.com,,1,single_record,ECOM-00036:anchor,198.0,1.0,0.0,0.0,2025-09-01,2025-09-01,308.0,False,False,new
-CUST-00037,Scott Callahan,brooksanthony@gmail.com,,1,single_record,ECOM-00037:anchor,1567.17,8.0,1.0,0.125,2025-10-29,2026-05-31,36.0,False,False,regular
-CUST-00038,Andrea Williams,ihorton@hotmail.com,,1,single_record,ECOM-00038:anchor,546.43,3.0,0.0,0.0,2026-06-01,2026-06-11,25.0,False,False,new
-CUST-00039,Melinda Martin,srodriguez@gmail.com,,2,tier1,POS-00105:tier1:conf=1.00:via=ECOM-00039;ECOM-00039:tier1:conf=1.00:via=POS-00105,2141.97,11.0,1.0,0.091,2026-06-03,2026-07-05,1.0,True,False,VIP
-CUST-00040,Richard Brown,david36@hotmail.com,,2,tier1,POS-00107:tier1:conf=1.00:via=ECOM-00040;ECOM-00040:tier1:conf=1.00:via=POS-00107,604.0,2.0,2.0,1.0,2026-05-15,2026-06-02,34.0,False,False,new
-CUST-00041,Joseph Bowers,chenbailey@hotmail.com,,3,tier2,POS-00109:tier1:conf=1.00:via=ECOM-00041;POS-00110:tier2:conf=1.00:via=POS-00109;ECOM-00041:tier1:conf=1.00:via=POS-00109,1248.51,7.0,3.0,0.429,2025-10-27,2026-05-10,57.0,False,False,regular
-CUST-00042,Susan Cowan,millsmichael@hotmail.com,(616) 504-8430,2,tier2,POS-00112:tier2:conf=0.94:via=ECOM-00042;ECOM-00042:tier2:conf=0.94:via=POS-00112,1786.66,10.0,1.0,0.1,2026-04-11,2026-06-20,16.0,True,False,VIP
-CUST-00043,Eric Phillips,,(822) 347-6121,2,tier2,POS-00114:tier2:conf=1.00:via=ECOM-00043;ECOM-00043:tier2:conf=1.00:via=POS-00114,2405.39,13.0,2.0,0.154,2025-05-24,2026-06-16,20.0,True,False,VIP
-CUST-00044,Amy Adkins,,(252) 497-7293,2,tier2,POS-00118:tier2:conf=1.00:via=ECOM-00044;ECOM-00044:tier2:conf=1.00:via=POS-00118,781.14,4.0,0.0,0.0,2025-06-28,2026-05-09,58.0,False,False,regular
-CUST-00045,Eric Yu,james30@yahoo.com,,1,single_record,ECOM-00045:anchor,687.5,3.0,0.0,0.0,2024-02-19,2026-01-05,182.0,False,False,regular
-CUST-00046,Christopher Lopez,zachary87@yahoo.com,,1,single_record,ECOM-00046:anchor,2008.51,9.0,0.0,0.0,2025-10-06,2026-06-27,9.0,True,False,VIP
-CUST-00047,Brooke Leonard,mullinsjames@yahoo.com,,1,single_record,ECOM-00047:anchor,1280.26,7.0,1.0,0.143,2025-05-15,2026-04-11,86.0,False,False,regular
-CUST-00048,James Moran,amymorris@gmail.com,,1,single_record,ECOM-00048:anchor,1520.52,8.0,1.0,0.125,2024-06-06,2025-12-02,216.0,False,False,regular
-CUST-00049,Leslie Walton,wwilliams@hotmail.com,,1,single_record,ECOM-00049:anchor,574.0,3.0,1.0,0.333,2026-05-03,2026-06-30,6.0,False,False,regular
-CUST-00050,Charles Ellis,yhill@gmail.com,,2,tier1,POS-00130:tier1:conf=1.00:via=ECOM-00050;ECOM-00050:tier1:conf=1.00:via=POS-00130,900.0,5.0,0.0,0.0,2025-12-16,2026-07-04,2.0,False,False,regular
-CUST-00051,Joseph Mahoney,ejohnson@gmail.com,,2,tier1,POS-00134:tier1:conf=1.00:via=ECOM-00051;ECOM-00051:tier1:conf=1.00:via=POS-00134,1178.0,5.0,1.0,0.2,2024-06-25,2025-08-13,327.0,False,False,regular
-CUST-00052,Nicole Suarez,michael90@hotmail.com,(686) 731-8487,2,tier2,POS-00135:tier2:conf=1.00:via=ECOM-00052;ECOM-00052:tier2:conf=1.00:via=POS-00135,2602.23,9.0,3.0,0.333,2024-06-29,2026-05-31,36.0,True,False,VIP
-CUST-00053,Cheryl Archer,fitzgeraldvictor@yahoo.com,,1,single_record,ECOM-00053:anchor,910.0,5.0,3.0,0.6,2025-10-03,2026-04-10,87.0,False,True,watch
-CUST-00054,Dennis Wilson,rachelwallace@gmail.com,(890) 312-7824,2,tier1,POS-00141:tier1:conf=1.00:via=ECOM-00054;ECOM-00054:tier1:conf=1.00:via=POS-00141,249.35,2.0,0.0,0.0,2025-04-07,2026-04-24,73.0,False,False,regular
-CUST-00055,Daniel Tran,elizabeth18@hotmail.com,(943) 904-1436,2,tier2,POS-00142:tier2:conf=0.94:via=ECOM-00055;ECOM-00055:tier2:conf=0.94:via=POS-00142,1131.6,6.0,0.0,0.0,2024-12-23,2026-07-04,2.0,False,False,regular
-CUST-00056,Joseph Jacobs,davidharris@gmail.com,,1,single_record,ECOM-00056:anchor,138.0,1.0,0.0,0.0,2026-04-01,2026-04-01,96.0,False,False,new
-CUST-00057,Cynthia Baker,tanner82@hotmail.com,,1,single_record,ECOM-00057:anchor,148.0,1.0,0.0,0.0,2025-08-01,2025-08-01,339.0,False,False,new
-CUST-00058,Dana Green,howens@yahoo.com,,1,single_record,ECOM-00058:anchor,672.0,3.0,0.0,0.0,2025-11-21,2026-04-03,94.0,False,False,regular
-CUST-00059,Joyce Arnold,nataliedeleon@hotmail.com,(908) 408-7723,2,tier1,POS-00148:tier1:conf=1.00:via=ECOM-00059;ECOM-00059:tier1:conf=1.00:via=POS-00148,1058.0,6.0,3.0,0.5,2024-11-17,2025-12-09,209.0,False,True,watch
-CUST-00060,Charles Ware,guerraapril@yahoo.com,,1,single_record,ECOM-00060:anchor,336.0,1.0,1.0,1.0,2025-11-10,2025-11-10,238.0,False,False,new
-CUST-00061,Earl Anderson,brittanycarpenter@gmail.com,,1,single_record,ECOM-00061:anchor,1711.43,10.0,0.0,0.0,2024-08-25,2026-07-02,4.0,True,False,VIP
-CUST-00062,Kyle Nolan,,(506) 430-5876,2,tier2,POS-00154:tier2:conf=1.00:via=ECOM-00062;ECOM-00062:tier2:conf=1.00:via=POS-00154,968.31,6.0,1.0,0.167,2025-06-08,2026-04-22,75.0,False,False,regular
-CUST-00063,Laura Valencia,,(922) 700-6194,2,tier2,POS-00155:tier2:conf=1.00:via=ECOM-00063;ECOM-00063:tier2:conf=1.00:via=POS-00155,722.94,3.0,2.0,0.667,2026-05-21,2026-06-03,33.0,False,False,new
-CUST-00064,Rachel Clark,debra96@hotmail.com,,1,single_record,ECOM-00064:anchor,386.0,2.0,0.0,0.0,2025-12-09,2026-03-24,104.0,False,False,regular
-CUST-00065,John Garcia,jimenezcourtney@yahoo.com,(939) 480-5715,2,tier2,POS-00156:tier2:conf=1.00:via=ECOM-00065;ECOM-00065:tier2:conf=1.00:via=POS-00156,119.06,1.0,0.0,0.0,2026-03-16,2026-03-16,112.0,False,False,new
-CUST-00066,Richard Oliver,vmarshall@hotmail.com,,1,single_record,ECOM-00066:anchor,178.0,1.0,0.0,0.0,2026-06-12,2026-06-12,24.0,False,False,new
-CUST-00067,Angel Doyle,,(959) 800-4920,2,tier2,POS-00161:tier2:conf=1.00:via=ECOM-00067;ECOM-00067:tier2:conf=1.00:via=POS-00161,626.64,3.0,0.0,0.0,2025-01-27,2025-04-06,456.0,False,False,regular
-CUST-00068,Martin Galvan,floressteven@yahoo.com,,2,tier1,POS-00162:tier1:conf=1.00:via=ECOM-00068;ECOM-00068:tier1:conf=1.00:via=POS-00162,2530.2,12.0,3.0,0.25,2024-06-04,2026-06-07,29.0,True,False,VIP
-CUST-00069,Leah Shields,gwright@gmail.com,(341) 205-3587,3,tier2,POS-00163:tier1:conf=1.00:via=POS-00164;POS-00164:tier1:conf=1.00:via=POS-00163;ECOM-00069:tier2:conf=1.00:via=POS-00164,3520.57,18.0,2.0,0.111,2024-11-15,2026-06-18,18.0,True,False,VIP
-CUST-00070,Lisa Adams,lisapeck@hotmail.com,,2,tier1,POS-00165:tier1:conf=1.00:via=ECOM-00070;ECOM-00070:tier1:conf=1.00:via=POS-00165,2274.28,11.0,3.0,0.273,2025-05-31,2026-06-07,29.0,True,False,VIP
-CUST-00071,Jeffrey Velasquez,tjimenez@yahoo.com,,2,tier1,POS-00168:tier1:conf=1.00:via=ECOM-00071;ECOM-00071:tier1:conf=1.00:via=POS-00168,138.0,1.0,0.0,0.0,2026-06-10,2026-06-10,26.0,False,False,new
-CUST-00072,Steven Torres,jasongomez@gmail.com,(607) 707-4052,2,tier2,POS-00170:tier2:conf=1.00:via=ECOM-00072;ECOM-00072:tier2:conf=1.00:via=POS-00170,1665.28,7.0,1.0,0.143,2025-09-14,2026-05-02,65.0,False,False,regular
-CUST-00073,Mark Lin,booneryan@yahoo.com,,1,single_record,ECOM-00073:anchor,823.48,4.0,0.0,0.0,2025-09-04,2026-05-20,47.0,False,False,regular
-CUST-00074,Sheila Wilson,hudsonjames@hotmail.com,,1,single_record,ECOM-00074:anchor,0.0,0.0,0.0,0.0,,,,False,False,new
-CUST-00075,Sydney Baker,theresalong@yahoo.com,,2,tier1,POS-00179:tier1:conf=1.00:via=ECOM-00075;ECOM-00075:tier1:conf=1.00:via=POS-00179,1713.16,9.0,0.0,0.0,2024-07-13,2026-06-11,25.0,False,False,regular
-CUST-00076,Daniel Hamilton,kari39@hotmail.com,,1,single_record,ECOM-00076:anchor,1238.42,8.0,0.0,0.0,2025-06-03,2026-04-27,70.0,False,False,regular
-CUST-00077,Jonathan Fletcher,sarah52@yahoo.com,,1,single_record,ECOM-00077:anchor,1607.14,9.0,0.0,0.0,2025-01-26,2026-05-30,37.0,False,False,regular
-CUST-00078,Aaron Frost,brittney88@hotmail.com,,1,single_record,ECOM-00078:anchor,1010.0,5.0,2.0,0.4,2026-02-08,2026-07-01,5.0,False,False,regular
-CUST-00079,Michael Jones,richardsonemily@yahoo.com,,1,single_record,ECOM-00079:anchor,1053.29,5.0,1.0,0.2,2026-01-15,2026-06-25,11.0,False,False,regular
-CUST-00080,Jennifer Evans,tammy99@gmail.com,,2,tier1,POS-00187:tier1:conf=1.00:via=ECOM-00080;ECOM-00080:tier1:conf=1.00:via=POS-00187,178.0,1.0,0.0,0.0,2025-11-03,2025-11-03,245.0,False,False,new
-CUST-00081,Kyle Ortiz,rhernandez@gmail.com,,1,single_record,ECOM-00081:anchor,0.0,0.0,0.0,0.0,,,,False,False,new
-CUST-00082,Richard Phillips,armstrongjackie@gmail.com,(976) 750-4578,2,tier1,POS-00189:tier1:conf=1.00:via=ECOM-00082;ECOM-00082:tier1:conf=1.00:via=POS-00189,524.0,2.0,0.0,0.0,2025-04-09,2025-10-16,263.0,False,False,regular
-CUST-00083,David Fisher,alexanderrobert@yahoo.com,,1,single_record,ECOM-00083:anchor,544.0,3.0,0.0,0.0,2025-02-24,2025-04-04,458.0,False,False,regular
-CUST-00084,Diana Marshall,sue78@yahoo.com,,1,single_record,ECOM-00084:anchor,971.31,5.0,1.0,0.2,2025-08-26,2026-06-07,29.0,False,False,regular
-CUST-00085,Laura Jackson,hannahburns@yahoo.com,(606) 460-1049,2,tier2,POS-00198:tier2:conf=1.00:via=ECOM-00085;ECOM-00085:tier2:conf=1.00:via=POS-00198,992.84,4.0,0.0,0.0,2025-10-12,2026-06-20,16.0,False,False,regular
-CUST-00086,Christopher Robertson,zhuang@yahoo.com,,1,single_record,ECOM-00086:anchor,228.0,1.0,0.0,0.0,2026-01-03,2026-01-03,184.0,False,False,new
-CUST-00087,Loretta Potter,kellyroberts@hotmail.com,,1,single_record,ECOM-00087:anchor,415.1,3.0,0.0,0.0,2025-09-15,2026-05-12,55.0,False,False,regular
-CUST-00088,Robert Soto,xgarcia@gmail.com,(506) 674-9920,3,tier2,POS-00206:tier1:conf=1.00:via=ECOM-00088;POS-00207:tier2:conf=1.00:via=POS-00206;ECOM-00088:tier1:conf=1.00:via=POS-00206,689.77,3.0,0.0,0.0,2025-09-18,2026-05-22,45.0,False,False,regular
-CUST-00089,James Horton,oconnelltiffany@gmail.com,(436) 453-8546,2,tier1,POS-00208:tier1:conf=1.00:via=ECOM-00089;ECOM-00089:tier1:conf=1.00:via=POS-00208,1051.4,5.0,1.0,0.2,2025-09-07,2026-05-22,45.0,False,False,regular
-CUST-00090,Troy Sanchez,edelgado@yahoo.com,,1,single_record,ECOM-00090:anchor,2116.58,11.0,2.0,0.182,2024-06-15,2025-09-27,282.0,True,False,VIP
-CUST-00091,Diana Smith,,(943) 983-2848,2,tier2,POS-00209:tier2:conf=1.00:via=ECOM-00091;ECOM-00091:tier2:conf=1.00:via=POS-00209,1571.74,7.0,2.0,0.286,2024-12-05,2026-04-27,70.0,False,False,regular
-CUST-00092,Karen Carrillo,velezchristopher@hotmail.com,,1,single_record,ECOM-00092:anchor,685.81,4.0,2.0,0.5,2026-04-29,2026-05-29,38.0,False,True,watch
-CUST-00093,Daniel Coleman,amandasharp@gmail.com,(830) 984-1256,2,tier1,POS-00210:tier1:conf=1.00:via=ECOM-00093;ECOM-00093:tier1:conf=1.00:via=POS-00210,168.0,1.0,0.0,0.0,2026-04-01,2026-04-01,96.0,False,False,new
-CUST-00094,April Williams,robertmonroe@gmail.com,,1,single_record,ECOM-00094:anchor,981.18,6.0,2.0,0.333,2026-03-06,2026-06-08,28.0,False,False,regular
-CUST-00095,John Charles,lfrench@hotmail.com,,1,single_record,ECOM-00095:anchor,738.34,4.0,1.0,0.25,2025-11-29,2026-03-14,114.0,False,False,regular
-CUST-00096,Caitlin Dodson,ismall@hotmail.com,,1,single_record,ECOM-00096:anchor,178.0,1.0,0.0,0.0,2026-04-26,2026-04-26,71.0,False,False,new
-CUST-00097,Jennifer Wagner,,(950) 789-6224,3,tier2,POS-00215:tier2:conf=0.94:via=POS-00216;POS-00216:tier2:conf=1.00:via=ECOM-00097;ECOM-00097:tier2:conf=1.00:via=POS-00216,1525.56,7.0,1.0,0.143,2025-09-08,2026-06-25,11.0,False,False,regular
-CUST-00098,Phyllis Manning,gregorychase@yahoo.com,,1,single_record,ECOM-00098:anchor,1564.0,8.0,0.0,0.0,2025-10-28,2026-06-14,22.0,False,False,regular
-CUST-00099,John Walsh,lopezdonald@yahoo.com,(249) 552-7244,2,tier1,POS-00219:tier1:conf=1.00:via=ECOM-00099;ECOM-00099:tier1:conf=1.00:via=POS-00219,2038.52,10.0,0.0,0.0,2025-11-16,2026-06-29,7.0,True,False,VIP
-CUST-00100,Courtney Hill,adamreyes@yahoo.com,,1,single_record,ECOM-00100:anchor,1387.64,8.0,0.0,0.0,2025-08-11,2026-06-21,15.0,False,False,regular
-CUST-00101,Chris Mitchell,stephanie49@hotmail.com,,1,single_record,ECOM-00101:anchor,1777.12,10.0,2.0,0.2,2025-05-28,2026-06-26,10.0,True,False,VIP
-CUST-00102,Joseph Flores,greenmichael@gmail.com,,1,single_record,ECOM-00102:anchor,3572.0,15.0,5.0,0.333,2024-07-19,2026-06-26,10.0,True,False,VIP
-CUST-00103,Jesse Benson,tparks@yahoo.com,,1,single_record,ECOM-00103:anchor,1299.69,7.0,0.0,0.0,2024-12-10,2026-07-01,5.0,False,False,regular
-CUST-00104,Rick Daniels,fowlershelia@yahoo.com,(627) 770-9683,2,tier1,POS-00223:tier1:conf=1.00:via=ECOM-00104;ECOM-00104:tier1:conf=1.00:via=POS-00223,820.72,5.0,0.0,0.0,2024-10-28,2025-12-26,192.0,False,False,regular
-CUST-00105,Robert Stein,jeffreyanderson@gmail.com,,1,single_record,ECOM-00105:anchor,1976.21,10.0,3.0,0.3,2025-05-28,2026-05-14,53.0,True,False,VIP
-CUST-00106,Omar Smith,kathleenbecker@hotmail.com,,1,single_record,ECOM-00106:anchor,353.72,1.0,0.0,0.0,2025-05-16,2025-05-16,416.0,False,False,new
-CUST-00107,Matthew Shelton,hansenemily@yahoo.com,,1,single_record,ECOM-00107:anchor,1000.63,4.0,0.0,0.0,2024-11-28,2026-04-21,76.0,False,False,regular
-CUST-00108,Phillip Elliott,weaverbrian@gmail.com,,1,single_record,ECOM-00108:anchor,1068.0,5.0,2.0,0.4,2024-10-09,2026-05-06,61.0,False,False,regular
-CUST-00109,Anthony Day,ajohnson@gmail.com,,1,single_record,ECOM-00109:anchor,1006.07,5.0,2.0,0.4,2025-02-04,2026-05-09,58.0,False,False,regular
-CUST-00110,Derek Murray,katiegood@hotmail.com,,1,single_record,ECOM-00110:anchor,1685.11,8.0,0.0,0.0,2025-08-26,2026-06-11,25.0,False,False,regular
-CUST-00111,Brent Gray,ybrooks@yahoo.com,,1,single_record,ECOM-00111:anchor,476.16,3.0,1.0,0.333,2026-01-01,2026-06-16,20.0,False,False,regular
-CUST-00112,Kathleen Gray,desireebailey@gmail.com,,1,single_record,ECOM-00112:anchor,1038.0,5.0,1.0,0.2,2026-06-09,2026-07-04,2.0,False,False,new
-CUST-00113,Karen Decker,urice@gmail.com,,1,single_record,ECOM-00113:anchor,2543.24,11.0,2.0,0.182,2025-11-10,2026-06-15,21.0,True,False,VIP
-CUST-00114,Debra Harrington,opatel@gmail.com,,2,tier1,POS-00243:tier1:conf=1.00:via=ECOM-00114;ECOM-00114:tier1:conf=1.00:via=POS-00243,980.0,5.0,0.0,0.0,2024-10-10,2026-06-11,25.0,False,False,regular
-CUST-00115,David Caldwell,allencarlos@hotmail.com,,1,single_record,ECOM-00115:anchor,2173.88,11.0,2.0,0.182,2025-04-22,2026-06-13,23.0,True,False,VIP
-CUST-00116,Anne Robinson,griffinemily@gmail.com,,1,single_record,ECOM-00116:anchor,168.0,1.0,0.0,0.0,2026-06-29,2026-06-29,7.0,False,False,new
-CUST-00117,Holly Wang,joymorales@gmail.com,(876) 699-1257,2,tier1,POS-00247:tier1:conf=1.00:via=ECOM-00117;ECOM-00117:tier1:conf=1.00:via=POS-00247,772.0,4.0,0.0,0.0,2025-02-13,2026-05-30,37.0,False,False,regular
-CUST-00118,Gary Lawson,karenparsons@gmail.com,(213) 217-9673,2,tier1,POS-00248:tier1:conf=1.00:via=ECOM-00118;ECOM-00118:tier1:conf=1.00:via=POS-00248,2276.84,11.0,3.0,0.273,2025-10-29,2026-06-21,15.0,True,False,VIP
-CUST-00119,Daniel Johnson,joel28@gmail.com,(384) 309-2578,2,tier2,POS-00251:tier2:conf=0.94:via=ECOM-00119;ECOM-00119:tier2:conf=0.94:via=POS-00251,2161.4,9.0,1.0,0.111,2026-02-10,2026-06-29,7.0,True,False,VIP
-CUST-00120,Susie Sanders,ufloyd@hotmail.com,,2,tier2,POS-00253:tier2:conf=0.94:via=ECOM-00120;ECOM-00120:tier2:conf=0.94:via=POS-00253,1249.02,7.0,0.0,0.0,2026-01-29,2026-06-29,7.0,False,False,regular
-CUST-00121,David Riggs,nielsenmelanie@gmail.com,,1,single_record,ECOM-00121:anchor,940.0,4.0,2.0,0.5,2026-02-11,2026-05-07,60.0,False,True,watch
-CUST-00122,Kimberly Reed,,(277) 900-5593,2,tier2,POS-00261:tier2:conf=1.00:via=ECOM-00122;ECOM-00122:tier2:conf=1.00:via=POS-00261,524.0,3.0,0.0,0.0,2026-01-08,2026-05-29,38.0,False,False,regular
-CUST-00123,Melissa Short,burgesskaren@gmail.com,,2,tier1,POS-00265:tier1:conf=1.00:via=ECOM-00123;ECOM-00123:tier1:conf=1.00:via=POS-00265,2434.04,12.0,1.0,0.083,2025-02-09,2026-06-29,7.0,True,False,VIP
-CUST-00124,Daniel Yu,randyallen@yahoo.com,(894) 753-6435,2,tier2,POS-00266:tier2:conf=1.00:via=ECOM-00124;ECOM-00124:tier2:conf=1.00:via=POS-00266,584.0,3.0,1.0,0.333,2026-02-14,2026-06-08,28.0,False,False,regular
-CUST-00125,Cynthia Poole,ugill@gmail.com,,1,single_record,ECOM-00125:anchor,724.83,4.0,1.0,0.25,2025-11-27,2026-02-03,153.0,False,False,regular
-CUST-00126,Jasmine Graham,lawrence09@gmail.com,(255) 300-8161,2,tier1,POS-00268:tier1:conf=1.00:via=ECOM-00126;ECOM-00126:tier1:conf=1.00:via=POS-00268,1664.72,9.0,2.0,0.222,2026-04-09,2026-07-05,1.0,False,False,regular
-CUST-00127,Jessica Sheppard,mphillips@yahoo.com,,3,tier1,POS-00269:tier1:conf=1.00:via=ECOM-00127;POS-00270:tier1:conf=1.00:via=POS-00269;ECOM-00127:tier1:conf=1.00:via=POS-00269,276.0,1.0,0.0,0.0,2026-07-04,2026-07-04,2.0,False,False,new
-CUST-00128,Amanda Webb,noahwhitaker@yahoo.com,,1,single_record,ECOM-00128:anchor,498.6,2.0,0.0,0.0,2024-12-15,2025-03-18,475.0,False,False,regular
-CUST-00129,Steven Bishop,iwhite@hotmail.com,,1,single_record,ECOM-00129:anchor,1974.79,10.0,1.0,0.1,2024-12-31,2026-04-24,73.0,True,False,VIP
-CUST-00130,Jason Salinas,duranrobert@hotmail.com,,1,single_record,ECOM-00130:anchor,1811.02,9.0,2.0,0.222,2024-07-25,2026-05-23,44.0,False,False,regular
-CUST-00131,Matthew Beard,carloshernandez@gmail.com,(771) 768-9395,2,tier1,POS-00279:tier1:conf=1.00:via=ECOM-00131;ECOM-00131:tier1:conf=1.00:via=POS-00279,1121.07,6.0,0.0,0.0,2025-10-19,2026-05-11,56.0,False,False,regular
-CUST-00132,Hannah Brewer,amanda40@hotmail.com,,2,tier1,POS-00284:tier1:conf=1.00:via=ECOM-00132;ECOM-00132:tier1:conf=1.00:via=POS-00284,1692.0,8.0,1.0,0.125,2026-01-08,2026-06-27,9.0,False,False,regular
-CUST-00133,Travis Mcguire,ldrake@gmail.com,,2,tier1,POS-00285:tier1:conf=1.00:via=ECOM-00133;ECOM-00133:tier1:conf=1.00:via=POS-00285,1120.0,4.0,0.0,0.0,2025-02-07,2025-08-18,322.0,False,False,regular
-CUST-00134,Alyssa Coleman,lisa46@gmail.com,(708) 808-4203,2,tier2,POS-00289:tier2:conf=1.00:via=ECOM-00134;ECOM-00134:tier2:conf=1.00:via=POS-00289,1130.44,6.0,2.0,0.333,2024-09-18,2026-06-19,17.0,False,False,regular
-CUST-00135,John Martinez,,(912) 405-8848,2,tier2,POS-00293:tier2:conf=1.00:via=ECOM-00135;ECOM-00135:tier2:conf=1.00:via=POS-00293,812.0,2.0,0.0,0.0,2026-02-12,2026-02-21,135.0,False,False,regular
-CUST-00136,Jacob Robinson,jasonparrish@hotmail.com,(574) 316-4273,3,tier2,POS-00296:tier1:conf=1.00:via=ECOM-00136;POS-00297:tier2:conf=1.00:via=POS-00296;ECOM-00136:tier1:conf=1.00:via=POS-00296,1200.22,6.0,0.0,0.0,2025-12-01,2026-07-05,1.0,False,False,regular
-CUST-00137,Todd Hardy,enelson@hotmail.com,,1,single_record,ECOM-00137:anchor,844.87,5.0,0.0,0.0,2025-05-04,2025-12-19,199.0,False,False,regular
-CUST-00138,Tiffany Warren,rachel90@gmail.com,,2,tier1,POS-00298:tier1:conf=1.00:via=ECOM-00138;ECOM-00138:tier1:conf=1.00:via=POS-00298,1168.0,5.0,0.0,0.0,2026-01-10,2026-06-04,32.0,False,False,regular
-CUST-00139,Justin Garcia,alexis39@gmail.com,(910) 270-7703,3,tier2,POS-00299:tier1:conf=1.00:via=ECOM-00139;POS-00300:tier2:conf=1.00:via=POS-00299;ECOM-00139:tier1:conf=1.00:via=POS-00299,1038.41,6.0,0.0,0.0,2026-01-26,2026-07-04,2.0,False,False,regular
-CUST-00140,Miranda Henry,anthony47@yahoo.com,,1,single_record,ECOM-00140:anchor,1169.34,6.0,0.0,0.0,2024-08-05,2026-01-13,174.0,False,False,regular
-CUST-00141,Taylor Alexander,michaelpugh@yahoo.com,,1,single_record,ECOM-00141:anchor,534.79,3.0,0.0,0.0,2025-11-15,2026-06-10,26.0,False,False,regular
-CUST-00142,Lynn Morales,eringuerrero@gmail.com,,1,single_record,ECOM-00142:anchor,1015.6,5.0,0.0,0.0,2025-10-25,2026-03-16,112.0,False,False,regular
-CUST-00143,Charles Soto,lauren11@yahoo.com,,1,single_record,ECOM-00143:anchor,1392.47,7.0,1.0,0.143,2025-08-23,2026-06-13,23.0,False,False,regular
-CUST-00144,Brian Hernandez,normanbowers@gmail.com,,1,single_record,ECOM-00144:anchor,148.0,1.0,1.0,1.0,2026-04-08,2026-04-08,89.0,False,False,new
-CUST-00145,Anna Torres,gstewart@gmail.com,,2,tier1,POS-00310:tier1:conf=1.00:via=ECOM-00145;ECOM-00145:tier1:conf=1.00:via=POS-00310,2181.9,12.0,2.0,0.167,2025-11-11,2026-06-24,12.0,True,False,VIP
-CUST-00146,Victoria Wilson,hahnsean@yahoo.com,,1,single_record,ECOM-00146:anchor,584.0,3.0,0.0,0.0,2025-03-29,2026-05-17,50.0,False,False,regular
-CUST-00147,Kathy Obrien,andersonjacob@yahoo.com,,1,single_record,ECOM-00147:anchor,820.0,5.0,2.0,0.4,2025-03-21,2026-05-20,47.0,False,False,regular
-CUST-00148,Scott Dalton,carterpaul@gmail.com,,1,single_record,ECOM-00148:anchor,0.0,0.0,0.0,0.0,,,,False,False,new
-CUST-00149,Jared Clark,bryanhamilton@yahoo.com,,1,single_record,ECOM-00149:anchor,1174.03,5.0,2.0,0.4,2025-03-30,2026-05-27,40.0,False,False,regular
-CUST-00150,Brittney Carter,stephentaylor@gmail.com,,2,tier1,POS-00320:tier1:conf=1.00:via=ECOM-00150;ECOM-00150:tier1:conf=1.00:via=POS-00320,1028.0,4.0,0.0,0.0,2025-06-19,2026-05-17,50.0,False,False,regular
-CUST-00151,Jesse Mann,ncook@yahoo.com,,1,single_record,ECOM-00151:anchor,1627.16,6.0,0.0,0.0,2024-10-27,2026-02-05,151.0,False,False,regular
-CUST-00152,Jacqueline Gibson,scott69@gmail.com,,1,single_record,ECOM-00152:anchor,1645.89,8.0,0.0,0.0,2024-12-22,2026-04-08,89.0,False,False,regular
-CUST-00153,Grace Bradshaw,malik37@yahoo.com,,1,single_record,ECOM-00153:anchor,2668.24,13.0,4.0,0.308,2025-08-08,2026-06-07,29.0,True,False,VIP
-CUST-00154,Keith Martinez,samuelcarter@hotmail.com,(812) 597-7431,2,tier1,POS-00329:tier1:conf=1.00:via=ECOM-00154;ECOM-00154:tier1:conf=1.00:via=POS-00329,1267.09,8.0,2.0,0.25,2025-07-06,2026-01-28,159.0,False,False,regular
-CUST-00155,Haley Lyons,fuenteslaura@yahoo.com,,1,single_record,ECOM-00155:anchor,1143.41,6.0,1.0,0.167,2024-06-14,2026-04-09,88.0,False,False,regular
-CUST-00156,Troy Miller,donna66@gmail.com,,2,tier1,POS-00331:tier1:conf=1.00:via=ECOM-00156;ECOM-00156:tier1:conf=1.00:via=POS-00331,1592.67,8.0,0.0,0.0,2025-08-19,2026-06-25,11.0,False,False,regular
-CUST-00157,Marcus Wright,gibbsmichael@hotmail.com,,2,tier2,POS-00335:tier2:conf=1.00:via=ECOM-00157;ECOM-00157:tier2:conf=1.00:via=POS-00335,2068.0,8.0,1.0,0.125,2024-11-05,2026-04-18,79.0,True,False,VIP
-CUST-00158,Mary Johnston,vrasmussen@yahoo.com,(861) 377-3733,2,tier2,POS-00337:tier2:conf=1.00:via=ECOM-00158;ECOM-00158:tier2:conf=1.00:via=POS-00337,2512.48,13.0,1.0,0.077,2025-09-11,2026-05-19,48.0,True,False,VIP
-CUST-00159,Stephanie Key,seanmyers@hotmail.com,,1,single_record,ECOM-00159:anchor,977.65,5.0,1.0,0.2,2024-12-20,2026-06-22,14.0,False,False,regular
-CUST-00160,Billy Avila,robert11@hotmail.com,,1,single_record,ECOM-00160:anchor,2123.36,12.0,3.0,0.25,2026-04-23,2026-07-03,3.0,True,False,VIP
-CUST-00161,Thomas Pearson,michaelcooper@gmail.com,,1,single_record,ECOM-00161:anchor,1314.59,8.0,2.0,0.25,2025-06-02,2026-04-19,78.0,False,False,regular
-CUST-00162,Travis Davis,johnsonmatthew@gmail.com,(928) 654-9006,2,tier1,POS-00342:tier1:conf=1.00:via=ECOM-00162;ECOM-00162:tier1:conf=1.00:via=POS-00342,336.0,1.0,0.0,0.0,2025-09-19,2025-09-19,290.0,False,False,new
-CUST-00163,Mark Steele,zhall@hotmail.com,(373) 999-8492,2,tier1,POS-00345:tier1:conf=1.00:via=ECOM-00163;ECOM-00163:tier1:conf=1.00:via=POS-00345,1074.96,5.0,0.0,0.0,2024-12-12,2026-02-21,135.0,False,False,regular
-CUST-00164,Keith Landry,jacobsandoval@yahoo.com,(763) 723-2854,2,tier1,POS-00346:tier1:conf=1.00:via=ECOM-00164;ECOM-00164:tier1:conf=1.00:via=POS-00346,1314.0,7.0,2.0,0.286,2026-02-18,2026-06-01,35.0,False,False,regular
-CUST-00165,Lisa Pierce,mclaughlinnicole@yahoo.com,,1,single_record,ECOM-00165:anchor,676.32,3.0,0.0,0.0,2025-08-26,2026-03-05,123.0,False,False,regular
-CUST-00166,Shawn Edwards,tprice@gmail.com,(760) 423-7965,2,tier1,POS-00348:tier1:conf=1.00:via=ECOM-00166;ECOM-00166:tier1:conf=1.00:via=POS-00348,1631.84,9.0,1.0,0.111,2026-03-21,2026-07-04,2.0,False,False,regular
-CUST-00167,Marcus Cordova,joshuapadilla@gmail.com,,2,tier1,POS-00349:tier1:conf=1.00:via=ECOM-00167;ECOM-00167:tier1:conf=1.00:via=POS-00349,1210.02,6.0,1.0,0.167,2026-04-08,2026-05-22,45.0,False,False,regular
-CUST-00168,Kathleen Harris,michael79@gmail.com,,1,single_record,ECOM-00168:anchor,714.0,4.0,1.0,0.25,2025-08-15,2025-12-07,211.0,False,False,regular
-CUST-00169,Chelsea Allen,nathanielthomas@yahoo.com,,2,tier1,POS-00359:tier1:conf=1.00:via=ECOM-00169;ECOM-00169:tier1:conf=1.00:via=POS-00359,3204.94,16.0,2.0,0.125,2026-06-14,2026-07-05,1.0,True,False,VIP
-CUST-00170,Eric Pierce,kcarlson@yahoo.com,,1,single_record,ECOM-00170:anchor,1021.3,4.0,0.0,0.0,2026-06-20,2026-07-05,1.0,False,False,new
-CUST-00171,Andrea Davis,olopez@hotmail.com,,2,tier1,POS-00360:tier1:conf=1.00:via=ECOM-00171;ECOM-00171:tier1:conf=1.00:via=POS-00360,1189.69,8.0,1.0,0.125,2024-09-08,2026-06-05,31.0,False,False,regular
-CUST-00172,Victoria Durham,angelaburns@gmail.com,(454) 979-7434,2,tier1,POS-00361:tier1:conf=1.00:via=ECOM-00172;ECOM-00172:tier1:conf=1.00:via=POS-00361,672.68,4.0,2.0,0.5,2026-02-02,2026-06-23,13.0,False,True,watch
-CUST-00173,Steven Wilson,leonardhayes@gmail.com,,1,single_record,ECOM-00173:anchor,102.56,1.0,0.0,0.0,2024-12-22,2024-12-22,561.0,False,False,new
-CUST-00174,Jennifer Hicks,gmaynard@hotmail.com,,1,single_record,ECOM-00174:anchor,218.0,1.0,0.0,0.0,2025-12-02,2025-12-02,216.0,False,False,new
-CUST-00175,Tina Sanchez,fburns@hotmail.com,,1,single_record,ECOM-00175:anchor,1386.78,6.0,0.0,0.0,2024-10-01,2026-05-27,40.0,False,False,regular
-CUST-00176,Andrea Reyes,flynnjeffrey@gmail.com,,1,single_record,ECOM-00176:anchor,611.09,2.0,0.0,0.0,2025-10-28,2026-06-26,10.0,False,False,regular
-CUST-00177,Sandra Romero,jeffrey42@yahoo.com,,1,single_record,ECOM-00177:anchor,1531.03,7.0,0.0,0.0,2026-04-16,2026-06-09,27.0,False,False,regular
-CUST-00178,Robert Villa,adamsamy@yahoo.com,,1,single_record,ECOM-00178:anchor,1106.0,7.0,1.0,0.143,2025-07-19,2026-05-01,66.0,False,False,regular
-CUST-00179,William Hoover,,(951) 295-8511,2,tier2,POS-00366:tier2:conf=1.00:via=ECOM-00179;ECOM-00179:tier2:conf=1.00:via=POS-00366,1158.0,6.0,2.0,0.333,2026-02-06,2026-05-31,36.0,False,False,regular
-CUST-00180,Brenda Duarte,nancy07@yahoo.com,(417) 706-5399,2,tier1,POS-00368:tier1:conf=1.00:via=ECOM-00180;ECOM-00180:tier1:conf=1.00:via=POS-00368,702.0,3.0,0.0,0.0,2025-02-22,2025-09-14,295.0,False,False,regular
-CUST-00181,Tracy Hernandez,michelle17@gmail.com,,2,tier2,POS-00369:tier2:conf=1.00:via=ECOM-00181;ECOM-00181:tier2:conf=1.00:via=POS-00369,1990.77,9.0,1.0,0.111,2026-02-11,2026-06-26,10.0,False,False,regular
-CUST-00182,Amanda Reed,jasonrojas@hotmail.com,,1,single_record,ECOM-00182:anchor,218.0,1.0,0.0,0.0,2026-06-12,2026-06-12,24.0,False,False,new
-CUST-00183,Stanley Morris,kristenli@gmail.com,,2,tier1,POS-00371:tier1:conf=1.00:via=ECOM-00183;ECOM-00183:tier1:conf=1.00:via=POS-00371,650.96,4.0,0.0,0.0,2024-03-18,2026-04-15,82.0,False,False,regular
-CUST-00184,Elizabeth Hoover,rsellers@hotmail.com,(841) 512-4836,3,tier1,POS-00377:tier1:conf=1.00:via=ECOM-00184;POS-00378:tier1:conf=1.00:via=POS-00377;ECOM-00184:tier1:conf=1.00:via=POS-00377,2460.72,12.0,1.0,0.083,2024-08-11,2026-06-19,17.0,True,False,VIP
-CUST-00185,Benjamin Shaw,maria67@gmail.com,,1,single_record,ECOM-00185:anchor,198.0,1.0,1.0,1.0,2024-06-01,2024-06-01,765.0,False,False,new
-CUST-00186,Brittany Kane,courtney67@gmail.com,,1,single_record,ECOM-00186:anchor,644.0,3.0,1.0,0.333,2026-01-14,2026-06-12,24.0,False,False,regular
-CUST-00187,Alicia Bryant,shawn75@hotmail.com,,1,single_record,ECOM-00187:anchor,1337.24,7.0,2.0,0.286,2025-07-03,2026-06-11,25.0,False,False,regular
-CUST-00188,Jennifer Ortiz,meltonmelanie@gmail.com,,1,single_record,ECOM-00188:anchor,218.0,1.0,0.0,0.0,2025-07-13,2025-07-13,358.0,False,False,new
-CUST-00189,Terrance Costa,flynnraymond@yahoo.com,,2,tier1,POS-00382:tier1:conf=1.00:via=ECOM-00189;ECOM-00189:tier1:conf=1.00:via=POS-00382,614.0,3.0,0.0,0.0,2026-02-17,2026-05-28,39.0,False,False,regular
-CUST-00190,Debra Christian,patricia00@gmail.com,,2,tier2,POS-00385:tier2:conf=1.00:via=ECOM-00190;ECOM-00190:tier2:conf=1.00:via=POS-00385,812.0,4.0,0.0,0.0,2024-06-29,2026-01-15,172.0,False,False,regular
-CUST-00191,Jennifer Malone,penajohn@yahoo.com,,2,tier1,POS-00388:tier1:conf=1.00:via=ECOM-00191;ECOM-00191:tier1:conf=1.00:via=POS-00388,1760.0,8.0,1.0,0.125,2026-06-13,2026-07-04,2.0,False,False,new
-CUST-00192,Casey Welch,brettgarrett@hotmail.com,(523) 343-5059,2,tier1,POS-00390:tier1:conf=1.00:via=ECOM-00192;ECOM-00192:tier1:conf=1.00:via=POS-00390,544.0,3.0,2.0,0.667,2025-02-17,2026-06-21,15.0,False,False,regular
-CUST-00193,Julie Hamilton,aprilwallace@gmail.com,,1,single_record,ECOM-00193:anchor,737.29,4.0,0.0,0.0,2024-10-05,2026-02-23,133.0,False,False,regular
-CUST-00194,Corey Schultz,lisa62@yahoo.com,(503) 861-1894,2,tier1,POS-00394:tier1:conf=1.00:via=ECOM-00194;ECOM-00194:tier1:conf=1.00:via=POS-00394,2437.3,12.0,2.0,0.167,2026-03-04,2026-06-29,7.0,True,False,VIP
-CUST-00195,Monique Wallace,perezchristopher@gmail.com,,1,single_record,ECOM-00195:anchor,1299.2,6.0,1.0,0.167,2026-04-10,2026-07-01,5.0,False,False,regular
-CUST-00196,Brandon Flynn,caseyelliott@hotmail.com,,1,single_record,ECOM-00196:anchor,1136.54,5.0,1.0,0.2,2025-12-31,2026-04-28,69.0,False,False,regular
-CUST-00197,John Durham,bbell@yahoo.com,(285) 855-9791,2,tier1,POS-00403:tier1:conf=1.00:via=ECOM-00197;ECOM-00197:tier1:conf=1.00:via=POS-00403,1208.0,6.0,1.0,0.167,2025-04-02,2026-06-23,13.0,False,False,regular
-CUST-00198,Jonathan Scott,johnnewman@gmail.com,,1,single_record,ECOM-00198:anchor,1542.36,5.0,0.0,0.0,2025-07-31,2026-04-07,90.0,False,False,regular
-CUST-00199,Rachel Byrd,troyrodriguez@yahoo.com,,2,tier1,POS-00407:tier1:conf=1.00:via=ECOM-00199;ECOM-00199:tier1:conf=1.00:via=POS-00407,871.94,4.0,1.0,0.25,2026-04-22,2026-06-24,12.0,False,False,regular
-CUST-00200,Michael Matthews,david96@yahoo.com,,1,single_record,ECOM-00200:anchor,1552.0,8.0,2.0,0.25,2025-04-26,2026-06-05,31.0,False,False,regular
-CUST-00201,Timothy Young,courtney86@yahoo.com,,1,single_record,ECOM-00201:anchor,1902.02,8.0,2.0,0.25,2024-07-22,2026-03-04,124.0,False,False,regular
-CUST-00202,Ashley Andrews,imiller@hotmail.com,,1,single_record,ECOM-00202:anchor,2445.7,11.0,2.0,0.182,2025-01-21,2026-06-24,12.0,True,False,VIP
-CUST-00203,Tiffany Barrett,terrimoore@yahoo.com,,2,tier1,POS-00415:tier1:conf=1.00:via=ECOM-00203;ECOM-00203:tier1:conf=1.00:via=POS-00415,826.96,4.0,1.0,0.25,2026-03-26,2026-06-14,22.0,False,False,regular
-CUST-00204,Brandon Obrien,collinssamuel@gmail.com,,1,single_record,ECOM-00204:anchor,1264.3,7.0,0.0,0.0,2025-06-07,2026-06-18,18.0,False,False,regular
-CUST-00205,Justin Lindsey,dsalazar@yahoo.com,,1,single_record,ECOM-00205:anchor,587.45,3.0,1.0,0.333,2024-06-08,2026-01-11,176.0,False,False,regular
-CUST-00206,Catherine Gomez,davidzimmerman@hotmail.com,,2,tier1,POS-00419:tier1:conf=1.00:via=ECOM-00206;ECOM-00206:tier1:conf=1.00:via=POS-00419,1191.17,6.0,1.0,0.167,2025-07-10,2026-06-05,31.0,False,False,regular
-CUST-00207,Erica Le,gary24@hotmail.com,,1,single_record,ECOM-00207:anchor,366.0,2.0,1.0,0.5,2025-02-01,2025-07-04,367.0,False,False,regular
-CUST-00208,Donna Massey,wiseanthony@yahoo.com,(573) 592-3458,2,tier1,POS-00422:tier1:conf=1.00:via=ECOM-00208;ECOM-00208:tier1:conf=1.00:via=POS-00422,1196.0,7.0,2.0,0.286,2024-09-02,2026-06-22,14.0,False,False,regular
-CUST-00209,Debbie Parker,alexandria49@hotmail.com,,1,single_record,ECOM-00209:anchor,228.0,1.0,0.0,0.0,2024-12-13,2024-12-13,570.0,False,False,new
-CUST-00210,Scott Riley,crawfordwilliam@gmail.com,,1,single_record,ECOM-00210:anchor,276.0,1.0,0.0,0.0,2026-01-06,2026-01-06,181.0,False,False,new
-CUST-00211,Kenneth Burgess,jonathangarcia@hotmail.com,(478) 279-7108,2,tier1,POS-00425:tier1:conf=1.00:via=ECOM-00211;ECOM-00211:tier1:conf=1.00:via=POS-00425,1308.32,8.0,0.0,0.0,2026-01-21,2026-06-06,30.0,False,False,regular
-CUST-00212,Maria Scott,joseph19@yahoo.com,,1,single_record,ECOM-00212:anchor,2450.46,10.0,1.0,0.1,2024-12-25,2026-06-23,13.0,True,False,VIP
-CUST-00213,Makayla Olson,shawrachel@gmail.com,,2,tier2,POS-00431:tier2:conf=1.00:via=ECOM-00213;ECOM-00213:tier2:conf=1.00:via=POS-00431,2087.72,11.0,3.0,0.273,2026-02-15,2026-07-02,4.0,True,False,VIP
-CUST-00214,Lindsay Francis,wileymichelle@yahoo.com,(401) 950-9954,2,tier1,POS-00432:tier1:conf=1.00:via=ECOM-00214;ECOM-00214:tier1:conf=1.00:via=POS-00432,1966.15,9.0,3.0,0.333,2025-03-13,2026-06-18,18.0,False,False,regular
-CUST-00215,Matthew Wilson,christopher70@yahoo.com,,2,tier1,POS-00433:tier1:conf=1.00:via=ECOM-00215;ECOM-00215:tier1:conf=1.00:via=POS-00433,496.0,1.0,0.0,0.0,2026-05-15,2026-05-15,52.0,False,False,new
-CUST-00216,Tammy Dalton,stevenvargas@yahoo.com,,2,tier2,POS-00435:tier2:conf=1.00:via=ECOM-00216;ECOM-00216:tier2:conf=1.00:via=POS-00435,792.0,4.0,2.0,0.5,2025-03-18,2026-05-18,49.0,False,True,watch
-CUST-00217,Tammy Ballard,adamortiz@gmail.com,,2,tier1,POS-00437:tier1:conf=1.00:via=ECOM-00217;ECOM-00217:tier1:conf=1.00:via=POS-00437,1316.0,6.0,1.0,0.167,2024-09-03,2026-02-25,131.0,False,False,regular
-CUST-00218,Anna Herman,,(468) 522-7438,2,tier2,POS-00445:tier2:conf=1.00:via=ECOM-00218;ECOM-00218:tier2:conf=1.00:via=POS-00445,1098.0,6.0,1.0,0.167,2025-04-19,2026-04-16,81.0,False,False,regular
-CUST-00219,Madison Blankenship,grahamtamara@gmail.com,,3,tier1,POS-00448:tier1:conf=1.00:via=ECOM-00219;POS-00449:tier1:conf=1.00:via=POS-00448;ECOM-00219:tier1:conf=1.00:via=POS-00448,296.0,1.0,0.0,0.0,2025-07-21,2025-07-21,350.0,False,False,new
-CUST-00220,Kevin Ortiz,louis43@gmail.com,,1,single_record,ECOM-00220:anchor,1965.58,12.0,4.0,0.333,2025-07-29,2026-06-28,8.0,True,False,VIP
-CUST-00221,Donald Shah,derekcarrillo@gmail.com,,1,single_record,ECOM-00221:anchor,1735.81,10.0,0.0,0.0,2025-01-11,2026-03-11,117.0,True,False,VIP
-CUST-00222,Kevin Vasquez,danielcole@yahoo.com,,2,tier1,POS-00450:tier1:conf=1.00:via=ECOM-00222;ECOM-00222:tier1:conf=1.00:via=POS-00450,1301.91,8.0,4.0,0.5,2026-05-03,2026-06-24,12.0,False,True,watch
-CUST-00223,Derek Chavez,qparker@gmail.com,,2,tier2,POS-00452:tier2:conf=1.00:via=ECOM-00223;ECOM-00223:tier2:conf=1.00:via=POS-00452,693.43,4.0,0.0,0.0,2026-03-02,2026-07-05,1.0,False,False,regular
-CUST-00224,Tracy Russell,dawsontanya@yahoo.com,(305) 343-2989,2,tier1,POS-00457:tier1:conf=1.00:via=ECOM-00224;ECOM-00224:tier1:conf=1.00:via=POS-00457,2836.73,13.0,1.0,0.077,2024-06-14,2025-10-26,253.0,True,False,VIP
-CUST-00225,Stephanie Foley,codygarcia@gmail.com,,2,tier1,POS-00460:tier1:conf=1.00:via=ECOM-00225;ECOM-00225:tier1:conf=1.00:via=POS-00460,941.06,5.0,0.0,0.0,2026-01-10,2026-06-15,21.0,False,False,regular
-CUST-00226,Danielle Johnson,,(494) 278-2479,1,single_record,POS-00001:anchor,1643.23,8.0,0.0,0.0,2024-03-25,2026-03-25,103.0,False,False,regular
-CUST-00227,Kathryn Miller,williamsmatthew@gmail.com,(243) 660-4084,2,tier2,POS-00004:tier2:conf=0.94:via=POS-00005;POS-00005:tier2:conf=0.94:via=POS-00004,496.0,1.0,0.0,0.0,2026-06-12,2026-06-12,24.0,False,False,new
-CUST-00228,Patricia Miller,,(264) 661-2695,1,single_record,POS-00006:anchor,632.99,4.0,0.0,0.0,2025-09-24,2026-05-12,55.0,False,False,regular
-CUST-00229,Robert Johnson,lisahall@gmail.com,(552) 931-2381,1,single_record,POS-00007:anchor,1098.0,6.0,0.0,0.0,2026-04-20,2026-06-19,17.0,False,False,regular
-CUST-00230,Jeffery Wagner,ramireztracey@gmail.com,,1,single_record,POS-00008:anchor,1049.12,6.0,0.0,0.0,2025-07-15,2026-05-04,63.0,False,False,regular
-CUST-00231,Debra Gardner,howardkristina@hotmail.com,(737) 735-3600,1,single_record,POS-00010:anchor,2674.45,11.0,3.0,0.273,2025-05-29,2026-05-05,62.0,True,False,VIP
-CUST-00232,Jeffrey Lawrence,alfred40@gmail.com,,1,single_record,POS-00011:anchor,1158.0,6.0,1.0,0.167,2025-01-22,2026-02-03,153.0,False,False,regular
-CUST-00233,Lisa Smith,xwest@hotmail.com,(254) 846-6482,2,tier2,POS-00012:tier2:conf=1.00:via=POS-00013;POS-00013:tier2:conf=1.00:via=POS-00012,306.46,2.0,0.0,0.0,2025-11-29,2026-07-04,2.0,False,False,regular
-CUST-00234,Susan Rogers,gsimmons@yahoo.com,(491) 458-3463,1,single_record,POS-00014:anchor,367.95,2.0,0.0,0.0,2025-09-09,2026-03-15,113.0,False,False,regular
-CUST-00235,Christopher Davis,,(880) 344-6731,1,single_record,POS-00015:anchor,139.96,1.0,0.0,0.0,2026-01-23,2026-01-23,164.0,False,False,new
-CUST-00236,Lindsay Blair,cameronhill@hotmail.com,(602) 332-2388,1,single_record,POS-00016:anchor,1737.54,8.0,1.0,0.125,2026-01-15,2026-05-31,36.0,False,False,regular
-CUST-00237,Nicholas Arnold,bwagner@gmail.com,(957) 901-9624,1,single_record,POS-00018:anchor,1085.75,6.0,1.0,0.167,2026-01-05,2026-03-18,110.0,False,False,regular
-CUST-00238,Maria Montgomery,farrelldebra@hotmail.com,,1,single_record,POS-00019:anchor,1108.0,6.0,3.0,0.5,2024-12-03,2026-07-01,5.0,False,True,watch
-CUST-00239,Michelle Ray,russellbeasley@yahoo.com,,1,single_record,POS-00020:anchor,1608.24,7.0,2.0,0.286,2025-04-01,2026-05-27,40.0,False,False,regular
-CUST-00240,Cynthia Diaz,lisa80@hotmail.com,(833) 334-7172,1,single_record,POS-00024:anchor,2048.0,9.0,2.0,0.222,2025-03-18,2026-05-10,57.0,True,False,VIP
-CUST-00241,Joe Zuniga,uparrish@gmail.com,(444) 654-5668,2,tier2,POS-00025:tier2:conf=0.94:via=POS-00026;POS-00026:tier2:conf=0.94:via=POS-00025,1236.0,5.0,1.0,0.2,2025-03-11,2026-05-27,40.0,False,False,regular
-CUST-00242,Deborah Lynch,caroline51@hotmail.com,(660) 439-9749,2,tier2,POS-00027:tier2:conf=0.94:via=POS-00028;POS-00028:tier2:conf=0.94:via=POS-00027,1375.59,5.0,0.0,0.0,2026-05-10,2026-06-27,9.0,False,False,new
-CUST-00243,George Daniel,megan51@yahoo.com,(592) 714-9641,1,single_record,POS-00029:anchor,2216.16,11.0,0.0,0.0,2025-05-15,2026-05-21,46.0,True,False,VIP
-CUST-00244,Frank Gray,lindsaybruce@hotmail.com,(405) 819-3267,2,tier1,POS-00030:tier1:conf=1.00:via=POS-00031;POS-00031:tier1:conf=1.00:via=POS-00030,2336.0,11.0,1.0,0.091,2025-07-08,2026-05-25,42.0,True,False,VIP
-CUST-00245,Veronica Bowman,lynchdiane@hotmail.com,(492) 285-3626,1,single_record,POS-00032:anchor,1012.04,5.0,0.0,0.0,2025-07-07,2026-05-03,64.0,False,False,regular
-CUST-00246,Angela Cohen,anthony44@yahoo.com,,2,tier1,POS-00033:tier1:conf=1.00:via=POS-00034;POS-00034:tier1:conf=1.00:via=POS-00033,1248.0,4.0,0.0,0.0,2025-08-06,2026-04-17,80.0,False,False,regular
-CUST-00247,Megan Parsons,adam29@hotmail.com,(625) 254-7495,1,single_record,POS-00035:anchor,1581.11,8.0,1.0,0.125,2025-03-25,2026-06-26,10.0,False,False,regular
-CUST-00248,Jeremy Johnson,vjones@hotmail.com,,1,single_record,POS-00036:anchor,478.68,3.0,0.0,0.0,2025-06-09,2025-09-10,299.0,False,False,regular
-CUST-00249,Jason Hahn,jennifer99@gmail.com,(866) 543-3392,2,tier2,POS-00038:tier2:conf=1.00:via=POS-00039;POS-00039:tier2:conf=1.00:via=POS-00038,1116.25,4.0,1.0,0.25,2024-06-20,2026-04-15,82.0,False,False,regular
-CUST-00250,Diana Foster,nelsonebony@yahoo.com,,1,single_record,POS-00040:anchor,988.41,6.0,1.0,0.167,2026-02-21,2026-05-30,37.0,False,False,regular
-CUST-00251,Robin Ellis,,(282) 219-5193,1,single_record,POS-00041:anchor,2242.6,11.0,4.0,0.364,2025-10-20,2026-05-22,45.0,True,False,VIP
-CUST-00252,Joseph Wright,nperry@hotmail.com,(762) 944-9647,1,single_record,POS-00042:anchor,976.3,6.0,2.0,0.333,2025-01-02,2026-05-11,56.0,False,False,regular
-CUST-00253,Brenda Hurst,trose@gmail.com,(669) 264-2816,2,tier2,POS-00045:tier2:conf=1.00:via=POS-00046;POS-00046:tier2:conf=1.00:via=POS-00045,664.0,3.0,0.0,0.0,2026-01-12,2026-06-21,15.0,False,False,regular
-CUST-00254,Reginald Robinson,kevinclark@gmail.com,,1,single_record,POS-00047:anchor,1047.37,5.0,0.0,0.0,2024-04-26,2025-01-09,543.0,False,False,regular
-CUST-00255,Whitney Hicks,,(348) 498-8032,1,single_record,POS-00048:anchor,840.0,4.0,0.0,0.0,2025-09-28,2026-04-02,95.0,False,False,regular
-CUST-00256,Christopher Williams,keith10@yahoo.com,,1,single_record,POS-00049:anchor,524.0,3.0,1.0,0.333,2024-11-10,2026-01-27,160.0,False,False,regular
-CUST-00257,Daniel Burton,vincentwhitaker@yahoo.com,(737) 569-2108,1,single_record,POS-00050:anchor,1551.93,9.0,3.0,0.333,2025-12-06,2026-06-28,8.0,False,False,regular
-CUST-00258,Laura Henderson,sandersjudy@yahoo.com,,1,single_record,POS-00051:anchor,2653.31,15.0,2.0,0.133,2025-09-26,2026-06-29,7.0,True,False,VIP
-CUST-00259,Wendy Rice,zroberts@gmail.com,(566) 269-6649,1,single_record,POS-00054:anchor,1206.0,6.0,2.0,0.333,2024-12-31,2026-05-21,46.0,False,False,regular
-CUST-00260,Tasha Valencia,george97@hotmail.com,(844) 306-6447,1,single_record,POS-00055:anchor,1955.47,12.0,2.0,0.167,2024-11-13,2026-04-16,81.0,True,False,VIP
-CUST-00261,Alexander Le,,(760) 546-3868,1,single_record,POS-00056:anchor,3139.17,14.0,0.0,0.0,2024-05-30,2026-05-24,43.0,True,False,VIP
-CUST-00262,Erin Herrera,christopher13@yahoo.com,(676) 912-8840,1,single_record,POS-00057:anchor,1030.0,4.0,1.0,0.25,2026-05-14,2026-06-10,26.0,False,False,new
-CUST-00263,Shawn Mckay,schmidtjames@yahoo.com,(669) 237-5807,1,single_record,POS-00059:anchor,1207.23,5.0,2.0,0.4,2026-01-21,2026-06-25,11.0,False,False,regular
-CUST-00264,Nancy Baker,,(405) 242-6170,1,single_record,POS-00060:anchor,178.0,1.0,1.0,1.0,2026-05-25,2026-05-25,42.0,False,False,new
-CUST-00265,Rita Harrell,jonathanthompson@gmail.com,,2,tier2,POS-00062:tier2:conf=1.00:via=POS-00063;POS-00063:tier2:conf=1.00:via=POS-00062,1724.45,10.0,1.0,0.1,2026-02-20,2026-06-30,6.0,True,False,VIP
-CUST-00266,Kenneth Fowler,,(872) 539-5476,1,single_record,POS-00064:anchor,1928.83,9.0,5.0,0.556,2026-03-27,2026-07-04,2.0,False,True,watch
-CUST-00267,Kathryn Ryan,,(392) 708-9151,1,single_record,POS-00066:anchor,1637.63,8.0,1.0,0.125,2025-02-10,2026-01-13,174.0,False,False,regular
-CUST-00268,Aaron Nguyen,harrisoncrystal@yahoo.com,,1,single_record,POS-00068:anchor,2216.59,11.0,0.0,0.0,2024-05-28,2026-05-15,52.0,True,False,VIP
-CUST-00269,Andrew Hickman,,(501) 528-2680,1,single_record,POS-00069:anchor,1595.43,6.0,0.0,0.0,2026-05-10,2026-07-05,1.0,False,False,new
-CUST-00270,Natasha Decker,,(503) 513-8305,1,single_record,POS-00070:anchor,863.48,5.0,0.0,0.0,2024-08-02,2026-02-13,143.0,False,False,regular
-CUST-00271,Kyle Brown,bellcharles@yahoo.com,(371) 906-8272,1,single_record,POS-00071:anchor,2512.12,12.0,2.0,0.167,2025-09-26,2026-04-29,68.0,True,False,VIP
-CUST-00272,Christopher Tucker,jford@hotmail.com,(482) 854-1939,1,single_record,POS-00073:anchor,855.31,5.0,0.0,0.0,2025-09-28,2026-03-30,98.0,False,False,regular
-CUST-00273,Chad Hodges,colelisa@hotmail.com,(616) 572-9406,1,single_record,POS-00074:anchor,311.92,1.0,0.0,0.0,2024-11-23,2024-11-23,590.0,False,False,new
-CUST-00274,Thomas Pierce,wagnergerald@gmail.com,(895) 648-1570,1,single_record,POS-00075:anchor,326.16,2.0,0.0,0.0,2024-08-24,2025-10-23,256.0,False,False,regular
-CUST-00275,Samuel Holmes,mathewaguilar@gmail.com,(581) 654-2259,2,tier2,POS-00078:tier2:conf=0.94:via=POS-00079;POS-00079:tier2:conf=0.94:via=POS-00078,1940.14,10.0,0.0,0.0,2025-07-18,2026-05-11,56.0,True,False,VIP
-CUST-00276,David Walker,elizabethcalderon@hotmail.com,,1,single_record,POS-00081:anchor,514.0,3.0,0.0,0.0,2025-01-15,2025-07-05,366.0,False,False,regular
-CUST-00277,Matthew Chapman,,(467) 920-8311,1,single_record,POS-00082:anchor,2351.76,10.0,0.0,0.0,2025-08-07,2026-06-08,28.0,True,False,VIP
-CUST-00278,Jerry Robinson,lucasrodney@yahoo.com,(493) 910-9047,2,tier2,POS-00083:tier2:conf=1.00:via=POS-00084;POS-00084:tier2:conf=1.00:via=POS-00083,1601.22,5.0,0.0,0.0,2025-02-21,2026-01-29,158.0,False,False,regular
-CUST-00279,Chad Welch,coxhenry@gmail.com,,1,single_record,POS-00085:anchor,2861.74,11.0,1.0,0.091,2026-01-06,2026-07-02,4.0,True,False,VIP
-CUST-00280,Jeremy Whitehead,stacey73@gmail.com,(528) 883-6692,1,single_record,POS-00086:anchor,198.0,1.0,1.0,1.0,2025-12-12,2025-12-12,206.0,False,False,new
-CUST-00281,John Caldwell,stanleynancy@hotmail.com,,1,single_record,POS-00087:anchor,2784.13,14.0,1.0,0.071,2024-06-10,2026-02-22,134.0,True,False,VIP
-CUST-00282,Lindsey Lee,pyoung@yahoo.com,(443) 705-1430,1,single_record,POS-00090:anchor,1178.96,6.0,1.0,0.167,2024-11-28,2025-10-12,267.0,False,False,regular
-CUST-00283,Rodney Owens,smurray@yahoo.com,,1,single_record,POS-00091:anchor,504.0,3.0,0.0,0.0,2026-01-06,2026-06-07,29.0,False,False,regular
-CUST-00284,Jessica Nunez,mburch@hotmail.com,(765) 332-2412,1,single_record,POS-00092:anchor,896.79,5.0,1.0,0.2,2025-09-05,2026-05-14,53.0,False,False,regular
-CUST-00285,Jessica Nunez,moniquewilliams@yahoo.com,,1,single_record,POS-00093:anchor,284.94,2.0,1.0,0.5,2026-04-12,2026-05-14,53.0,False,False,regular
-CUST-00286,Tracey Garcia,angela18@gmail.com,(739) 620-7708,1,single_record,POS-00094:anchor,1877.1,10.0,0.0,0.0,2026-01-21,2026-06-26,10.0,True,False,VIP
-CUST-00287,Richard Morgan,christopher24@yahoo.com,,1,single_record,POS-00095:anchor,168.0,1.0,0.0,0.0,2026-05-11,2026-05-11,56.0,False,False,new
-CUST-00288,Michelle Wright,mariahdavis@gmail.com,(858) 275-8372,2,tier2,POS-00096:tier2:conf=1.00:via=POS-00097;POS-00097:tier2:conf=1.00:via=POS-00096,1790.63,10.0,1.0,0.1,2024-08-07,2026-05-24,43.0,True,False,VIP
-CUST-00289,James West,sandersnathaniel@yahoo.com,(644) 714-1907,1,single_record,POS-00098:anchor,1774.94,9.0,2.0,0.222,2026-03-22,2026-06-19,17.0,False,False,regular
-CUST-00290,Rob Ramirez,,(732) 490-2292,2,tier2,POS-00099:tier2:conf=0.94:via=POS-00100;POS-00100:tier2:conf=0.94:via=POS-00099,837.33,4.0,1.0,0.25,2026-03-24,2026-06-14,22.0,False,False,regular
-CUST-00291,John Leblanc,,(765) 481-3050,1,single_record,POS-00101:anchor,1267.65,6.0,2.0,0.333,2025-01-31,2026-06-06,30.0,False,False,regular
-CUST-00292,Andrea Williams,lacey20@yahoo.com,,1,single_record,POS-00102:anchor,1428.9,7.0,1.0,0.143,2025-08-04,2026-03-14,114.0,False,False,regular
-CUST-00293,Yvette Huff,awest@gmail.com,,1,single_record,POS-00103:anchor,302.62,2.0,1.0,0.5,2025-12-01,2025-12-07,211.0,False,False,regular
-CUST-00294,Tanya House,scottmary@hotmail.com,(358) 375-6531,1,single_record,POS-00104:anchor,2195.73,8.0,2.0,0.25,2025-11-07,2026-06-23,13.0,True,False,VIP
-CUST-00295,Todd Lewis,,(247) 856-5336,1,single_record,POS-00106:anchor,812.0,3.0,0.0,0.0,2026-06-21,2026-07-02,4.0,False,False,new
-CUST-00296,Nicholas Galloway,fbrown@hotmail.com,,1,single_record,POS-00108:anchor,803.8,4.0,1.0,0.25,2025-11-22,2026-06-21,15.0,False,False,regular
-CUST-00297,Spencer Henderson,ashleylopez@hotmail.com,,1,single_record,POS-00111:anchor,1542.78,9.0,0.0,0.0,2024-12-10,2026-06-25,11.0,False,False,regular
-CUST-00298,Angela Higgins,qzavala@hotmail.com,,1,single_record,POS-00113:anchor,1546.0,6.0,0.0,0.0,2025-04-05,2026-04-17,80.0,False,False,regular
-CUST-00299,Tanya Riley,ingramjill@yahoo.com,(554) 608-3142,2,tier2,POS-00115:tier2:conf=1.00:via=POS-00116;POS-00116:tier2:conf=1.00:via=POS-00115,1183.55,5.0,2.0,0.4,2026-04-11,2026-06-28,8.0,False,False,regular
-CUST-00300,Amy Adkins,,(678) 325-5382,1,single_record,POS-00117:anchor,0.0,0.0,0.0,0.0,,,,False,False,new
-CUST-00301,Brian Silva,,(364) 535-6123,1,single_record,POS-00119:anchor,964.28,6.0,1.0,0.167,2025-07-16,2026-06-13,23.0,False,False,regular
-CUST-00302,Wesley Farrell,zwelch@gmail.com,(711) 727-8648,1,single_record,POS-00120:anchor,315.29,2.0,0.0,0.0,2024-11-26,2025-05-11,421.0,False,False,regular
-CUST-00303,Eric Yu,baldwinsherry@gmail.com,(710) 223-2475,1,single_record,POS-00121:anchor,1148.0,5.0,0.0,0.0,2025-07-29,2026-06-12,24.0,False,False,regular
-CUST-00304,Joe Wilson,,(562) 249-1828,2,tier1,POS-00122:tier1:conf=1.00:via=POS-00123;POS-00123:tier1:conf=1.00:via=POS-00122,2712.07,13.0,3.0,0.231,2024-12-26,2026-05-10,57.0,True,False,VIP
-CUST-00305,Pamela Sanchez,glennmartin@gmail.com,(983) 612-6995,1,single_record,POS-00124:anchor,436.0,2.0,2.0,1.0,2025-10-08,2026-06-16,20.0,False,False,regular
-CUST-00306,Brooke Harvey,samuel67@yahoo.com,,1,single_record,POS-00125:anchor,178.0,1.0,0.0,0.0,2025-02-16,2025-02-16,505.0,False,False,new
-CUST-00307,Robert Silva,terri77@yahoo.com,,1,single_record,POS-00126:anchor,1730.0,7.0,0.0,0.0,2025-08-24,2026-06-23,13.0,False,False,regular
-CUST-00308,Alexandra Donovan,laurie61@yahoo.com,,1,single_record,POS-00127:anchor,580.64,3.0,0.0,0.0,2025-01-19,2025-09-06,303.0,False,False,regular
-CUST-00309,John Foster,donna47@hotmail.com,,1,single_record,POS-00128:anchor,1705.09,9.0,0.0,0.0,2025-03-16,2026-04-09,88.0,False,False,regular
-CUST-00310,Emily Evans,cjackson@yahoo.com,,1,single_record,POS-00129:anchor,1386.0,7.0,1.0,0.143,2026-04-06,2026-06-09,27.0,False,False,regular
-CUST-00311,Yolanda Ferrell,lambertrichard@hotmail.com,,2,tier1,POS-00131:tier1:conf=1.00:via=POS-00132;POS-00132:tier1:conf=1.00:via=POS-00131,113.83,1.0,0.0,0.0,2026-04-01,2026-04-01,96.0,False,False,new
-CUST-00312,Charles Lewis,,(722) 611-9193,1,single_record,POS-00133:anchor,1276.94,7.0,1.0,0.143,2024-12-11,2026-06-04,32.0,False,False,regular
-CUST-00313,Mike Moore,khines@gmail.com,(344) 535-6218,1,single_record,POS-00136:anchor,284.47,2.0,1.0,0.5,2026-04-15,2026-06-01,35.0,False,False,regular
-CUST-00314,Martha Warner,raymond43@gmail.com,,1,single_record,POS-00137:anchor,1515.57,7.0,3.0,0.429,2024-09-21,2026-04-09,88.0,False,False,regular
-CUST-00315,Destiny Smith,greenjorge@yahoo.com,(808) 544-9311,1,single_record,POS-00138:anchor,653.54,5.0,1.0,0.2,2026-03-26,2026-06-27,9.0,False,False,regular
-CUST-00316,Lisa Evans,wendymitchell@yahoo.com,,1,single_record,POS-00139:anchor,574.0,2.0,0.0,0.0,2026-05-26,2026-05-28,39.0,False,False,new
-CUST-00317,Elizabeth Mcmillan,davidfarrell@yahoo.com,(507) 686-1272,1,single_record,POS-00140:anchor,774.72,5.0,0.0,0.0,2025-05-22,2025-12-23,195.0,False,False,regular
-CUST-00318,Jennifer Harris,kristyjohnson@hotmail.com,,1,single_record,POS-00143:anchor,970.0,5.0,0.0,0.0,2024-04-18,2026-01-15,172.0,False,False,regular
-CUST-00319,Tracy Whitehead,jonesraymond@hotmail.com,,1,single_record,POS-00144:anchor,1432.15,7.0,1.0,0.143,2025-07-07,2026-06-18,18.0,False,False,regular
-CUST-00320,Meghan Davis,xfox@yahoo.com,(590) 351-4968,1,single_record,POS-00145:anchor,672.99,4.0,0.0,0.0,2025-11-21,2026-05-20,47.0,False,False,regular
-CUST-00321,Rodney Hill,martinezlogan@gmail.com,,1,single_record,POS-00146:anchor,1968.13,10.0,4.0,0.4,2024-04-19,2026-06-04,32.0,True,False,VIP
-CUST-00322,Adam Wise,,(220) 651-6139,1,single_record,POS-00147:anchor,2766.56,14.0,0.0,0.0,2025-12-27,2026-07-05,1.0,True,False,VIP
-CUST-00323,Ronald Smith,katrinaanderson@hotmail.com,,1,single_record,POS-00149:anchor,1688.75,8.0,1.0,0.125,2026-03-19,2026-07-04,2.0,False,False,regular
-CUST-00324,Becky Gardner,stacey84@gmail.com,(690) 738-7173,2,tier1,POS-00150:tier1:conf=1.00:via=POS-00151;POS-00151:tier1:conf=1.00:via=POS-00150,1843.99,8.0,1.0,0.125,2026-04-02,2026-07-02,4.0,False,False,regular
-CUST-00325,Mary Aguilar,james84@gmail.com,(551) 759-6804,2,tier2,POS-00152:tier2:conf=1.00:via=POS-00153;POS-00153:tier2:conf=1.00:via=POS-00152,529.37,3.0,0.0,0.0,2025-06-06,2025-12-05,213.0,False,False,regular
-CUST-00326,Kimberly Henson,barkereric@yahoo.com,(589) 604-6654,1,single_record,POS-00157:anchor,642.34,4.0,0.0,0.0,2025-12-07,2026-05-26,41.0,False,False,regular
-CUST-00327,Eric Spears,,(244) 494-2294,1,single_record,POS-00158:anchor,138.0,1.0,0.0,0.0,2026-05-16,2026-05-16,51.0,False,False,new
-CUST-00328,Michelle Cherry,larryhiggins@hotmail.com,(872) 462-8849,1,single_record,POS-00159:anchor,1062.09,6.0,1.0,0.167,2025-03-04,2026-03-07,121.0,False,False,regular
-CUST-00329,Lisa Keith,,(752) 477-5450,1,single_record,POS-00160:anchor,2051.66,8.0,1.0,0.125,2024-09-08,2026-06-24,12.0,True,False,VIP
-CUST-00330,Kristin Rodriguez,,(862) 260-2465,1,single_record,POS-00166:anchor,2583.03,12.0,2.0,0.167,2024-12-10,2026-03-01,127.0,True,False,VIP
-CUST-00331,Monica Garrison,james27@hotmail.com,,1,single_record,POS-00167:anchor,722.0,4.0,0.0,0.0,2026-02-07,2026-03-19,109.0,False,False,regular
-CUST-00332,Steven Torres,davisphillip@yahoo.com,,1,single_record,POS-00169:anchor,255.11,2.0,0.0,0.0,2025-05-23,2025-07-29,342.0,False,False,regular
-CUST-00333,Laura Perez,,(782) 817-2758,1,single_record,POS-00171:anchor,660.04,3.0,0.0,0.0,2024-03-05,2026-05-12,55.0,False,False,regular
-CUST-00334,Andrew Lee,,(857) 756-9590,1,single_record,POS-00172:anchor,1572.6,9.0,0.0,0.0,2024-12-24,2026-05-23,44.0,False,False,regular
-CUST-00335,Tammy Ramirez,kathryn50@yahoo.com,(680) 479-4159,1,single_record,POS-00173:anchor,782.0,4.0,0.0,0.0,2025-05-11,2026-06-24,12.0,False,False,regular
-CUST-00336,Darlene Ross,,(367) 948-8518,1,single_record,POS-00174:anchor,2046.0,11.0,3.0,0.273,2026-04-19,2026-07-03,3.0,True,False,VIP
-CUST-00337,Tina Herrera,,(391) 214-6523,1,single_record,POS-00175:anchor,801.33,5.0,1.0,0.2,2026-02-07,2026-07-03,3.0,False,False,regular
-CUST-00338,Sheila Wilson,,(891) 975-4164,1,single_record,POS-00176:anchor,168.0,1.0,0.0,0.0,2026-03-27,2026-03-27,101.0,False,False,new
-CUST-00339,Tara White,charles87@hotmail.com,(616) 637-9442,1,single_record,POS-00177:anchor,360.21,2.0,0.0,0.0,2025-11-29,2026-03-07,121.0,False,False,regular
-CUST-00340,Tara White,marcia99@gmail.com,,1,single_record,POS-00178:anchor,438.61,3.0,0.0,0.0,2024-10-28,2025-12-25,193.0,False,False,regular
-CUST-00341,Jessica Edwards,cporter@gmail.com,(207) 467-7284,1,single_record,POS-00180:anchor,2850.0,12.0,1.0,0.083,2025-01-03,2026-06-09,27.0,True,False,VIP
-CUST-00342,Catherine Dixon,jenniferbrock@hotmail.com,,1,single_record,POS-00181:anchor,817.32,5.0,1.0,0.2,2024-12-11,2026-01-24,163.0,False,False,regular
-CUST-00343,Paul Ray,ghernandez@gmail.com,(510) 796-1187,1,single_record,POS-00182:anchor,818.06,4.0,0.0,0.0,2024-11-02,2026-06-01,35.0,False,False,regular
-CUST-00344,Amanda Ball,terickson@yahoo.com,(264) 883-2936,1,single_record,POS-00183:anchor,821.98,5.0,1.0,0.2,2025-05-19,2026-05-10,57.0,False,False,regular
-CUST-00345,Judy Lambert,,(616) 902-9233,1,single_record,POS-00184:anchor,524.0,3.0,1.0,0.333,2025-08-20,2026-06-05,31.0,False,False,regular
-CUST-00346,Elizabeth Rivera,,(321) 854-5833,1,single_record,POS-00185:anchor,901.84,5.0,1.0,0.2,2026-03-31,2026-06-29,7.0,False,False,regular
-CUST-00347,Lee Charles,laura09@yahoo.com,,1,single_record,POS-00186:anchor,2649.59,11.0,4.0,0.364,2025-01-20,2026-03-23,105.0,True,False,VIP
-CUST-00348,Kyle Ortiz,silvageorge@hotmail.com,,1,single_record,POS-00188:anchor,168.0,1.0,0.0,0.0,2025-04-28,2025-04-28,434.0,False,False,new
-CUST-00349,Shelby Byrd,roberthampton@yahoo.com,(284) 738-8319,1,single_record,POS-00190:anchor,554.0,3.0,0.0,0.0,2026-03-24,2026-06-27,9.0,False,False,regular
-CUST-00350,Raven Gilbert,thorntonapril@hotmail.com,(280) 777-2838,1,single_record,POS-00191:anchor,982.25,6.0,2.0,0.333,2025-07-29,2026-07-05,1.0,False,False,regular
-CUST-00351,Kevin Kelley,whitney78@yahoo.com,(718) 407-9792,1,single_record,POS-00192:anchor,772.86,4.0,2.0,0.5,2024-08-06,2025-11-04,244.0,False,True,watch
-CUST-00352,Aaron Mitchell,,(733) 652-2904,1,single_record,POS-00193:anchor,1472.8,8.0,0.0,0.0,2024-08-14,2026-01-11,176.0,False,False,regular
-CUST-00353,Russell Carpenter,,(798) 700-2489,1,single_record,POS-00194:anchor,3150.01,15.0,3.0,0.2,2025-12-16,2026-07-01,5.0,True,False,VIP
-CUST-00354,Scott Lewis,erica49@yahoo.com,(665) 335-9409,1,single_record,POS-00195:anchor,2493.4,10.0,2.0,0.2,2025-04-16,2026-05-28,39.0,True,False,VIP
-CUST-00355,Thomas Santana,susanramirez@yahoo.com,,1,single_record,POS-00196:anchor,2085.64,10.0,4.0,0.4,2025-04-08,2026-06-26,10.0,True,False,VIP
-CUST-00356,Laura Jackson,shellyhendrix@yahoo.com,,1,single_record,POS-00197:anchor,684.55,3.0,0.0,0.0,2025-01-07,2025-10-01,278.0,False,False,regular
-CUST-00357,Cynthia Rogers,,(553) 917-2044,1,single_record,POS-00199:anchor,1523.2,7.0,1.0,0.143,2024-04-07,2026-05-08,59.0,False,False,regular
-CUST-00358,Emily Walker,reedscott@yahoo.com,(271) 683-1519,2,tier2,POS-00200:tier2:conf=1.00:via=POS-00201;POS-00201:tier2:conf=1.00:via=POS-00200,1704.67,9.0,0.0,0.0,2024-10-02,2026-04-27,70.0,False,False,regular
-CUST-00359,James Johnson,,(857) 946-7887,1,single_record,POS-00202:anchor,1100.95,5.0,0.0,0.0,2026-03-28,2026-05-28,39.0,False,False,regular
-CUST-00360,John Alvarez,derrick99@gmail.com,(592) 659-7184,2,tier2,POS-00203:tier2:conf=1.00:via=POS-00204;POS-00204:tier2:conf=1.00:via=POS-00203,1716.6,9.0,0.0,0.0,2025-03-11,2026-03-22,106.0,False,False,regular
-CUST-00361,Melissa Jones,brentstein@gmail.com,(322) 382-9802,1,single_record,POS-00205:anchor,1285.04,7.0,2.0,0.286,2025-11-18,2026-06-22,14.0,False,False,regular
-CUST-00362,Gregory Rubio,,(809) 234-8314,1,single_record,POS-00211:anchor,629.44,4.0,0.0,0.0,2025-07-13,2025-11-20,228.0,False,False,regular
-CUST-00363,Stephen Solis,nancy04@hotmail.com,(451) 958-1724,1,single_record,POS-00212:anchor,1128.6,7.0,1.0,0.143,2026-01-06,2026-06-15,21.0,False,False,regular
-CUST-00364,Elizabeth Travis,hebertmatthew@yahoo.com,,1,single_record,POS-00213:anchor,842.0,4.0,0.0,0.0,2025-04-14,2026-05-12,55.0,False,False,regular
-CUST-00365,Patricia Salazar,znelson@gmail.com,(258) 343-9255,1,single_record,POS-00214:anchor,416.0,2.0,0.0,0.0,2025-03-29,2025-10-17,262.0,False,False,regular
-CUST-00366,Maria Kelley,alexisrogers@yahoo.com,,1,single_record,POS-00217:anchor,674.09,4.0,0.0,0.0,2025-07-29,2026-06-20,16.0,False,False,regular
-CUST-00367,Thomas Green,frobertson@yahoo.com,(842) 895-7999,1,single_record,POS-00218:anchor,1555.17,7.0,0.0,0.0,2026-01-31,2026-06-28,8.0,False,False,regular
-CUST-00368,Katie Boyd,,(627) 618-3444,1,single_record,POS-00220:anchor,930.0,4.0,0.0,0.0,2025-06-27,2026-05-08,59.0,False,False,regular
-CUST-00369,Amber Taylor,contrerassteven@gmail.com,,1,single_record,POS-00221:anchor,416.0,1.0,1.0,1.0,2026-04-04,2026-04-04,93.0,False,False,new
-CUST-00370,Jasmine Brown,,(925) 347-8586,1,single_record,POS-00222:anchor,792.0,3.0,0.0,0.0,2026-06-17,2026-07-03,3.0,False,False,new
-CUST-00371,Robert Clark,,(409) 538-2295,1,single_record,POS-00224:anchor,1198.0,5.0,0.0,0.0,2025-04-04,2026-06-26,10.0,False,False,regular
-CUST-00372,Brandy Dominguez,madkins@yahoo.com,,1,single_record,POS-00225:anchor,139.31,1.0,0.0,0.0,2026-06-30,2026-06-30,6.0,False,False,new
-CUST-00373,Melissa Cannon,emiles@hotmail.com,(396) 252-5398,1,single_record,POS-00226:anchor,1813.7,10.0,1.0,0.1,2025-07-21,2026-06-14,22.0,True,False,VIP
-CUST-00374,Michael Molina,foxallison@yahoo.com,,1,single_record,POS-00227:anchor,699.64,4.0,1.0,0.25,2025-12-24,2026-05-26,41.0,False,False,regular
-CUST-00375,Melissa Ashley,starkdaniel@hotmail.com,(393) 979-4555,1,single_record,POS-00228:anchor,352.5,2.0,0.0,0.0,2024-06-11,2026-05-27,40.0,False,False,regular
-CUST-00376,Melissa Ashley,ashleyhernandez@yahoo.com,(541) 510-1251,1,single_record,POS-00229:anchor,1230.17,6.0,1.0,0.167,2025-05-07,2026-04-08,89.0,False,False,regular
-CUST-00377,Robert Adkins,nwilson@hotmail.com,(960) 320-8846,1,single_record,POS-00230:anchor,141.16,1.0,0.0,0.0,2025-12-09,2025-12-09,209.0,False,False,new
-CUST-00378,Amy Morrison,gdavis@yahoo.com,(921) 409-7498,1,single_record,POS-00231:anchor,1028.0,5.0,1.0,0.2,2025-07-30,2026-07-05,1.0,False,False,regular
-CUST-00379,Jeffrey Robinson,chavezwilliam@yahoo.com,,1,single_record,POS-00232:anchor,1055.52,5.0,2.0,0.4,2025-03-14,2026-03-20,108.0,False,False,regular
-CUST-00380,Ryan Johnson,,(678) 746-6886,1,single_record,POS-00233:anchor,168.0,1.0,0.0,0.0,2026-03-21,2026-03-21,107.0,False,False,new
-CUST-00381,Richard Martin,fosterlisa@hotmail.com,,1,single_record,POS-00234:anchor,722.0,3.0,1.0,0.333,2024-12-29,2026-04-29,68.0,False,False,regular
-CUST-00382,Richard Martin,,(940) 680-6246,1,single_record,POS-00235:anchor,188.0,1.0,0.0,0.0,2026-05-01,2026-05-01,66.0,False,False,new
-CUST-00383,Tanner Anderson,bethwilliams@yahoo.com,,1,single_record,POS-00236:anchor,940.8,6.0,2.0,0.333,2024-08-28,2026-05-19,48.0,False,False,regular
-CUST-00384,Cindy Johnson,,(427) 959-3390,1,single_record,POS-00237:anchor,178.0,1.0,0.0,0.0,2026-01-18,2026-01-18,169.0,False,False,new
-CUST-00385,Jason Murphy,rbennett@hotmail.com,(503) 356-4214,1,single_record,POS-00238:anchor,2172.56,9.0,0.0,0.0,2025-09-05,2026-04-21,76.0,True,False,VIP
-CUST-00386,Kathleen Gray,,(784) 451-9180,1,single_record,POS-00239:anchor,840.56,4.0,0.0,0.0,2025-03-05,2026-04-13,84.0,False,False,regular
-CUST-00387,Johnny Miller,,(982) 700-9037,1,single_record,POS-00240:anchor,1530.29,8.0,3.0,0.375,2025-12-19,2026-06-28,8.0,False,False,regular
-CUST-00388,Andrew Ryan,,(561) 373-3293,1,single_record,POS-00241:anchor,356.0,1.0,0.0,0.0,2025-06-08,2025-06-08,393.0,False,False,new
-CUST-00389,Zoe Bell,avilatiffany@yahoo.com,,1,single_record,POS-00242:anchor,1296.52,5.0,1.0,0.2,2026-01-21,2026-05-07,60.0,False,False,regular
-CUST-00390,Denise Webster,rreed@gmail.com,(277) 884-1794,1,single_record,POS-00244:anchor,2961.2,13.0,1.0,0.077,2024-05-11,2026-06-26,10.0,True,False,VIP
-CUST-00391,Stefanie Gonzalez,,(341) 845-4791,1,single_record,POS-00245:anchor,2176.0,10.0,1.0,0.1,2026-02-28,2026-06-20,16.0,True,False,VIP
-CUST-00392,Andrew Hernandez,johnsondonna@hotmail.com,(210) 423-9285,1,single_record,POS-00246:anchor,3560.62,15.0,2.0,0.133,2024-05-04,2026-07-01,5.0,True,False,VIP
-CUST-00393,Julie Wilson,jim95@hotmail.com,,1,single_record,POS-00249:anchor,1299.1,7.0,2.0,0.286,2025-01-27,2026-06-18,18.0,False,False,regular
-CUST-00394,Lori Oconnell,,(915) 890-8054,1,single_record,POS-00250:anchor,1819.13,9.0,1.0,0.111,2025-03-07,2026-07-03,3.0,False,False,regular
-CUST-00395,Larry Byrd,conniesimmons@yahoo.com,,1,single_record,POS-00252:anchor,2141.12,11.0,1.0,0.091,2025-10-15,2026-06-30,6.0,True,False,VIP
-CUST-00396,Jennifer Jones,trussell@yahoo.com,,1,single_record,POS-00254:anchor,2382.86,10.0,0.0,0.0,2025-05-20,2026-05-21,46.0,True,False,VIP
-CUST-00397,Hannah Burton,,(901) 282-1519,2,tier2,POS-00255:tier2:conf=1.00:via=POS-00256;POS-00256:tier2:conf=1.00:via=POS-00255,1326.0,6.0,2.0,0.333,2026-01-27,2026-06-07,29.0,False,False,regular
-CUST-00398,Curtis Barton,meredith27@gmail.com,,1,single_record,POS-00257:anchor,1386.84,7.0,0.0,0.0,2025-08-05,2026-04-01,96.0,False,False,regular
-CUST-00399,Melissa Burke,jfaulkner@hotmail.com,,2,tier1,POS-00258:tier1:conf=1.00:via=POS-00259;POS-00259:tier1:conf=1.00:via=POS-00258,228.0,1.0,0.0,0.0,2025-11-22,2025-11-22,226.0,False,False,new
-CUST-00400,David Riggs,paulscott@yahoo.com,(244) 435-4463,1,single_record,POS-00260:anchor,0.0,0.0,0.0,0.0,,,,False,False,new
-CUST-00401,Ross Wood,russojacob@hotmail.com,(384) 522-1256,2,tier2,POS-00262:tier2:conf=1.00:via=POS-00263;POS-00263:tier2:conf=1.00:via=POS-00262,1457.56,6.0,0.0,0.0,2025-08-11,2026-06-14,22.0,False,False,regular
-CUST-00402,William Peterson,susan03@gmail.com,(608) 278-5903,1,single_record,POS-00264:anchor,242.6,1.0,0.0,0.0,2026-07-03,2026-07-03,3.0,False,False,new
-CUST-00403,Cynthia Poole,michael77@gmail.com,(906) 941-2284,1,single_record,POS-00267:anchor,178.0,1.0,0.0,0.0,2025-06-28,2025-06-28,373.0,False,False,new
-CUST-00404,Joseph Morton,,(850) 479-8381,1,single_record,POS-00271:anchor,1097.61,6.0,0.0,0.0,2026-03-19,2026-05-27,40.0,False,False,regular
-CUST-00405,Amanda Webb,,(767) 584-8075,1,single_record,POS-00272:anchor,832.0,4.0,1.0,0.25,2025-06-21,2026-02-21,135.0,False,False,regular
-CUST-00406,Ryan Simon,jonathan77@yahoo.com,,1,single_record,POS-00273:anchor,917.41,5.0,0.0,0.0,2026-01-13,2026-06-01,35.0,False,False,regular
-CUST-00407,Joseph Christian,,(834) 502-5037,1,single_record,POS-00274:anchor,1348.04,7.0,3.0,0.429,2025-03-18,2026-07-01,5.0,False,False,regular
-CUST-00408,Mariah Miller,,(475) 357-7225,1,single_record,POS-00275:anchor,1842.17,10.0,2.0,0.2,2026-01-07,2026-06-15,21.0,True,False,VIP
-CUST-00409,Nicole Sanchez,jessicabell@gmail.com,(358) 957-7383,1,single_record,POS-00276:anchor,865.17,5.0,0.0,0.0,2026-01-06,2026-06-01,35.0,False,False,regular
-CUST-00410,Nicholas Johnson,,(206) 515-8286,1,single_record,POS-00277:anchor,1843.67,8.0,1.0,0.125,2025-01-13,2026-05-25,42.0,False,False,regular
-CUST-00411,Melissa White,warrenmary@gmail.com,(305) 335-2430,1,single_record,POS-00278:anchor,1218.0,6.0,1.0,0.167,2025-04-05,2025-12-29,189.0,False,False,regular
-CUST-00412,Jacqueline Hill,,(563) 767-2524,1,single_record,POS-00280:anchor,2121.65,11.0,0.0,0.0,2024-12-03,2026-05-27,40.0,True,False,VIP
-CUST-00413,Alejandro Vaughan,nbrooks@hotmail.com,,1,single_record,POS-00281:anchor,114.35,1.0,0.0,0.0,2026-05-24,2026-05-24,43.0,False,False,new
-CUST-00414,Christopher Cortez,bhopkins@gmail.com,(213) 498-7779,1,single_record,POS-00282:anchor,396.0,2.0,0.0,0.0,2025-07-02,2025-07-06,365.0,False,False,regular
-CUST-00415,Tracy Chang,hsmith@hotmail.com,(943) 772-4977,1,single_record,POS-00283:anchor,1298.34,7.0,0.0,0.0,2025-06-24,2026-06-21,15.0,False,False,regular
-CUST-00416,Christopher Walker,,(705) 349-2036,1,single_record,POS-00286:anchor,1168.87,6.0,2.0,0.333,2024-10-20,2026-05-02,65.0,False,False,regular
-CUST-00417,Heather Torres,warrenjohn@hotmail.com,,1,single_record,POS-00287:anchor,1053.84,7.0,0.0,0.0,2024-07-06,2025-11-15,233.0,False,False,regular
-CUST-00418,Bonnie Kennedy,,(279) 569-5123,1,single_record,POS-00288:anchor,1877.53,10.0,2.0,0.2,2025-07-21,2026-07-02,4.0,True,False,VIP
-CUST-00419,Julie Rivera,,(207) 605-6443,1,single_record,POS-00290:anchor,218.0,1.0,0.0,0.0,2025-08-29,2025-08-29,311.0,False,False,new
-CUST-00420,Julie Rivera,kevinclayton@gmail.com,(538) 650-6484,1,single_record,POS-00291:anchor,153.74,1.0,0.0,0.0,2025-12-01,2025-12-01,217.0,False,False,new
-CUST-00421,Jacqueline Nelson,davisnicholas@hotmail.com,(867) 808-3230,1,single_record,POS-00292:anchor,3640.13,17.0,7.0,0.412,2025-03-31,2026-06-22,14.0,True,False,VIP
-CUST-00422,James Wilson,christopherbruce@hotmail.com,(527) 498-9044,1,single_record,POS-00294:anchor,1260.92,6.0,1.0,0.167,2024-10-04,2026-02-18,138.0,False,False,regular
-CUST-00423,Amanda Gill,ariel18@gmail.com,(534) 585-5592,1,single_record,POS-00295:anchor,652.0,4.0,0.0,0.0,2025-08-19,2026-05-02,65.0,False,False,regular
-CUST-00424,James Perez,thickman@gmail.com,(587) 275-8357,1,single_record,POS-00301:anchor,2352.51,12.0,3.0,0.25,2024-09-20,2026-03-30,98.0,True,False,VIP
-CUST-00425,Harry Smith,ashleyatkinson@hotmail.com,,1,single_record,POS-00302:anchor,1660.18,9.0,1.0,0.111,2025-11-19,2026-05-18,49.0,False,False,regular
-CUST-00426,Amanda Hill,patrick21@hotmail.com,,1,single_record,POS-00303:anchor,964.55,5.0,1.0,0.2,2025-06-06,2026-06-16,20.0,False,False,regular
-CUST-00427,Terri Tran,brian63@gmail.com,(757) 237-6890,1,single_record,POS-00304:anchor,1178.1,6.0,2.0,0.333,2026-06-20,2026-07-05,1.0,False,False,new
-CUST-00428,Heidi Martinez,cassie99@yahoo.com,(750) 808-2392,1,single_record,POS-00305:anchor,1563.08,9.0,0.0,0.0,2025-12-25,2026-06-26,10.0,False,False,regular
-CUST-00429,Monique Andrews,,(881) 563-3725,1,single_record,POS-00306:anchor,351.21,2.0,0.0,0.0,2026-03-19,2026-03-23,105.0,False,False,regular
-CUST-00430,Jack Williams,,(861) 893-7547,1,single_record,POS-00307:anchor,1128.0,5.0,1.0,0.2,2026-01-31,2026-06-04,32.0,False,False,regular
-CUST-00431,Shelley Woods,,(641) 308-1172,2,tier2,POS-00308:tier2:conf=1.00:via=POS-00309;POS-00309:tier2:conf=1.00:via=POS-00308,556.48,3.0,0.0,0.0,2026-03-30,2026-06-16,20.0,False,False,regular
-CUST-00432,Krystal Perez,fgarcia@yahoo.com,(803) 907-9199,1,single_record,POS-00311:anchor,2155.02,9.0,2.0,0.222,2025-05-13,2026-05-24,43.0,True,False,VIP
-CUST-00433,Alexandra Hayes,,(226) 694-2712,1,single_record,POS-00312:anchor,142.18,1.0,0.0,0.0,2025-04-27,2025-04-27,435.0,False,False,new
-CUST-00434,Scott Dalton,carlsonkristen@yahoo.com,,1,single_record,POS-00313:anchor,178.0,1.0,0.0,0.0,2026-06-01,2026-06-01,35.0,False,False,new
-CUST-00435,Veronica Torres,ashleyjackson@yahoo.com,(948) 345-6707,1,single_record,POS-00314:anchor,950.0,4.0,1.0,0.25,2026-01-19,2026-07-04,2.0,False,False,regular
-CUST-00436,Christine Lynch,,(412) 733-8912,1,single_record,POS-00315:anchor,1382.54,7.0,1.0,0.143,2025-07-22,2026-05-18,49.0,False,False,regular
-CUST-00437,Jody Meza,dominicturner@yahoo.com,,1,single_record,POS-00316:anchor,1909.71,10.0,2.0,0.2,2025-01-16,2026-04-20,77.0,True,False,VIP
-CUST-00438,Donna Moore,todd15@yahoo.com,(527) 268-5919,1,single_record,POS-00317:anchor,1065.26,5.0,1.0,0.2,2026-04-13,2026-05-19,48.0,False,False,regular
-CUST-00439,Glenn Jones,jennifersimpson@hotmail.com,(318) 223-6620,1,single_record,POS-00318:anchor,294.57,2.0,1.0,0.5,2026-03-31,2026-04-30,67.0,False,False,regular
-CUST-00440,Aaron Hayes,,(369) 958-4996,1,single_record,POS-00319:anchor,1344.08,8.0,1.0,0.125,2025-11-02,2026-06-28,8.0,False,False,regular
-CUST-00441,Kristin Weber,tamaranovak@yahoo.com,(438) 614-4022,1,single_record,POS-00321:anchor,1890.0,7.0,1.0,0.143,2025-05-18,2026-05-08,59.0,False,False,regular
-CUST-00442,Donna Peck,yfaulkner@gmail.com,,1,single_record,POS-00322:anchor,2474.8,15.0,1.0,0.067,2024-07-25,2025-09-27,282.0,True,False,VIP
-CUST-00443,Ronald Stephens,nicholas65@gmail.com,,1,single_record,POS-00323:anchor,1449.53,9.0,1.0,0.111,2025-03-24,2026-06-07,29.0,False,False,regular
-CUST-00444,Deborah Kerr,brittanygardner@hotmail.com,,2,tier2,POS-00324:tier2:conf=0.94:via=POS-00325;POS-00325:tier2:conf=0.94:via=POS-00324,1583.27,7.0,0.0,0.0,2026-01-31,2026-06-14,22.0,False,False,regular
-CUST-00445,Margaret Jones,,(486) 970-2025,1,single_record,POS-00326:anchor,1674.79,9.0,0.0,0.0,2026-01-23,2026-05-30,37.0,False,False,regular
-CUST-00446,Gabriel Parker,,(750) 391-6993,1,single_record,POS-00327:anchor,1138.0,5.0,1.0,0.2,2025-11-10,2026-07-05,1.0,False,False,regular
-CUST-00447,Kaitlyn Carroll,,(317) 468-9019,1,single_record,POS-00328:anchor,813.78,3.0,0.0,0.0,2025-03-16,2026-05-24,43.0,False,False,regular
-CUST-00448,Sherri Mason,ttaylor@gmail.com,,1,single_record,POS-00330:anchor,1138.0,6.0,0.0,0.0,2025-07-22,2026-03-20,108.0,False,False,regular
-CUST-00449,Bill Reynolds,eewing@hotmail.com,(505) 829-2388,1,single_record,POS-00332:anchor,1291.93,6.0,0.0,0.0,2025-12-15,2026-05-28,39.0,False,False,regular
-CUST-00450,Will Reynolds,,(388) 582-3316,1,single_record,POS-00333:anchor,1254.88,7.0,1.0,0.143,2024-09-13,2026-05-01,66.0,False,False,regular
-CUST-00451,Marcus Wright,sferguson@yahoo.com,,1,single_record,POS-00334:anchor,208.0,1.0,0.0,0.0,2026-06-19,2026-06-19,17.0,False,False,new
-CUST-00452,Christopher Hayden,gabriel90@hotmail.com,,1,single_record,POS-00336:anchor,873.68,4.0,0.0,0.0,2025-01-11,2026-05-26,41.0,False,False,regular
-CUST-00453,Emily Adams,michaeljohnson@gmail.com,(697) 339-4196,2,tier2,POS-00338:tier2:conf=1.00:via=POS-00339;POS-00339:tier2:conf=1.00:via=POS-00338,492.86,2.0,1.0,0.5,2025-08-12,2025-11-23,225.0,False,False,regular
-CUST-00454,Sabrina White,gbailey@yahoo.com,,1,single_record,POS-00340:anchor,1544.39,8.0,1.0,0.125,2025-08-17,2026-06-03,33.0,False,False,regular
-CUST-00455,Brenda Walters,tflores@gmail.com,,1,single_record,POS-00341:anchor,1949.9,10.0,1.0,0.1,2025-06-26,2026-07-03,3.0,True,False,VIP
-CUST-00456,Michael Cook,sarahyang@hotmail.com,,1,single_record,POS-00343:anchor,306.0,2.0,1.0,0.5,2024-06-02,2024-10-27,617.0,False,False,regular
-CUST-00457,Elizabeth Hodge,andrearivera@yahoo.com,(500) 233-5503,1,single_record,POS-00344:anchor,1434.0,7.0,1.0,0.143,2026-04-09,2026-07-04,2.0,False,False,regular
-CUST-00458,Lisa Pierce,,(757) 575-9880,1,single_record,POS-00347:anchor,581.52,2.0,1.0,0.5,2024-05-09,2024-12-15,568.0,False,False,regular
-CUST-00459,Richard Robertson,lloydamanda@yahoo.com,(661) 469-6711,1,single_record,POS-00350:anchor,1636.91,8.0,0.0,0.0,2026-06-21,2026-07-05,1.0,False,False,new
-CUST-00460,Vanessa Sandoval,james14@hotmail.com,(650) 320-4882,1,single_record,POS-00351:anchor,1554.0,8.0,0.0,0.0,2026-06-07,2026-07-03,3.0,False,False,new
-CUST-00461,Amy Gutierrez,orose@yahoo.com,(803) 905-6744,1,single_record,POS-00352:anchor,871.9,3.0,0.0,0.0,2024-12-07,2026-02-06,150.0,False,False,regular
-CUST-00462,Jacob Cox,lcarr@gmail.com,(848) 638-3719,1,single_record,POS-00353:anchor,1870.0,10.0,2.0,0.2,2026-06-06,2026-06-23,13.0,True,False,VIP
-CUST-00463,Katherine Garrett,,(412) 411-1972,1,single_record,POS-00354:anchor,1732.81,9.0,2.0,0.222,2025-10-09,2026-06-28,8.0,False,False,regular
-CUST-00464,Andrea Pennington,samantha91@hotmail.com,,1,single_record,POS-00355:anchor,356.0,2.0,0.0,0.0,2025-07-24,2026-05-30,37.0,False,False,regular
-CUST-00465,Andrea Pennington,,(921) 499-5740,1,single_record,POS-00356:anchor,107.45,1.0,0.0,0.0,2026-06-27,2026-06-27,9.0,False,False,new
-CUST-00466,Samuel Wolfe,,(727) 895-2560,1,single_record,POS-00357:anchor,208.0,1.0,0.0,0.0,2025-12-01,2025-12-01,217.0,False,False,new
-CUST-00467,David Dudley,lawrenceallen@gmail.com,(622) 260-5543,1,single_record,POS-00358:anchor,2969.63,12.0,1.0,0.083,2024-07-16,2026-06-20,16.0,True,False,VIP
-CUST-00468,Marilyn Jimenez,stephanie72@gmail.com,,1,single_record,POS-00362:anchor,1768.03,8.0,1.0,0.125,2025-10-01,2026-05-13,54.0,False,False,regular
-CUST-00469,Joshua Davenport,fortiz@yahoo.com,,1,single_record,POS-00363:anchor,168.0,1.0,0.0,0.0,2025-12-08,2025-12-08,210.0,False,False,new
-CUST-00470,Natasha Shields,,(728) 967-5558,1,single_record,POS-00364:anchor,346.0,2.0,1.0,0.5,2026-03-17,2026-05-06,61.0,False,False,regular
-CUST-00471,Joshua Tyler,hdunn@hotmail.com,(578) 665-8996,1,single_record,POS-00365:anchor,168.0,1.0,0.0,0.0,2026-02-04,2026-02-04,152.0,False,False,new
-CUST-00472,Justin Evans,pgarcia@gmail.com,,1,single_record,POS-00367:anchor,1233.45,7.0,3.0,0.429,2026-05-04,2026-07-01,5.0,False,False,regular
-CUST-00473,Andrea Daniels,michelle96@gmail.com,(899) 980-1793,1,single_record,POS-00370:anchor,179.04,1.0,0.0,0.0,2025-09-24,2025-09-24,285.0,False,False,new
-CUST-00474,Jacob Terry,amanda98@gmail.com,(217) 327-3588,1,single_record,POS-00372:anchor,803.41,5.0,1.0,0.2,2026-04-08,2026-06-30,6.0,False,False,regular
-CUST-00475,Ashley Hall,tiffany44@hotmail.com,,1,single_record,POS-00373:anchor,1071.61,7.0,2.0,0.286,2025-04-24,2026-04-07,90.0,False,False,regular
-CUST-00476,Kimberly Williams,,(906) 335-5945,1,single_record,POS-00374:anchor,178.0,1.0,0.0,0.0,2026-03-14,2026-03-14,114.0,False,False,new
-CUST-00477,Julie Thornton,stephanie81@gmail.com,(481) 295-6905,1,single_record,POS-00375:anchor,541.06,4.0,0.0,0.0,2024-06-26,2026-04-06,91.0,False,False,regular
-CUST-00478,Lisa Hughes,,(881) 864-3711,1,single_record,POS-00376:anchor,426.0,2.0,0.0,0.0,2025-05-23,2026-02-11,145.0,False,False,regular
-CUST-00479,Tina Simpson,jacquelineanderson@gmail.com,,1,single_record,POS-00379:anchor,208.0,1.0,1.0,1.0,2026-02-13,2026-02-13,143.0,False,False,new
-CUST-00480,Morgan Alexander,powellkara@hotmail.com,(633) 910-3165,1,single_record,POS-00380:anchor,1565.0,8.0,2.0,0.25,2025-02-07,2026-04-09,88.0,False,False,regular
-CUST-00481,Diana Moore,sreid@yahoo.com,,1,single_record,POS-00381:anchor,899.28,4.0,0.0,0.0,2024-11-01,2026-04-13,84.0,False,False,regular
-CUST-00482,Matthew Schwartz,troymorris@yahoo.com,,2,tier1,POS-00383:tier1:conf=1.00:via=POS-00384;POS-00384:tier1:conf=1.00:via=POS-00383,1610.86,8.0,1.0,0.125,2025-05-19,2026-05-30,37.0,False,False,regular
-CUST-00483,Melissa Villarreal,bsmith@gmail.com,(651) 559-4490,1,single_record,POS-00386:anchor,277.76,2.0,0.0,0.0,2026-02-08,2026-03-16,112.0,False,False,regular
-CUST-00484,Norman Stewart,nicoleturner@yahoo.com,(622) 830-8248,1,single_record,POS-00387:anchor,1973.25,10.0,3.0,0.3,2025-10-13,2026-05-08,59.0,True,False,VIP
-CUST-00485,Monique Johnson,,(327) 803-7291,1,single_record,POS-00389:anchor,1644.26,9.0,3.0,0.333,2024-06-04,2026-03-19,109.0,False,False,regular
-CUST-00486,Samantha Bright,rubendavis@gmail.com,(875) 508-4366,2,tier2,POS-00391:tier2:conf=1.00:via=POS-00392;POS-00392:tier2:conf=1.00:via=POS-00391,1040.86,6.0,1.0,0.167,2025-12-26,2026-05-17,50.0,False,False,regular
-CUST-00487,Julie Hamilton,lewischristian@hotmail.com,,1,single_record,POS-00393:anchor,564.0,3.0,0.0,0.0,2025-10-08,2026-03-05,123.0,False,False,regular
-CUST-00488,Heather Berger,edwardsnicole@gmail.com,,1,single_record,POS-00395:anchor,1326.0,7.0,0.0,0.0,2024-12-02,2026-05-31,36.0,False,False,regular
-CUST-00489,Brandon Flynn,wayala@gmail.com,(213) 569-6185,2,tier2,POS-00396:tier2:conf=1.00:via=POS-00397;POS-00397:tier2:conf=1.00:via=POS-00396,810.0,3.0,0.0,0.0,2025-04-05,2025-10-10,269.0,False,False,regular
-CUST-00490,Kelly Brooks,scottbowen@hotmail.com,(783) 630-6986,1,single_record,POS-00398:anchor,2030.11,9.0,3.0,0.333,2025-05-07,2026-06-06,30.0,True,False,VIP
-CUST-00491,Dustin Schmidt,samanthajensen@yahoo.com,(982) 682-2195,1,single_record,POS-00399:anchor,742.2,3.0,0.0,0.0,2025-10-08,2026-03-21,107.0,False,False,regular
-CUST-00492,Ashlee Sparks,christophergarcia@gmail.com,,1,single_record,POS-00400:anchor,536.93,3.0,0.0,0.0,2024-12-07,2025-12-24,194.0,False,False,regular
-CUST-00493,George Miller,,(241) 261-7520,1,single_record,POS-00401:anchor,1464.0,7.0,0.0,0.0,2024-06-26,2026-02-23,133.0,False,False,regular
-CUST-00494,Monica Harvey,,(930) 713-7806,1,single_record,POS-00402:anchor,913.4,5.0,0.0,0.0,2025-06-18,2026-06-20,16.0,False,False,regular
-CUST-00495,Douglas Murray,,(286) 517-2294,1,single_record,POS-00404:anchor,1422.53,6.0,3.0,0.5,2025-11-03,2026-06-11,25.0,False,True,watch
-CUST-00496,Albert Ballard,kimberly04@gmail.com,(360) 749-6353,2,tier2,POS-00405:tier2:conf=1.00:via=POS-00406;POS-00406:tier2:conf=1.00:via=POS-00405,138.0,1.0,0.0,0.0,2025-04-09,2025-04-09,453.0,False,False,new
-CUST-00497,Rachel Byrd,ricetiffany@yahoo.com,,1,single_record,POS-00408:anchor,554.0,3.0,0.0,0.0,2025-03-23,2026-03-23,105.0,False,False,regular
-CUST-00498,Eric Alexander,,(289) 644-2900,1,single_record,POS-00409:anchor,97.54,1.0,0.0,0.0,2025-09-06,2025-09-06,303.0,False,False,new
-CUST-00499,Danielle Coleman,kathrynbest@gmail.com,,1,single_record,POS-00410:anchor,2727.99,13.0,1.0,0.077,2025-09-24,2026-06-15,21.0,True,False,VIP
-CUST-00500,John Bruce,matthewsalexander@gmail.com,(874) 958-3877,1,single_record,POS-00411:anchor,1018.14,5.0,1.0,0.2,2025-01-25,2025-09-18,291.0,False,False,regular
-CUST-00501,James Cruz,,(341) 918-1185,1,single_record,POS-00412:anchor,168.0,1.0,1.0,1.0,2024-08-31,2024-08-31,674.0,False,False,new
-CUST-00502,James Cruz,livingstonstacy@yahoo.com,(736) 729-5247,1,single_record,POS-00413:anchor,732.0,4.0,1.0,0.25,2025-06-25,2026-06-17,19.0,False,False,regular
-CUST-00503,Victoria Phillips,joshuacollins@hotmail.com,(476) 950-2934,1,single_record,POS-00414:anchor,702.38,4.0,0.0,0.0,2024-07-23,2025-08-07,333.0,False,False,regular
-CUST-00504,Joshua Knight,wwillis@hotmail.com,,1,single_record,POS-00416:anchor,1584.0,7.0,1.0,0.143,2026-05-13,2026-07-02,4.0,False,False,new
-CUST-00505,Gina Garner,,(930) 790-2262,1,single_record,POS-00417:anchor,178.0,1.0,1.0,1.0,2025-10-07,2025-10-07,272.0,False,False,new
-CUST-00506,Tyler Strong,sanchezsandy@gmail.com,,1,single_record,POS-00418:anchor,777.54,4.0,0.0,0.0,2025-07-13,2026-05-29,38.0,False,False,regular
-CUST-00507,Dana Oliver,martinstephanie@hotmail.com,(203) 245-1201,2,tier2,POS-00420:tier2:conf=1.00:via=POS-00421;POS-00421:tier2:conf=1.00:via=POS-00420,1459.0,5.0,1.0,0.2,2024-06-25,2026-06-30,6.0,False,False,regular
-CUST-00508,Courtney Berger,,(932) 958-7870,1,single_record,POS-00423:anchor,2887.68,13.0,1.0,0.077,2026-06-04,2026-07-02,4.0,True,False,VIP
-CUST-00509,Jessica Davis,kvillarreal@yahoo.com,,1,single_record,POS-00424:anchor,1476.2,8.0,2.0,0.25,2024-12-05,2026-05-31,36.0,False,False,regular
-CUST-00510,Gregory Anderson,perezwilliam@gmail.com,(254) 383-4656,2,tier2,POS-00426:tier2:conf=1.00:via=POS-00427;POS-00427:tier2:conf=1.00:via=POS-00426,1740.0,8.0,0.0,0.0,2025-07-26,2026-07-04,2.0,False,False,regular
-CUST-00511,Amber Mata,haroldhorne@gmail.com,,2,tier1,POS-00428:tier1:conf=1.00:via=POS-00429;POS-00429:tier1:conf=1.00:via=POS-00428,534.0,3.0,0.0,0.0,2026-01-05,2026-06-27,9.0,False,False,regular
-CUST-00512,Alyssa Mcintyre,pwalker@yahoo.com,,1,single_record,POS-00430:anchor,869.84,5.0,1.0,0.2,2024-12-04,2026-05-09,58.0,False,False,regular
-CUST-00513,Sydney Taylor,kellymueller@hotmail.com,(225) 438-9872,1,single_record,POS-00434:anchor,1228.0,6.0,1.0,0.167,2024-10-19,2026-06-17,19.0,False,False,regular
-CUST-00514,Jennifer Whitney,,(874) 585-6038,1,single_record,POS-00436:anchor,883.42,4.0,1.0,0.25,2024-12-16,2026-05-04,63.0,False,False,regular
-CUST-00515,Michael Gibbs,cynthia05@gmail.com,,1,single_record,POS-00438:anchor,138.0,1.0,0.0,0.0,2025-03-15,2025-03-15,478.0,False,False,new
-CUST-00516,Alexander Herrera,usweeney@yahoo.com,(346) 928-5584,1,single_record,POS-00439:anchor,987.96,6.0,1.0,0.167,2024-04-01,2026-01-12,175.0,False,False,regular
-CUST-00517,Shawn Chambers,,(438) 732-7767,1,single_record,POS-00440:anchor,732.0,3.0,0.0,0.0,2024-11-29,2026-03-03,125.0,False,False,regular
-CUST-00518,Emily Richards,harristonya@yahoo.com,(670) 965-2391,1,single_record,POS-00441:anchor,1439.45,8.0,1.0,0.125,2026-01-16,2026-06-25,11.0,False,False,regular
-CUST-00519,Lynn Bentley,,(337) 852-7461,1,single_record,POS-00442:anchor,1452.29,9.0,0.0,0.0,2025-09-01,2026-06-05,31.0,False,False,regular
-CUST-00520,Daniel Hall,jwoodward@hotmail.com,,1,single_record,POS-00443:anchor,1249.26,5.0,1.0,0.2,2024-11-04,2026-03-16,112.0,False,False,regular
-CUST-00521,Angel Henson,christopher38@yahoo.com,,1,single_record,POS-00444:anchor,1292.64,6.0,0.0,0.0,2024-08-28,2025-06-08,393.0,False,False,regular
-CUST-00522,Jeffrey Brown,danafoster@hotmail.com,,2,tier2,POS-00446:tier2:conf=1.00:via=POS-00447;POS-00447:tier2:conf=1.00:via=POS-00446,1534.5,6.0,0.0,0.0,2025-07-26,2026-06-02,34.0,False,False,regular
-CUST-00523,Colton Clay,wmartinez@gmail.com,,1,single_record,POS-00451:anchor,779.24,5.0,1.0,0.2,2024-12-12,2026-05-25,42.0,False,False,regular
-CUST-00524,Ellen Paul,,(536) 351-2494,1,single_record,POS-00453:anchor,1610.45,8.0,1.0,0.125,2024-05-14,2026-02-10,146.0,False,False,regular
-CUST-00525,Sonya Barnes,,(565) 605-9412,1,single_record,POS-00454:anchor,1026.57,6.0,0.0,0.0,2026-02-18,2026-06-13,23.0,False,False,regular
-CUST-00526,Julia Moore,mooregina@hotmail.com,(467) 378-1509,1,single_record,POS-00455:anchor,1339.71,8.0,1.0,0.125,2024-04-06,2026-05-21,46.0,False,False,regular
-CUST-00527,Robert Garcia,lewismelissa@gmail.com,(770) 966-5093,1,single_record,POS-00456:anchor,539.08,3.0,0.0,0.0,2025-04-14,2026-01-30,157.0,False,False,regular
-CUST-00528,Stephanie Johnson,byrdjorge@gmail.com,(428) 333-4246,1,single_record,POS-00458:anchor,1128.35,6.0,1.0,0.167,2024-06-22,2026-06-05,31.0,False,False,regular
-CUST-00529,Mitchell Ramos,cranemelissa@hotmail.com,,1,single_record,POS-00459:anchor,1491.52,7.0,2.0,0.286,2026-05-04,2026-07-04,2.0,False,False,regular
+CUST-00001,Joshua Walker,ndavis@hotmail.com,,3,tier2,POS-00002:tier2:conf=1.00:via=POS-00003;POS-00003:tier2:conf=1.00:via=POS-00002;ECOM-00001:tier2:conf=1.00:via=POS-00002,1003.53,6.0,0.0,0.0,2025-11-26,2026-04-15,82,False,False,regular
+CUST-00002,Anthony Gonzalez,lauren10@gmail.com,,2,tier1,POS-00009:tier1:conf=1.00:via=ECOM-00002;ECOM-00002:tier1:conf=1.00:via=POS-00009,1940.88,9.0,2.0,0.222,2024-08-09,2026-05-09,58,False,False,regular
+CUST-00003,Lisa Smith,hayesjeffrey@hotmail.com,,1,single_record,ECOM-00003:anchor,860.0,4.0,0.0,0.0,2026-04-08,2026-06-24,12,False,False,regular
+CUST-00004,Linda Wolfe,acostaregina@hotmail.com,,1,single_record,ECOM-00004:anchor,530.41,3.0,0.0,0.0,2025-06-11,2025-08-07,333,False,False,regular
+CUST-00005,Matthew Moore,stephen00@yahoo.com,,1,single_record,ECOM-00005:anchor,1877.24,10.0,1.0,0.1,2024-05-30,2026-06-20,16,True,False,VIP
+CUST-00006,Melanie Munoz,fjones@yahoo.com,,1,single_record,ECOM-00006:anchor,1066.26,4.0,0.0,0.0,2025-08-24,2026-06-19,17,False,False,regular
+CUST-00007,Amanda Dudley,oscar98@yahoo.com,(859) 536-3093,2,tier1,POS-00017:tier1:conf=1.00:via=ECOM-00007;ECOM-00007:tier1:conf=1.00:via=POS-00017,1840.0,7.0,2.0,0.286,2025-03-20,2026-01-30,157,False,False,regular
+CUST-00008,Janet Williams,maria66@hotmail.com,,1,single_record,ECOM-00008:anchor,416.0,2.0,0.0,0.0,2024-02-05,2025-03-26,467,False,False,regular
+CUST-00009,Jeremy Roberts,edwardslarry@yahoo.com,(385) 419-6598,2,tier1,POS-00021:tier1:conf=1.00:via=ECOM-00009;ECOM-00009:tier1:conf=1.00:via=POS-00021,2613.39,12.0,3.0,0.25,2025-03-03,2026-06-20,16,True,False,VIP
+CUST-00010,Christopher Hall,,(341) 358-2264,2,tier2,POS-00022:tier2:conf=1.00:via=ECOM-00010;ECOM-00010:tier2:conf=1.00:via=POS-00022,1256.0,6.0,1.0,0.167,2025-07-24,2026-04-30,67,False,False,regular
+CUST-00011,Craig Ramirez,daviscolin@hotmail.com,,2,tier1,POS-00023:tier1:conf=1.00:via=ECOM-00011;ECOM-00011:tier1:conf=1.00:via=POS-00023,1986.05,10.0,1.0,0.1,2024-11-26,2026-06-16,20,True,False,VIP
+CUST-00012,Mitchell Clark,elizabeth65@hotmail.com,,1,single_record,ECOM-00012:anchor,1599.84,7.0,3.0,0.429,2024-09-09,2026-04-19,78,False,False,regular
+CUST-00013,Leslie Adams,davisalyssa@yahoo.com,(584) 429-1461,2,tier2,POS-00037:tier2:conf=1.00:via=ECOM-00013;ECOM-00013:tier2:conf=1.00:via=POS-00037,1588.7,7.0,2.0,0.286,2025-04-21,2026-06-22,14,False,False,regular
+CUST-00014,Nancy Edwards,moorekaren@gmail.com,,1,single_record,ECOM-00014:anchor,1233.53,7.0,0.0,0.0,2026-03-05,2026-07-05,1,False,False,regular
+CUST-00015,Anna Baker,reeddaniel@hotmail.com,,3,tier2,POS-00043:tier1:conf=1.00:via=ECOM-00015;POS-00044:tier2:conf=1.00:via=POS-00043;ECOM-00015:tier1:conf=1.00:via=POS-00043,1118.88,5.0,0.0,0.0,2025-04-16,2026-03-09,119,False,False,regular
+CUST-00016,Chris Williams,ythompson@hotmail.com,,1,single_record,ECOM-00016:anchor,1128.0,5.0,0.0,0.0,2025-06-21,2026-01-06,181,False,False,regular
+CUST-00017,Bryan James,tberry@hotmail.com,(245) 850-7338,3,tier2,POS-00052:tier1:conf=1.00:via=ECOM-00017;POS-00053:tier2:conf=1.00:via=POS-00052;ECOM-00017:tier1:conf=1.00:via=POS-00052,555.62,3.0,1.0,0.333,2026-02-11,2026-05-23,44,False,False,regular
+CUST-00018,Joseph Davidson,zwarren@yahoo.com,,1,single_record,ECOM-00018:anchor,1160.0,4.0,1.0,0.25,2025-12-12,2026-03-06,122,False,False,regular
+CUST-00019,Daniel Graham,jeffrey21@hotmail.com,,2,tier1,POS-00058:tier1:conf=1.00:via=ECOM-00019;ECOM-00019:tier1:conf=1.00:via=POS-00058,1182.91,6.0,1.0,0.167,2024-07-15,2026-06-08,28,False,False,regular
+CUST-00020,Vincent White,jessica23@gmail.com,(757) 684-5150,2,tier1,POS-00061:tier1:conf=1.00:via=ECOM-00020;ECOM-00020:tier1:conf=1.00:via=POS-00061,1076.92,5.0,1.0,0.2,2025-01-06,2026-03-27,101,False,False,regular
+CUST-00021,Chelsea Hernandez,wwebster@hotmail.com,(648) 609-8204,2,tier1,POS-00065:tier1:conf=1.00:via=ECOM-00021;ECOM-00021:tier1:conf=1.00:via=POS-00065,168.0,1.0,0.0,0.0,2024-06-12,2024-06-12,754,False,False,new
+CUST-00022,Kimberly Moreno,kmaldonado@hotmail.com,(732) 473-2353,2,tier2,POS-00067:tier2:conf=1.00:via=ECOM-00022;ECOM-00022:tier2:conf=1.00:via=POS-00067,1387.7,6.0,1.0,0.167,2025-02-27,2026-04-28,69,False,False,regular
+CUST-00023,Natalie Arroyo,xjohnson@yahoo.com,,2,tier2,POS-00072:tier2:conf=1.00:via=ECOM-00023;ECOM-00023:tier2:conf=1.00:via=POS-00072,866.52,5.0,0.0,0.0,2025-05-29,2026-06-03,33,False,False,regular
+CUST-00024,Chad Hodges,marcalvarez@gmail.com,,1,single_record,ECOM-00024:anchor,0.0,0.0,0.0,0.0,,,99999,False,False,new
+CUST-00025,Katie Anderson,hayeslisa@yahoo.com,,1,single_record,ECOM-00025:anchor,2336.85,11.0,1.0,0.091,2024-04-30,2026-06-30,6,True,False,VIP
+CUST-00026,Joseph Brennan,hritter@hotmail.com,,1,single_record,ECOM-00026:anchor,1394.37,8.0,1.0,0.125,2024-12-06,2026-07-03,3,False,False,regular
+CUST-00027,Rodney Lewis,,(861) 575-6933,2,tier2,POS-00076:tier2:conf=1.00:via=ECOM-00027;ECOM-00027:tier2:conf=1.00:via=POS-00076,436.0,2.0,0.0,0.0,2026-01-18,2026-06-18,18,False,False,regular
+CUST-00028,Amber Blair,rschroeder@hotmail.com,,2,tier1,POS-00077:tier1:conf=1.00:via=ECOM-00028;ECOM-00028:tier1:conf=1.00:via=POS-00077,2584.7,10.0,3.0,0.3,2025-08-14,2026-07-05,1,True,False,VIP
+CUST-00029,James Collins,mccormickdeborah@gmail.com,,1,single_record,ECOM-00029:anchor,1340.32,8.0,3.0,0.375,2024-10-29,2026-06-12,24,False,False,regular
+CUST-00030,Wanda Santos,cody64@yahoo.com,,1,single_record,ECOM-00030:anchor,634.53,4.0,2.0,0.5,2026-01-14,2026-07-04,2,False,True,watch
+CUST-00031,David Walker,collinsnicholas@yahoo.com,(456) 316-1424,2,tier1,POS-00080:tier1:conf=1.00:via=ECOM-00031;ECOM-00031:tier1:conf=1.00:via=POS-00080,1114.08,5.0,0.0,0.0,2025-11-07,2026-06-10,26,False,False,regular
+CUST-00032,Michele Jones,ericphillips@gmail.com,,1,single_record,ECOM-00032:anchor,2381.41,12.0,2.0,0.167,2026-02-02,2026-06-30,6,True,False,VIP
+CUST-00033,Jason Anderson,carlamoore@gmail.com,(362) 928-3852,2,tier1,POS-00088:tier1:conf=1.00:via=ECOM-00033;ECOM-00033:tier1:conf=1.00:via=POS-00088,1868.98,8.0,3.0,0.375,2025-01-29,2026-06-24,12,False,False,regular
+CUST-00034,Selena Duncan,jenniferwilliams@yahoo.com,,1,single_record,ECOM-00034:anchor,1245.38,7.0,0.0,0.0,2025-01-18,2026-07-05,1,False,False,regular
+CUST-00035,Thomas Mueller,tarabishop@hotmail.com,,2,tier1,POS-00089:tier1:conf=1.00:via=ECOM-00035;ECOM-00035:tier1:conf=1.00:via=POS-00089,1055.04,6.0,0.0,0.0,2025-09-15,2026-06-14,22,False,False,regular
+CUST-00036,Collin Jordan,mmckee@yahoo.com,,1,single_record,ECOM-00036:anchor,198.0,1.0,0.0,0.0,2025-09-01,2025-09-01,308,False,False,new
+CUST-00037,Scott Callahan,brooksanthony@gmail.com,,1,single_record,ECOM-00037:anchor,1567.17,8.0,1.0,0.125,2025-10-29,2026-05-31,36,False,False,regular
+CUST-00038,Andrea Williams,ihorton@hotmail.com,,1,single_record,ECOM-00038:anchor,546.43,3.0,0.0,0.0,2026-06-01,2026-06-11,25,False,False,new
+CUST-00039,Melinda Martin,srodriguez@gmail.com,,2,tier1,POS-00105:tier1:conf=1.00:via=ECOM-00039;ECOM-00039:tier1:conf=1.00:via=POS-00105,2141.97,11.0,1.0,0.091,2026-06-03,2026-07-05,1,True,False,VIP
+CUST-00040,Richard Brown,david36@hotmail.com,,2,tier1,POS-00107:tier1:conf=1.00:via=ECOM-00040;ECOM-00040:tier1:conf=1.00:via=POS-00107,604.0,2.0,2.0,1.0,2026-05-15,2026-06-02,34,False,False,new
+CUST-00041,Joseph Bowers,chenbailey@hotmail.com,,3,tier2,POS-00109:tier1:conf=1.00:via=ECOM-00041;POS-00110:tier2:conf=1.00:via=POS-00109;ECOM-00041:tier1:conf=1.00:via=POS-00109,1248.51,7.0,3.0,0.429,2025-10-27,2026-05-10,57,False,False,regular
+CUST-00042,Susan Cowan,millsmichael@hotmail.com,(616) 504-8430,2,tier2,POS-00112:tier2:conf=0.94:via=ECOM-00042;ECOM-00042:tier2:conf=0.94:via=POS-00112,1786.66,10.0,1.0,0.1,2026-04-11,2026-06-20,16,True,False,VIP
+CUST-00043,Eric Phillips,,(822) 347-6121,2,tier2,POS-00114:tier2:conf=1.00:via=ECOM-00043;ECOM-00043:tier2:conf=1.00:via=POS-00114,2405.39,13.0,2.0,0.154,2025-05-24,2026-06-16,20,True,False,VIP
+CUST-00044,Amy Adkins,,(252) 497-7293,2,tier2,POS-00118:tier2:conf=1.00:via=ECOM-00044;ECOM-00044:tier2:conf=1.00:via=POS-00118,781.14,4.0,0.0,0.0,2025-06-28,2026-05-09,58,False,False,regular
+CUST-00045,Eric Yu,james30@yahoo.com,,1,single_record,ECOM-00045:anchor,687.5,3.0,0.0,0.0,2024-02-19,2026-01-05,182,False,False,regular
+CUST-00046,Christopher Lopez,zachary87@yahoo.com,,1,single_record,ECOM-00046:anchor,2008.51,9.0,0.0,0.0,2025-10-06,2026-06-27,9,True,False,VIP
+CUST-00047,Brooke Leonard,mullinsjames@yahoo.com,,1,single_record,ECOM-00047:anchor,1280.26,7.0,1.0,0.143,2025-05-15,2026-04-11,86,False,False,regular
+CUST-00048,James Moran,amymorris@gmail.com,,1,single_record,ECOM-00048:anchor,1520.52,8.0,1.0,0.125,2024-06-06,2025-12-02,216,False,False,regular
+CUST-00049,Leslie Walton,wwilliams@hotmail.com,,1,single_record,ECOM-00049:anchor,574.0,3.0,1.0,0.333,2026-05-03,2026-06-30,6,False,False,regular
+CUST-00050,Charles Ellis,yhill@gmail.com,,2,tier1,POS-00130:tier1:conf=1.00:via=ECOM-00050;ECOM-00050:tier1:conf=1.00:via=POS-00130,900.0,5.0,0.0,0.0,2025-12-16,2026-07-04,2,False,False,regular
+CUST-00051,Joseph Mahoney,ejohnson@gmail.com,,2,tier1,POS-00134:tier1:conf=1.00:via=ECOM-00051;ECOM-00051:tier1:conf=1.00:via=POS-00134,1178.0,5.0,1.0,0.2,2024-06-25,2025-08-13,327,False,False,regular
+CUST-00052,Nicole Suarez,michael90@hotmail.com,(686) 731-8487,2,tier2,POS-00135:tier2:conf=1.00:via=ECOM-00052;ECOM-00052:tier2:conf=1.00:via=POS-00135,2602.23,9.0,3.0,0.333,2024-06-29,2026-05-31,36,True,False,VIP
+CUST-00053,Cheryl Archer,fitzgeraldvictor@yahoo.com,,1,single_record,ECOM-00053:anchor,910.0,5.0,3.0,0.6,2025-10-03,2026-04-10,87,False,True,watch
+CUST-00054,Dennis Wilson,rachelwallace@gmail.com,(890) 312-7824,2,tier1,POS-00141:tier1:conf=1.00:via=ECOM-00054;ECOM-00054:tier1:conf=1.00:via=POS-00141,249.35,2.0,0.0,0.0,2025-04-07,2026-04-24,73,False,False,regular
+CUST-00055,Daniel Tran,elizabeth18@hotmail.com,(943) 904-1436,2,tier2,POS-00142:tier2:conf=0.94:via=ECOM-00055;ECOM-00055:tier2:conf=0.94:via=POS-00142,1131.6,6.0,0.0,0.0,2024-12-23,2026-07-04,2,False,False,regular
+CUST-00056,Joseph Jacobs,davidharris@gmail.com,,1,single_record,ECOM-00056:anchor,138.0,1.0,0.0,0.0,2026-04-01,2026-04-01,96,False,False,new
+CUST-00057,Cynthia Baker,tanner82@hotmail.com,,1,single_record,ECOM-00057:anchor,148.0,1.0,0.0,0.0,2025-08-01,2025-08-01,339,False,False,new
+CUST-00058,Dana Green,howens@yahoo.com,,1,single_record,ECOM-00058:anchor,672.0,3.0,0.0,0.0,2025-11-21,2026-04-03,94,False,False,regular
+CUST-00059,Joyce Arnold,nataliedeleon@hotmail.com,(908) 408-7723,2,tier1,POS-00148:tier1:conf=1.00:via=ECOM-00059;ECOM-00059:tier1:conf=1.00:via=POS-00148,1058.0,6.0,3.0,0.5,2024-11-17,2025-12-09,209,False,True,watch
+CUST-00060,Charles Ware,guerraapril@yahoo.com,,1,single_record,ECOM-00060:anchor,336.0,1.0,1.0,1.0,2025-11-10,2025-11-10,238,False,False,new
+CUST-00061,Earl Anderson,brittanycarpenter@gmail.com,,1,single_record,ECOM-00061:anchor,1711.43,10.0,0.0,0.0,2024-08-25,2026-07-02,4,True,False,VIP
+CUST-00062,Kyle Nolan,,(506) 430-5876,2,tier2,POS-00154:tier2:conf=1.00:via=ECOM-00062;ECOM-00062:tier2:conf=1.00:via=POS-00154,968.31,6.0,1.0,0.167,2025-06-08,2026-04-22,75,False,False,regular
+CUST-00063,Laura Valencia,,(922) 700-6194,2,tier2,POS-00155:tier2:conf=1.00:via=ECOM-00063;ECOM-00063:tier2:conf=1.00:via=POS-00155,722.94,3.0,2.0,0.667,2026-05-21,2026-06-03,33,False,False,new
+CUST-00064,Rachel Clark,debra96@hotmail.com,,1,single_record,ECOM-00064:anchor,386.0,2.0,0.0,0.0,2025-12-09,2026-03-24,104,False,False,regular
+CUST-00065,John Garcia,jimenezcourtney@yahoo.com,(939) 480-5715,2,tier2,POS-00156:tier2:conf=1.00:via=ECOM-00065;ECOM-00065:tier2:conf=1.00:via=POS-00156,119.06,1.0,0.0,0.0,2026-03-16,2026-03-16,112,False,False,new
+CUST-00066,Richard Oliver,vmarshall@hotmail.com,,1,single_record,ECOM-00066:anchor,178.0,1.0,0.0,0.0,2026-06-12,2026-06-12,24,False,False,new
+CUST-00067,Angel Doyle,,(959) 800-4920,2,tier2,POS-00161:tier2:conf=1.00:via=ECOM-00067;ECOM-00067:tier2:conf=1.00:via=POS-00161,626.64,3.0,0.0,0.0,2025-01-27,2025-04-06,456,False,False,regular
+CUST-00068,Martin Galvan,floressteven@yahoo.com,,2,tier1,POS-00162:tier1:conf=1.00:via=ECOM-00068;ECOM-00068:tier1:conf=1.00:via=POS-00162,2530.2,12.0,3.0,0.25,2024-06-04,2026-06-07,29,True,False,VIP
+CUST-00069,Leah Shields,gwright@gmail.com,(341) 205-3587,3,tier2,POS-00163:tier1:conf=1.00:via=POS-00164;POS-00164:tier1:conf=1.00:via=POS-00163;ECOM-00069:tier2:conf=1.00:via=POS-00164,3520.57,18.0,2.0,0.111,2024-11-15,2026-06-18,18,True,False,VIP
+CUST-00070,Lisa Adams,lisapeck@hotmail.com,,2,tier1,POS-00165:tier1:conf=1.00:via=ECOM-00070;ECOM-00070:tier1:conf=1.00:via=POS-00165,2274.28,11.0,3.0,0.273,2025-05-31,2026-06-07,29,True,False,VIP
+CUST-00071,Jeffrey Velasquez,tjimenez@yahoo.com,,2,tier1,POS-00168:tier1:conf=1.00:via=ECOM-00071;ECOM-00071:tier1:conf=1.00:via=POS-00168,138.0,1.0,0.0,0.0,2026-06-10,2026-06-10,26,False,False,new
+CUST-00072,Steven Torres,jasongomez@gmail.com,(607) 707-4052,2,tier2,POS-00170:tier2:conf=1.00:via=ECOM-00072;ECOM-00072:tier2:conf=1.00:via=POS-00170,1665.28,7.0,1.0,0.143,2025-09-14,2026-05-02,65,False,False,regular
+CUST-00073,Mark Lin,booneryan@yahoo.com,,1,single_record,ECOM-00073:anchor,823.48,4.0,0.0,0.0,2025-09-04,2026-05-20,47,False,False,regular
+CUST-00074,Sheila Wilson,hudsonjames@hotmail.com,,1,single_record,ECOM-00074:anchor,0.0,0.0,0.0,0.0,,,99999,False,False,new
+CUST-00075,Sydney Baker,theresalong@yahoo.com,,2,tier1,POS-00179:tier1:conf=1.00:via=ECOM-00075;ECOM-00075:tier1:conf=1.00:via=POS-00179,1713.16,9.0,0.0,0.0,2024-07-13,2026-06-11,25,False,False,regular
+CUST-00076,Daniel Hamilton,kari39@hotmail.com,,1,single_record,ECOM-00076:anchor,1238.42,8.0,0.0,0.0,2025-06-03,2026-04-27,70,False,False,regular
+CUST-00077,Jonathan Fletcher,sarah52@yahoo.com,,1,single_record,ECOM-00077:anchor,1607.14,9.0,0.0,0.0,2025-01-26,2026-05-30,37,False,False,regular
+CUST-00078,Aaron Frost,brittney88@hotmail.com,,1,single_record,ECOM-00078:anchor,1010.0,5.0,2.0,0.4,2026-02-08,2026-07-01,5,False,False,regular
+CUST-00079,Michael Jones,richardsonemily@yahoo.com,,1,single_record,ECOM-00079:anchor,1053.29,5.0,1.0,0.2,2026-01-15,2026-06-25,11,False,False,regular
+CUST-00080,Jennifer Evans,tammy99@gmail.com,,2,tier1,POS-00187:tier1:conf=1.00:via=ECOM-00080;ECOM-00080:tier1:conf=1.00:via=POS-00187,178.0,1.0,0.0,0.0,2025-11-03,2025-11-03,245,False,False,new
+CUST-00081,Kyle Ortiz,rhernandez@gmail.com,,1,single_record,ECOM-00081:anchor,0.0,0.0,0.0,0.0,,,99999,False,False,new
+CUST-00082,Richard Phillips,armstrongjackie@gmail.com,(976) 750-4578,2,tier1,POS-00189:tier1:conf=1.00:via=ECOM-00082;ECOM-00082:tier1:conf=1.00:via=POS-00189,524.0,2.0,0.0,0.0,2025-04-09,2025-10-16,263,False,False,regular
+CUST-00083,David Fisher,alexanderrobert@yahoo.com,,1,single_record,ECOM-00083:anchor,544.0,3.0,0.0,0.0,2025-02-24,2025-04-04,458,False,False,regular
+CUST-00084,Diana Marshall,sue78@yahoo.com,,1,single_record,ECOM-00084:anchor,971.31,5.0,1.0,0.2,2025-08-26,2026-06-07,29,False,False,regular
+CUST-00085,Laura Jackson,hannahburns@yahoo.com,(606) 460-1049,2,tier2,POS-00198:tier2:conf=1.00:via=ECOM-00085;ECOM-00085:tier2:conf=1.00:via=POS-00198,992.84,4.0,0.0,0.0,2025-10-12,2026-06-20,16,False,False,regular
+CUST-00086,Christopher Robertson,zhuang@yahoo.com,,1,single_record,ECOM-00086:anchor,228.0,1.0,0.0,0.0,2026-01-03,2026-01-03,184,False,False,new
+CUST-00087,Loretta Potter,kellyroberts@hotmail.com,,1,single_record,ECOM-00087:anchor,415.1,3.0,0.0,0.0,2025-09-15,2026-05-12,55,False,False,regular
+CUST-00088,Robert Soto,xgarcia@gmail.com,(506) 674-9920,3,tier2,POS-00206:tier1:conf=1.00:via=ECOM-00088;POS-00207:tier2:conf=1.00:via=POS-00206;ECOM-00088:tier1:conf=1.00:via=POS-00206,689.77,3.0,0.0,0.0,2025-09-18,2026-05-22,45,False,False,regular
+CUST-00089,James Horton,oconnelltiffany@gmail.com,(436) 453-8546,2,tier1,POS-00208:tier1:conf=1.00:via=ECOM-00089;ECOM-00089:tier1:conf=1.00:via=POS-00208,1051.4,5.0,1.0,0.2,2025-09-07,2026-05-22,45,False,False,regular
+CUST-00090,Troy Sanchez,edelgado@yahoo.com,,1,single_record,ECOM-00090:anchor,2116.58,11.0,2.0,0.182,2024-06-15,2025-09-27,282,True,False,VIP
+CUST-00091,Diana Smith,,(943) 983-2848,2,tier2,POS-00209:tier2:conf=1.00:via=ECOM-00091;ECOM-00091:tier2:conf=1.00:via=POS-00209,1571.74,7.0,2.0,0.286,2024-12-05,2026-04-27,70,False,False,regular
+CUST-00092,Karen Carrillo,velezchristopher@hotmail.com,,1,single_record,ECOM-00092:anchor,685.81,4.0,2.0,0.5,2026-04-29,2026-05-29,38,False,True,watch
+CUST-00093,Daniel Coleman,amandasharp@gmail.com,(830) 984-1256,2,tier1,POS-00210:tier1:conf=1.00:via=ECOM-00093;ECOM-00093:tier1:conf=1.00:via=POS-00210,168.0,1.0,0.0,0.0,2026-04-01,2026-04-01,96,False,False,new
+CUST-00094,April Williams,robertmonroe@gmail.com,,1,single_record,ECOM-00094:anchor,981.18,6.0,2.0,0.333,2026-03-06,2026-06-08,28,False,False,regular
+CUST-00095,John Charles,lfrench@hotmail.com,,1,single_record,ECOM-00095:anchor,738.34,4.0,1.0,0.25,2025-11-29,2026-03-14,114,False,False,regular
+CUST-00096,Caitlin Dodson,ismall@hotmail.com,,1,single_record,ECOM-00096:anchor,178.0,1.0,0.0,0.0,2026-04-26,2026-04-26,71,False,False,new
+CUST-00097,Jennifer Wagner,,(950) 789-6224,3,tier2,POS-00215:tier2:conf=0.94:via=POS-00216;POS-00216:tier2:conf=1.00:via=ECOM-00097;ECOM-00097:tier2:conf=1.00:via=POS-00216,1525.56,7.0,1.0,0.143,2025-09-08,2026-06-25,11,False,False,regular
+CUST-00098,Phyllis Manning,gregorychase@yahoo.com,,1,single_record,ECOM-00098:anchor,1564.0,8.0,0.0,0.0,2025-10-28,2026-06-14,22,False,False,regular
+CUST-00099,John Walsh,lopezdonald@yahoo.com,(249) 552-7244,2,tier1,POS-00219:tier1:conf=1.00:via=ECOM-00099;ECOM-00099:tier1:conf=1.00:via=POS-00219,2038.52,10.0,0.0,0.0,2025-11-16,2026-06-29,7,True,False,VIP
+CUST-00100,Courtney Hill,adamreyes@yahoo.com,,1,single_record,ECOM-00100:anchor,1387.64,8.0,0.0,0.0,2025-08-11,2026-06-21,15,False,False,regular
+CUST-00101,Chris Mitchell,stephanie49@hotmail.com,,1,single_record,ECOM-00101:anchor,1777.12,10.0,2.0,0.2,2025-05-28,2026-06-26,10,True,False,VIP
+CUST-00102,Joseph Flores,greenmichael@gmail.com,,1,single_record,ECOM-00102:anchor,3572.0,15.0,5.0,0.333,2024-07-19,2026-06-26,10,True,False,VIP
+CUST-00103,Jesse Benson,tparks@yahoo.com,,1,single_record,ECOM-00103:anchor,1299.69,7.0,0.0,0.0,2024-12-10,2026-07-01,5,False,False,regular
+CUST-00104,Rick Daniels,fowlershelia@yahoo.com,(627) 770-9683,2,tier1,POS-00223:tier1:conf=1.00:via=ECOM-00104;ECOM-00104:tier1:conf=1.00:via=POS-00223,820.72,5.0,0.0,0.0,2024-10-28,2025-12-26,192,False,False,regular
+CUST-00105,Robert Stein,jeffreyanderson@gmail.com,,1,single_record,ECOM-00105:anchor,1976.21,10.0,3.0,0.3,2025-05-28,2026-05-14,53,True,False,VIP
+CUST-00106,Omar Smith,kathleenbecker@hotmail.com,,1,single_record,ECOM-00106:anchor,353.72,1.0,0.0,0.0,2025-05-16,2025-05-16,416,False,False,new
+CUST-00107,Matthew Shelton,hansenemily@yahoo.com,,1,single_record,ECOM-00107:anchor,1000.63,4.0,0.0,0.0,2024-11-28,2026-04-21,76,False,False,regular
+CUST-00108,Phillip Elliott,weaverbrian@gmail.com,,1,single_record,ECOM-00108:anchor,1068.0,5.0,2.0,0.4,2024-10-09,2026-05-06,61,False,False,regular
+CUST-00109,Anthony Day,ajohnson@gmail.com,,1,single_record,ECOM-00109:anchor,1006.07,5.0,2.0,0.4,2025-02-04,2026-05-09,58,False,False,regular
+CUST-00110,Derek Murray,katiegood@hotmail.com,,1,single_record,ECOM-00110:anchor,1685.11,8.0,0.0,0.0,2025-08-26,2026-06-11,25,False,False,regular
+CUST-00111,Brent Gray,ybrooks@yahoo.com,,1,single_record,ECOM-00111:anchor,476.16,3.0,1.0,0.333,2026-01-01,2026-06-16,20,False,False,regular
+CUST-00112,Kathleen Gray,desireebailey@gmail.com,,1,single_record,ECOM-00112:anchor,1038.0,5.0,1.0,0.2,2026-06-09,2026-07-04,2,False,False,new
+CUST-00113,Karen Decker,urice@gmail.com,,1,single_record,ECOM-00113:anchor,2543.24,11.0,2.0,0.182,2025-11-10,2026-06-15,21,True,False,VIP
+CUST-00114,Debra Harrington,opatel@gmail.com,,2,tier1,POS-00243:tier1:conf=1.00:via=ECOM-00114;ECOM-00114:tier1:conf=1.00:via=POS-00243,980.0,5.0,0.0,0.0,2024-10-10,2026-06-11,25,False,False,regular
+CUST-00115,David Caldwell,allencarlos@hotmail.com,,1,single_record,ECOM-00115:anchor,2173.88,11.0,2.0,0.182,2025-04-22,2026-06-13,23,True,False,VIP
+CUST-00116,Anne Robinson,griffinemily@gmail.com,,1,single_record,ECOM-00116:anchor,168.0,1.0,0.0,0.0,2026-06-29,2026-06-29,7,False,False,new
+CUST-00117,Holly Wang,joymorales@gmail.com,(876) 699-1257,2,tier1,POS-00247:tier1:conf=1.00:via=ECOM-00117;ECOM-00117:tier1:conf=1.00:via=POS-00247,772.0,4.0,0.0,0.0,2025-02-13,2026-05-30,37,False,False,regular
+CUST-00118,Gary Lawson,karenparsons@gmail.com,(213) 217-9673,2,tier1,POS-00248:tier1:conf=1.00:via=ECOM-00118;ECOM-00118:tier1:conf=1.00:via=POS-00248,2276.84,11.0,3.0,0.273,2025-10-29,2026-06-21,15,True,False,VIP
+CUST-00119,Daniel Johnson,joel28@gmail.com,(384) 309-2578,2,tier2,POS-00251:tier2:conf=0.94:via=ECOM-00119;ECOM-00119:tier2:conf=0.94:via=POS-00251,2161.4,9.0,1.0,0.111,2026-02-10,2026-06-29,7,True,False,VIP
+CUST-00120,Susie Sanders,ufloyd@hotmail.com,,2,tier2,POS-00253:tier2:conf=0.94:via=ECOM-00120;ECOM-00120:tier2:conf=0.94:via=POS-00253,1249.02,7.0,0.0,0.0,2026-01-29,2026-06-29,7,False,False,regular
+CUST-00121,David Riggs,nielsenmelanie@gmail.com,,1,single_record,ECOM-00121:anchor,940.0,4.0,2.0,0.5,2026-02-11,2026-05-07,60,False,True,watch
+CUST-00122,Kimberly Reed,,(277) 900-5593,2,tier2,POS-00261:tier2:conf=1.00:via=ECOM-00122;ECOM-00122:tier2:conf=1.00:via=POS-00261,524.0,3.0,0.0,0.0,2026-01-08,2026-05-29,38,False,False,regular
+CUST-00123,Melissa Short,burgesskaren@gmail.com,,2,tier1,POS-00265:tier1:conf=1.00:via=ECOM-00123;ECOM-00123:tier1:conf=1.00:via=POS-00265,2434.04,12.0,1.0,0.083,2025-02-09,2026-06-29,7,True,False,VIP
+CUST-00124,Daniel Yu,randyallen@yahoo.com,(894) 753-6435,2,tier2,POS-00266:tier2:conf=1.00:via=ECOM-00124;ECOM-00124:tier2:conf=1.00:via=POS-00266,584.0,3.0,1.0,0.333,2026-02-14,2026-06-08,28,False,False,regular
+CUST-00125,Cynthia Poole,ugill@gmail.com,,1,single_record,ECOM-00125:anchor,724.83,4.0,1.0,0.25,2025-11-27,2026-02-03,153,False,False,regular
+CUST-00126,Jasmine Graham,lawrence09@gmail.com,(255) 300-8161,2,tier1,POS-00268:tier1:conf=1.00:via=ECOM-00126;ECOM-00126:tier1:conf=1.00:via=POS-00268,1664.72,9.0,2.0,0.222,2026-04-09,2026-07-05,1,False,False,regular
+CUST-00127,Jessica Sheppard,mphillips@yahoo.com,,3,tier1,POS-00269:tier1:conf=1.00:via=ECOM-00127;POS-00270:tier1:conf=1.00:via=POS-00269;ECOM-00127:tier1:conf=1.00:via=POS-00269,276.0,1.0,0.0,0.0,2026-07-04,2026-07-04,2,False,False,new
+CUST-00128,Amanda Webb,noahwhitaker@yahoo.com,,1,single_record,ECOM-00128:anchor,498.6,2.0,0.0,0.0,2024-12-15,2025-03-18,475,False,False,regular
+CUST-00129,Steven Bishop,iwhite@hotmail.com,,1,single_record,ECOM-00129:anchor,1974.79,10.0,1.0,0.1,2024-12-31,2026-04-24,73,True,False,VIP
+CUST-00130,Jason Salinas,duranrobert@hotmail.com,,1,single_record,ECOM-00130:anchor,1811.02,9.0,2.0,0.222,2024-07-25,2026-05-23,44,False,False,regular
+CUST-00131,Matthew Beard,carloshernandez@gmail.com,(771) 768-9395,2,tier1,POS-00279:tier1:conf=1.00:via=ECOM-00131;ECOM-00131:tier1:conf=1.00:via=POS-00279,1121.07,6.0,0.0,0.0,2025-10-19,2026-05-11,56,False,False,regular
+CUST-00132,Hannah Brewer,amanda40@hotmail.com,,2,tier1,POS-00284:tier1:conf=1.00:via=ECOM-00132;ECOM-00132:tier1:conf=1.00:via=POS-00284,1692.0,8.0,1.0,0.125,2026-01-08,2026-06-27,9,False,False,regular
+CUST-00133,Travis Mcguire,ldrake@gmail.com,,2,tier1,POS-00285:tier1:conf=1.00:via=ECOM-00133;ECOM-00133:tier1:conf=1.00:via=POS-00285,1120.0,4.0,0.0,0.0,2025-02-07,2025-08-18,322,False,False,regular
+CUST-00134,Alyssa Coleman,lisa46@gmail.com,(708) 808-4203,2,tier2,POS-00289:tier2:conf=1.00:via=ECOM-00134;ECOM-00134:tier2:conf=1.00:via=POS-00289,1130.44,6.0,2.0,0.333,2024-09-18,2026-06-19,17,False,False,regular
+CUST-00135,John Martinez,,(912) 405-8848,2,tier2,POS-00293:tier2:conf=1.00:via=ECOM-00135;ECOM-00135:tier2:conf=1.00:via=POS-00293,812.0,2.0,0.0,0.0,2026-02-12,2026-02-21,135,False,False,regular
+CUST-00136,Jacob Robinson,jasonparrish@hotmail.com,(574) 316-4273,3,tier2,POS-00296:tier1:conf=1.00:via=ECOM-00136;POS-00297:tier2:conf=1.00:via=POS-00296;ECOM-00136:tier1:conf=1.00:via=POS-00296,1200.22,6.0,0.0,0.0,2025-12-01,2026-07-05,1,False,False,regular
+CUST-00137,Todd Hardy,enelson@hotmail.com,,1,single_record,ECOM-00137:anchor,844.87,5.0,0.0,0.0,2025-05-04,2025-12-19,199,False,False,regular
+CUST-00138,Tiffany Warren,rachel90@gmail.com,,2,tier1,POS-00298:tier1:conf=1.00:via=ECOM-00138;ECOM-00138:tier1:conf=1.00:via=POS-00298,1168.0,5.0,0.0,0.0,2026-01-10,2026-06-04,32,False,False,regular
+CUST-00139,Justin Garcia,alexis39@gmail.com,(910) 270-7703,3,tier2,POS-00299:tier1:conf=1.00:via=ECOM-00139;POS-00300:tier2:conf=1.00:via=POS-00299;ECOM-00139:tier1:conf=1.00:via=POS-00299,1038.41,6.0,0.0,0.0,2026-01-26,2026-07-04,2,False,False,regular
+CUST-00140,Miranda Henry,anthony47@yahoo.com,,1,single_record,ECOM-00140:anchor,1169.34,6.0,0.0,0.0,2024-08-05,2026-01-13,174,False,False,regular
+CUST-00141,Taylor Alexander,michaelpugh@yahoo.com,,1,single_record,ECOM-00141:anchor,534.79,3.0,0.0,0.0,2025-11-15,2026-06-10,26,False,False,regular
+CUST-00142,Lynn Morales,eringuerrero@gmail.com,,1,single_record,ECOM-00142:anchor,1015.6,5.0,0.0,0.0,2025-10-25,2026-03-16,112,False,False,regular
+CUST-00143,Charles Soto,lauren11@yahoo.com,,1,single_record,ECOM-00143:anchor,1392.47,7.0,1.0,0.143,2025-08-23,2026-06-13,23,False,False,regular
+CUST-00144,Brian Hernandez,normanbowers@gmail.com,,1,single_record,ECOM-00144:anchor,148.0,1.0,1.0,1.0,2026-04-08,2026-04-08,89,False,False,new
+CUST-00145,Anna Torres,gstewart@gmail.com,,2,tier1,POS-00310:tier1:conf=1.00:via=ECOM-00145;ECOM-00145:tier1:conf=1.00:via=POS-00310,2181.9,12.0,2.0,0.167,2025-11-11,2026-06-24,12,True,False,VIP
+CUST-00146,Victoria Wilson,hahnsean@yahoo.com,,1,single_record,ECOM-00146:anchor,584.0,3.0,0.0,0.0,2025-03-29,2026-05-17,50,False,False,regular
+CUST-00147,Kathy Obrien,andersonjacob@yahoo.com,,1,single_record,ECOM-00147:anchor,820.0,5.0,2.0,0.4,2025-03-21,2026-05-20,47,False,False,regular
+CUST-00148,Scott Dalton,carterpaul@gmail.com,,1,single_record,ECOM-00148:anchor,0.0,0.0,0.0,0.0,,,99999,False,False,new
+CUST-00149,Jared Clark,bryanhamilton@yahoo.com,,1,single_record,ECOM-00149:anchor,1174.03,5.0,2.0,0.4,2025-03-30,2026-05-27,40,False,False,regular
+CUST-00150,Brittney Carter,stephentaylor@gmail.com,,2,tier1,POS-00320:tier1:conf=1.00:via=ECOM-00150;ECOM-00150:tier1:conf=1.00:via=POS-00320,1028.0,4.0,0.0,0.0,2025-06-19,2026-05-17,50,False,False,regular
+CUST-00151,Jesse Mann,ncook@yahoo.com,,1,single_record,ECOM-00151:anchor,1627.16,6.0,0.0,0.0,2024-10-27,2026-02-05,151,False,False,regular
+CUST-00152,Jacqueline Gibson,scott69@gmail.com,,1,single_record,ECOM-00152:anchor,1645.89,8.0,0.0,0.0,2024-12-22,2026-04-08,89,False,False,regular
+CUST-00153,Grace Bradshaw,malik37@yahoo.com,,1,single_record,ECOM-00153:anchor,2668.24,13.0,4.0,0.308,2025-08-08,2026-06-07,29,True,False,VIP
+CUST-00154,Keith Martinez,samuelcarter@hotmail.com,(812) 597-7431,2,tier1,POS-00329:tier1:conf=1.00:via=ECOM-00154;ECOM-00154:tier1:conf=1.00:via=POS-00329,1267.09,8.0,2.0,0.25,2025-07-06,2026-01-28,159,False,False,regular
+CUST-00155,Haley Lyons,fuenteslaura@yahoo.com,,1,single_record,ECOM-00155:anchor,1143.41,6.0,1.0,0.167,2024-06-14,2026-04-09,88,False,False,regular
+CUST-00156,Troy Miller,donna66@gmail.com,,2,tier1,POS-00331:tier1:conf=1.00:via=ECOM-00156;ECOM-00156:tier1:conf=1.00:via=POS-00331,1592.67,8.0,0.0,0.0,2025-08-19,2026-06-25,11,False,False,regular
+CUST-00157,Marcus Wright,gibbsmichael@hotmail.com,,2,tier2,POS-00335:tier2:conf=1.00:via=ECOM-00157;ECOM-00157:tier2:conf=1.00:via=POS-00335,2068.0,8.0,1.0,0.125,2024-11-05,2026-04-18,79,True,False,VIP
+CUST-00158,Mary Johnston,vrasmussen@yahoo.com,(861) 377-3733,2,tier2,POS-00337:tier2:conf=1.00:via=ECOM-00158;ECOM-00158:tier2:conf=1.00:via=POS-00337,2512.48,13.0,1.0,0.077,2025-09-11,2026-05-19,48,True,False,VIP
+CUST-00159,Stephanie Key,seanmyers@hotmail.com,,1,single_record,ECOM-00159:anchor,977.65,5.0,1.0,0.2,2024-12-20,2026-06-22,14,False,False,regular
+CUST-00160,Billy Avila,robert11@hotmail.com,,1,single_record,ECOM-00160:anchor,2123.36,12.0,3.0,0.25,2026-04-23,2026-07-03,3,True,False,VIP
+CUST-00161,Thomas Pearson,michaelcooper@gmail.com,,1,single_record,ECOM-00161:anchor,1314.59,8.0,2.0,0.25,2025-06-02,2026-04-19,78,False,False,regular
+CUST-00162,Travis Davis,johnsonmatthew@gmail.com,(928) 654-9006,2,tier1,POS-00342:tier1:conf=1.00:via=ECOM-00162;ECOM-00162:tier1:conf=1.00:via=POS-00342,336.0,1.0,0.0,0.0,2025-09-19,2025-09-19,290,False,False,new
+CUST-00163,Mark Steele,zhall@hotmail.com,(373) 999-8492,2,tier1,POS-00345:tier1:conf=1.00:via=ECOM-00163;ECOM-00163:tier1:conf=1.00:via=POS-00345,1074.96,5.0,0.0,0.0,2024-12-12,2026-02-21,135,False,False,regular
+CUST-00164,Keith Landry,jacobsandoval@yahoo.com,(763) 723-2854,2,tier1,POS-00346:tier1:conf=1.00:via=ECOM-00164;ECOM-00164:tier1:conf=1.00:via=POS-00346,1314.0,7.0,2.0,0.286,2026-02-18,2026-06-01,35,False,False,regular
+CUST-00165,Lisa Pierce,mclaughlinnicole@yahoo.com,,1,single_record,ECOM-00165:anchor,676.32,3.0,0.0,0.0,2025-08-26,2026-03-05,123,False,False,regular
+CUST-00166,Shawn Edwards,tprice@gmail.com,(760) 423-7965,2,tier1,POS-00348:tier1:conf=1.00:via=ECOM-00166;ECOM-00166:tier1:conf=1.00:via=POS-00348,1631.84,9.0,1.0,0.111,2026-03-21,2026-07-04,2,False,False,regular
+CUST-00167,Marcus Cordova,joshuapadilla@gmail.com,,2,tier1,POS-00349:tier1:conf=1.00:via=ECOM-00167;ECOM-00167:tier1:conf=1.00:via=POS-00349,1210.02,6.0,1.0,0.167,2026-04-08,2026-05-22,45,False,False,regular
+CUST-00168,Kathleen Harris,michael79@gmail.com,,1,single_record,ECOM-00168:anchor,714.0,4.0,1.0,0.25,2025-08-15,2025-12-07,211,False,False,regular
+CUST-00169,Chelsea Allen,nathanielthomas@yahoo.com,,2,tier1,POS-00359:tier1:conf=1.00:via=ECOM-00169;ECOM-00169:tier1:conf=1.00:via=POS-00359,3204.94,16.0,2.0,0.125,2026-06-14,2026-07-05,1,True,False,VIP
+CUST-00170,Eric Pierce,kcarlson@yahoo.com,,1,single_record,ECOM-00170:anchor,1021.3,4.0,0.0,0.0,2026-06-20,2026-07-05,1,False,False,new
+CUST-00171,Andrea Davis,olopez@hotmail.com,,2,tier1,POS-00360:tier1:conf=1.00:via=ECOM-00171;ECOM-00171:tier1:conf=1.00:via=POS-00360,1189.69,8.0,1.0,0.125,2024-09-08,2026-06-05,31,False,False,regular
+CUST-00172,Victoria Durham,angelaburns@gmail.com,(454) 979-7434,2,tier1,POS-00361:tier1:conf=1.00:via=ECOM-00172;ECOM-00172:tier1:conf=1.00:via=POS-00361,672.68,4.0,2.0,0.5,2026-02-02,2026-06-23,13,False,True,watch
+CUST-00173,Steven Wilson,leonardhayes@gmail.com,,1,single_record,ECOM-00173:anchor,102.56,1.0,0.0,0.0,2024-12-22,2024-12-22,561,False,False,new
+CUST-00174,Jennifer Hicks,gmaynard@hotmail.com,,1,single_record,ECOM-00174:anchor,218.0,1.0,0.0,0.0,2025-12-02,2025-12-02,216,False,False,new
+CUST-00175,Tina Sanchez,fburns@hotmail.com,,1,single_record,ECOM-00175:anchor,1386.78,6.0,0.0,0.0,2024-10-01,2026-05-27,40,False,False,regular
+CUST-00176,Andrea Reyes,flynnjeffrey@gmail.com,,1,single_record,ECOM-00176:anchor,611.09,2.0,0.0,0.0,2025-10-28,2026-06-26,10,False,False,regular
+CUST-00177,Sandra Romero,jeffrey42@yahoo.com,,1,single_record,ECOM-00177:anchor,1531.03,7.0,0.0,0.0,2026-04-16,2026-06-09,27,False,False,regular
+CUST-00178,Robert Villa,adamsamy@yahoo.com,,1,single_record,ECOM-00178:anchor,1106.0,7.0,1.0,0.143,2025-07-19,2026-05-01,66,False,False,regular
+CUST-00179,William Hoover,,(951) 295-8511,2,tier2,POS-00366:tier2:conf=1.00:via=ECOM-00179;ECOM-00179:tier2:conf=1.00:via=POS-00366,1158.0,6.0,2.0,0.333,2026-02-06,2026-05-31,36,False,False,regular
+CUST-00180,Brenda Duarte,nancy07@yahoo.com,(417) 706-5399,2,tier1,POS-00368:tier1:conf=1.00:via=ECOM-00180;ECOM-00180:tier1:conf=1.00:via=POS-00368,702.0,3.0,0.0,0.0,2025-02-22,2025-09-14,295,False,False,regular
+CUST-00181,Tracy Hernandez,michelle17@gmail.com,,2,tier2,POS-00369:tier2:conf=1.00:via=ECOM-00181;ECOM-00181:tier2:conf=1.00:via=POS-00369,1990.77,9.0,1.0,0.111,2026-02-11,2026-06-26,10,False,False,regular
+CUST-00182,Amanda Reed,jasonrojas@hotmail.com,,1,single_record,ECOM-00182:anchor,218.0,1.0,0.0,0.0,2026-06-12,2026-06-12,24,False,False,new
+CUST-00183,Stanley Morris,kristenli@gmail.com,,2,tier1,POS-00371:tier1:conf=1.00:via=ECOM-00183;ECOM-00183:tier1:conf=1.00:via=POS-00371,650.96,4.0,0.0,0.0,2024-03-18,2026-04-15,82,False,False,regular
+CUST-00184,Elizabeth Hoover,rsellers@hotmail.com,(841) 512-4836,3,tier1,POS-00377:tier1:conf=1.00:via=ECOM-00184;POS-00378:tier1:conf=1.00:via=POS-00377;ECOM-00184:tier1:conf=1.00:via=POS-00377,2460.72,12.0,1.0,0.083,2024-08-11,2026-06-19,17,True,False,VIP
+CUST-00185,Benjamin Shaw,maria67@gmail.com,,1,single_record,ECOM-00185:anchor,198.0,1.0,1.0,1.0,2024-06-01,2024-06-01,765,False,False,new
+CUST-00186,Brittany Kane,courtney67@gmail.com,,1,single_record,ECOM-00186:anchor,644.0,3.0,1.0,0.333,2026-01-14,2026-06-12,24,False,False,regular
+CUST-00187,Alicia Bryant,shawn75@hotmail.com,,1,single_record,ECOM-00187:anchor,1337.24,7.0,2.0,0.286,2025-07-03,2026-06-11,25,False,False,regular
+CUST-00188,Jennifer Ortiz,meltonmelanie@gmail.com,,1,single_record,ECOM-00188:anchor,218.0,1.0,0.0,0.0,2025-07-13,2025-07-13,358,False,False,new
+CUST-00189,Terrance Costa,flynnraymond@yahoo.com,,2,tier1,POS-00382:tier1:conf=1.00:via=ECOM-00189;ECOM-00189:tier1:conf=1.00:via=POS-00382,614.0,3.0,0.0,0.0,2026-02-17,2026-05-28,39,False,False,regular
+CUST-00190,Debra Christian,patricia00@gmail.com,,2,tier2,POS-00385:tier2:conf=1.00:via=ECOM-00190;ECOM-00190:tier2:conf=1.00:via=POS-00385,812.0,4.0,0.0,0.0,2024-06-29,2026-01-15,172,False,False,regular
+CUST-00191,Jennifer Malone,penajohn@yahoo.com,,2,tier1,POS-00388:tier1:conf=1.00:via=ECOM-00191;ECOM-00191:tier1:conf=1.00:via=POS-00388,1760.0,8.0,1.0,0.125,2026-06-13,2026-07-04,2,False,False,new
+CUST-00192,Casey Welch,brettgarrett@hotmail.com,(523) 343-5059,2,tier1,POS-00390:tier1:conf=1.00:via=ECOM-00192;ECOM-00192:tier1:conf=1.00:via=POS-00390,544.0,3.0,2.0,0.667,2025-02-17,2026-06-21,15,False,False,regular
+CUST-00193,Julie Hamilton,aprilwallace@gmail.com,,1,single_record,ECOM-00193:anchor,737.29,4.0,0.0,0.0,2024-10-05,2026-02-23,133,False,False,regular
+CUST-00194,Corey Schultz,lisa62@yahoo.com,(503) 861-1894,2,tier1,POS-00394:tier1:conf=1.00:via=ECOM-00194;ECOM-00194:tier1:conf=1.00:via=POS-00394,2437.3,12.0,2.0,0.167,2026-03-04,2026-06-29,7,True,False,VIP
+CUST-00195,Monique Wallace,perezchristopher@gmail.com,,1,single_record,ECOM-00195:anchor,1299.2,6.0,1.0,0.167,2026-04-10,2026-07-01,5,False,False,regular
+CUST-00196,Brandon Flynn,caseyelliott@hotmail.com,,1,single_record,ECOM-00196:anchor,1136.54,5.0,1.0,0.2,2025-12-31,2026-04-28,69,False,False,regular
+CUST-00197,John Durham,bbell@yahoo.com,(285) 855-9791,2,tier1,POS-00403:tier1:conf=1.00:via=ECOM-00197;ECOM-00197:tier1:conf=1.00:via=POS-00403,1208.0,6.0,1.0,0.167,2025-04-02,2026-06-23,13,False,False,regular
+CUST-00198,Jonathan Scott,johnnewman@gmail.com,,1,single_record,ECOM-00198:anchor,1542.36,5.0,0.0,0.0,2025-07-31,2026-04-07,90,False,False,regular
+CUST-00199,Rachel Byrd,troyrodriguez@yahoo.com,,2,tier1,POS-00407:tier1:conf=1.00:via=ECOM-00199;ECOM-00199:tier1:conf=1.00:via=POS-00407,871.94,4.0,1.0,0.25,2026-04-22,2026-06-24,12,False,False,regular
+CUST-00200,Michael Matthews,david96@yahoo.com,,1,single_record,ECOM-00200:anchor,1552.0,8.0,2.0,0.25,2025-04-26,2026-06-05,31,False,False,regular
+CUST-00201,Timothy Young,courtney86@yahoo.com,,1,single_record,ECOM-00201:anchor,1902.02,8.0,2.0,0.25,2024-07-22,2026-03-04,124,False,False,regular
+CUST-00202,Ashley Andrews,imiller@hotmail.com,,1,single_record,ECOM-00202:anchor,2445.7,11.0,2.0,0.182,2025-01-21,2026-06-24,12,True,False,VIP
+CUST-00203,Tiffany Barrett,terrimoore@yahoo.com,,2,tier1,POS-00415:tier1:conf=1.00:via=ECOM-00203;ECOM-00203:tier1:conf=1.00:via=POS-00415,826.96,4.0,1.0,0.25,2026-03-26,2026-06-14,22,False,False,regular
+CUST-00204,Brandon Obrien,collinssamuel@gmail.com,,1,single_record,ECOM-00204:anchor,1264.3,7.0,0.0,0.0,2025-06-07,2026-06-18,18,False,False,regular
+CUST-00205,Justin Lindsey,dsalazar@yahoo.com,,1,single_record,ECOM-00205:anchor,587.45,3.0,1.0,0.333,2024-06-08,2026-01-11,176,False,False,regular
+CUST-00206,Catherine Gomez,davidzimmerman@hotmail.com,,2,tier1,POS-00419:tier1:conf=1.00:via=ECOM-00206;ECOM-00206:tier1:conf=1.00:via=POS-00419,1191.17,6.0,1.0,0.167,2025-07-10,2026-06-05,31,False,False,regular
+CUST-00207,Erica Le,gary24@hotmail.com,,1,single_record,ECOM-00207:anchor,366.0,2.0,1.0,0.5,2025-02-01,2025-07-04,367,False,False,regular
+CUST-00208,Donna Massey,wiseanthony@yahoo.com,(573) 592-3458,2,tier1,POS-00422:tier1:conf=1.00:via=ECOM-00208;ECOM-00208:tier1:conf=1.00:via=POS-00422,1196.0,7.0,2.0,0.286,2024-09-02,2026-06-22,14,False,False,regular
+CUST-00209,Debbie Parker,alexandria49@hotmail.com,,1,single_record,ECOM-00209:anchor,228.0,1.0,0.0,0.0,2024-12-13,2024-12-13,570,False,False,new
+CUST-00210,Scott Riley,crawfordwilliam@gmail.com,,1,single_record,ECOM-00210:anchor,276.0,1.0,0.0,0.0,2026-01-06,2026-01-06,181,False,False,new
+CUST-00211,Kenneth Burgess,jonathangarcia@hotmail.com,(478) 279-7108,2,tier1,POS-00425:tier1:conf=1.00:via=ECOM-00211;ECOM-00211:tier1:conf=1.00:via=POS-00425,1308.32,8.0,0.0,0.0,2026-01-21,2026-06-06,30,False,False,regular
+CUST-00212,Maria Scott,joseph19@yahoo.com,,1,single_record,ECOM-00212:anchor,2450.46,10.0,1.0,0.1,2024-12-25,2026-06-23,13,True,False,VIP
+CUST-00213,Makayla Olson,shawrachel@gmail.com,,2,tier2,POS-00431:tier2:conf=1.00:via=ECOM-00213;ECOM-00213:tier2:conf=1.00:via=POS-00431,2087.72,11.0,3.0,0.273,2026-02-15,2026-07-02,4,True,False,VIP
+CUST-00214,Lindsay Francis,wileymichelle@yahoo.com,(401) 950-9954,2,tier1,POS-00432:tier1:conf=1.00:via=ECOM-00214;ECOM-00214:tier1:conf=1.00:via=POS-00432,1966.15,9.0,3.0,0.333,2025-03-13,2026-06-18,18,False,False,regular
+CUST-00215,Matthew Wilson,christopher70@yahoo.com,,2,tier1,POS-00433:tier1:conf=1.00:via=ECOM-00215;ECOM-00215:tier1:conf=1.00:via=POS-00433,496.0,1.0,0.0,0.0,2026-05-15,2026-05-15,52,False,False,new
+CUST-00216,Tammy Dalton,stevenvargas@yahoo.com,,2,tier2,POS-00435:tier2:conf=1.00:via=ECOM-00216;ECOM-00216:tier2:conf=1.00:via=POS-00435,792.0,4.0,2.0,0.5,2025-03-18,2026-05-18,49,False,True,watch
+CUST-00217,Tammy Ballard,adamortiz@gmail.com,,2,tier1,POS-00437:tier1:conf=1.00:via=ECOM-00217;ECOM-00217:tier1:conf=1.00:via=POS-00437,1316.0,6.0,1.0,0.167,2024-09-03,2026-02-25,131,False,False,regular
+CUST-00218,Anna Herman,,(468) 522-7438,2,tier2,POS-00445:tier2:conf=1.00:via=ECOM-00218;ECOM-00218:tier2:conf=1.00:via=POS-00445,1098.0,6.0,1.0,0.167,2025-04-19,2026-04-16,81,False,False,regular
+CUST-00219,Madison Blankenship,grahamtamara@gmail.com,,3,tier1,POS-00448:tier1:conf=1.00:via=ECOM-00219;POS-00449:tier1:conf=1.00:via=POS-00448;ECOM-00219:tier1:conf=1.00:via=POS-00448,296.0,1.0,0.0,0.0,2025-07-21,2025-07-21,350,False,False,new
+CUST-00220,Kevin Ortiz,louis43@gmail.com,,1,single_record,ECOM-00220:anchor,1965.58,12.0,4.0,0.333,2025-07-29,2026-06-28,8,True,False,VIP
+CUST-00221,Donald Shah,derekcarrillo@gmail.com,,1,single_record,ECOM-00221:anchor,1735.81,10.0,0.0,0.0,2025-01-11,2026-03-11,117,True,False,VIP
+CUST-00222,Kevin Vasquez,danielcole@yahoo.com,,2,tier1,POS-00450:tier1:conf=1.00:via=ECOM-00222;ECOM-00222:tier1:conf=1.00:via=POS-00450,1301.91,8.0,4.0,0.5,2026-05-03,2026-06-24,12,False,True,watch
+CUST-00223,Derek Chavez,qparker@gmail.com,,2,tier2,POS-00452:tier2:conf=1.00:via=ECOM-00223;ECOM-00223:tier2:conf=1.00:via=POS-00452,693.43,4.0,0.0,0.0,2026-03-02,2026-07-05,1,False,False,regular
+CUST-00224,Tracy Russell,dawsontanya@yahoo.com,(305) 343-2989,2,tier1,POS-00457:tier1:conf=1.00:via=ECOM-00224;ECOM-00224:tier1:conf=1.00:via=POS-00457,2836.73,13.0,1.0,0.077,2024-06-14,2025-10-26,253,True,False,VIP
+CUST-00225,Stephanie Foley,codygarcia@gmail.com,,2,tier1,POS-00460:tier1:conf=1.00:via=ECOM-00225;ECOM-00225:tier1:conf=1.00:via=POS-00460,941.06,5.0,0.0,0.0,2026-01-10,2026-06-15,21,False,False,regular
+CUST-00226,Danielle Johnson,,(494) 278-2479,1,single_record,POS-00001:anchor,1643.23,8.0,0.0,0.0,2024-03-25,2026-03-25,103,False,False,regular
+CUST-00227,Kathryn Miller,williamsmatthew@gmail.com,(243) 660-4084,2,tier2,POS-00004:tier2:conf=0.94:via=POS-00005;POS-00005:tier2:conf=0.94:via=POS-00004,496.0,1.0,0.0,0.0,2026-06-12,2026-06-12,24,False,False,new
+CUST-00228,Patricia Miller,,(264) 661-2695,1,single_record,POS-00006:anchor,632.99,4.0,0.0,0.0,2025-09-24,2026-05-12,55,False,False,regular
+CUST-00229,Robert Johnson,lisahall@gmail.com,(552) 931-2381,1,single_record,POS-00007:anchor,1098.0,6.0,0.0,0.0,2026-04-20,2026-06-19,17,False,False,regular
+CUST-00230,Jeffery Wagner,ramireztracey@gmail.com,,1,single_record,POS-00008:anchor,1049.12,6.0,0.0,0.0,2025-07-15,2026-05-04,63,False,False,regular
+CUST-00231,Debra Gardner,howardkristina@hotmail.com,(737) 735-3600,1,single_record,POS-00010:anchor,2674.45,11.0,3.0,0.273,2025-05-29,2026-05-05,62,True,False,VIP
+CUST-00232,Jeffrey Lawrence,alfred40@gmail.com,,1,single_record,POS-00011:anchor,1158.0,6.0,1.0,0.167,2025-01-22,2026-02-03,153,False,False,regular
+CUST-00233,Lisa Smith,xwest@hotmail.com,(254) 846-6482,2,tier2,POS-00012:tier2:conf=1.00:via=POS-00013;POS-00013:tier2:conf=1.00:via=POS-00012,306.46,2.0,0.0,0.0,2025-11-29,2026-07-04,2,False,False,regular
+CUST-00234,Susan Rogers,gsimmons@yahoo.com,(491) 458-3463,1,single_record,POS-00014:anchor,367.95,2.0,0.0,0.0,2025-09-09,2026-03-15,113,False,False,regular
+CUST-00235,Christopher Davis,,(880) 344-6731,1,single_record,POS-00015:anchor,139.96,1.0,0.0,0.0,2026-01-23,2026-01-23,164,False,False,new
+CUST-00236,Lindsay Blair,cameronhill@hotmail.com,(602) 332-2388,1,single_record,POS-00016:anchor,1737.54,8.0,1.0,0.125,2026-01-15,2026-05-31,36,False,False,regular
+CUST-00237,Nicholas Arnold,bwagner@gmail.com,(957) 901-9624,1,single_record,POS-00018:anchor,1085.75,6.0,1.0,0.167,2026-01-05,2026-03-18,110,False,False,regular
+CUST-00238,Maria Montgomery,farrelldebra@hotmail.com,,1,single_record,POS-00019:anchor,1108.0,6.0,3.0,0.5,2024-12-03,2026-07-01,5,False,True,watch
+CUST-00239,Michelle Ray,russellbeasley@yahoo.com,,1,single_record,POS-00020:anchor,1608.24,7.0,2.0,0.286,2025-04-01,2026-05-27,40,False,False,regular
+CUST-00240,Cynthia Diaz,lisa80@hotmail.com,(833) 334-7172,1,single_record,POS-00024:anchor,2048.0,9.0,2.0,0.222,2025-03-18,2026-05-10,57,True,False,VIP
+CUST-00241,Joey Zuniga,uparrish@gmail.com,(444) 654-5668,2,tier2,POS-00025:tier2:conf=0.94:via=POS-00026;POS-00026:tier2:conf=0.94:via=POS-00025,1236.0,5.0,1.0,0.2,2025-03-11,2026-05-27,40,False,False,regular
+CUST-00242,Deborah Lynch,caroline51@hotmail.com,(660) 439-9749,2,tier2,POS-00027:tier2:conf=0.94:via=POS-00028;POS-00028:tier2:conf=0.94:via=POS-00027,1375.59,5.0,0.0,0.0,2026-05-10,2026-06-27,9,False,False,new
+CUST-00243,George Daniel,megan51@yahoo.com,(592) 714-9641,1,single_record,POS-00029:anchor,2216.16,11.0,0.0,0.0,2025-05-15,2026-05-21,46,True,False,VIP
+CUST-00244,Frank Gray,lindsaybruce@hotmail.com,(405) 819-3267,2,tier1,POS-00030:tier1:conf=1.00:via=POS-00031;POS-00031:tier1:conf=1.00:via=POS-00030,2336.0,11.0,1.0,0.091,2025-07-08,2026-05-25,42,True,False,VIP
+CUST-00245,Veronica Bowman,lynchdiane@hotmail.com,(492) 285-3626,1,single_record,POS-00032:anchor,1012.04,5.0,0.0,0.0,2025-07-07,2026-05-03,64,False,False,regular
+CUST-00246,Angela Cohen,anthony44@yahoo.com,,2,tier1,POS-00033:tier1:conf=1.00:via=POS-00034;POS-00034:tier1:conf=1.00:via=POS-00033,1248.0,4.0,0.0,0.0,2025-08-06,2026-04-17,80,False,False,regular
+CUST-00247,Megan Parsons,adam29@hotmail.com,(625) 254-7495,1,single_record,POS-00035:anchor,1581.11,8.0,1.0,0.125,2025-03-25,2026-06-26,10,False,False,regular
+CUST-00248,Jeremy Johnson,vjones@hotmail.com,,1,single_record,POS-00036:anchor,478.68,3.0,0.0,0.0,2025-06-09,2025-09-10,299,False,False,regular
+CUST-00249,Jason Hahn,jennifer99@gmail.com,(866) 543-3392,2,tier2,POS-00038:tier2:conf=1.00:via=POS-00039;POS-00039:tier2:conf=1.00:via=POS-00038,1116.25,4.0,1.0,0.25,2024-06-20,2026-04-15,82,False,False,regular
+CUST-00250,Diana Foster,nelsonebony@yahoo.com,,1,single_record,POS-00040:anchor,988.41,6.0,1.0,0.167,2026-02-21,2026-05-30,37,False,False,regular
+CUST-00251,Robin Ellis,,(282) 219-5193,1,single_record,POS-00041:anchor,2242.6,11.0,4.0,0.364,2025-10-20,2026-05-22,45,True,False,VIP
+CUST-00252,Joseph Wright,nperry@hotmail.com,(762) 944-9647,1,single_record,POS-00042:anchor,976.3,6.0,2.0,0.333,2025-01-02,2026-05-11,56,False,False,regular
+CUST-00253,Brenda Hurst,trose@gmail.com,(669) 264-2816,2,tier2,POS-00045:tier2:conf=1.00:via=POS-00046;POS-00046:tier2:conf=1.00:via=POS-00045,664.0,3.0,0.0,0.0,2026-01-12,2026-06-21,15,False,False,regular
+CUST-00254,Reginald Robinson,kevinclark@gmail.com,,1,single_record,POS-00047:anchor,1047.37,5.0,0.0,0.0,2024-04-26,2025-01-09,543,False,False,regular
+CUST-00255,Whitney Hicks,,(348) 498-8032,1,single_record,POS-00048:anchor,840.0,4.0,0.0,0.0,2025-09-28,2026-04-02,95,False,False,regular
+CUST-00256,Christopher Williams,keith10@yahoo.com,,1,single_record,POS-00049:anchor,524.0,3.0,1.0,0.333,2024-11-10,2026-01-27,160,False,False,regular
+CUST-00257,Daniel Burton,vincentwhitaker@yahoo.com,(737) 569-2108,1,single_record,POS-00050:anchor,1551.93,9.0,3.0,0.333,2025-12-06,2026-06-28,8,False,False,regular
+CUST-00258,Laura Henderson,sandersjudy@yahoo.com,,1,single_record,POS-00051:anchor,2653.31,15.0,2.0,0.133,2025-09-26,2026-06-29,7,True,False,VIP
+CUST-00259,Wendy Rice,zroberts@gmail.com,(566) 269-6649,1,single_record,POS-00054:anchor,1206.0,6.0,2.0,0.333,2024-12-31,2026-05-21,46,False,False,regular
+CUST-00260,Tasha Valencia,george97@hotmail.com,(844) 306-6447,1,single_record,POS-00055:anchor,1955.47,12.0,2.0,0.167,2024-11-13,2026-04-16,81,True,False,VIP
+CUST-00261,Alexander Le,,(760) 546-3868,1,single_record,POS-00056:anchor,3139.17,14.0,0.0,0.0,2024-05-30,2026-05-24,43,True,False,VIP
+CUST-00262,Erin Herrera,christopher13@yahoo.com,(676) 912-8840,1,single_record,POS-00057:anchor,1030.0,4.0,1.0,0.25,2026-05-14,2026-06-10,26,False,False,new
+CUST-00263,Shawn Mckay,schmidtjames@yahoo.com,(669) 237-5807,1,single_record,POS-00059:anchor,1207.23,5.0,2.0,0.4,2026-01-21,2026-06-25,11,False,False,regular
+CUST-00264,Nancy Baker,,(405) 242-6170,1,single_record,POS-00060:anchor,178.0,1.0,1.0,1.0,2026-05-25,2026-05-25,42,False,False,new
+CUST-00265,Rita Harrell,jonathanthompson@gmail.com,,2,tier2,POS-00062:tier2:conf=1.00:via=POS-00063;POS-00063:tier2:conf=1.00:via=POS-00062,1724.45,10.0,1.0,0.1,2026-02-20,2026-06-30,6,True,False,VIP
+CUST-00266,Kenneth Fowler,,(872) 539-5476,1,single_record,POS-00064:anchor,1928.83,9.0,5.0,0.556,2026-03-27,2026-07-04,2,False,True,watch
+CUST-00267,Kathryn Ryan,,(392) 708-9151,1,single_record,POS-00066:anchor,1637.63,8.0,1.0,0.125,2025-02-10,2026-01-13,174,False,False,regular
+CUST-00268,Aaron Nguyen,harrisoncrystal@yahoo.com,,1,single_record,POS-00068:anchor,2216.59,11.0,0.0,0.0,2024-05-28,2026-05-15,52,True,False,VIP
+CUST-00269,Andrew Hickman,,(501) 528-2680,1,single_record,POS-00069:anchor,1595.43,6.0,0.0,0.0,2026-05-10,2026-07-05,1,False,False,new
+CUST-00270,Natasha Decker,,(503) 513-8305,1,single_record,POS-00070:anchor,863.48,5.0,0.0,0.0,2024-08-02,2026-02-13,143,False,False,regular
+CUST-00271,Kyle Brown,bellcharles@yahoo.com,(371) 906-8272,1,single_record,POS-00071:anchor,2512.12,12.0,2.0,0.167,2025-09-26,2026-04-29,68,True,False,VIP
+CUST-00272,Christopher Tucker,jford@hotmail.com,(482) 854-1939,1,single_record,POS-00073:anchor,855.31,5.0,0.0,0.0,2025-09-28,2026-03-30,98,False,False,regular
+CUST-00273,Chad Hodges,colelisa@hotmail.com,(616) 572-9406,1,single_record,POS-00074:anchor,311.92,1.0,0.0,0.0,2024-11-23,2024-11-23,590,False,False,new
+CUST-00274,Thomas Pierce,wagnergerald@gmail.com,(895) 648-1570,1,single_record,POS-00075:anchor,326.16,2.0,0.0,0.0,2024-08-24,2025-10-23,256,False,False,regular
+CUST-00275,Samuel Holmes,mathewaguilar@gmail.com,(581) 654-2259,2,tier2,POS-00078:tier2:conf=0.94:via=POS-00079;POS-00079:tier2:conf=0.94:via=POS-00078,1940.14,10.0,0.0,0.0,2025-07-18,2026-05-11,56,True,False,VIP
+CUST-00276,David Walker,elizabethcalderon@hotmail.com,,1,single_record,POS-00081:anchor,514.0,3.0,0.0,0.0,2025-01-15,2025-07-05,366,False,False,regular
+CUST-00277,Matthew Chapman,,(467) 920-8311,1,single_record,POS-00082:anchor,2351.76,10.0,0.0,0.0,2025-08-07,2026-06-08,28,True,False,VIP
+CUST-00278,Jerry Robinson,lucasrodney@yahoo.com,(493) 910-9047,2,tier2,POS-00083:tier2:conf=1.00:via=POS-00084;POS-00084:tier2:conf=1.00:via=POS-00083,1601.22,5.0,0.0,0.0,2025-02-21,2026-01-29,158,False,False,regular
+CUST-00279,Chad Welch,coxhenry@gmail.com,,1,single_record,POS-00085:anchor,2861.74,11.0,1.0,0.091,2026-01-06,2026-07-02,4,True,False,VIP
+CUST-00280,Jeremy Whitehead,stacey73@gmail.com,(528) 883-6692,1,single_record,POS-00086:anchor,198.0,1.0,1.0,1.0,2025-12-12,2025-12-12,206,False,False,new
+CUST-00281,John Caldwell,stanleynancy@hotmail.com,,1,single_record,POS-00087:anchor,2784.13,14.0,1.0,0.071,2024-06-10,2026-02-22,134,True,False,VIP
+CUST-00282,Lindsey Lee,pyoung@yahoo.com,(443) 705-1430,1,single_record,POS-00090:anchor,1178.96,6.0,1.0,0.167,2024-11-28,2025-10-12,267,False,False,regular
+CUST-00283,Rodney Owens,smurray@yahoo.com,,1,single_record,POS-00091:anchor,504.0,3.0,0.0,0.0,2026-01-06,2026-06-07,29,False,False,regular
+CUST-00284,Jessica Nunez,mburch@hotmail.com,(765) 332-2412,1,single_record,POS-00092:anchor,896.79,5.0,1.0,0.2,2025-09-05,2026-05-14,53,False,False,regular
+CUST-00285,Jessica Nunez,moniquewilliams@yahoo.com,,1,single_record,POS-00093:anchor,284.94,2.0,1.0,0.5,2026-04-12,2026-05-14,53,False,False,regular
+CUST-00286,Tracey Garcia,angela18@gmail.com,(739) 620-7708,1,single_record,POS-00094:anchor,1877.1,10.0,0.0,0.0,2026-01-21,2026-06-26,10,True,False,VIP
+CUST-00287,Richard Morgan,christopher24@yahoo.com,,1,single_record,POS-00095:anchor,168.0,1.0,0.0,0.0,2026-05-11,2026-05-11,56,False,False,new
+CUST-00288,Michelle Wright,mariahdavis@gmail.com,(858) 275-8372,2,tier2,POS-00096:tier2:conf=1.00:via=POS-00097;POS-00097:tier2:conf=1.00:via=POS-00096,1790.63,10.0,1.0,0.1,2024-08-07,2026-05-24,43,True,False,VIP
+CUST-00289,James West,sandersnathaniel@yahoo.com,(644) 714-1907,1,single_record,POS-00098:anchor,1774.94,9.0,2.0,0.222,2026-03-22,2026-06-19,17,False,False,regular
+CUST-00290,Rob Ramirez,,(732) 490-2292,2,tier2,POS-00099:tier2:conf=0.94:via=POS-00100;POS-00100:tier2:conf=0.94:via=POS-00099,837.33,4.0,1.0,0.25,2026-03-24,2026-06-14,22,False,False,regular
+CUST-00291,John Leblanc,,(765) 481-3050,1,single_record,POS-00101:anchor,1267.65,6.0,2.0,0.333,2025-01-31,2026-06-06,30,False,False,regular
+CUST-00292,Andrea Williams,lacey20@yahoo.com,,1,single_record,POS-00102:anchor,1428.9,7.0,1.0,0.143,2025-08-04,2026-03-14,114,False,False,regular
+CUST-00293,Yvette Huff,awest@gmail.com,,1,single_record,POS-00103:anchor,302.62,2.0,1.0,0.5,2025-12-01,2025-12-07,211,False,False,regular
+CUST-00294,Tanya House,scottmary@hotmail.com,(358) 375-6531,1,single_record,POS-00104:anchor,2195.73,8.0,2.0,0.25,2025-11-07,2026-06-23,13,True,False,VIP
+CUST-00295,Todd Lewis,,(247) 856-5336,1,single_record,POS-00106:anchor,812.0,3.0,0.0,0.0,2026-06-21,2026-07-02,4,False,False,new
+CUST-00296,Nicholas Galloway,fbrown@hotmail.com,,1,single_record,POS-00108:anchor,803.8,4.0,1.0,0.25,2025-11-22,2026-06-21,15,False,False,regular
+CUST-00297,Spencer Henderson,ashleylopez@hotmail.com,,1,single_record,POS-00111:anchor,1542.78,9.0,0.0,0.0,2024-12-10,2026-06-25,11,False,False,regular
+CUST-00298,Angela Higgins,qzavala@hotmail.com,,1,single_record,POS-00113:anchor,1546.0,6.0,0.0,0.0,2025-04-05,2026-04-17,80,False,False,regular
+CUST-00299,Tanya Riley,ingramjill@yahoo.com,(554) 608-3142,2,tier2,POS-00115:tier2:conf=1.00:via=POS-00116;POS-00116:tier2:conf=1.00:via=POS-00115,1183.55,5.0,2.0,0.4,2026-04-11,2026-06-28,8,False,False,regular
+CUST-00300,Amy Adkins,,(678) 325-5382,1,single_record,POS-00117:anchor,0.0,0.0,0.0,0.0,,,99999,False,False,new
+CUST-00301,Brian Silva,,(364) 535-6123,1,single_record,POS-00119:anchor,964.28,6.0,1.0,0.167,2025-07-16,2026-06-13,23,False,False,regular
+CUST-00302,Wesley Farrell,zwelch@gmail.com,(711) 727-8648,1,single_record,POS-00120:anchor,315.29,2.0,0.0,0.0,2024-11-26,2025-05-11,421,False,False,regular
+CUST-00303,Eric Yu,baldwinsherry@gmail.com,(710) 223-2475,1,single_record,POS-00121:anchor,1148.0,5.0,0.0,0.0,2025-07-29,2026-06-12,24,False,False,regular
+CUST-00304,Joe Wilson,,(562) 249-1828,2,tier1,POS-00122:tier1:conf=1.00:via=POS-00123;POS-00123:tier1:conf=1.00:via=POS-00122,2712.07,13.0,3.0,0.231,2024-12-26,2026-05-10,57,True,False,VIP
+CUST-00305,Pamela Sanchez,glennmartin@gmail.com,(983) 612-6995,1,single_record,POS-00124:anchor,436.0,2.0,2.0,1.0,2025-10-08,2026-06-16,20,False,False,regular
+CUST-00306,Brooke Harvey,samuel67@yahoo.com,,1,single_record,POS-00125:anchor,178.0,1.0,0.0,0.0,2025-02-16,2025-02-16,505,False,False,new
+CUST-00307,Robert Silva,terri77@yahoo.com,,1,single_record,POS-00126:anchor,1730.0,7.0,0.0,0.0,2025-08-24,2026-06-23,13,False,False,regular
+CUST-00308,Alexandra Donovan,laurie61@yahoo.com,,1,single_record,POS-00127:anchor,580.64,3.0,0.0,0.0,2025-01-19,2025-09-06,303,False,False,regular
+CUST-00309,John Foster,donna47@hotmail.com,,1,single_record,POS-00128:anchor,1705.09,9.0,0.0,0.0,2025-03-16,2026-04-09,88,False,False,regular
+CUST-00310,Emily Evans,cjackson@yahoo.com,,1,single_record,POS-00129:anchor,1386.0,7.0,1.0,0.143,2026-04-06,2026-06-09,27,False,False,regular
+CUST-00311,Yolanda Ferrell,lambertrichard@hotmail.com,,2,tier1,POS-00131:tier1:conf=1.00:via=POS-00132;POS-00132:tier1:conf=1.00:via=POS-00131,113.83,1.0,0.0,0.0,2026-04-01,2026-04-01,96,False,False,new
+CUST-00312,Charles Lewis,,(722) 611-9193,1,single_record,POS-00133:anchor,1276.94,7.0,1.0,0.143,2024-12-11,2026-06-04,32,False,False,regular
+CUST-00313,Mike Moore,khines@gmail.com,(344) 535-6218,1,single_record,POS-00136:anchor,284.47,2.0,1.0,0.5,2026-04-15,2026-06-01,35,False,False,regular
+CUST-00314,Martha Warner,raymond43@gmail.com,,1,single_record,POS-00137:anchor,1515.57,7.0,3.0,0.429,2024-09-21,2026-04-09,88,False,False,regular
+CUST-00315,Destiny Smith,greenjorge@yahoo.com,(808) 544-9311,1,single_record,POS-00138:anchor,653.54,5.0,1.0,0.2,2026-03-26,2026-06-27,9,False,False,regular
+CUST-00316,Lisa Evans,wendymitchell@yahoo.com,,1,single_record,POS-00139:anchor,574.0,2.0,0.0,0.0,2026-05-26,2026-05-28,39,False,False,new
+CUST-00317,Elizabeth Mcmillan,davidfarrell@yahoo.com,(507) 686-1272,1,single_record,POS-00140:anchor,774.72,5.0,0.0,0.0,2025-05-22,2025-12-23,195,False,False,regular
+CUST-00318,Jennifer Harris,kristyjohnson@hotmail.com,,1,single_record,POS-00143:anchor,970.0,5.0,0.0,0.0,2024-04-18,2026-01-15,172,False,False,regular
+CUST-00319,Tracy Whitehead,jonesraymond@hotmail.com,,1,single_record,POS-00144:anchor,1432.15,7.0,1.0,0.143,2025-07-07,2026-06-18,18,False,False,regular
+CUST-00320,Meghan Davis,xfox@yahoo.com,(590) 351-4968,1,single_record,POS-00145:anchor,672.99,4.0,0.0,0.0,2025-11-21,2026-05-20,47,False,False,regular
+CUST-00321,Rodney Hill,martinezlogan@gmail.com,,1,single_record,POS-00146:anchor,1968.13,10.0,4.0,0.4,2024-04-19,2026-06-04,32,True,False,VIP
+CUST-00322,Adam Wise,,(220) 651-6139,1,single_record,POS-00147:anchor,2766.56,14.0,0.0,0.0,2025-12-27,2026-07-05,1,True,False,VIP
+CUST-00323,Ronald Smith,katrinaanderson@hotmail.com,,1,single_record,POS-00149:anchor,1688.75,8.0,1.0,0.125,2026-03-19,2026-07-04,2,False,False,regular
+CUST-00324,Becky Gardner,stacey84@gmail.com,(690) 738-7173,2,tier1,POS-00150:tier1:conf=1.00:via=POS-00151;POS-00151:tier1:conf=1.00:via=POS-00150,1843.99,8.0,1.0,0.125,2026-04-02,2026-07-02,4,False,False,regular
+CUST-00325,Mary Aguilar,james84@gmail.com,(551) 759-6804,2,tier2,POS-00152:tier2:conf=1.00:via=POS-00153;POS-00153:tier2:conf=1.00:via=POS-00152,529.37,3.0,0.0,0.0,2025-06-06,2025-12-05,213,False,False,regular
+CUST-00326,Kimberly Henson,barkereric@yahoo.com,(589) 604-6654,1,single_record,POS-00157:anchor,642.34,4.0,0.0,0.0,2025-12-07,2026-05-26,41,False,False,regular
+CUST-00327,Eric Spears,,(244) 494-2294,1,single_record,POS-00158:anchor,138.0,1.0,0.0,0.0,2026-05-16,2026-05-16,51,False,False,new
+CUST-00328,Michelle Cherry,larryhiggins@hotmail.com,(872) 462-8849,1,single_record,POS-00159:anchor,1062.09,6.0,1.0,0.167,2025-03-04,2026-03-07,121,False,False,regular
+CUST-00329,Lisa Keith,,(752) 477-5450,1,single_record,POS-00160:anchor,2051.66,8.0,1.0,0.125,2024-09-08,2026-06-24,12,True,False,VIP
+CUST-00330,Kristin Rodriguez,,(862) 260-2465,1,single_record,POS-00166:anchor,2583.03,12.0,2.0,0.167,2024-12-10,2026-03-01,127,True,False,VIP
+CUST-00331,Monica Garrison,james27@hotmail.com,,1,single_record,POS-00167:anchor,722.0,4.0,0.0,0.0,2026-02-07,2026-03-19,109,False,False,regular
+CUST-00332,Steven Torres,davisphillip@yahoo.com,,1,single_record,POS-00169:anchor,255.11,2.0,0.0,0.0,2025-05-23,2025-07-29,342,False,False,regular
+CUST-00333,Laura Perez,,(782) 817-2758,1,single_record,POS-00171:anchor,660.04,3.0,0.0,0.0,2024-03-05,2026-05-12,55,False,False,regular
+CUST-00334,Andrew Lee,,(857) 756-9590,1,single_record,POS-00172:anchor,1572.6,9.0,0.0,0.0,2024-12-24,2026-05-23,44,False,False,regular
+CUST-00335,Tammy Ramirez,kathryn50@yahoo.com,(680) 479-4159,1,single_record,POS-00173:anchor,782.0,4.0,0.0,0.0,2025-05-11,2026-06-24,12,False,False,regular
+CUST-00336,Darlene Ross,,(367) 948-8518,1,single_record,POS-00174:anchor,2046.0,11.0,3.0,0.273,2026-04-19,2026-07-03,3,True,False,VIP
+CUST-00337,Tina Herrera,,(391) 214-6523,1,single_record,POS-00175:anchor,801.33,5.0,1.0,0.2,2026-02-07,2026-07-03,3,False,False,regular
+CUST-00338,Sheila Wilson,,(891) 975-4164,1,single_record,POS-00176:anchor,168.0,1.0,0.0,0.0,2026-03-27,2026-03-27,101,False,False,new
+CUST-00339,Tara White,charles87@hotmail.com,(616) 637-9442,1,single_record,POS-00177:anchor,360.21,2.0,0.0,0.0,2025-11-29,2026-03-07,121,False,False,regular
+CUST-00340,Tara White,marcia99@gmail.com,,1,single_record,POS-00178:anchor,438.61,3.0,0.0,0.0,2024-10-28,2025-12-25,193,False,False,regular
+CUST-00341,Jessica Edwards,cporter@gmail.com,(207) 467-7284,1,single_record,POS-00180:anchor,2850.0,12.0,1.0,0.083,2025-01-03,2026-06-09,27,True,False,VIP
+CUST-00342,Catherine Dixon,jenniferbrock@hotmail.com,,1,single_record,POS-00181:anchor,817.32,5.0,1.0,0.2,2024-12-11,2026-01-24,163,False,False,regular
+CUST-00343,Paul Ray,ghernandez@gmail.com,(510) 796-1187,1,single_record,POS-00182:anchor,818.06,4.0,0.0,0.0,2024-11-02,2026-06-01,35,False,False,regular
+CUST-00344,Amanda Ball,terickson@yahoo.com,(264) 883-2936,1,single_record,POS-00183:anchor,821.98,5.0,1.0,0.2,2025-05-19,2026-05-10,57,False,False,regular
+CUST-00345,Judy Lambert,,(616) 902-9233,1,single_record,POS-00184:anchor,524.0,3.0,1.0,0.333,2025-08-20,2026-06-05,31,False,False,regular
+CUST-00346,Elizabeth Rivera,,(321) 854-5833,1,single_record,POS-00185:anchor,901.84,5.0,1.0,0.2,2026-03-31,2026-06-29,7,False,False,regular
+CUST-00347,Lee Charles,laura09@yahoo.com,,1,single_record,POS-00186:anchor,2649.59,11.0,4.0,0.364,2025-01-20,2026-03-23,105,True,False,VIP
+CUST-00348,Kyle Ortiz,silvageorge@hotmail.com,,1,single_record,POS-00188:anchor,168.0,1.0,0.0,0.0,2025-04-28,2025-04-28,434,False,False,new
+CUST-00349,Shelby Byrd,roberthampton@yahoo.com,(284) 738-8319,1,single_record,POS-00190:anchor,554.0,3.0,0.0,0.0,2026-03-24,2026-06-27,9,False,False,regular
+CUST-00350,Raven Gilbert,thorntonapril@hotmail.com,(280) 777-2838,1,single_record,POS-00191:anchor,982.25,6.0,2.0,0.333,2025-07-29,2026-07-05,1,False,False,regular
+CUST-00351,Kevin Kelley,whitney78@yahoo.com,(718) 407-9792,1,single_record,POS-00192:anchor,772.86,4.0,2.0,0.5,2024-08-06,2025-11-04,244,False,True,watch
+CUST-00352,Aaron Mitchell,,(733) 652-2904,1,single_record,POS-00193:anchor,1472.8,8.0,0.0,0.0,2024-08-14,2026-01-11,176,False,False,regular
+CUST-00353,Russell Carpenter,,(798) 700-2489,1,single_record,POS-00194:anchor,3150.01,15.0,3.0,0.2,2025-12-16,2026-07-01,5,True,False,VIP
+CUST-00354,Scott Lewis,erica49@yahoo.com,(665) 335-9409,1,single_record,POS-00195:anchor,2493.4,10.0,2.0,0.2,2025-04-16,2026-05-28,39,True,False,VIP
+CUST-00355,Thomas Santana,susanramirez@yahoo.com,,1,single_record,POS-00196:anchor,2085.64,10.0,4.0,0.4,2025-04-08,2026-06-26,10,True,False,VIP
+CUST-00356,Laura Jackson,shellyhendrix@yahoo.com,,1,single_record,POS-00197:anchor,684.55,3.0,0.0,0.0,2025-01-07,2025-10-01,278,False,False,regular
+CUST-00357,Cynthia Rogers,,(553) 917-2044,1,single_record,POS-00199:anchor,1523.2,7.0,1.0,0.143,2024-04-07,2026-05-08,59,False,False,regular
+CUST-00358,Emily Walker,reedscott@yahoo.com,(271) 683-1519,2,tier2,POS-00200:tier2:conf=1.00:via=POS-00201;POS-00201:tier2:conf=1.00:via=POS-00200,1704.67,9.0,0.0,0.0,2024-10-02,2026-04-27,70,False,False,regular
+CUST-00359,James Johnson,,(857) 946-7887,1,single_record,POS-00202:anchor,1100.95,5.0,0.0,0.0,2026-03-28,2026-05-28,39,False,False,regular
+CUST-00360,John Alvarez,derrick99@gmail.com,(592) 659-7184,2,tier2,POS-00203:tier2:conf=1.00:via=POS-00204;POS-00204:tier2:conf=1.00:via=POS-00203,1716.6,9.0,0.0,0.0,2025-03-11,2026-03-22,106,False,False,regular
+CUST-00361,Melissa Jones,brentstein@gmail.com,(322) 382-9802,1,single_record,POS-00205:anchor,1285.04,7.0,2.0,0.286,2025-11-18,2026-06-22,14,False,False,regular
+CUST-00362,Gregory Rubio,,(809) 234-8314,1,single_record,POS-00211:anchor,629.44,4.0,0.0,0.0,2025-07-13,2025-11-20,228,False,False,regular
+CUST-00363,Stephen Solis,nancy04@hotmail.com,(451) 958-1724,1,single_record,POS-00212:anchor,1128.6,7.0,1.0,0.143,2026-01-06,2026-06-15,21,False,False,regular
+CUST-00364,Elizabeth Travis,hebertmatthew@yahoo.com,,1,single_record,POS-00213:anchor,842.0,4.0,0.0,0.0,2025-04-14,2026-05-12,55,False,False,regular
+CUST-00365,Patricia Salazar,znelson@gmail.com,(258) 343-9255,1,single_record,POS-00214:anchor,416.0,2.0,0.0,0.0,2025-03-29,2025-10-17,262,False,False,regular
+CUST-00366,Maria Kelley,alexisrogers@yahoo.com,,1,single_record,POS-00217:anchor,674.09,4.0,0.0,0.0,2025-07-29,2026-06-20,16,False,False,regular
+CUST-00367,Thomas Green,frobertson@yahoo.com,(842) 895-7999,1,single_record,POS-00218:anchor,1555.17,7.0,0.0,0.0,2026-01-31,2026-06-28,8,False,False,regular
+CUST-00368,Katie Boyd,,(627) 618-3444,1,single_record,POS-00220:anchor,930.0,4.0,0.0,0.0,2025-06-27,2026-05-08,59,False,False,regular
+CUST-00369,Amber Taylor,contrerassteven@gmail.com,,1,single_record,POS-00221:anchor,416.0,1.0,1.0,1.0,2026-04-04,2026-04-04,93,False,False,new
+CUST-00370,Jasmine Brown,,(925) 347-8586,1,single_record,POS-00222:anchor,792.0,3.0,0.0,0.0,2026-06-17,2026-07-03,3,False,False,new
+CUST-00371,Robert Clark,,(409) 538-2295,1,single_record,POS-00224:anchor,1198.0,5.0,0.0,0.0,2025-04-04,2026-06-26,10,False,False,regular
+CUST-00372,Brandy Dominguez,madkins@yahoo.com,,1,single_record,POS-00225:anchor,139.31,1.0,0.0,0.0,2026-06-30,2026-06-30,6,False,False,new
+CUST-00373,Melissa Cannon,emiles@hotmail.com,(396) 252-5398,1,single_record,POS-00226:anchor,1813.7,10.0,1.0,0.1,2025-07-21,2026-06-14,22,True,False,VIP
+CUST-00374,Michael Molina,foxallison@yahoo.com,,1,single_record,POS-00227:anchor,699.64,4.0,1.0,0.25,2025-12-24,2026-05-26,41,False,False,regular
+CUST-00375,Melissa Ashley,starkdaniel@hotmail.com,(393) 979-4555,1,single_record,POS-00228:anchor,352.5,2.0,0.0,0.0,2024-06-11,2026-05-27,40,False,False,regular
+CUST-00376,Melissa Ashley,ashleyhernandez@yahoo.com,(541) 510-1251,1,single_record,POS-00229:anchor,1230.17,6.0,1.0,0.167,2025-05-07,2026-04-08,89,False,False,regular
+CUST-00377,Robert Adkins,nwilson@hotmail.com,(960) 320-8846,1,single_record,POS-00230:anchor,141.16,1.0,0.0,0.0,2025-12-09,2025-12-09,209,False,False,new
+CUST-00378,Amy Morrison,gdavis@yahoo.com,(921) 409-7498,1,single_record,POS-00231:anchor,1028.0,5.0,1.0,0.2,2025-07-30,2026-07-05,1,False,False,regular
+CUST-00379,Jeffrey Robinson,chavezwilliam@yahoo.com,,1,single_record,POS-00232:anchor,1055.52,5.0,2.0,0.4,2025-03-14,2026-03-20,108,False,False,regular
+CUST-00380,Ryan Johnson,,(678) 746-6886,1,single_record,POS-00233:anchor,168.0,1.0,0.0,0.0,2026-03-21,2026-03-21,107,False,False,new
+CUST-00381,Richard Martin,fosterlisa@hotmail.com,,1,single_record,POS-00234:anchor,722.0,3.0,1.0,0.333,2024-12-29,2026-04-29,68,False,False,regular
+CUST-00382,Richard Martin,,(940) 680-6246,1,single_record,POS-00235:anchor,188.0,1.0,0.0,0.0,2026-05-01,2026-05-01,66,False,False,new
+CUST-00383,Tanner Anderson,bethwilliams@yahoo.com,,1,single_record,POS-00236:anchor,940.8,6.0,2.0,0.333,2024-08-28,2026-05-19,48,False,False,regular
+CUST-00384,Cindy Johnson,,(427) 959-3390,1,single_record,POS-00237:anchor,178.0,1.0,0.0,0.0,2026-01-18,2026-01-18,169,False,False,new
+CUST-00385,Jason Murphy,rbennett@hotmail.com,(503) 356-4214,1,single_record,POS-00238:anchor,2172.56,9.0,0.0,0.0,2025-09-05,2026-04-21,76,True,False,VIP
+CUST-00386,Kathleen Gray,,(784) 451-9180,1,single_record,POS-00239:anchor,840.56,4.0,0.0,0.0,2025-03-05,2026-04-13,84,False,False,regular
+CUST-00387,Johnny Miller,,(982) 700-9037,1,single_record,POS-00240:anchor,1530.29,8.0,3.0,0.375,2025-12-19,2026-06-28,8,False,False,regular
+CUST-00388,Andrew Ryan,,(561) 373-3293,1,single_record,POS-00241:anchor,356.0,1.0,0.0,0.0,2025-06-08,2025-06-08,393,False,False,new
+CUST-00389,Zoe Bell,avilatiffany@yahoo.com,,1,single_record,POS-00242:anchor,1296.52,5.0,1.0,0.2,2026-01-21,2026-05-07,60,False,False,regular
+CUST-00390,Denise Webster,rreed@gmail.com,(277) 884-1794,1,single_record,POS-00244:anchor,2961.2,13.0,1.0,0.077,2024-05-11,2026-06-26,10,True,False,VIP
+CUST-00391,Stefanie Gonzalez,,(341) 845-4791,1,single_record,POS-00245:anchor,2176.0,10.0,1.0,0.1,2026-02-28,2026-06-20,16,True,False,VIP
+CUST-00392,Andrew Hernandez,johnsondonna@hotmail.com,(210) 423-9285,1,single_record,POS-00246:anchor,3560.62,15.0,2.0,0.133,2024-05-04,2026-07-01,5,True,False,VIP
+CUST-00393,Julie Wilson,jim95@hotmail.com,,1,single_record,POS-00249:anchor,1299.1,7.0,2.0,0.286,2025-01-27,2026-06-18,18,False,False,regular
+CUST-00394,Lori Oconnell,,(915) 890-8054,1,single_record,POS-00250:anchor,1819.13,9.0,1.0,0.111,2025-03-07,2026-07-03,3,False,False,regular
+CUST-00395,Larry Byrd,conniesimmons@yahoo.com,,1,single_record,POS-00252:anchor,2141.12,11.0,1.0,0.091,2025-10-15,2026-06-30,6,True,False,VIP
+CUST-00396,Jennifer Jones,trussell@yahoo.com,,1,single_record,POS-00254:anchor,2382.86,10.0,0.0,0.0,2025-05-20,2026-05-21,46,True,False,VIP
+CUST-00397,Hannah Burton,,(901) 282-1519,2,tier2,POS-00255:tier2:conf=1.00:via=POS-00256;POS-00256:tier2:conf=1.00:via=POS-00255,1326.0,6.0,2.0,0.333,2026-01-27,2026-06-07,29,False,False,regular
+CUST-00398,Curtis Barton,meredith27@gmail.com,,1,single_record,POS-00257:anchor,1386.84,7.0,0.0,0.0,2025-08-05,2026-04-01,96,False,False,regular
+CUST-00399,Melissa Burke,jfaulkner@hotmail.com,,2,tier1,POS-00258:tier1:conf=1.00:via=POS-00259;POS-00259:tier1:conf=1.00:via=POS-00258,228.0,1.0,0.0,0.0,2025-11-22,2025-11-22,226,False,False,new
+CUST-00400,David Riggs,paulscott@yahoo.com,(244) 435-4463,1,single_record,POS-00260:anchor,0.0,0.0,0.0,0.0,,,99999,False,False,new
+CUST-00401,Ross Wood,russojacob@hotmail.com,(384) 522-1256,2,tier2,POS-00262:tier2:conf=1.00:via=POS-00263;POS-00263:tier2:conf=1.00:via=POS-00262,1457.56,6.0,0.0,0.0,2025-08-11,2026-06-14,22,False,False,regular
+CUST-00402,William Peterson,susan03@gmail.com,(608) 278-5903,1,single_record,POS-00264:anchor,242.6,1.0,0.0,0.0,2026-07-03,2026-07-03,3,False,False,new
+CUST-00403,Cynthia Poole,michael77@gmail.com,(906) 941-2284,1,single_record,POS-00267:anchor,178.0,1.0,0.0,0.0,2025-06-28,2025-06-28,373,False,False,new
+CUST-00404,Joseph Morton,,(850) 479-8381,1,single_record,POS-00271:anchor,1097.61,6.0,0.0,0.0,2026-03-19,2026-05-27,40,False,False,regular
+CUST-00405,Amanda Webb,,(767) 584-8075,1,single_record,POS-00272:anchor,832.0,4.0,1.0,0.25,2025-06-21,2026-02-21,135,False,False,regular
+CUST-00406,Ryan Simon,jonathan77@yahoo.com,,1,single_record,POS-00273:anchor,917.41,5.0,0.0,0.0,2026-01-13,2026-06-01,35,False,False,regular
+CUST-00407,Joseph Christian,,(834) 502-5037,1,single_record,POS-00274:anchor,1348.04,7.0,3.0,0.429,2025-03-18,2026-07-01,5,False,False,regular
+CUST-00408,Mariah Miller,,(475) 357-7225,1,single_record,POS-00275:anchor,1842.17,10.0,2.0,0.2,2026-01-07,2026-06-15,21,True,False,VIP
+CUST-00409,Nicole Sanchez,jessicabell@gmail.com,(358) 957-7383,1,single_record,POS-00276:anchor,865.17,5.0,0.0,0.0,2026-01-06,2026-06-01,35,False,False,regular
+CUST-00410,Nicholas Johnson,,(206) 515-8286,1,single_record,POS-00277:anchor,1843.67,8.0,1.0,0.125,2025-01-13,2026-05-25,42,False,False,regular
+CUST-00411,Melissa White,warrenmary@gmail.com,(305) 335-2430,1,single_record,POS-00278:anchor,1218.0,6.0,1.0,0.167,2025-04-05,2025-12-29,189,False,False,regular
+CUST-00412,Jacqueline Hill,,(563) 767-2524,1,single_record,POS-00280:anchor,2121.65,11.0,0.0,0.0,2024-12-03,2026-05-27,40,True,False,VIP
+CUST-00413,Alejandro Vaughan,nbrooks@hotmail.com,,1,single_record,POS-00281:anchor,114.35,1.0,0.0,0.0,2026-05-24,2026-05-24,43,False,False,new
+CUST-00414,Christopher Cortez,bhopkins@gmail.com,(213) 498-7779,1,single_record,POS-00282:anchor,396.0,2.0,0.0,0.0,2025-07-02,2025-07-06,365,False,False,regular
+CUST-00415,Tracy Chang,hsmith@hotmail.com,(943) 772-4977,1,single_record,POS-00283:anchor,1298.34,7.0,0.0,0.0,2025-06-24,2026-06-21,15,False,False,regular
+CUST-00416,Christopher Walker,,(705) 349-2036,1,single_record,POS-00286:anchor,1168.87,6.0,2.0,0.333,2024-10-20,2026-05-02,65,False,False,regular
+CUST-00417,Heather Torres,warrenjohn@hotmail.com,,1,single_record,POS-00287:anchor,1053.84,7.0,0.0,0.0,2024-07-06,2025-11-15,233,False,False,regular
+CUST-00418,Bonnie Kennedy,,(279) 569-5123,1,single_record,POS-00288:anchor,1877.53,10.0,2.0,0.2,2025-07-21,2026-07-02,4,True,False,VIP
+CUST-00419,Julie Rivera,,(207) 605-6443,1,single_record,POS-00290:anchor,218.0,1.0,0.0,0.0,2025-08-29,2025-08-29,311,False,False,new
+CUST-00420,Julie Rivera,kevinclayton@gmail.com,(538) 650-6484,1,single_record,POS-00291:anchor,153.74,1.0,0.0,0.0,2025-12-01,2025-12-01,217,False,False,new
+CUST-00421,Jacqueline Nelson,davisnicholas@hotmail.com,(867) 808-3230,1,single_record,POS-00292:anchor,3640.13,17.0,7.0,0.412,2025-03-31,2026-06-22,14,True,False,VIP
+CUST-00422,James Wilson,christopherbruce@hotmail.com,(527) 498-9044,1,single_record,POS-00294:anchor,1260.92,6.0,1.0,0.167,2024-10-04,2026-02-18,138,False,False,regular
+CUST-00423,Amanda Gill,ariel18@gmail.com,(534) 585-5592,1,single_record,POS-00295:anchor,652.0,4.0,0.0,0.0,2025-08-19,2026-05-02,65,False,False,regular
+CUST-00424,James Perez,thickman@gmail.com,(587) 275-8357,1,single_record,POS-00301:anchor,2352.51,12.0,3.0,0.25,2024-09-20,2026-03-30,98,True,False,VIP
+CUST-00425,Harry Smith,ashleyatkinson@hotmail.com,,1,single_record,POS-00302:anchor,1660.18,9.0,1.0,0.111,2025-11-19,2026-05-18,49,False,False,regular
+CUST-00426,Amanda Hill,patrick21@hotmail.com,,1,single_record,POS-00303:anchor,964.55,5.0,1.0,0.2,2025-06-06,2026-06-16,20,False,False,regular
+CUST-00427,Terri Tran,brian63@gmail.com,(757) 237-6890,1,single_record,POS-00304:anchor,1178.1,6.0,2.0,0.333,2026-06-20,2026-07-05,1,False,False,new
+CUST-00428,Heidi Martinez,cassie99@yahoo.com,(750) 808-2392,1,single_record,POS-00305:anchor,1563.08,9.0,0.0,0.0,2025-12-25,2026-06-26,10,False,False,regular
+CUST-00429,Monique Andrews,,(881) 563-3725,1,single_record,POS-00306:anchor,351.21,2.0,0.0,0.0,2026-03-19,2026-03-23,105,False,False,regular
+CUST-00430,Jack Williams,,(861) 893-7547,1,single_record,POS-00307:anchor,1128.0,5.0,1.0,0.2,2026-01-31,2026-06-04,32,False,False,regular
+CUST-00431,Shelley Woods,,(641) 308-1172,2,tier2,POS-00308:tier2:conf=1.00:via=POS-00309;POS-00309:tier2:conf=1.00:via=POS-00308,556.48,3.0,0.0,0.0,2026-03-30,2026-06-16,20,False,False,regular
+CUST-00432,Krystal Perez,fgarcia@yahoo.com,(803) 907-9199,1,single_record,POS-00311:anchor,2155.02,9.0,2.0,0.222,2025-05-13,2026-05-24,43,True,False,VIP
+CUST-00433,Alexandra Hayes,,(226) 694-2712,1,single_record,POS-00312:anchor,142.18,1.0,0.0,0.0,2025-04-27,2025-04-27,435,False,False,new
+CUST-00434,Scott Dalton,carlsonkristen@yahoo.com,,1,single_record,POS-00313:anchor,178.0,1.0,0.0,0.0,2026-06-01,2026-06-01,35,False,False,new
+CUST-00435,Veronica Torres,ashleyjackson@yahoo.com,(948) 345-6707,1,single_record,POS-00314:anchor,950.0,4.0,1.0,0.25,2026-01-19,2026-07-04,2,False,False,regular
+CUST-00436,Christine Lynch,,(412) 733-8912,1,single_record,POS-00315:anchor,1382.54,7.0,1.0,0.143,2025-07-22,2026-05-18,49,False,False,regular
+CUST-00437,Jody Meza,dominicturner@yahoo.com,,1,single_record,POS-00316:anchor,1909.71,10.0,2.0,0.2,2025-01-16,2026-04-20,77,True,False,VIP
+CUST-00438,Donna Moore,todd15@yahoo.com,(527) 268-5919,1,single_record,POS-00317:anchor,1065.26,5.0,1.0,0.2,2026-04-13,2026-05-19,48,False,False,regular
+CUST-00439,Glenn Jones,jennifersimpson@hotmail.com,(318) 223-6620,1,single_record,POS-00318:anchor,294.57,2.0,1.0,0.5,2026-03-31,2026-04-30,67,False,False,regular
+CUST-00440,Aaron Hayes,,(369) 958-4996,1,single_record,POS-00319:anchor,1344.08,8.0,1.0,0.125,2025-11-02,2026-06-28,8,False,False,regular
+CUST-00441,Kristin Weber,tamaranovak@yahoo.com,(438) 614-4022,1,single_record,POS-00321:anchor,1890.0,7.0,1.0,0.143,2025-05-18,2026-05-08,59,False,False,regular
+CUST-00442,Donna Peck,yfaulkner@gmail.com,,1,single_record,POS-00322:anchor,2474.8,15.0,1.0,0.067,2024-07-25,2025-09-27,282,True,False,VIP
+CUST-00443,Ronald Stephens,nicholas65@gmail.com,,1,single_record,POS-00323:anchor,1449.53,9.0,1.0,0.111,2025-03-24,2026-06-07,29,False,False,regular
+CUST-00444,Deborah Kerr,brittanygardner@hotmail.com,,2,tier2,POS-00324:tier2:conf=0.94:via=POS-00325;POS-00325:tier2:conf=0.94:via=POS-00324,1583.27,7.0,0.0,0.0,2026-01-31,2026-06-14,22,False,False,regular
+CUST-00445,Margaret Jones,,(486) 970-2025,1,single_record,POS-00326:anchor,1674.79,9.0,0.0,0.0,2026-01-23,2026-05-30,37,False,False,regular
+CUST-00446,Gabriel Parker,,(750) 391-6993,1,single_record,POS-00327:anchor,1138.0,5.0,1.0,0.2,2025-11-10,2026-07-05,1,False,False,regular
+CUST-00447,Kaitlyn Carroll,,(317) 468-9019,1,single_record,POS-00328:anchor,813.78,3.0,0.0,0.0,2025-03-16,2026-05-24,43,False,False,regular
+CUST-00448,Sherri Mason,ttaylor@gmail.com,,1,single_record,POS-00330:anchor,1138.0,6.0,0.0,0.0,2025-07-22,2026-03-20,108,False,False,regular
+CUST-00449,Bill Reynolds,eewing@hotmail.com,(505) 829-2388,1,single_record,POS-00332:anchor,1291.93,6.0,0.0,0.0,2025-12-15,2026-05-28,39,False,False,regular
+CUST-00450,Billy Reynolds,,(388) 582-3316,1,single_record,POS-00333:anchor,1254.88,7.0,1.0,0.143,2024-09-13,2026-05-01,66,False,False,regular
+CUST-00451,Marcus Wright,sferguson@yahoo.com,,1,single_record,POS-00334:anchor,208.0,1.0,0.0,0.0,2026-06-19,2026-06-19,17,False,False,new
+CUST-00452,Christopher Hayden,gabriel90@hotmail.com,,1,single_record,POS-00336:anchor,873.68,4.0,0.0,0.0,2025-01-11,2026-05-26,41,False,False,regular
+CUST-00453,Emily Adams,michaeljohnson@gmail.com,(697) 339-4196,2,tier2,POS-00338:tier2:conf=1.00:via=POS-00339;POS-00339:tier2:conf=1.00:via=POS-00338,492.86,2.0,1.0,0.5,2025-08-12,2025-11-23,225,False,False,regular
+CUST-00454,Sabrina White,gbailey@yahoo.com,,1,single_record,POS-00340:anchor,1544.39,8.0,1.0,0.125,2025-08-17,2026-06-03,33,False,False,regular
+CUST-00455,Brenda Walters,tflores@gmail.com,,1,single_record,POS-00341:anchor,1949.9,10.0,1.0,0.1,2025-06-26,2026-07-03,3,True,False,VIP
+CUST-00456,Michael Cook,sarahyang@hotmail.com,,1,single_record,POS-00343:anchor,306.0,2.0,1.0,0.5,2024-06-02,2024-10-27,617,False,False,regular
+CUST-00457,Elizabeth Hodge,andrearivera@yahoo.com,(500) 233-5503,1,single_record,POS-00344:anchor,1434.0,7.0,1.0,0.143,2026-04-09,2026-07-04,2,False,False,regular
+CUST-00458,Lisa Pierce,,(757) 575-9880,1,single_record,POS-00347:anchor,581.52,2.0,1.0,0.5,2024-05-09,2024-12-15,568,False,False,regular
+CUST-00459,Richard Robertson,lloydamanda@yahoo.com,(661) 469-6711,1,single_record,POS-00350:anchor,1636.91,8.0,0.0,0.0,2026-06-21,2026-07-05,1,False,False,new
+CUST-00460,Vanessa Sandoval,james14@hotmail.com,(650) 320-4882,1,single_record,POS-00351:anchor,1554.0,8.0,0.0,0.0,2026-06-07,2026-07-03,3,False,False,new
+CUST-00461,Amy Gutierrez,orose@yahoo.com,(803) 905-6744,1,single_record,POS-00352:anchor,871.9,3.0,0.0,0.0,2024-12-07,2026-02-06,150,False,False,regular
+CUST-00462,Jacob Cox,lcarr@gmail.com,(848) 638-3719,1,single_record,POS-00353:anchor,1870.0,10.0,2.0,0.2,2026-06-06,2026-06-23,13,True,False,VIP
+CUST-00463,Katherine Garrett,,(412) 411-1972,1,single_record,POS-00354:anchor,1732.81,9.0,2.0,0.222,2025-10-09,2026-06-28,8,False,False,regular
+CUST-00464,Andrea Pennington,samantha91@hotmail.com,,1,single_record,POS-00355:anchor,356.0,2.0,0.0,0.0,2025-07-24,2026-05-30,37,False,False,regular
+CUST-00465,Andrea Pennington,,(921) 499-5740,1,single_record,POS-00356:anchor,107.45,1.0,0.0,0.0,2026-06-27,2026-06-27,9,False,False,new
+CUST-00466,Samuel Wolfe,,(727) 895-2560,1,single_record,POS-00357:anchor,208.0,1.0,0.0,0.0,2025-12-01,2025-12-01,217,False,False,new
+CUST-00467,David Dudley,lawrenceallen@gmail.com,(622) 260-5543,1,single_record,POS-00358:anchor,2969.63,12.0,1.0,0.083,2024-07-16,2026-06-20,16,True,False,VIP
+CUST-00468,Marilyn Jimenez,stephanie72@gmail.com,,1,single_record,POS-00362:anchor,1768.03,8.0,1.0,0.125,2025-10-01,2026-05-13,54,False,False,regular
+CUST-00469,Joshua Davenport,fortiz@yahoo.com,,1,single_record,POS-00363:anchor,168.0,1.0,0.0,0.0,2025-12-08,2025-12-08,210,False,False,new
+CUST-00470,Natasha Shields,,(728) 967-5558,1,single_record,POS-00364:anchor,346.0,2.0,1.0,0.5,2026-03-17,2026-05-06,61,False,False,regular
+CUST-00471,Joshua Tyler,hdunn@hotmail.com,(578) 665-8996,1,single_record,POS-00365:anchor,168.0,1.0,0.0,0.0,2026-02-04,2026-02-04,152,False,False,new
+CUST-00472,Justin Evans,pgarcia@gmail.com,,1,single_record,POS-00367:anchor,1233.45,7.0,3.0,0.429,2026-05-04,2026-07-01,5,False,False,regular
+CUST-00473,Andrea Daniels,michelle96@gmail.com,(899) 980-1793,1,single_record,POS-00370:anchor,179.04,1.0,0.0,0.0,2025-09-24,2025-09-24,285,False,False,new
+CUST-00474,Jacob Terry,amanda98@gmail.com,(217) 327-3588,1,single_record,POS-00372:anchor,803.41,5.0,1.0,0.2,2026-04-08,2026-06-30,6,False,False,regular
+CUST-00475,Ashley Hall,tiffany44@hotmail.com,,1,single_record,POS-00373:anchor,1071.61,7.0,2.0,0.286,2025-04-24,2026-04-07,90,False,False,regular
+CUST-00476,Kimberly Williams,,(906) 335-5945,1,single_record,POS-00374:anchor,178.0,1.0,0.0,0.0,2026-03-14,2026-03-14,114,False,False,new
+CUST-00477,Julie Thornton,stephanie81@gmail.com,(481) 295-6905,1,single_record,POS-00375:anchor,541.06,4.0,0.0,0.0,2024-06-26,2026-04-06,91,False,False,regular
+CUST-00478,Lisa Hughes,,(881) 864-3711,1,single_record,POS-00376:anchor,426.0,2.0,0.0,0.0,2025-05-23,2026-02-11,145,False,False,regular
+CUST-00479,Tina Simpson,jacquelineanderson@gmail.com,,1,single_record,POS-00379:anchor,208.0,1.0,1.0,1.0,2026-02-13,2026-02-13,143,False,False,new
+CUST-00480,Morgan Alexander,powellkara@hotmail.com,(633) 910-3165,1,single_record,POS-00380:anchor,1565.0,8.0,2.0,0.25,2025-02-07,2026-04-09,88,False,False,regular
+CUST-00481,Diana Moore,sreid@yahoo.com,,1,single_record,POS-00381:anchor,899.28,4.0,0.0,0.0,2024-11-01,2026-04-13,84,False,False,regular
+CUST-00482,Matthew Schwartz,troymorris@yahoo.com,,2,tier1,POS-00383:tier1:conf=1.00:via=POS-00384;POS-00384:tier1:conf=1.00:via=POS-00383,1610.86,8.0,1.0,0.125,2025-05-19,2026-05-30,37,False,False,regular
+CUST-00483,Melissa Villarreal,bsmith@gmail.com,(651) 559-4490,1,single_record,POS-00386:anchor,277.76,2.0,0.0,0.0,2026-02-08,2026-03-16,112,False,False,regular
+CUST-00484,Norman Stewart,nicoleturner@yahoo.com,(622) 830-8248,1,single_record,POS-00387:anchor,1973.25,10.0,3.0,0.3,2025-10-13,2026-05-08,59,True,False,VIP
+CUST-00485,Monique Johnson,,(327) 803-7291,1,single_record,POS-00389:anchor,1644.26,9.0,3.0,0.333,2024-06-04,2026-03-19,109,False,False,regular
+CUST-00486,Samantha Bright,rubendavis@gmail.com,(875) 508-4366,2,tier2,POS-00391:tier2:conf=1.00:via=POS-00392;POS-00392:tier2:conf=1.00:via=POS-00391,1040.86,6.0,1.0,0.167,2025-12-26,2026-05-17,50,False,False,regular
+CUST-00487,Julie Hamilton,lewischristian@hotmail.com,,1,single_record,POS-00393:anchor,564.0,3.0,0.0,0.0,2025-10-08,2026-03-05,123,False,False,regular
+CUST-00488,Heather Berger,edwardsnicole@gmail.com,,1,single_record,POS-00395:anchor,1326.0,7.0,0.0,0.0,2024-12-02,2026-05-31,36,False,False,regular
+CUST-00489,Brandon Flynn,wayala@gmail.com,(213) 569-6185,2,tier2,POS-00396:tier2:conf=1.00:via=POS-00397;POS-00397:tier2:conf=1.00:via=POS-00396,810.0,3.0,0.0,0.0,2025-04-05,2025-10-10,269,False,False,regular
+CUST-00490,Kelly Brooks,scottbowen@hotmail.com,(783) 630-6986,1,single_record,POS-00398:anchor,2030.11,9.0,3.0,0.333,2025-05-07,2026-06-06,30,True,False,VIP
+CUST-00491,Dustin Schmidt,samanthajensen@yahoo.com,(982) 682-2195,1,single_record,POS-00399:anchor,742.2,3.0,0.0,0.0,2025-10-08,2026-03-21,107,False,False,regular
+CUST-00492,Ashlee Sparks,christophergarcia@gmail.com,,1,single_record,POS-00400:anchor,536.93,3.0,0.0,0.0,2024-12-07,2025-12-24,194,False,False,regular
+CUST-00493,George Miller,,(241) 261-7520,1,single_record,POS-00401:anchor,1464.0,7.0,0.0,0.0,2024-06-26,2026-02-23,133,False,False,regular
+CUST-00494,Monica Harvey,,(930) 713-7806,1,single_record,POS-00402:anchor,913.4,5.0,0.0,0.0,2025-06-18,2026-06-20,16,False,False,regular
+CUST-00495,Douglas Murray,,(286) 517-2294,1,single_record,POS-00404:anchor,1422.53,6.0,3.0,0.5,2025-11-03,2026-06-11,25,False,True,watch
+CUST-00496,Albert Ballard,kimberly04@gmail.com,(360) 749-6353,2,tier2,POS-00405:tier2:conf=1.00:via=POS-00406;POS-00406:tier2:conf=1.00:via=POS-00405,138.0,1.0,0.0,0.0,2025-04-09,2025-04-09,453,False,False,new
+CUST-00497,Rachel Byrd,ricetiffany@yahoo.com,,1,single_record,POS-00408:anchor,554.0,3.0,0.0,0.0,2025-03-23,2026-03-23,105,False,False,regular
+CUST-00498,Eric Alexander,,(289) 644-2900,1,single_record,POS-00409:anchor,97.54,1.0,0.0,0.0,2025-09-06,2025-09-06,303,False,False,new
+CUST-00499,Danielle Coleman,kathrynbest@gmail.com,,1,single_record,POS-00410:anchor,2727.99,13.0,1.0,0.077,2025-09-24,2026-06-15,21,True,False,VIP
+CUST-00500,John Bruce,matthewsalexander@gmail.com,(874) 958-3877,1,single_record,POS-00411:anchor,1018.14,5.0,1.0,0.2,2025-01-25,2025-09-18,291,False,False,regular
+CUST-00501,James Cruz,,(341) 918-1185,1,single_record,POS-00412:anchor,168.0,1.0,1.0,1.0,2024-08-31,2024-08-31,674,False,False,new
+CUST-00502,James Cruz,livingstonstacy@yahoo.com,(736) 729-5247,1,single_record,POS-00413:anchor,732.0,4.0,1.0,0.25,2025-06-25,2026-06-17,19,False,False,regular
+CUST-00503,Victoria Phillips,joshuacollins@hotmail.com,(476) 950-2934,1,single_record,POS-00414:anchor,702.38,4.0,0.0,0.0,2024-07-23,2025-08-07,333,False,False,regular
+CUST-00504,Joshua Knight,wwillis@hotmail.com,,1,single_record,POS-00416:anchor,1584.0,7.0,1.0,0.143,2026-05-13,2026-07-02,4,False,False,new
+CUST-00505,Gina Garner,,(930) 790-2262,1,single_record,POS-00417:anchor,178.0,1.0,1.0,1.0,2025-10-07,2025-10-07,272,False,False,new
+CUST-00506,Tyler Strong,sanchezsandy@gmail.com,,1,single_record,POS-00418:anchor,777.54,4.0,0.0,0.0,2025-07-13,2026-05-29,38,False,False,regular
+CUST-00507,Dana Oliver,martinstephanie@hotmail.com,(203) 245-1201,2,tier2,POS-00420:tier2:conf=1.00:via=POS-00421;POS-00421:tier2:conf=1.00:via=POS-00420,1459.0,5.0,1.0,0.2,2024-06-25,2026-06-30,6,False,False,regular
+CUST-00508,Courtney Berger,,(932) 958-7870,1,single_record,POS-00423:anchor,2887.68,13.0,1.0,0.077,2026-06-04,2026-07-02,4,True,False,VIP
+CUST-00509,Jessica Davis,kvillarreal@yahoo.com,,1,single_record,POS-00424:anchor,1476.2,8.0,2.0,0.25,2024-12-05,2026-05-31,36,False,False,regular
+CUST-00510,Gregory Anderson,perezwilliam@gmail.com,(254) 383-4656,2,tier2,POS-00426:tier2:conf=1.00:via=POS-00427;POS-00427:tier2:conf=1.00:via=POS-00426,1740.0,8.0,0.0,0.0,2025-07-26,2026-07-04,2,False,False,regular
+CUST-00511,Amber Mata,haroldhorne@gmail.com,,2,tier1,POS-00428:tier1:conf=1.00:via=POS-00429;POS-00429:tier1:conf=1.00:via=POS-00428,534.0,3.0,0.0,0.0,2026-01-05,2026-06-27,9,False,False,regular
+CUST-00512,Alyssa Mcintyre,pwalker@yahoo.com,,1,single_record,POS-00430:anchor,869.84,5.0,1.0,0.2,2024-12-04,2026-05-09,58,False,False,regular
+CUST-00513,Sydney Taylor,kellymueller@hotmail.com,(225) 438-9872,1,single_record,POS-00434:anchor,1228.0,6.0,1.0,0.167,2024-10-19,2026-06-17,19,False,False,regular
+CUST-00514,Jennifer Whitney,,(874) 585-6038,1,single_record,POS-00436:anchor,883.42,4.0,1.0,0.25,2024-12-16,2026-05-04,63,False,False,regular
+CUST-00515,Michael Gibbs,cynthia05@gmail.com,,1,single_record,POS-00438:anchor,138.0,1.0,0.0,0.0,2025-03-15,2025-03-15,478,False,False,new
+CUST-00516,Alexander Herrera,usweeney@yahoo.com,(346) 928-5584,1,single_record,POS-00439:anchor,987.96,6.0,1.0,0.167,2024-04-01,2026-01-12,175,False,False,regular
+CUST-00517,Shawn Chambers,,(438) 732-7767,1,single_record,POS-00440:anchor,732.0,3.0,0.0,0.0,2024-11-29,2026-03-03,125,False,False,regular
+CUST-00518,Emily Richards,harristonya@yahoo.com,(670) 965-2391,1,single_record,POS-00441:anchor,1439.45,8.0,1.0,0.125,2026-01-16,2026-06-25,11,False,False,regular
+CUST-00519,Lynn Bentley,,(337) 852-7461,1,single_record,POS-00442:anchor,1452.29,9.0,0.0,0.0,2025-09-01,2026-06-05,31,False,False,regular
+CUST-00520,Daniel Hall,jwoodward@hotmail.com,,1,single_record,POS-00443:anchor,1249.26,5.0,1.0,0.2,2024-11-04,2026-03-16,112,False,False,regular
+CUST-00521,Angel Henson,christopher38@yahoo.com,,1,single_record,POS-00444:anchor,1292.64,6.0,0.0,0.0,2024-08-28,2025-06-08,393,False,False,regular
+CUST-00522,Jeffrey Brown,danafoster@hotmail.com,,2,tier2,POS-00446:tier2:conf=1.00:via=POS-00447;POS-00447:tier2:conf=1.00:via=POS-00446,1534.5,6.0,0.0,0.0,2025-07-26,2026-06-02,34,False,False,regular
+CUST-00523,Colton Clay,wmartinez@gmail.com,,1,single_record,POS-00451:anchor,779.24,5.0,1.0,0.2,2024-12-12,2026-05-25,42,False,False,regular
+CUST-00524,Ellen Paul,,(536) 351-2494,1,single_record,POS-00453:anchor,1610.45,8.0,1.0,0.125,2024-05-14,2026-02-10,146,False,False,regular
+CUST-00525,Sonya Barnes,,(565) 605-9412,1,single_record,POS-00454:anchor,1026.57,6.0,0.0,0.0,2026-02-18,2026-06-13,23,False,False,regular
+CUST-00526,Julia Moore,mooregina@hotmail.com,(467) 378-1509,1,single_record,POS-00455:anchor,1339.71,8.0,1.0,0.125,2024-04-06,2026-05-21,46,False,False,regular
+CUST-00527,Robert Garcia,lewismelissa@gmail.com,(770) 966-5093,1,single_record,POS-00456:anchor,539.08,3.0,0.0,0.0,2025-04-14,2026-01-30,157,False,False,regular
+CUST-00528,Stephanie Johnson,byrdjorge@gmail.com,(428) 333-4246,1,single_record,POS-00458:anchor,1128.35,6.0,1.0,0.167,2024-06-22,2026-06-05,31,False,False,regular
+CUST-00529,Mitchell Ramos,cranemelissa@hotmail.com,,1,single_record,POS-00459:anchor,1491.52,7.0,2.0,0.286,2026-05-04,2026-07-04,2,False,False,regular

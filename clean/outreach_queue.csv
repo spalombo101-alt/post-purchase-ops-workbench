@@ -1,0 +1,56 @@
+queue_id,customer_id,trigger_reason,priority_score,canonical_name,canonical_email,canonical_phone,relationship_tier
+OUT-00001,CUST-00153,"Return window closes in 0 day(s) — Trucker Jacket (M, Indigo)",110.0,Grace Bradshaw,malik37@yahoo.com,,VIP
+OUT-00002,CUST-00160,"Return window closes in 0 day(s) — High-Rise Skinny (28, Vintage Blue)",110.0,Billy Avila,robert11@hotmail.com,,VIP
+OUT-00003,CUST-00244,"Return window closes in 1 day(s) — Bootcut (27, Black)",102.0,Frank Gray,lindsaybruce@hotmail.com,(405) 819-3267,VIP
+OUT-00004,CUST-00484,"Return window closes in 1 day(s) — Denim Overalls (XS, Raw Denim)",102.0,Norman Stewart,nicoleturner@yahoo.com,(622) 830-8248,VIP
+OUT-00005,CUST-00299,"Return window closes in 0 day(s) — Denim Shirt (S, Indigo)",100.0,Tanya Riley,ingramjill@yahoo.com,(554) 608-3142,regular
+OUT-00006,CUST-00474,"Return window closes in 0 day(s) — Wide Leg (33, Raw Denim)",100.0,Jacob Terry,amanda98@gmail.com,(217) 327-3588,regular
+OUT-00007,CUST-00094,"Return window closes in 0 day(s) — Flare (25, Raw Denim)",100.0,April Williams,robertmonroe@gmail.com,,regular
+OUT-00008,CUST-00289,"Return window closes in 0 day(s) — Flare (31, Stone Wash)",100.0,James West,sandersnathaniel@yahoo.com,(644) 714-1907,regular
+OUT-00009,CUST-00211,"Return window closes in 0 day(s) — Denim Shirt (L, Raw Denim)",100.0,Kenneth Burgess,jonathangarcia@hotmail.com,(478) 279-7108,regular
+OUT-00010,CUST-00068,"Called asking about Flare (30, Raw Denim) — now available, returned at Bleecker 2 day(s) ago",100.0,Martin Galvan,floressteven@yahoo.com,,VIP
+OUT-00011,CUST-00319,"Return window closes in 0 day(s) — Slim Straight (33, Raw Denim)",100.0,Tracy Whitehead,jonesraymond@hotmail.com,,regular
+OUT-00012,CUST-00046,"Return window closes in 2 day(s) — Bootcut (25, White)",94.0,Christopher Lopez,zachary87@yahoo.com,,VIP
+OUT-00013,CUST-00184,"Return window closes in 2 day(s) — Flare (34, Stone Wash)",94.0,Elizabeth Hoover,rsellers@hotmail.com,(841) 512-4836,VIP
+OUT-00014,CUST-00490,"Return window closes in 2 day(s) — Bootcut (33, Raw Denim)",94.0,Kelly Brooks,scottbowen@hotmail.com,(783) 630-6986,VIP
+OUT-00015,CUST-00443,"Return window closes in 1 day(s) — High-Rise Skinny (28, Black)",92.0,Ronald Stephens,nicholas65@gmail.com,,regular
+OUT-00016,CUST-00397,"Return window closes in 1 day(s) — Denim Skirt (S, Indigo)",92.0,Hannah Burton,,(901) 282-1519,regular
+OUT-00017,CUST-00262,"Return window closes in 1 day(s) — Flare (30, Vintage Blue)",92.0,Erin Herrera,christopher13@yahoo.com,(676) 912-8840,new
+OUT-00018,CUST-00084,"Return window closes in 1 day(s) — Slim Straight (24, Indigo)",92.0,Diana Marshall,sue78@yahoo.com,,regular
+OUT-00019,CUST-00283,"Return window closes in 1 day(s) — Straight (30, Stone Wash)",92.0,Rodney Owens,smurray@yahoo.com,,regular
+OUT-00020,CUST-00460,"Return window closes in 1 day(s) — Skinny (26, Vintage Blue)",92.0,Vanessa Sandoval,james14@hotmail.com,(650) 320-4882,new
+OUT-00021,CUST-00058,"Called asking about Chore Jacket (XS, Raw Denim) — now available, returned at Bleecker 0 day(s) ago",90.0,Dana Green,howens@yahoo.com,,regular
+OUT-00022,CUST-00442,"VIP customer, dormant 282 days",90.0,Donna Peck,yfaulkner@gmail.com,,VIP
+OUT-00023,CUST-00136,"Called asking about Denim Skirt (XS, Stone Wash) — now available, returned at Bleecker 69 day(s) ago",90.0,Jacob Robinson,jasonparrish@hotmail.com,(574) 316-4273,regular
+OUT-00024,CUST-00090,"VIP customer, dormant 282 days",90.0,Troy Sanchez,edelgado@yahoo.com,,VIP
+OUT-00025,CUST-00111,"Called asking about Denim Skirt (S, Black) — now available, returned at Madison Ave 82 day(s) ago",90.0,Brent Gray,ybrooks@yahoo.com,,regular
+OUT-00026,CUST-00087,"Called asking about Denim Skirt (XS, Black) — now available, returned at Bleecker 5 day(s) ago",90.0,Loretta Potter,kellyroberts@hotmail.com,,regular
+OUT-00027,CUST-00171,"Called asking about Denim Overalls (L, Black) — now available, returned at Bleecker 84 day(s) ago",90.0,Andrea Davis,olopez@hotmail.com,,regular
+OUT-00028,CUST-00023,"Called asking about Denim Jacket (XL, Raw Denim) — now available, returned at Flatiron 460 day(s) ago",90.0,Natalie Arroyo,xjohnson@yahoo.com,,regular
+OUT-00029,CUST-00224,"VIP customer, dormant 253 days",87.2,Tracy Russell,dawsontanya@yahoo.com,(305) 343-2989,VIP
+OUT-00030,CUST-00240,"Return window closes in 3 day(s) — Skinny (33, Stone Wash)",86.0,Cynthia Diaz,lisa80@hotmail.com,(833) 334-7172,VIP
+OUT-00031,CUST-00009,"Return window closes in 3 day(s) — Bootcut (27, Stone Wash)",86.0,Jeremy Roberts,edwardslarry@yahoo.com,(385) 419-6598,VIP
+OUT-00032,CUST-00043,"Return window closes in 3 day(s) — Straight (27, Raw Denim)",86.0,Eric Phillips,,(822) 347-6121,VIP
+OUT-00033,CUST-00042,"Return window closes in 3 day(s) — Wide Leg (28, Black)",86.0,Susan Cowan,millsmichael@hotmail.com,(616) 504-8430,VIP
+OUT-00034,CUST-00124,"Return window closes in 2 day(s) — Skinny (25, Stone Wash)",84.0,Daniel Yu,randyallen@yahoo.com,(894) 753-6435,regular
+OUT-00035,CUST-00457,"Return window closes in 2 day(s) — Bootcut (29, Stone Wash)",84.0,Elizabeth Hodge,andrearivera@yahoo.com,(500) 233-5503,regular
+OUT-00036,CUST-00019,"Return window closes in 2 day(s) — Wide Leg (30, White)",84.0,Daniel Graham,jeffrey21@hotmail.com,,regular
+OUT-00037,CUST-00119,"Return window closes in 4 day(s) — Chore Jacket (XL, Raw Denim)",78.0,Daniel Johnson,joel28@gmail.com,(384) 309-2578,VIP
+OUT-00038,CUST-00275,"Return window closes in 4 day(s) — Bootcut (24, Black)",78.0,Samuel Holmes,mathewaguilar@gmail.com,(581) 654-2259,VIP
+OUT-00039,CUST-00310,"Return window closes in 3 day(s) — Cropped Straight (25, Indigo)",76.0,Emily Evans,cjackson@yahoo.com,,regular
+OUT-00040,CUST-00177,"Return window closes in 3 day(s) — Denim Skirt (M, Raw Denim)",76.0,Sandra Romero,jeffrey42@yahoo.com,,regular
+OUT-00041,CUST-00187,"Return window closes in 3 day(s) — Cropped Straight (29, Black)",76.0,Alicia Bryant,shawn75@hotmail.com,,regular
+OUT-00042,CUST-00112,"Return window closes in 3 day(s) — Slim Straight (27, Black)",76.0,Kathleen Gray,desireebailey@gmail.com,,new
+OUT-00043,CUST-00031,"Return window closes in 4 day(s) — Chore Jacket (L, Raw Denim)",68.0,David Walker,collinsnicholas@yahoo.com,(456) 316-1424,regular
+OUT-00044,CUST-00303,"Return window closes in 4 day(s) — Straight (27, Stone Wash)",68.0,Eric Yu,baldwinsherry@gmail.com,(710) 223-2475,regular
+OUT-00045,CUST-00141,"Return window closes in 4 day(s) — Slim Straight (28, Indigo)",68.0,Taylor Alexander,michaelpugh@yahoo.com,,regular
+OUT-00046,CUST-00071,"Return window closes in 4 day(s) — Denim Shirt (XS, Black)",68.0,Jeffrey Velasquez,tjimenez@yahoo.com,,new
+OUT-00047,CUST-00281,"VIP customer, dormant 134 days",67.3,John Caldwell,stanleynancy@hotmail.com,,VIP
+OUT-00048,CUST-00221,"VIP customer, dormant 117 days",64.5,Donald Shah,derekcarrillo@gmail.com,,VIP
+OUT-00049,CUST-00347,"VIP customer, dormant 105 days",62.5,Lee Charles,laura09@yahoo.com,,VIP
+OUT-00050,CUST-00424,"VIP customer, dormant 98 days",61.3,James Perez,thickman@gmail.com,(587) 275-8357,VIP
+OUT-00051,CUST-00208,"Return window closes in 5 day(s) — Flare (25, White)",60.0,Donna Massey,wiseanthony@yahoo.com,(573) 592-3458,regular
+OUT-00052,CUST-00075,"Return window closes in 5 day(s) — Cropped Straight (29, Black)",60.0,Sydney Baker,theresalong@yahoo.com,,regular
+OUT-00053,CUST-00038,"Return window closes in 5 day(s) — Trucker Jacket (S, Stone Wash)",60.0,Andrea Williams,ihorton@hotmail.com,,new
+OUT-00054,CUST-00110,"Return window closes in 5 day(s) — Trucker Jacket (M, Raw Denim)",60.0,Derek Murray,katiegood@hotmail.com,,regular
+OUT-00055,CUST-00114,"Return window closes in 5 day(s) — Denim Skirt (XL, Indigo)",60.0,Debra Harrington,opatel@gmail.com,,regular

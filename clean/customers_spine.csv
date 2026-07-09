@@ -239,7 +239,7 @@ CUST-00237,Nicholas Arnold,bwagner@gmail.com,(957) 901-9624,1,single_record,POS-
 CUST-00238,Maria Montgomery,farrelldebra@hotmail.com,,1,single_record,POS-00019:anchor
 CUST-00239,Michelle Ray,russellbeasley@yahoo.com,,1,single_record,POS-00020:anchor
 CUST-00240,Cynthia Diaz,lisa80@hotmail.com,(833) 334-7172,1,single_record,POS-00024:anchor
-CUST-00241,Joe Zuniga,uparrish@gmail.com,(444) 654-5668,2,tier2,POS-00025:tier2:conf=0.94:via=POS-00026;POS-00026:tier2:conf=0.94:via=POS-00025
+CUST-00241,Joey Zuniga,uparrish@gmail.com,(444) 654-5668,2,tier2,POS-00025:tier2:conf=0.94:via=POS-00026;POS-00026:tier2:conf=0.94:via=POS-00025
 CUST-00242,Deborah Lynch,caroline51@hotmail.com,(660) 439-9749,2,tier2,POS-00027:tier2:conf=0.94:via=POS-00028;POS-00028:tier2:conf=0.94:via=POS-00027
 CUST-00243,George Daniel,megan51@yahoo.com,(592) 714-9641,1,single_record,POS-00029:anchor
 CUST-00244,Frank Gray,lindsaybruce@hotmail.com,(405) 819-3267,2,tier1,POS-00030:tier1:conf=1.00:via=POS-00031;POS-00031:tier1:conf=1.00:via=POS-00030
@@ -448,7 +448,7 @@ CUST-00446,Gabriel Parker,,(750) 391-6993,1,single_record,POS-00327:anchor
 CUST-00447,Kaitlyn Carroll,,(317) 468-9019,1,single_record,POS-00328:anchor
 CUST-00448,Sherri Mason,ttaylor@gmail.com,,1,single_record,POS-00330:anchor
 CUST-00449,Bill Reynolds,eewing@hotmail.com,(505) 829-2388,1,single_record,POS-00332:anchor
-CUST-00450,Will Reynolds,,(388) 582-3316,1,single_record,POS-00333:anchor
+CUST-00450,Billy Reynolds,,(388) 582-3316,1,single_record,POS-00333:anchor
 CUST-00451,Marcus Wright,sferguson@yahoo.com,,1,single_record,POS-00334:anchor
 CUST-00452,Christopher Hayden,gabriel90@hotmail.com,,1,single_record,POS-00336:anchor
 CUST-00453,Emily Adams,michaeljohnson@gmail.com,(697) 339-4196,2,tier2,POS-00338:tier2:conf=1.00:via=POS-00339;POS-00339:tier2:conf=1.00:via=POS-00338

@@ -1,601 +1,601 @@
-call_id,store_location,timestamp,reason_code,duration_minutes
-CALL-00001,SoHo,2026-03-28 16:13:00,return_window_inquiry,12.0
-CALL-00002,Flatiron,2026-05-16 16:09:00,return_window_inquiry,9.7
-CALL-00003,Madison Ave,2026-04-06 11:24:00,return_window_inquiry,6.1
-CALL-00004,Flatiron,2026-01-22 10:55:00,return_window_inquiry,6.4
-CALL-00005,Madison Ave,2026-06-13 13:47:00,order_status,4.6
-CALL-00006,Bleecker,2026-01-11 17:47:00,stock_check,4.5
-CALL-00007,Bleecker,2026-02-02 16:23:00,stock_check,5.7
-CALL-00008,Bleecker,2026-02-04 15:37:00,return_window_inquiry,10.0
-CALL-00009,Flatiron,2026-03-08 10:21:00,return_window_inquiry,6.9
-CALL-00010,Madison Ave,2026-03-07 11:11:00,return_window_inquiry,9.5
-CALL-00011,Flatiron,2026-02-01 11:20:00,order_status,3.2
-CALL-00012,Flatiron,2026-07-04 10:42:00,return_window_inquiry,5.0
-CALL-00013,Madison Ave,2026-05-13 12:25:00,return_window_inquiry,8.1
-CALL-00014,SoHo,2026-03-21 10:10:00,return_window_inquiry,4.5
-CALL-00015,SoHo,2026-06-17 15:31:00,return_window_inquiry,7.9
-CALL-00016,Madison Ave,2026-02-22 14:11:00,stock_check,4.8
-CALL-00017,Madison Ave,2026-02-05 15:50:00,stock_check,3.7
-CALL-00018,Flatiron,2026-01-17 15:21:00,return_window_inquiry,8.5
-CALL-00019,Bleecker,2026-01-10 15:23:00,return_window_inquiry,11.1
-CALL-00020,SoHo,2026-02-14 17:42:00,stock_check,2.1
-CALL-00021,Flatiron,2026-05-18 10:50:00,other,4.7
-CALL-00022,Bleecker,2026-02-01 13:51:00,stock_check,2.9
-CALL-00023,Flatiron,2026-02-22 17:06:00,other,3.5
-CALL-00024,SoHo,2026-02-03 16:19:00,order_status,3.9
-CALL-00025,SoHo,2026-03-01 14:26:00,return_window_inquiry,6.2
-CALL-00026,Madison Ave,2026-03-12 12:57:00,return_window_inquiry,8.2
-CALL-00027,Madison Ave,2026-06-05 18:22:00,return_window_inquiry,9.8
-CALL-00028,Madison Ave,2026-02-18 17:20:00,return_window_inquiry,7.2
-CALL-00029,SoHo,2026-06-30 15:34:00,return_window_inquiry,4.9
-CALL-00030,Madison Ave,2026-06-09 10:35:00,return_window_inquiry,11.2
-CALL-00031,Flatiron,2026-03-04 17:51:00,return_window_inquiry,11.7
-CALL-00032,Flatiron,2026-06-16 13:28:00,return_window_inquiry,8.3
-CALL-00033,Flatiron,2026-04-01 13:53:00,stock_check,3.5
-CALL-00034,Flatiron,2026-04-13 13:59:00,stock_check,2.9
-CALL-00035,Flatiron,2026-03-15 14:47:00,return_window_inquiry,8.6
-CALL-00036,Bleecker,2026-03-06 12:09:00,other,5.2
-CALL-00037,Flatiron,2026-05-24 18:07:00,other,4.5
-CALL-00038,Madison Ave,2026-05-21 13:31:00,return_window_inquiry,6.3
-CALL-00039,Flatiron,2026-05-05 14:20:00,return_window_inquiry,4.4
-CALL-00040,Madison Ave,2026-02-03 14:00:00,other,3.3
-CALL-00041,SoHo,2026-03-07 12:48:00,stock_check,3.7
-CALL-00042,Flatiron,2026-05-26 11:17:00,stock_check,3.4
-CALL-00043,Flatiron,2026-05-07 16:24:00,return_window_inquiry,4.1
-CALL-00044,SoHo,2026-02-08 11:38:00,return_window_inquiry,8.5
-CALL-00045,SoHo,2026-03-04 13:24:00,return_window_inquiry,7.5
-CALL-00046,Flatiron,2026-01-22 18:33:00,return_window_inquiry,6.8
-CALL-00047,SoHo,2026-02-27 15:57:00,return_window_inquiry,9.2
-CALL-00048,Madison Ave,2026-05-05 11:51:00,return_window_inquiry,9.1
-CALL-00049,SoHo,2026-04-30 16:04:00,return_window_inquiry,11.4
-CALL-00050,SoHo,2026-05-21 15:30:00,return_window_inquiry,6.0
-CALL-00051,SoHo,2026-05-07 17:40:00,return_window_inquiry,5.3
-CALL-00052,SoHo,2026-02-25 17:28:00,return_window_inquiry,7.0
-CALL-00053,Madison Ave,2026-01-29 11:59:00,order_status,4.2
-CALL-00054,Flatiron,2026-04-12 15:31:00,return_window_inquiry,8.7
-CALL-00055,Bleecker,2026-06-04 12:52:00,stock_check,4.4
-CALL-00056,Madison Ave,2026-06-21 15:37:00,stock_check,2.0
-CALL-00057,Madison Ave,2026-03-16 13:24:00,return_window_inquiry,6.6
-CALL-00058,Madison Ave,2026-04-15 11:36:00,return_window_inquiry,5.8
-CALL-00059,Bleecker,2026-04-23 16:08:00,return_window_inquiry,10.9
-CALL-00060,Flatiron,2026-06-10 12:12:00,stock_check,4.4
-CALL-00061,Madison Ave,2026-03-24 15:15:00,return_window_inquiry,5.6
-CALL-00062,Bleecker,2026-04-03 17:20:00,order_status,5.7
-CALL-00063,Madison Ave,2026-02-10 16:51:00,order_status,2.6
-CALL-00064,Madison Ave,2026-02-04 16:58:00,return_window_inquiry,4.0
-CALL-00065,Flatiron,2026-01-26 15:40:00,return_window_inquiry,7.8
-CALL-00066,Bleecker,2026-01-08 17:12:00,stock_check,3.9
-CALL-00067,Bleecker,2026-06-24 17:29:00,other,2.9
-CALL-00068,Bleecker,2026-03-17 16:26:00,stock_check,2.1
-CALL-00069,Flatiron,2026-02-28 15:59:00,return_window_inquiry,6.7
-CALL-00070,Madison Ave,2026-01-12 14:17:00,return_window_inquiry,12.0
-CALL-00071,Flatiron,2026-01-07 12:38:00,stock_check,3.6
-CALL-00072,Madison Ave,2026-01-12 11:01:00,other,5.7
-CALL-00073,Bleecker,2026-01-11 12:25:00,stock_check,3.4
-CALL-00074,Bleecker,2026-04-09 14:24:00,return_window_inquiry,5.9
-CALL-00075,SoHo,2026-01-16 11:47:00,return_window_inquiry,6.8
-CALL-00076,Madison Ave,2026-03-11 17:20:00,return_window_inquiry,5.6
-CALL-00077,Flatiron,2026-05-25 14:51:00,return_window_inquiry,9.1
-CALL-00078,Flatiron,2026-01-16 10:32:00,return_window_inquiry,9.4
-CALL-00079,Flatiron,2026-04-13 15:48:00,return_window_inquiry,5.6
-CALL-00080,Madison Ave,2026-04-04 13:47:00,return_window_inquiry,7.1
-CALL-00081,Flatiron,2026-05-31 16:33:00,stock_check,2.9
-CALL-00082,SoHo,2026-06-28 17:47:00,stock_check,4.8
-CALL-00083,Madison Ave,2026-05-19 10:26:00,return_window_inquiry,8.8
-CALL-00084,Madison Ave,2026-06-04 18:06:00,return_window_inquiry,6.5
-CALL-00085,Flatiron,2026-06-29 12:30:00,return_window_inquiry,10.9
-CALL-00086,SoHo,2026-05-10 17:36:00,return_window_inquiry,11.0
-CALL-00087,Bleecker,2026-06-08 14:46:00,return_window_inquiry,8.6
-CALL-00088,Bleecker,2026-03-07 11:30:00,return_window_inquiry,5.9
-CALL-00089,Flatiron,2026-01-11 13:36:00,order_status,2.1
-CALL-00090,SoHo,2026-02-21 13:02:00,other,3.6
-CALL-00091,Bleecker,2026-03-20 18:59:00,return_window_inquiry,5.0
-CALL-00092,Bleecker,2026-02-19 16:27:00,return_window_inquiry,6.7
-CALL-00093,Flatiron,2026-03-07 17:23:00,return_window_inquiry,12.0
-CALL-00094,SoHo,2026-03-14 13:47:00,return_window_inquiry,11.3
-CALL-00095,SoHo,2026-06-11 10:20:00,stock_check,5.8
-CALL-00096,Flatiron,2026-03-05 12:22:00,stock_check,5.9
-CALL-00097,Bleecker,2026-04-13 18:41:00,return_window_inquiry,8.9
-CALL-00098,Madison Ave,2026-06-30 18:58:00,return_window_inquiry,6.6
-CALL-00099,Flatiron,2026-05-29 13:21:00,return_window_inquiry,7.9
-CALL-00100,SoHo,2026-03-08 12:02:00,return_window_inquiry,8.2
-CALL-00101,Madison Ave,2026-07-02 14:05:00,return_window_inquiry,7.0
-CALL-00102,SoHo,2026-02-08 13:07:00,stock_check,3.6
-CALL-00103,Madison Ave,2026-03-19 11:05:00,return_window_inquiry,6.7
-CALL-00104,Flatiron,2026-03-17 11:14:00,return_window_inquiry,9.2
-CALL-00105,SoHo,2026-03-16 15:02:00,return_window_inquiry,4.3
-CALL-00106,SoHo,2026-04-12 18:19:00,order_status,2.1
-CALL-00107,Bleecker,2026-06-03 17:01:00,stock_check,3.6
-CALL-00108,Madison Ave,2026-01-21 16:19:00,order_status,4.4
-CALL-00109,Bleecker,2026-04-12 16:41:00,return_window_inquiry,6.8
-CALL-00110,Madison Ave,2026-01-14 13:50:00,stock_check,4.6
-CALL-00111,Bleecker,2026-03-25 14:31:00,return_window_inquiry,5.1
-CALL-00112,SoHo,2026-04-14 18:58:00,return_window_inquiry,10.0
-CALL-00113,Bleecker,2026-05-07 15:04:00,return_window_inquiry,10.3
-CALL-00114,Bleecker,2026-05-01 14:41:00,stock_check,4.5
-CALL-00115,Flatiron,2026-03-26 13:42:00,stock_check,4.4
-CALL-00116,Madison Ave,2026-05-01 15:13:00,stock_check,4.4
-CALL-00117,Madison Ave,2026-04-28 18:55:00,other,5.0
-CALL-00118,Flatiron,2026-03-02 12:53:00,stock_check,3.3
-CALL-00119,Flatiron,2026-06-08 17:03:00,return_window_inquiry,8.5
-CALL-00120,Flatiron,2026-05-14 11:31:00,return_window_inquiry,10.6
-CALL-00121,Madison Ave,2026-03-27 16:34:00,other,5.6
-CALL-00122,Madison Ave,2026-05-09 18:18:00,return_window_inquiry,7.0
-CALL-00123,Bleecker,2026-02-16 11:23:00,return_window_inquiry,4.4
-CALL-00124,SoHo,2026-05-01 16:24:00,return_window_inquiry,12.0
-CALL-00125,Bleecker,2026-06-08 12:55:00,return_window_inquiry,6.8
-CALL-00126,Bleecker,2026-03-16 16:37:00,return_window_inquiry,8.0
-CALL-00127,Bleecker,2026-02-07 15:59:00,return_window_inquiry,8.0
-CALL-00128,SoHo,2026-03-03 14:23:00,stock_check,2.1
-CALL-00129,Flatiron,2026-06-06 17:57:00,return_window_inquiry,5.9
-CALL-00130,SoHo,2026-03-02 11:59:00,return_window_inquiry,7.4
-CALL-00131,Bleecker,2026-03-31 11:16:00,order_status,5.3
-CALL-00132,Flatiron,2026-06-14 16:21:00,stock_check,2.1
-CALL-00133,Madison Ave,2026-04-03 12:27:00,return_window_inquiry,6.1
-CALL-00134,Bleecker,2026-02-03 16:47:00,other,4.4
-CALL-00135,SoHo,2026-05-02 11:42:00,stock_check,4.7
-CALL-00136,Madison Ave,2026-05-11 17:35:00,return_window_inquiry,4.4
-CALL-00137,Flatiron,2026-03-19 12:01:00,return_window_inquiry,8.8
-CALL-00138,Bleecker,2026-03-15 13:38:00,order_status,3.6
-CALL-00139,Bleecker,2026-04-18 12:52:00,return_window_inquiry,7.8
-CALL-00140,Flatiron,2026-04-25 11:19:00,return_window_inquiry,7.5
-CALL-00141,SoHo,2026-07-06 12:27:00,order_status,4.8
-CALL-00142,Bleecker,2026-04-25 12:20:00,return_window_inquiry,6.8
-CALL-00143,Bleecker,2026-05-31 16:46:00,return_window_inquiry,5.2
-CALL-00144,SoHo,2026-06-05 15:22:00,return_window_inquiry,4.6
-CALL-00145,SoHo,2026-04-28 12:55:00,return_window_inquiry,11.7
-CALL-00146,Bleecker,2026-03-05 15:00:00,return_window_inquiry,6.9
-CALL-00147,Madison Ave,2026-02-26 14:41:00,order_status,5.5
-CALL-00148,Madison Ave,2026-03-16 12:30:00,other,2.3
-CALL-00149,Bleecker,2026-04-19 10:44:00,return_window_inquiry,9.3
-CALL-00150,Bleecker,2026-03-03 18:59:00,stock_check,2.4
-CALL-00151,Bleecker,2026-03-24 17:10:00,stock_check,3.8
-CALL-00152,Flatiron,2026-06-04 17:28:00,return_window_inquiry,11.3
-CALL-00153,SoHo,2026-03-17 15:58:00,return_window_inquiry,8.1
-CALL-00154,Madison Ave,2026-02-08 14:48:00,return_window_inquiry,7.1
-CALL-00155,Flatiron,2026-04-22 12:36:00,other,3.2
-CALL-00156,Bleecker,2026-06-18 13:26:00,stock_check,4.0
-CALL-00157,Flatiron,2026-05-27 16:26:00,stock_check,4.0
-CALL-00158,Madison Ave,2026-01-12 15:14:00,stock_check,3.6
-CALL-00159,Flatiron,2026-01-22 18:13:00,return_window_inquiry,10.1
-CALL-00160,Madison Ave,2026-03-27 11:57:00,return_window_inquiry,9.7
-CALL-00161,Madison Ave,2026-03-05 17:38:00,stock_check,2.1
-CALL-00162,Madison Ave,2026-05-14 18:43:00,return_window_inquiry,8.3
-CALL-00163,Madison Ave,2026-01-20 15:50:00,return_window_inquiry,11.8
-CALL-00164,Madison Ave,2026-02-25 10:06:00,other,3.6
-CALL-00165,Madison Ave,2026-05-27 13:27:00,return_window_inquiry,5.1
-CALL-00166,Madison Ave,2026-02-04 13:32:00,return_window_inquiry,8.2
-CALL-00167,SoHo,2026-05-18 11:07:00,stock_check,3.4
-CALL-00168,Bleecker,2026-02-12 17:34:00,stock_check,5.6
-CALL-00169,Bleecker,2026-05-01 11:55:00,return_window_inquiry,6.5
-CALL-00170,Madison Ave,2026-01-15 16:49:00,order_status,3.7
-CALL-00171,Bleecker,2026-05-07 16:22:00,return_window_inquiry,4.5
-CALL-00172,Bleecker,2026-03-23 12:51:00,return_window_inquiry,5.1
-CALL-00173,Flatiron,2026-02-15 12:09:00,order_status,5.7
-CALL-00174,Madison Ave,2026-01-24 18:44:00,other,2.6
-CALL-00175,Flatiron,2026-01-23 11:50:00,other,5.1
-CALL-00176,Flatiron,2026-06-04 11:03:00,return_window_inquiry,8.2
-CALL-00177,SoHo,2026-03-06 17:59:00,return_window_inquiry,9.2
-CALL-00178,Madison Ave,2026-06-27 17:41:00,return_window_inquiry,6.8
-CALL-00179,Flatiron,2026-02-21 16:26:00,order_status,5.7
-CALL-00180,Bleecker,2026-03-21 18:05:00,return_window_inquiry,10.1
-CALL-00181,Bleecker,2026-06-07 14:02:00,return_window_inquiry,7.5
-CALL-00182,Bleecker,2026-06-23 18:43:00,return_window_inquiry,11.8
-CALL-00183,SoHo,2026-05-17 10:12:00,return_window_inquiry,9.0
-CALL-00184,Bleecker,2026-06-30 10:21:00,stock_check,5.4
-CALL-00185,Flatiron,2026-05-22 16:50:00,stock_check,2.2
-CALL-00186,Bleecker,2026-01-21 14:31:00,return_window_inquiry,6.3
-CALL-00187,Flatiron,2026-01-28 18:45:00,order_status,4.1
-CALL-00188,Bleecker,2026-06-20 13:10:00,return_window_inquiry,7.7
-CALL-00189,SoHo,2026-05-23 12:38:00,return_window_inquiry,10.3
-CALL-00190,Bleecker,2026-02-09 17:42:00,return_window_inquiry,9.4
-CALL-00191,SoHo,2026-05-02 10:07:00,other,3.2
-CALL-00192,Bleecker,2026-02-16 14:31:00,stock_check,5.1
-CALL-00193,Bleecker,2026-01-23 11:32:00,return_window_inquiry,8.3
-CALL-00194,SoHo,2026-02-03 14:29:00,stock_check,4.2
-CALL-00195,Bleecker,2026-04-28 16:13:00,return_window_inquiry,7.2
-CALL-00196,Bleecker,2026-03-06 15:23:00,other,5.9
-CALL-00197,Madison Ave,2026-04-26 15:34:00,stock_check,3.0
-CALL-00198,Madison Ave,2026-07-03 17:47:00,return_window_inquiry,7.7
-CALL-00199,Madison Ave,2026-05-19 11:28:00,return_window_inquiry,10.3
-CALL-00200,Madison Ave,2026-05-09 15:37:00,return_window_inquiry,9.7
-CALL-00201,Bleecker,2026-05-14 13:07:00,return_window_inquiry,10.4
-CALL-00202,Flatiron,2026-02-08 16:16:00,return_window_inquiry,4.1
-CALL-00203,SoHo,2026-03-25 10:05:00,return_window_inquiry,11.1
-CALL-00204,Bleecker,2026-04-14 12:00:00,stock_check,5.4
-CALL-00205,Bleecker,2026-03-30 10:43:00,return_window_inquiry,8.5
-CALL-00206,Flatiron,2026-04-27 12:48:00,return_window_inquiry,7.1
-CALL-00207,Bleecker,2026-05-08 11:24:00,order_status,2.4
-CALL-00208,Bleecker,2026-05-19 11:00:00,return_window_inquiry,4.5
-CALL-00209,Flatiron,2026-06-06 14:20:00,return_window_inquiry,7.7
-CALL-00210,Madison Ave,2026-04-12 11:38:00,stock_check,4.7
-CALL-00211,Madison Ave,2026-02-15 11:38:00,return_window_inquiry,11.2
-CALL-00212,SoHo,2026-03-23 17:51:00,return_window_inquiry,10.5
-CALL-00213,Bleecker,2026-03-22 13:23:00,stock_check,4.4
-CALL-00214,Flatiron,2026-05-06 15:11:00,return_window_inquiry,6.1
-CALL-00215,Madison Ave,2026-05-29 12:51:00,return_window_inquiry,11.4
-CALL-00216,Flatiron,2026-03-06 11:03:00,return_window_inquiry,7.2
-CALL-00217,Flatiron,2026-07-01 12:18:00,return_window_inquiry,8.6
-CALL-00218,SoHo,2026-03-14 17:28:00,other,3.2
-CALL-00219,Madison Ave,2026-04-03 17:05:00,stock_check,4.0
-CALL-00220,Bleecker,2026-03-02 17:44:00,return_window_inquiry,10.3
-CALL-00221,Bleecker,2026-03-28 11:20:00,stock_check,4.1
-CALL-00222,Madison Ave,2026-03-26 18:55:00,other,3.0
-CALL-00223,Madison Ave,2026-04-16 11:05:00,return_window_inquiry,4.5
-CALL-00224,SoHo,2026-06-07 12:18:00,return_window_inquiry,9.6
-CALL-00225,SoHo,2026-04-19 16:28:00,return_window_inquiry,5.7
-CALL-00226,Bleecker,2026-03-15 11:59:00,order_status,5.0
-CALL-00227,SoHo,2026-06-13 10:43:00,order_status,3.6
-CALL-00228,SoHo,2026-04-16 10:34:00,return_window_inquiry,6.8
-CALL-00229,Madison Ave,2026-05-18 14:00:00,stock_check,5.6
-CALL-00230,Madison Ave,2026-03-02 16:56:00,stock_check,5.6
-CALL-00231,Flatiron,2026-06-10 13:41:00,return_window_inquiry,11.0
-CALL-00232,Bleecker,2026-03-13 13:34:00,return_window_inquiry,5.8
-CALL-00233,Madison Ave,2026-03-12 12:01:00,return_window_inquiry,11.5
-CALL-00234,Flatiron,2026-02-06 16:22:00,other,5.8
-CALL-00235,Madison Ave,2026-06-29 11:36:00,return_window_inquiry,4.5
-CALL-00236,SoHo,2026-04-23 12:49:00,stock_check,3.6
-CALL-00237,Flatiron,2026-02-15 12:54:00,return_window_inquiry,6.3
-CALL-00238,SoHo,2026-05-15 14:48:00,return_window_inquiry,9.5
-CALL-00239,Madison Ave,2026-06-05 14:56:00,return_window_inquiry,12.0
-CALL-00240,SoHo,2026-01-19 16:27:00,return_window_inquiry,5.2
-CALL-00241,Bleecker,2026-06-04 13:53:00,order_status,2.2
-CALL-00242,SoHo,2026-06-04 11:50:00,return_window_inquiry,4.6
-CALL-00243,SoHo,2026-03-26 10:14:00,other,4.1
-CALL-00244,SoHo,2026-06-11 15:39:00,other,2.6
-CALL-00245,Flatiron,2026-03-28 15:09:00,return_window_inquiry,4.5
-CALL-00246,SoHo,2026-03-20 14:20:00,stock_check,2.8
-CALL-00247,Madison Ave,2026-03-18 14:37:00,other,5.2
-CALL-00248,Madison Ave,2026-04-15 14:06:00,return_window_inquiry,4.8
-CALL-00249,Flatiron,2026-01-20 11:59:00,order_status,2.9
-CALL-00250,Flatiron,2026-05-06 11:48:00,stock_check,4.7
-CALL-00251,Madison Ave,2026-01-24 17:34:00,other,3.7
-CALL-00252,SoHo,2026-03-13 16:03:00,order_status,2.4
-CALL-00253,Bleecker,2026-07-03 14:06:00,order_status,4.8
-CALL-00254,SoHo,2026-01-24 14:31:00,return_window_inquiry,6.5
-CALL-00255,Bleecker,2026-04-29 13:23:00,return_window_inquiry,11.9
-CALL-00256,Flatiron,2026-05-04 16:48:00,order_status,4.4
-CALL-00257,Flatiron,2026-02-28 15:09:00,return_window_inquiry,10.7
-CALL-00258,Bleecker,2026-06-17 17:51:00,return_window_inquiry,10.9
-CALL-00259,Madison Ave,2026-02-12 13:30:00,return_window_inquiry,4.1
-CALL-00260,Madison Ave,2026-02-24 15:39:00,order_status,3.6
-CALL-00261,Flatiron,2026-04-29 10:47:00,return_window_inquiry,9.0
-CALL-00262,Madison Ave,2026-04-14 15:02:00,return_window_inquiry,8.8
-CALL-00263,Bleecker,2026-02-28 11:33:00,return_window_inquiry,6.1
-CALL-00264,Flatiron,2026-03-27 18:03:00,stock_check,3.6
-CALL-00265,Bleecker,2026-04-24 11:27:00,return_window_inquiry,11.5
-CALL-00266,SoHo,2026-04-29 10:51:00,return_window_inquiry,9.5
-CALL-00267,Flatiron,2026-05-22 17:32:00,stock_check,4.6
-CALL-00268,Madison Ave,2026-02-26 18:47:00,order_status,5.0
-CALL-00269,Bleecker,2026-06-14 11:09:00,return_window_inquiry,11.7
-CALL-00270,Flatiron,2026-02-07 15:38:00,order_status,2.6
-CALL-00271,Bleecker,2026-05-14 13:05:00,return_window_inquiry,5.5
-CALL-00272,Flatiron,2026-06-01 15:00:00,return_window_inquiry,10.6
-CALL-00273,Bleecker,2026-02-24 15:48:00,stock_check,5.6
-CALL-00274,Bleecker,2026-01-11 17:44:00,return_window_inquiry,4.9
-CALL-00275,Madison Ave,2026-05-19 14:50:00,other,2.7
-CALL-00276,Flatiron,2026-05-19 12:12:00,stock_check,3.3
-CALL-00277,Flatiron,2026-05-02 12:58:00,return_window_inquiry,10.3
-CALL-00278,SoHo,2026-05-29 10:38:00,stock_check,3.0
-CALL-00279,Bleecker,2026-03-05 14:07:00,return_window_inquiry,7.0
-CALL-00280,Madison Ave,2026-01-29 14:09:00,return_window_inquiry,6.7
-CALL-00281,SoHo,2026-02-11 12:42:00,other,5.8
-CALL-00282,Bleecker,2026-01-23 10:55:00,stock_check,5.1
-CALL-00283,Flatiron,2026-03-02 13:25:00,return_window_inquiry,6.4
-CALL-00284,Flatiron,2026-05-14 17:37:00,stock_check,3.4
-CALL-00285,Madison Ave,2026-03-20 11:08:00,return_window_inquiry,8.7
-CALL-00286,SoHo,2026-06-10 11:42:00,return_window_inquiry,11.1
-CALL-00287,Bleecker,2026-06-24 11:01:00,return_window_inquiry,7.8
-CALL-00288,Madison Ave,2026-05-22 14:25:00,return_window_inquiry,11.8
-CALL-00289,SoHo,2026-06-10 12:13:00,return_window_inquiry,5.1
-CALL-00290,Bleecker,2026-05-09 12:58:00,stock_check,2.1
-CALL-00291,Bleecker,2026-02-22 15:56:00,return_window_inquiry,9.6
-CALL-00292,Madison Ave,2026-02-09 14:13:00,order_status,4.3
-CALL-00293,Bleecker,2026-03-06 10:33:00,order_status,5.9
-CALL-00294,Flatiron,2026-02-24 13:30:00,return_window_inquiry,8.9
-CALL-00295,Madison Ave,2026-03-20 18:11:00,return_window_inquiry,5.1
-CALL-00296,Madison Ave,2026-01-29 13:28:00,stock_check,2.3
-CALL-00297,Bleecker,2026-06-17 17:53:00,return_window_inquiry,8.3
-CALL-00298,Bleecker,2026-02-18 10:12:00,return_window_inquiry,7.6
-CALL-00299,Flatiron,2026-05-08 18:07:00,return_window_inquiry,4.8
-CALL-00300,Flatiron,2026-06-21 14:36:00,stock_check,3.1
-CALL-00301,SoHo,2026-04-17 14:01:00,return_window_inquiry,7.5
-CALL-00302,Madison Ave,2026-07-03 15:58:00,return_window_inquiry,5.9
-CALL-00303,Bleecker,2026-05-15 14:35:00,return_window_inquiry,9.8
-CALL-00304,Madison Ave,2026-01-17 18:51:00,stock_check,2.7
-CALL-00305,Bleecker,2026-02-24 15:03:00,stock_check,5.2
-CALL-00306,SoHo,2026-03-03 17:37:00,return_window_inquiry,11.8
-CALL-00307,SoHo,2026-02-25 17:47:00,stock_check,3.4
-CALL-00308,SoHo,2026-03-19 14:06:00,return_window_inquiry,6.6
-CALL-00309,Bleecker,2026-05-12 10:28:00,order_status,5.1
-CALL-00310,Flatiron,2026-01-13 17:03:00,return_window_inquiry,9.2
-CALL-00311,Flatiron,2026-05-13 13:05:00,stock_check,2.4
-CALL-00312,Madison Ave,2026-03-18 11:06:00,stock_check,6.0
-CALL-00313,SoHo,2026-05-11 10:38:00,return_window_inquiry,6.0
-CALL-00314,Madison Ave,2026-05-19 14:43:00,return_window_inquiry,4.5
-CALL-00315,Madison Ave,2026-03-09 10:49:00,return_window_inquiry,11.6
-CALL-00316,Bleecker,2026-06-29 16:06:00,return_window_inquiry,10.5
-CALL-00317,Madison Ave,2026-07-03 14:58:00,return_window_inquiry,7.0
-CALL-00318,Flatiron,2026-05-31 11:25:00,return_window_inquiry,5.5
-CALL-00319,SoHo,2026-06-04 14:27:00,return_window_inquiry,8.5
-CALL-00320,Bleecker,2026-05-30 15:56:00,other,5.2
-CALL-00321,Flatiron,2026-04-13 12:36:00,return_window_inquiry,9.3
-CALL-00322,Bleecker,2026-03-30 17:39:00,return_window_inquiry,9.1
-CALL-00323,Flatiron,2026-05-27 10:39:00,return_window_inquiry,6.8
-CALL-00324,Madison Ave,2026-05-08 15:44:00,return_window_inquiry,11.8
-CALL-00325,Madison Ave,2026-02-11 16:34:00,return_window_inquiry,10.9
-CALL-00326,SoHo,2026-04-26 15:27:00,other,3.3
-CALL-00327,Madison Ave,2026-03-14 14:18:00,stock_check,6.0
-CALL-00328,SoHo,2026-05-01 10:59:00,return_window_inquiry,11.7
-CALL-00329,Madison Ave,2026-04-03 15:26:00,return_window_inquiry,7.9
-CALL-00330,Madison Ave,2026-02-12 12:03:00,other,2.5
-CALL-00331,Flatiron,2026-04-17 13:02:00,return_window_inquiry,11.4
-CALL-00332,Bleecker,2026-05-02 11:19:00,return_window_inquiry,11.0
-CALL-00333,Madison Ave,2026-03-29 17:01:00,return_window_inquiry,8.6
-CALL-00334,SoHo,2026-03-18 15:19:00,order_status,4.1
-CALL-00335,Madison Ave,2026-07-03 10:56:00,return_window_inquiry,6.4
-CALL-00336,Flatiron,2026-05-02 15:16:00,return_window_inquiry,9.0
-CALL-00337,Bleecker,2026-04-22 18:51:00,return_window_inquiry,7.5
-CALL-00338,Flatiron,2026-07-02 14:57:00,return_window_inquiry,8.4
-CALL-00339,SoHo,2026-03-27 16:08:00,stock_check,3.3
-CALL-00340,Madison Ave,2026-05-18 18:02:00,return_window_inquiry,9.6
-CALL-00341,Madison Ave,2026-06-14 18:07:00,stock_check,2.7
-CALL-00342,Flatiron,2026-04-07 12:43:00,order_status,4.6
-CALL-00343,Madison Ave,2026-04-03 15:38:00,return_window_inquiry,4.2
-CALL-00344,SoHo,2026-07-01 17:55:00,return_window_inquiry,10.7
-CALL-00345,Flatiron,2026-05-02 11:40:00,order_status,3.7
-CALL-00346,Flatiron,2026-01-18 16:56:00,return_window_inquiry,5.5
-CALL-00347,Madison Ave,2026-01-27 10:44:00,stock_check,5.8
-CALL-00348,Bleecker,2026-01-08 13:07:00,return_window_inquiry,8.7
-CALL-00349,Madison Ave,2026-05-26 15:19:00,return_window_inquiry,11.7
-CALL-00350,SoHo,2026-04-23 14:24:00,return_window_inquiry,8.7
-CALL-00351,Bleecker,2026-05-03 14:05:00,return_window_inquiry,11.5
-CALL-00352,Bleecker,2026-02-26 11:55:00,return_window_inquiry,4.7
-CALL-00353,Bleecker,2026-03-15 12:17:00,stock_check,5.8
-CALL-00354,SoHo,2026-03-02 12:49:00,stock_check,4.3
-CALL-00355,SoHo,2026-02-09 11:45:00,stock_check,5.4
-CALL-00356,SoHo,2026-02-21 14:01:00,order_status,5.6
-CALL-00357,SoHo,2026-03-30 15:54:00,return_window_inquiry,10.1
-CALL-00358,Flatiron,2026-05-07 12:41:00,return_window_inquiry,10.0
-CALL-00359,Flatiron,2026-02-13 10:41:00,return_window_inquiry,11.7
-CALL-00360,Flatiron,2026-03-27 17:26:00,stock_check,5.2
-CALL-00361,Flatiron,2026-05-15 17:33:00,order_status,2.2
-CALL-00362,Bleecker,2026-04-08 11:36:00,return_window_inquiry,4.8
-CALL-00363,Madison Ave,2026-03-20 12:54:00,return_window_inquiry,8.3
-CALL-00364,Flatiron,2026-03-17 17:27:00,return_window_inquiry,7.4
-CALL-00365,Madison Ave,2026-01-10 11:37:00,other,2.5
-CALL-00366,SoHo,2026-05-26 16:53:00,return_window_inquiry,6.0
-CALL-00367,Bleecker,2026-06-08 17:27:00,return_window_inquiry,10.9
-CALL-00368,Madison Ave,2026-02-21 15:26:00,return_window_inquiry,10.0
-CALL-00369,Madison Ave,2026-06-30 15:54:00,return_window_inquiry,9.2
-CALL-00370,Bleecker,2026-02-05 16:31:00,stock_check,2.2
-CALL-00371,SoHo,2026-03-14 17:30:00,return_window_inquiry,11.3
-CALL-00372,SoHo,2026-06-28 15:51:00,other,3.8
-CALL-00373,Madison Ave,2026-06-02 15:47:00,order_status,2.1
-CALL-00374,SoHo,2026-04-25 14:39:00,return_window_inquiry,6.3
-CALL-00375,SoHo,2026-03-11 15:08:00,stock_check,3.5
-CALL-00376,Bleecker,2026-03-03 14:58:00,other,3.1
-CALL-00377,SoHo,2026-04-06 15:46:00,stock_check,3.3
-CALL-00378,Flatiron,2026-03-29 16:13:00,stock_check,3.0
-CALL-00379,SoHo,2026-05-20 10:45:00,return_window_inquiry,11.2
-CALL-00380,SoHo,2026-05-12 10:43:00,return_window_inquiry,7.6
-CALL-00381,Flatiron,2026-06-03 18:40:00,return_window_inquiry,9.7
-CALL-00382,Flatiron,2026-03-29 15:43:00,stock_check,4.0
-CALL-00383,Madison Ave,2026-02-14 14:53:00,return_window_inquiry,11.5
-CALL-00384,Flatiron,2026-03-25 10:15:00,return_window_inquiry,7.3
-CALL-00385,Madison Ave,2026-01-25 12:49:00,return_window_inquiry,7.7
-CALL-00386,SoHo,2026-04-30 18:11:00,stock_check,4.6
-CALL-00387,SoHo,2026-05-17 15:02:00,stock_check,2.2
-CALL-00388,Flatiron,2026-06-10 16:22:00,return_window_inquiry,5.8
-CALL-00389,Flatiron,2026-01-13 18:16:00,return_window_inquiry,5.1
-CALL-00390,Flatiron,2026-04-24 11:37:00,return_window_inquiry,4.9
-CALL-00391,Flatiron,2026-02-08 15:01:00,return_window_inquiry,10.8
-CALL-00392,Bleecker,2026-04-10 12:22:00,stock_check,2.1
-CALL-00393,Madison Ave,2026-04-08 16:39:00,return_window_inquiry,7.8
-CALL-00394,Bleecker,2026-05-14 10:30:00,return_window_inquiry,9.4
-CALL-00395,Madison Ave,2026-05-17 13:48:00,return_window_inquiry,10.8
-CALL-00396,Madison Ave,2026-05-31 13:49:00,return_window_inquiry,7.8
-CALL-00397,Flatiron,2026-02-10 12:48:00,return_window_inquiry,10.2
-CALL-00398,Madison Ave,2026-02-15 10:05:00,stock_check,4.8
-CALL-00399,SoHo,2026-01-31 11:07:00,stock_check,4.6
-CALL-00400,SoHo,2026-03-21 14:02:00,return_window_inquiry,6.0
-CALL-00401,Bleecker,2026-02-15 17:38:00,other,5.6
-CALL-00402,SoHo,2026-02-05 15:06:00,return_window_inquiry,11.8
-CALL-00403,Madison Ave,2026-05-19 13:36:00,stock_check,5.3
-CALL-00404,Madison Ave,2026-04-03 16:27:00,stock_check,4.7
-CALL-00405,SoHo,2026-05-28 13:36:00,stock_check,5.8
-CALL-00406,Bleecker,2026-02-14 13:46:00,return_window_inquiry,7.9
-CALL-00407,SoHo,2026-05-27 18:32:00,order_status,3.2
-CALL-00408,Flatiron,2026-05-06 14:40:00,return_window_inquiry,8.4
-CALL-00409,Madison Ave,2026-05-05 10:52:00,stock_check,5.9
-CALL-00410,Flatiron,2026-03-07 12:43:00,return_window_inquiry,10.3
-CALL-00411,Bleecker,2026-06-17 16:10:00,other,3.4
-CALL-00412,SoHo,2026-04-07 13:10:00,other,3.7
-CALL-00413,Bleecker,2026-04-26 14:43:00,stock_check,5.1
-CALL-00414,Flatiron,2026-05-31 16:35:00,return_window_inquiry,9.7
-CALL-00415,Flatiron,2026-02-06 13:46:00,stock_check,4.0
-CALL-00416,SoHo,2026-02-04 11:51:00,stock_check,2.7
-CALL-00417,Flatiron,2026-03-15 12:32:00,return_window_inquiry,7.9
-CALL-00418,Flatiron,2026-01-30 11:03:00,return_window_inquiry,6.4
-CALL-00419,Bleecker,2026-02-04 16:55:00,return_window_inquiry,9.0
-CALL-00420,SoHo,2026-05-21 14:06:00,stock_check,5.0
-CALL-00421,Madison Ave,2026-01-17 18:03:00,return_window_inquiry,5.1
-CALL-00422,SoHo,2026-06-17 10:29:00,return_window_inquiry,10.4
-CALL-00423,Bleecker,2026-02-04 14:15:00,return_window_inquiry,10.3
-CALL-00424,Madison Ave,2026-05-21 16:23:00,return_window_inquiry,7.5
-CALL-00425,SoHo,2026-01-29 16:14:00,other,5.2
-CALL-00426,Madison Ave,2026-02-07 13:23:00,return_window_inquiry,5.7
-CALL-00427,Madison Ave,2026-06-29 11:46:00,return_window_inquiry,6.6
-CALL-00428,Flatiron,2026-03-15 13:56:00,return_window_inquiry,4.7
-CALL-00429,Madison Ave,2026-01-10 10:46:00,return_window_inquiry,9.6
-CALL-00430,Flatiron,2026-04-27 13:05:00,return_window_inquiry,11.2
-CALL-00431,Flatiron,2026-06-29 17:14:00,return_window_inquiry,4.1
-CALL-00432,Flatiron,2026-05-13 17:13:00,other,2.9
-CALL-00433,Madison Ave,2026-06-15 10:06:00,return_window_inquiry,9.3
-CALL-00434,Bleecker,2026-03-23 12:04:00,other,5.3
-CALL-00435,Bleecker,2026-05-27 14:00:00,other,5.9
-CALL-00436,Bleecker,2026-02-22 16:21:00,return_window_inquiry,6.2
-CALL-00437,Flatiron,2026-03-25 10:10:00,stock_check,5.7
-CALL-00438,Madison Ave,2026-04-28 13:21:00,return_window_inquiry,8.3
-CALL-00439,SoHo,2026-03-08 11:04:00,return_window_inquiry,10.6
-CALL-00440,Madison Ave,2026-06-28 14:21:00,stock_check,2.2
-CALL-00441,Bleecker,2026-06-19 11:36:00,order_status,5.8
-CALL-00442,Flatiron,2026-06-22 12:30:00,stock_check,3.6
-CALL-00443,SoHo,2026-03-02 17:38:00,stock_check,3.7
-CALL-00444,SoHo,2026-05-02 18:53:00,return_window_inquiry,11.1
-CALL-00445,SoHo,2026-03-08 15:00:00,return_window_inquiry,10.7
-CALL-00446,SoHo,2026-03-26 14:48:00,return_window_inquiry,4.5
-CALL-00447,SoHo,2026-01-18 18:26:00,return_window_inquiry,10.1
-CALL-00448,Flatiron,2026-04-11 14:56:00,stock_check,2.4
-CALL-00449,Flatiron,2026-03-01 11:50:00,return_window_inquiry,4.9
-CALL-00450,Madison Ave,2026-03-31 10:23:00,return_window_inquiry,11.7
-CALL-00451,Madison Ave,2026-02-11 17:42:00,return_window_inquiry,10.3
-CALL-00452,Flatiron,2026-06-26 18:10:00,return_window_inquiry,7.2
-CALL-00453,Flatiron,2026-04-14 10:16:00,stock_check,3.1
-CALL-00454,SoHo,2026-04-26 12:39:00,return_window_inquiry,11.8
-CALL-00455,Bleecker,2026-03-25 17:50:00,return_window_inquiry,9.0
-CALL-00456,Madison Ave,2026-01-08 15:54:00,return_window_inquiry,4.3
-CALL-00457,Madison Ave,2026-05-09 17:42:00,return_window_inquiry,8.1
-CALL-00458,Bleecker,2026-03-23 18:16:00,return_window_inquiry,11.0
-CALL-00459,Flatiron,2026-06-25 14:09:00,other,3.0
-CALL-00460,Madison Ave,2026-04-22 12:55:00,return_window_inquiry,11.3
-CALL-00461,Flatiron,2026-01-19 18:05:00,return_window_inquiry,7.5
-CALL-00462,Flatiron,2026-02-20 11:57:00,return_window_inquiry,6.1
-CALL-00463,Flatiron,2026-05-28 13:38:00,return_window_inquiry,10.0
-CALL-00464,Flatiron,2026-03-23 11:43:00,stock_check,2.2
-CALL-00465,Flatiron,2026-06-15 15:02:00,return_window_inquiry,4.2
-CALL-00466,Madison Ave,2026-06-16 17:22:00,return_window_inquiry,10.1
-CALL-00467,Madison Ave,2026-07-05 17:58:00,return_window_inquiry,7.8
-CALL-00468,SoHo,2026-04-03 15:29:00,return_window_inquiry,7.5
-CALL-00469,Flatiron,2026-03-05 17:51:00,return_window_inquiry,4.4
-CALL-00470,Bleecker,2026-01-11 11:38:00,return_window_inquiry,9.8
-CALL-00471,Bleecker,2026-02-15 13:19:00,stock_check,4.3
-CALL-00472,Bleecker,2026-07-04 12:07:00,return_window_inquiry,6.9
-CALL-00473,Bleecker,2026-04-04 17:34:00,return_window_inquiry,5.8
-CALL-00474,Flatiron,2026-04-26 10:57:00,return_window_inquiry,8.2
-CALL-00475,Bleecker,2026-01-12 10:22:00,return_window_inquiry,8.7
-CALL-00476,SoHo,2026-01-11 17:40:00,order_status,5.5
-CALL-00477,Madison Ave,2026-06-13 12:42:00,return_window_inquiry,10.2
-CALL-00478,Flatiron,2026-06-03 10:34:00,return_window_inquiry,5.7
-CALL-00479,Madison Ave,2026-02-13 18:02:00,return_window_inquiry,5.2
-CALL-00480,Madison Ave,2026-06-19 16:55:00,return_window_inquiry,9.2
-CALL-00481,Flatiron,2026-05-06 17:03:00,stock_check,2.9
-CALL-00482,SoHo,2026-01-29 15:56:00,return_window_inquiry,11.1
-CALL-00483,Madison Ave,2026-03-28 17:57:00,return_window_inquiry,7.0
-CALL-00484,Flatiron,2026-05-29 16:56:00,return_window_inquiry,10.4
-CALL-00485,Flatiron,2026-05-18 16:54:00,return_window_inquiry,11.9
-CALL-00486,SoHo,2026-05-05 16:32:00,return_window_inquiry,7.9
-CALL-00487,Madison Ave,2026-01-29 12:11:00,other,3.3
-CALL-00488,Madison Ave,2026-02-16 10:24:00,return_window_inquiry,8.9
-CALL-00489,Flatiron,2026-02-13 17:52:00,return_window_inquiry,5.6
-CALL-00490,Flatiron,2026-06-12 18:58:00,other,2.8
-CALL-00491,Madison Ave,2026-06-22 10:40:00,order_status,2.0
-CALL-00492,SoHo,2026-02-25 14:15:00,return_window_inquiry,10.8
-CALL-00493,Bleecker,2026-06-30 10:17:00,stock_check,3.7
-CALL-00494,SoHo,2026-01-21 16:00:00,return_window_inquiry,9.7
-CALL-00495,Flatiron,2026-06-27 16:17:00,stock_check,4.3
-CALL-00496,Bleecker,2026-03-08 15:39:00,order_status,5.2
-CALL-00497,Flatiron,2026-01-31 10:40:00,return_window_inquiry,10.6
-CALL-00498,Bleecker,2026-06-22 14:30:00,return_window_inquiry,4.1
-CALL-00499,Madison Ave,2026-05-27 17:27:00,return_window_inquiry,6.1
-CALL-00500,Bleecker,2026-07-05 10:20:00,return_window_inquiry,11.4
-CALL-00501,Madison Ave,2026-01-28 18:59:00,stock_check,5.8
-CALL-00502,SoHo,2026-04-21 17:13:00,order_status,5.6
-CALL-00503,Madison Ave,2026-02-18 14:11:00,return_window_inquiry,7.9
-CALL-00504,Bleecker,2026-02-26 12:32:00,return_window_inquiry,6.6
-CALL-00505,Bleecker,2026-04-09 15:14:00,return_window_inquiry,5.5
-CALL-00506,Bleecker,2026-02-19 15:04:00,return_window_inquiry,6.6
-CALL-00507,Madison Ave,2026-06-07 13:21:00,return_window_inquiry,5.3
-CALL-00508,Madison Ave,2026-03-16 18:32:00,return_window_inquiry,7.8
-CALL-00509,SoHo,2026-07-03 15:07:00,stock_check,2.8
-CALL-00510,Madison Ave,2026-02-21 14:05:00,order_status,4.1
-CALL-00511,Madison Ave,2026-04-23 11:08:00,return_window_inquiry,4.2
-CALL-00512,Madison Ave,2026-03-02 14:40:00,stock_check,5.7
-CALL-00513,SoHo,2026-06-19 15:27:00,other,4.3
-CALL-00514,Bleecker,2026-05-12 12:30:00,order_status,3.6
-CALL-00515,Flatiron,2026-02-13 14:28:00,stock_check,2.9
-CALL-00516,Bleecker,2026-06-26 12:43:00,return_window_inquiry,7.0
-CALL-00517,Madison Ave,2026-04-01 10:23:00,order_status,3.7
-CALL-00518,Madison Ave,2026-03-16 11:09:00,return_window_inquiry,6.4
-CALL-00519,Madison Ave,2026-05-15 17:13:00,order_status,4.4
-CALL-00520,Madison Ave,2026-06-01 15:34:00,return_window_inquiry,11.9
-CALL-00521,Bleecker,2026-03-18 16:37:00,return_window_inquiry,6.3
-CALL-00522,SoHo,2026-05-14 16:22:00,return_window_inquiry,9.4
-CALL-00523,SoHo,2026-04-17 14:23:00,return_window_inquiry,11.6
-CALL-00524,Madison Ave,2026-04-03 10:48:00,return_window_inquiry,8.3
-CALL-00525,Madison Ave,2026-04-22 16:44:00,return_window_inquiry,5.9
-CALL-00526,Madison Ave,2026-02-20 17:39:00,stock_check,4.2
-CALL-00527,Flatiron,2026-05-09 13:43:00,return_window_inquiry,10.1
-CALL-00528,Madison Ave,2026-04-26 12:51:00,return_window_inquiry,10.6
-CALL-00529,Bleecker,2026-01-10 18:33:00,return_window_inquiry,9.1
-CALL-00530,Flatiron,2026-07-05 12:20:00,return_window_inquiry,4.2
-CALL-00531,Bleecker,2026-03-02 10:16:00,stock_check,2.0
-CALL-00532,Bleecker,2026-02-17 16:59:00,stock_check,3.5
-CALL-00533,Flatiron,2026-06-26 17:41:00,return_window_inquiry,5.2
-CALL-00534,Bleecker,2026-03-10 15:30:00,return_window_inquiry,9.9
-CALL-00535,Flatiron,2026-05-16 16:32:00,stock_check,2.1
-CALL-00536,Flatiron,2026-05-18 18:03:00,return_window_inquiry,10.7
-CALL-00537,Bleecker,2026-05-16 13:56:00,stock_check,5.4
-CALL-00538,Madison Ave,2026-06-13 18:10:00,return_window_inquiry,6.4
-CALL-00539,Flatiron,2026-04-05 11:33:00,return_window_inquiry,9.5
-CALL-00540,Madison Ave,2026-07-06 18:42:00,return_window_inquiry,9.0
-CALL-00541,Flatiron,2026-05-19 16:29:00,stock_check,4.1
-CALL-00542,Bleecker,2026-02-27 11:56:00,other,3.7
-CALL-00543,Flatiron,2026-07-04 10:24:00,other,5.1
-CALL-00544,Madison Ave,2026-05-27 17:37:00,order_status,2.2
-CALL-00545,Bleecker,2026-04-03 12:34:00,stock_check,4.7
-CALL-00546,Madison Ave,2026-03-20 18:49:00,return_window_inquiry,4.6
-CALL-00547,Bleecker,2026-05-27 14:06:00,return_window_inquiry,9.3
-CALL-00548,Flatiron,2026-02-02 17:00:00,stock_check,2.9
-CALL-00549,Madison Ave,2026-02-21 13:16:00,return_window_inquiry,8.5
-CALL-00550,SoHo,2026-05-01 14:58:00,return_window_inquiry,8.2
-CALL-00551,Madison Ave,2026-04-28 18:15:00,return_window_inquiry,5.5
-CALL-00552,SoHo,2026-02-18 16:58:00,return_window_inquiry,9.5
-CALL-00553,Bleecker,2026-03-29 10:11:00,order_status,2.4
-CALL-00554,Madison Ave,2026-03-20 16:47:00,return_window_inquiry,9.8
-CALL-00555,SoHo,2026-01-24 17:40:00,return_window_inquiry,9.5
-CALL-00556,Madison Ave,2026-02-21 17:46:00,return_window_inquiry,8.4
-CALL-00557,Bleecker,2026-03-15 18:11:00,order_status,5.7
-CALL-00558,SoHo,2026-01-07 13:28:00,stock_check,2.4
-CALL-00559,Flatiron,2026-07-01 14:57:00,return_window_inquiry,4.6
-CALL-00560,SoHo,2026-03-04 18:40:00,stock_check,2.4
-CALL-00561,Flatiron,2026-05-16 11:18:00,stock_check,5.3
-CALL-00562,Madison Ave,2026-03-06 15:24:00,other,5.9
-CALL-00563,SoHo,2026-05-03 13:12:00,return_window_inquiry,10.7
-CALL-00564,Bleecker,2026-03-13 13:46:00,return_window_inquiry,10.5
-CALL-00565,Flatiron,2026-03-24 16:08:00,return_window_inquiry,4.3
-CALL-00566,Madison Ave,2026-03-16 18:17:00,return_window_inquiry,9.7
-CALL-00567,Madison Ave,2026-06-07 15:28:00,return_window_inquiry,7.6
-CALL-00568,Flatiron,2026-06-01 11:38:00,return_window_inquiry,8.9
-CALL-00569,SoHo,2026-03-19 15:40:00,return_window_inquiry,5.0
-CALL-00570,SoHo,2026-05-29 14:21:00,order_status,4.2
-CALL-00571,Flatiron,2026-05-23 12:36:00,return_window_inquiry,8.9
-CALL-00572,Bleecker,2026-06-02 16:30:00,other,4.5
-CALL-00573,Madison Ave,2026-06-11 15:49:00,return_window_inquiry,6.1
-CALL-00574,Bleecker,2026-03-16 13:35:00,return_window_inquiry,7.3
-CALL-00575,Bleecker,2026-05-07 12:51:00,return_window_inquiry,5.6
-CALL-00576,Flatiron,2026-06-01 12:22:00,return_window_inquiry,9.2
-CALL-00577,Flatiron,2026-05-20 16:57:00,return_window_inquiry,7.4
-CALL-00578,Bleecker,2026-04-05 16:23:00,return_window_inquiry,8.0
-CALL-00579,Madison Ave,2026-02-13 14:12:00,stock_check,4.0
-CALL-00580,SoHo,2026-02-08 12:26:00,other,2.6
-CALL-00581,SoHo,2026-07-05 16:02:00,return_window_inquiry,4.4
-CALL-00582,Flatiron,2026-03-23 14:54:00,return_window_inquiry,7.1
-CALL-00583,Flatiron,2026-06-17 14:38:00,order_status,5.1
-CALL-00584,Madison Ave,2026-07-05 10:38:00,return_window_inquiry,4.9
-CALL-00585,SoHo,2026-04-18 15:19:00,return_window_inquiry,11.5
-CALL-00586,Madison Ave,2026-06-12 17:56:00,return_window_inquiry,8.2
-CALL-00587,Flatiron,2026-06-03 17:46:00,return_window_inquiry,6.4
-CALL-00588,Bleecker,2026-07-05 15:11:00,stock_check,5.3
-CALL-00589,Flatiron,2026-01-12 13:03:00,return_window_inquiry,8.0
-CALL-00590,Bleecker,2026-06-09 16:25:00,other,3.5
-CALL-00591,Flatiron,2026-02-11 11:02:00,stock_check,5.0
-CALL-00592,Flatiron,2026-06-20 11:52:00,return_window_inquiry,8.0
-CALL-00593,SoHo,2026-07-06 12:22:00,return_window_inquiry,4.3
-CALL-00594,SoHo,2026-05-22 12:29:00,return_window_inquiry,12.0
-CALL-00595,SoHo,2026-05-05 14:53:00,order_status,4.3
-CALL-00596,Flatiron,2026-04-11 12:58:00,return_window_inquiry,7.4
-CALL-00597,SoHo,2026-06-21 15:12:00,stock_check,3.1
-CALL-00598,SoHo,2026-06-16 11:26:00,order_status,2.1
-CALL-00599,SoHo,2026-05-18 18:34:00,return_window_inquiry,9.8
-CALL-00600,Flatiron,2026-04-16 12:03:00,return_window_inquiry,6.1
+call_id,store_location,timestamp,reason_code,duration_minutes,source_customer_ref,item_id,size,color
+CALL-00001,Bleecker,2026-07-01 11:40:00,stock_check,4.4,POS-00162,SKU-010,30,Raw Denim
+CALL-00002,Flatiron,2026-05-12 10:03:00,return_window_inquiry,9.2,,,,
+CALL-00003,Bleecker,2026-06-06 10:22:00,return_window_inquiry,9.4,,,,
+CALL-00004,Madison Ave,2026-03-14 18:29:00,return_window_inquiry,11.0,,,,
+CALL-00005,Madison Ave,2026-04-21 18:06:00,other,2.4,,,,
+CALL-00006,SoHo,2026-05-17 17:47:00,stock_check,4.5,POS-00320,SKU-008,33,Stone Wash
+CALL-00007,Bleecker,2026-03-05 12:48:00,return_window_inquiry,10.4,,,,
+CALL-00008,Flatiron,2026-03-16 17:30:00,return_window_inquiry,9.6,,,,
+CALL-00009,SoHo,2026-02-24 10:30:00,return_window_inquiry,4.7,,,,
+CALL-00010,Flatiron,2026-02-01 11:20:00,return_window_inquiry,6.3,,,,
+CALL-00011,Flatiron,2026-07-04 10:42:00,return_window_inquiry,5.0,,,,
+CALL-00012,Madison Ave,2026-05-13 12:25:00,return_window_inquiry,8.1,,,,
+CALL-00013,SoHo,2026-03-21 10:10:00,return_window_inquiry,4.5,,,,
+CALL-00014,SoHo,2026-06-17 15:31:00,return_window_inquiry,7.9,,,,
+CALL-00015,Madison Ave,2026-02-22 14:11:00,stock_check,4.8,POS-00310,SKU-012,XS,Stone Wash
+CALL-00016,Madison Ave,2026-03-07 16:42:00,stock_check,6.0,POS-00184,SKU-011,XL,Black
+CALL-00017,SoHo,2026-04-05 12:44:00,return_window_inquiry,8.4,,,,
+CALL-00018,Madison Ave,2026-03-17 13:00:00,return_window_inquiry,10.3,,,,
+CALL-00019,Bleecker,2026-02-16 12:38:00,return_window_inquiry,11.4,,,,
+CALL-00020,SoHo,2026-05-31 18:54:00,stock_check,3.8,POS-00296,SKU-016,XS,Stone Wash
+CALL-00021,Bleecker,2026-04-08 16:19:00,stock_check,3.9,POS-00085,SKU-014,XL,Stone Wash
+CALL-00022,Flatiron,2026-04-29 16:17:00,order_status,4.7,,,,
+CALL-00023,Flatiron,2026-01-12 12:57:00,return_window_inquiry,8.2,,,,
+CALL-00024,Madison Ave,2026-06-05 18:22:00,return_window_inquiry,9.8,,,,
+CALL-00025,Madison Ave,2026-02-18 17:20:00,return_window_inquiry,7.2,,,,
+CALL-00026,SoHo,2026-06-30 15:34:00,return_window_inquiry,4.9,,,,
+CALL-00027,Madison Ave,2026-06-09 10:35:00,return_window_inquiry,11.2,,,,
+CALL-00028,Flatiron,2026-03-04 17:51:00,return_window_inquiry,11.7,,,,
+CALL-00029,Flatiron,2026-06-16 13:28:00,return_window_inquiry,8.3,,,,
+CALL-00030,Flatiron,2026-04-01 13:53:00,stock_check,3.5,ECOM-00141,SKU-010,30,White
+CALL-00031,Bleecker,2026-05-08 14:52:00,return_window_inquiry,7.6,,,,
+CALL-00032,Flatiron,2026-05-09 13:30:00,return_window_inquiry,8.6,,,,
+CALL-00033,Bleecker,2026-01-10 16:58:00,order_status,5.6,,,,
+CALL-00034,Madison Ave,2026-04-09 10:11:00,return_window_inquiry,5.7,,,,
+CALL-00035,Flatiron,2026-05-05 14:20:00,return_window_inquiry,4.4,,,,
+CALL-00036,Madison Ave,2026-02-03 14:00:00,other,3.3,,,,
+CALL-00037,SoHo,2026-03-07 12:48:00,stock_check,3.7,POS-00303,SKU-016,XL,Raw Denim
+CALL-00038,Madison Ave,2026-04-28 15:37:00,return_window_inquiry,7.9,,,,
+CALL-00039,Flatiron,2026-04-01 10:36:00,return_window_inquiry,8.3,,,,
+CALL-00040,SoHo,2026-02-08 11:38:00,stock_check,4.2,POS-00217,SKU-010,31,Vintage Blue
+CALL-00041,Flatiron,2026-04-04 13:39:00,return_window_inquiry,7.5,,,,
+CALL-00042,SoHo,2026-02-22 17:51:00,return_window_inquiry,6.4,,,,
+CALL-00043,SoHo,2026-01-20 15:28:00,stock_check,2.5,POS-00062,SKU-009,28,White
+CALL-00044,Flatiron,2026-06-20 16:15:00,other,5.4,,,,
+CALL-00045,SoHo,2026-03-06 14:30:00,return_window_inquiry,7.8,,,,
+CALL-00046,Flatiron,2026-01-24 12:05:00,return_window_inquiry,5.1,,,,
+CALL-00047,Flatiron,2026-03-15 15:24:00,return_window_inquiry,11.2,,,,
+CALL-00048,Madison Ave,2026-02-16 18:30:00,return_window_inquiry,6.7,,,,
+CALL-00049,Bleecker,2026-06-04 12:52:00,return_window_inquiry,8.8,,,,
+CALL-00050,Madison Ave,2026-06-21 15:37:00,stock_check,2.0,ECOM-00058,SKU-012,XS,Raw Denim
+CALL-00051,SoHo,2026-02-16 15:18:00,return_window_inquiry,4.3,,,,
+CALL-00052,Madison Ave,2026-02-10 13:17:00,stock_check,3.2,POS-00098,SKU-010,30,Black
+CALL-00053,Flatiron,2026-06-10 12:12:00,order_status,4.4,,,,
+CALL-00054,Madison Ave,2026-03-24 15:15:00,return_window_inquiry,5.6,,,,
+CALL-00055,Bleecker,2026-04-03 17:20:00,order_status,5.7,,,,
+CALL-00056,Madison Ave,2026-02-10 16:51:00,order_status,2.6,,,,
+CALL-00057,Madison Ave,2026-02-04 16:58:00,return_window_inquiry,4.0,,,,
+CALL-00058,Flatiron,2026-01-26 15:40:00,return_window_inquiry,7.8,,,,
+CALL-00059,Bleecker,2026-01-08 17:12:00,stock_check,3.9,POS-00441,SKU-014,S,Indigo
+CALL-00060,Flatiron,2026-03-12 13:37:00,return_window_inquiry,9.1,,,,
+CALL-00061,Bleecker,2026-03-17 16:26:00,return_window_inquiry,4.2,,,,
+CALL-00062,Flatiron,2026-02-28 15:59:00,return_window_inquiry,6.7,,,,
+CALL-00063,Madison Ave,2026-01-12 14:17:00,return_window_inquiry,12.0,,,,
+CALL-00064,Flatiron,2026-01-07 12:38:00,stock_check,3.6,POS-00444,SKU-001,34,Indigo
+CALL-00065,Flatiron,2026-01-31 13:45:00,return_window_inquiry,5.5,,,,
+CALL-00066,Flatiron,2026-04-06 12:28:00,other,4.1,,,,
+CALL-00067,Flatiron,2026-05-07 10:21:00,return_window_inquiry,9.0,,,,
+CALL-00068,SoHo,2026-03-20 17:07:00,stock_check,2.3,POS-00218,SKU-011,S,Raw Denim
+CALL-00069,SoHo,2026-02-15 11:45:00,return_window_inquiry,11.0,,,,
+CALL-00070,Flatiron,2026-01-16 10:32:00,stock_check,4.7,ECOM-00064,SKU-001,31,White
+CALL-00071,Bleecker,2026-01-11 18:51:00,stock_check,2.0,POS-00104,SKU-013,M,Raw Denim
+CALL-00072,Bleecker,2026-01-29 15:02:00,return_window_inquiry,10.2,,,,
+CALL-00073,Madison Ave,2026-04-08 11:51:00,stock_check,2.8,POS-00023,SKU-014,XL,Raw Denim
+CALL-00074,Madison Ave,2026-06-04 18:06:00,return_window_inquiry,6.5,,,,
+CALL-00075,Flatiron,2026-06-29 12:30:00,return_window_inquiry,10.9,,,,
+CALL-00076,SoHo,2026-05-10 17:36:00,return_window_inquiry,11.0,,,,
+CALL-00077,Bleecker,2026-06-08 14:46:00,return_window_inquiry,8.6,,,,
+CALL-00078,Bleecker,2026-03-07 11:30:00,return_window_inquiry,5.9,,,,
+CALL-00079,Flatiron,2026-01-11 13:36:00,order_status,2.1,,,,
+CALL-00080,SoHo,2026-02-21 13:02:00,other,3.6,,,,
+CALL-00081,Bleecker,2026-03-20 18:59:00,return_window_inquiry,5.0,,,,
+CALL-00082,Bleecker,2026-02-19 16:27:00,return_window_inquiry,6.7,,,,
+CALL-00083,Flatiron,2026-03-07 17:23:00,return_window_inquiry,12.0,,,,
+CALL-00084,SoHo,2026-03-14 13:47:00,return_window_inquiry,11.3,,,,
+CALL-00085,SoHo,2026-06-11 10:20:00,stock_check,5.8,POS-00360,SKU-015,L,Black
+CALL-00086,Madison Ave,2026-04-22 10:11:00,return_window_inquiry,6.6,,,,
+CALL-00087,Madison Ave,2026-06-30 18:58:00,order_status,3.3,,,,
+CALL-00088,Flatiron,2026-05-29 13:21:00,return_window_inquiry,7.9,,,,
+CALL-00089,SoHo,2026-03-08 12:02:00,return_window_inquiry,8.2,,,,
+CALL-00090,Madison Ave,2026-07-02 14:05:00,return_window_inquiry,7.0,,,,
+CALL-00091,SoHo,2026-02-08 13:07:00,stock_check,3.6,POS-00010,SKU-004,30,Vintage Blue
+CALL-00092,Madison Ave,2026-04-10 15:40:00,order_status,3.5,,,,
+CALL-00093,Bleecker,2026-01-22 14:01:00,return_window_inquiry,9.6,,,,
+CALL-00094,SoHo,2026-06-25 10:02:00,return_window_inquiry,11.0,,,,
+CALL-00095,SoHo,2026-06-28 18:37:00,return_window_inquiry,5.1,,,,
+CALL-00096,Madison Ave,2026-03-25 10:59:00,stock_check,4.6,ECOM-00066,SKU-010,33,Black
+CALL-00097,SoHo,2026-01-09 18:02:00,return_window_inquiry,11.4,,,,
+CALL-00098,Flatiron,2026-05-13 18:13:00,return_window_inquiry,7.2,,,,
+CALL-00099,Bleecker,2026-04-20 15:20:00,return_window_inquiry,10.2,,,,
+CALL-00100,Madison Ave,2026-03-04 10:33:00,order_status,4.9,,,,
+CALL-00101,Madison Ave,2026-04-22 12:16:00,return_window_inquiry,6.2,,,,
+CALL-00102,Flatiron,2026-03-26 13:42:00,stock_check,4.4,ECOM-00176,SKU-002,24,White
+CALL-00103,Madison Ave,2026-04-28 18:55:00,return_window_inquiry,10.1,,,,
+CALL-00104,Flatiron,2026-03-02 12:53:00,stock_check,3.3,POS-00155,SKU-001,34,Raw Denim
+CALL-00105,Flatiron,2026-06-23 18:28:00,return_window_inquiry,5.7,,,,
+CALL-00106,Madison Ave,2026-02-05 18:07:00,return_window_inquiry,11.1,,,,
+CALL-00107,Madison Ave,2026-05-10 10:14:00,other,5.4,,,,
+CALL-00108,Flatiron,2026-02-02 11:43:00,return_window_inquiry,5.4,,,,
+CALL-00109,Madison Ave,2026-06-11 16:16:00,return_window_inquiry,6.6,,,,
+CALL-00110,Flatiron,2026-05-28 15:28:00,other,2.9,,,,
+CALL-00111,SoHo,2026-05-11 16:06:00,return_window_inquiry,5.0,,,,
+CALL-00112,Flatiron,2026-03-27 12:49:00,return_window_inquiry,10.9,,,,
+CALL-00113,SoHo,2026-03-01 14:31:00,stock_check,3.1,POS-00020,SKU-002,34,Raw Denim
+CALL-00114,Flatiron,2026-06-06 17:57:00,stock_check,2.9,POS-00119,SKU-003,29,Stone Wash
+CALL-00115,Flatiron,2026-06-27 14:11:00,return_window_inquiry,7.1,,,,
+CALL-00116,Madison Ave,2026-04-30 14:28:00,other,2.4,,,,
+CALL-00117,Madison Ave,2026-04-30 14:49:00,return_window_inquiry,4.8,,,,
+CALL-00118,SoHo,2026-04-25 15:43:00,return_window_inquiry,9.3,,,,
+CALL-00119,Bleecker,2026-02-03 16:47:00,stock_check,4.4,POS-00346,SKU-012,M,Indigo
+CALL-00120,Madison Ave,2026-05-11 17:35:00,stock_check,2.2,POS-00286,SKU-016,L,Black
+CALL-00121,Bleecker,2026-02-16 13:28:00,return_window_inquiry,6.0,,,,
+CALL-00122,SoHo,2026-05-25 14:57:00,return_window_inquiry,5.4,,,,
+CALL-00123,Flatiron,2026-07-06 17:18:00,return_window_inquiry,9.3,,,,
+CALL-00124,Flatiron,2026-05-01 14:00:00,return_window_inquiry,10.4,,,,
+CALL-00125,Madison Ave,2026-05-19 15:12:00,return_window_inquiry,6.3,,,,
+CALL-00126,SoHo,2026-03-30 11:35:00,return_window_inquiry,5.6,,,,
+CALL-00127,Flatiron,2026-05-28 11:13:00,order_status,4.1,,,,
+CALL-00128,SoHo,2026-04-09 11:53:00,other,2.0,,,,
+CALL-00129,SoHo,2026-06-03 15:49:00,stock_check,2.6,POS-00233,SKU-011,XS,Stone Wash
+CALL-00130,Madison Ave,2026-02-26 14:41:00,return_window_inquiry,11.0,,,,
+CALL-00131,Madison Ave,2026-03-16 12:30:00,other,2.3,,,,
+CALL-00132,Bleecker,2026-04-19 10:44:00,return_window_inquiry,9.3,,,,
+CALL-00133,Bleecker,2026-03-03 18:59:00,stock_check,2.4,POS-00367,SKU-008,26,Stone Wash
+CALL-00134,Flatiron,2026-05-04 13:09:00,return_window_inquiry,11.0,,,,
+CALL-00135,Flatiron,2026-03-19 17:18:00,return_window_inquiry,7.5,,,,
+CALL-00136,Madison Ave,2026-02-08 14:48:00,stock_check,3.5,POS-00457,SKU-015,L,Stone Wash
+CALL-00137,Bleecker,2026-02-09 14:17:00,return_window_inquiry,8.9,,,,
+CALL-00138,Madison Ave,2026-05-16 16:31:00,return_window_inquiry,6.8,,,,
+CALL-00139,Bleecker,2026-03-25 16:32:00,order_status,3.0,,,,
+CALL-00140,Madison Ave,2026-01-12 15:14:00,order_status,3.6,,,,
+CALL-00141,Flatiron,2026-01-22 18:13:00,return_window_inquiry,10.1,,,,
+CALL-00142,Madison Ave,2026-03-27 11:57:00,return_window_inquiry,9.7,,,,
+CALL-00143,Madison Ave,2026-03-05 17:38:00,stock_check,2.1,POS-00129,SKU-010,24,Black
+CALL-00144,Bleecker,2026-05-19 13:06:00,return_window_inquiry,9.2,,,,
+CALL-00145,Madison Ave,2026-02-25 10:06:00,stock_check,3.6,POS-00145,SKU-001,26,Black
+CALL-00146,Madison Ave,2026-06-06 13:32:00,return_window_inquiry,8.2,,,,
+CALL-00147,SoHo,2026-05-18 11:07:00,stock_check,3.4,POS-00364,SKU-008,33,Stone Wash
+CALL-00148,Madison Ave,2026-04-05 17:15:00,return_window_inquiry,6.1,,,,
+CALL-00149,SoHo,2026-02-08 11:01:00,return_window_inquiry,9.4,,,,
+CALL-00150,Madison Ave,2026-02-28 16:54:00,stock_check,2.7,POS-00340,SKU-013,M,Indigo
+CALL-00151,Madison Ave,2026-05-31 16:58:00,return_window_inquiry,11.9,,,,
+CALL-00152,Bleecker,2026-04-18 17:35:00,return_window_inquiry,9.1,,,,
+CALL-00153,SoHo,2026-06-10 18:44:00,return_window_inquiry,5.2,,,,
+CALL-00154,Flatiron,2026-01-23 11:50:00,other,5.1,,,,
+CALL-00155,Flatiron,2026-06-04 11:03:00,return_window_inquiry,8.2,,,,
+CALL-00156,SoHo,2026-03-06 17:59:00,return_window_inquiry,9.2,,,,
+CALL-00157,Madison Ave,2026-06-27 17:41:00,return_window_inquiry,6.8,,,,
+CALL-00158,Flatiron,2026-02-21 16:26:00,order_status,5.7,,,,
+CALL-00159,Bleecker,2026-03-21 18:05:00,return_window_inquiry,10.1,,,,
+CALL-00160,Bleecker,2026-06-07 14:02:00,return_window_inquiry,7.5,,,,
+CALL-00161,Bleecker,2026-06-23 18:43:00,return_window_inquiry,11.8,,,,
+CALL-00162,SoHo,2026-05-17 10:12:00,return_window_inquiry,9.0,,,,
+CALL-00163,Bleecker,2026-06-30 10:21:00,stock_check,5.4,POS-00352,SKU-013,S,Raw Denim
+CALL-00164,Flatiron,2026-07-05 12:41:00,stock_check,5.7,ECOM-00109,SKU-010,32,White
+CALL-00165,Flatiron,2026-01-28 18:45:00,order_status,4.1,,,,
+CALL-00166,Bleecker,2026-06-20 13:10:00,return_window_inquiry,7.7,,,,
+CALL-00167,SoHo,2026-05-23 12:38:00,return_window_inquiry,10.3,,,,
+CALL-00168,Bleecker,2026-02-09 17:42:00,return_window_inquiry,9.4,,,,
+CALL-00169,SoHo,2026-05-02 10:07:00,other,3.2,,,,
+CALL-00170,Bleecker,2026-02-16 14:31:00,stock_check,5.1,POS-00185,SKU-010,27,Vintage Blue
+CALL-00171,Flatiron,2026-04-18 15:38:00,return_window_inquiry,6.1,,,,
+CALL-00172,Madison Ave,2026-03-07 12:47:00,return_window_inquiry,11.9,,,,
+CALL-00173,Bleecker,2026-03-26 16:38:00,stock_check,5.3,POS-00128,SKU-016,M,Stone Wash
+CALL-00174,SoHo,2026-01-22 10:17:00,other,5.3,,,,
+CALL-00175,Bleecker,2026-02-18 17:23:00,return_window_inquiry,4.3,,,,
+CALL-00176,Flatiron,2026-03-10 10:39:00,order_status,4.3,,,,
+CALL-00177,Madison Ave,2026-03-15 12:06:00,stock_check,4.5,POS-00042,SKU-008,29,Raw Denim
+CALL-00178,Madison Ave,2026-04-25 13:13:00,stock_check,2.9,POS-00379,SKU-012,L,Raw Denim
+CALL-00179,Madison Ave,2026-06-24 11:19:00,return_window_inquiry,7.2,,,,
+CALL-00180,Bleecker,2026-05-14 15:11:00,return_window_inquiry,4.1,,,,
+CALL-00181,Bleecker,2026-05-23 16:03:00,other,4.7,,,,
+CALL-00182,Flatiron,2026-04-27 12:48:00,return_window_inquiry,7.1,,,,
+CALL-00183,Bleecker,2026-05-08 11:24:00,order_status,2.4,,,,
+CALL-00184,Bleecker,2026-05-19 11:00:00,return_window_inquiry,4.5,,,,
+CALL-00185,Flatiron,2026-06-06 14:20:00,return_window_inquiry,7.7,,,,
+CALL-00186,Madison Ave,2026-04-12 11:38:00,stock_check,4.7,ECOM-00129,SKU-012,XS,Indigo
+CALL-00187,Madison Ave,2026-07-05 15:26:00,return_window_inquiry,10.2,,,,
+CALL-00188,Bleecker,2026-01-24 15:10:00,stock_check,5.2,ECOM-00046,SKU-012,XL,Stone Wash
+CALL-00189,Flatiron,2026-05-06 15:11:00,return_window_inquiry,6.1,,,,
+CALL-00190,Madison Ave,2026-05-29 12:51:00,return_window_inquiry,11.4,,,,
+CALL-00191,Flatiron,2026-03-06 11:03:00,return_window_inquiry,7.2,,,,
+CALL-00192,Flatiron,2026-07-01 12:18:00,return_window_inquiry,8.6,,,,
+CALL-00193,SoHo,2026-03-14 17:28:00,other,3.2,,,,
+CALL-00194,Madison Ave,2026-04-03 17:05:00,stock_check,4.0,POS-00102,SKU-005,26,Vintage Blue
+CALL-00195,Flatiron,2026-01-10 15:10:00,return_window_inquiry,7.2,,,,
+CALL-00196,Flatiron,2026-02-23 18:38:00,return_window_inquiry,10.5,,,,
+CALL-00197,Bleecker,2026-06-11 17:06:00,return_window_inquiry,6.5,,,,
+CALL-00198,Madison Ave,2026-06-19 14:10:00,other,4.9,,,,
+CALL-00199,SoHo,2026-01-08 18:19:00,return_window_inquiry,12.0,,,,
+CALL-00200,Flatiron,2026-03-16 13:04:00,order_status,5.7,,,,
+CALL-00201,Flatiron,2026-06-17 17:57:00,other,5.4,,,,
+CALL-00202,Madison Ave,2026-02-10 10:43:00,stock_check,3.6,POS-00287,SKU-011,M,Stone Wash
+CALL-00203,SoHo,2026-03-07 10:12:00,stock_check,3.0,POS-00419,SKU-004,34,Indigo
+CALL-00204,Flatiron,2026-06-14 17:01:00,other,3.5,,,,
+CALL-00205,Madison Ave,2026-06-07 11:43:00,return_window_inquiry,5.0,,,,
+CALL-00206,Bleecker,2026-06-13 18:40:00,return_window_inquiry,10.6,,,,
+CALL-00207,Bleecker,2026-06-29 13:20:00,return_window_inquiry,7.8,,,,
+CALL-00208,Flatiron,2026-05-01 10:01:00,return_window_inquiry,4.5,,,,
+CALL-00209,SoHo,2026-04-23 12:49:00,return_window_inquiry,7.2,,,,
+CALL-00210,Flatiron,2026-02-15 12:54:00,return_window_inquiry,6.3,,,,
+CALL-00211,SoHo,2026-05-15 14:48:00,return_window_inquiry,9.5,,,,
+CALL-00212,Madison Ave,2026-06-05 14:56:00,return_window_inquiry,12.0,,,,
+CALL-00213,SoHo,2026-01-19 16:27:00,return_window_inquiry,5.2,,,,
+CALL-00214,Bleecker,2026-06-04 13:53:00,order_status,2.2,,,,
+CALL-00215,SoHo,2026-06-04 11:50:00,return_window_inquiry,4.6,,,,
+CALL-00216,SoHo,2026-03-26 10:14:00,other,4.1,,,,
+CALL-00217,SoHo,2026-06-11 15:39:00,other,2.6,,,,
+CALL-00218,Flatiron,2026-03-28 15:09:00,return_window_inquiry,4.5,,,,
+CALL-00219,SoHo,2026-03-20 14:20:00,stock_check,2.8,POS-00434,SKU-008,25,Stone Wash
+CALL-00220,SoHo,2026-02-08 15:00:00,stock_check,3.7,ECOM-00178,SKU-011,M,Indigo
+CALL-00221,Bleecker,2026-03-07 11:59:00,return_window_inquiry,5.8,,,,
+CALL-00222,Flatiron,2026-05-06 11:48:00,stock_check,4.7,POS-00445,SKU-016,XL,Indigo
+CALL-00223,Flatiron,2026-02-09 15:28:00,stock_check,5.0,POS-00027,SKU-004,32,Raw Denim
+CALL-00224,Madison Ave,2026-04-27 11:44:00,return_window_inquiry,9.4,,,,
+CALL-00225,SoHo,2026-01-24 14:31:00,stock_check,3.2,POS-00238,SKU-008,27,White
+CALL-00226,SoHo,2026-01-20 17:15:00,stock_check,3.7,POS-00290,SKU-016,XS,Indigo
+CALL-00227,SoHo,2026-05-28 15:53:00,stock_check,3.0,POS-00317,SKU-016,M,Indigo
+CALL-00228,Madison Ave,2026-02-12 13:30:00,return_window_inquiry,4.1,,,,
+CALL-00229,Madison Ave,2026-02-24 15:39:00,order_status,3.6,,,,
+CALL-00230,Flatiron,2026-04-29 10:47:00,return_window_inquiry,9.0,,,,
+CALL-00231,Madison Ave,2026-04-14 15:02:00,return_window_inquiry,8.8,,,,
+CALL-00232,Bleecker,2026-02-28 11:33:00,return_window_inquiry,6.1,,,,
+CALL-00233,Flatiron,2026-03-27 18:03:00,stock_check,3.6,POS-00109,SKU-006,28,Indigo
+CALL-00234,Madison Ave,2026-06-13 15:55:00,return_window_inquiry,6.2,,,,
+CALL-00235,Flatiron,2026-05-22 17:32:00,order_status,4.6,,,,
+CALL-00236,Madison Ave,2026-02-26 18:47:00,order_status,5.0,,,,
+CALL-00237,Bleecker,2026-06-14 11:09:00,return_window_inquiry,11.7,,,,
+CALL-00238,Flatiron,2026-02-07 15:38:00,order_status,2.6,,,,
+CALL-00239,Bleecker,2026-05-14 13:05:00,return_window_inquiry,5.5,,,,
+CALL-00240,Flatiron,2026-06-01 15:00:00,return_window_inquiry,10.6,,,,
+CALL-00241,Bleecker,2026-02-24 15:48:00,stock_check,5.6,POS-00069,SKU-014,S,Raw Denim
+CALL-00242,SoHo,2026-06-13 13:17:00,stock_check,5.2,ECOM-00111,SKU-016,S,Black
+CALL-00243,Flatiron,2026-05-08 17:55:00,return_window_inquiry,6.0,,,,
+CALL-00244,Madison Ave,2026-01-14 14:46:00,order_status,2.6,,,,
+CALL-00245,Bleecker,2026-06-28 17:38:00,stock_check,3.0,POS-00233,SKU-009,25,White
+CALL-00246,Flatiron,2026-06-20 14:09:00,stock_check,3.4,ECOM-00198,SKU-011,XL,Black
+CALL-00247,SoHo,2026-05-10 10:55:00,stock_check,5.1,POS-00184,SKU-012,XL,Raw Denim
+CALL-00248,Bleecker,2026-03-27 14:42:00,return_window_inquiry,10.3,,,,
+CALL-00249,Flatiron,2026-02-07 15:29:00,return_window_inquiry,5.2,,,,
+CALL-00250,Madison Ave,2026-03-20 11:08:00,return_window_inquiry,8.7,,,,
+CALL-00251,SoHo,2026-06-10 11:42:00,return_window_inquiry,11.1,,,,
+CALL-00252,Bleecker,2026-06-24 11:01:00,return_window_inquiry,7.8,,,,
+CALL-00253,Madison Ave,2026-05-22 14:25:00,return_window_inquiry,11.8,,,,
+CALL-00254,SoHo,2026-06-10 12:13:00,return_window_inquiry,5.1,,,,
+CALL-00255,Bleecker,2026-05-09 12:58:00,stock_check,2.1,ECOM-00107,SKU-008,32,White
+CALL-00256,Flatiron,2026-06-21 14:13:00,order_status,4.3,,,,
+CALL-00257,Bleecker,2026-03-06 10:33:00,order_status,5.9,,,,
+CALL-00258,Flatiron,2026-02-24 13:30:00,return_window_inquiry,8.9,,,,
+CALL-00259,Madison Ave,2026-03-20 18:11:00,return_window_inquiry,5.1,,,,
+CALL-00260,Madison Ave,2026-01-29 13:28:00,stock_check,2.3,POS-00059,SKU-008,25,Stone Wash
+CALL-00261,SoHo,2026-04-28 18:35:00,order_status,5.1,,,,
+CALL-00262,Madison Ave,2026-05-17 17:40:00,order_status,3.1,,,,
+CALL-00263,Bleecker,2026-02-17 11:06:00,stock_check,2.9,POS-00111,SKU-015,XS,Stone Wash
+CALL-00264,Flatiron,2026-05-24 14:53:00,return_window_inquiry,6.9,,,,
+CALL-00265,Flatiron,2026-03-04 10:00:00,return_window_inquiry,6.6,,,,
+CALL-00266,SoHo,2026-04-15 18:33:00,return_window_inquiry,5.0,,,,
+CALL-00267,SoHo,2026-02-15 11:42:00,return_window_inquiry,5.0,,,,
+CALL-00268,Bleecker,2026-02-12 13:33:00,return_window_inquiry,11.9,,,,
+CALL-00269,Bleecker,2026-02-20 14:31:00,return_window_inquiry,7.8,,,,
+CALL-00270,Bleecker,2026-04-10 18:31:00,other,4.9,,,,
+CALL-00271,Madison Ave,2026-04-02 16:49:00,return_window_inquiry,6.4,,,,
+CALL-00272,Bleecker,2026-05-12 10:28:00,return_window_inquiry,10.2,,,,
+CALL-00273,Flatiron,2026-01-13 17:03:00,return_window_inquiry,9.2,,,,
+CALL-00274,Flatiron,2026-05-13 13:05:00,stock_check,2.4,ECOM-00182,SKU-003,30,Vintage Blue
+CALL-00275,Madison Ave,2026-02-05 15:21:00,return_window_inquiry,9.9,,,,
+CALL-00276,Bleecker,2026-03-03 13:46:00,return_window_inquiry,4.9,,,,
+CALL-00277,Madison Ave,2026-05-09 17:31:00,return_window_inquiry,9.0,,,,
+CALL-00278,Madison Ave,2026-05-12 17:36:00,other,4.5,,,,
+CALL-00279,Flatiron,2026-06-12 18:37:00,return_window_inquiry,5.1,,,,
+CALL-00280,Madison Ave,2026-04-24 15:33:00,return_window_inquiry,5.0,,,,
+CALL-00281,Madison Ave,2026-03-28 12:53:00,return_window_inquiry,6.2,,,,
+CALL-00282,SoHo,2026-06-04 14:27:00,other,4.2,,,,
+CALL-00283,Bleecker,2026-05-30 15:56:00,other,5.2,,,,
+CALL-00284,Flatiron,2026-04-13 12:36:00,return_window_inquiry,9.3,,,,
+CALL-00285,Bleecker,2026-03-30 17:39:00,return_window_inquiry,9.1,,,,
+CALL-00286,Flatiron,2026-05-27 10:39:00,return_window_inquiry,6.8,,,,
+CALL-00287,Madison Ave,2026-05-08 15:44:00,return_window_inquiry,11.8,,,,
+CALL-00288,Madison Ave,2026-02-11 16:34:00,return_window_inquiry,10.9,,,,
+CALL-00289,SoHo,2026-04-26 15:27:00,other,3.3,,,,
+CALL-00290,Madison Ave,2026-03-14 14:18:00,stock_check,6.0,POS-00018,SKU-011,M,Indigo
+CALL-00291,SoHo,2026-06-15 15:59:00,other,4.8,,,,
+CALL-00292,Flatiron,2026-04-26 10:36:00,return_window_inquiry,10.3,,,,
+CALL-00293,Flatiron,2026-01-22 17:51:00,return_window_inquiry,6.5,,,,
+CALL-00294,Bleecker,2026-06-27 10:04:00,stock_check,2.9,POS-00136,SKU-003,28,Indigo
+CALL-00295,Madison Ave,2026-03-29 17:01:00,return_window_inquiry,8.6,,,,
+CALL-00296,SoHo,2026-03-18 15:19:00,order_status,4.1,,,,
+CALL-00297,Madison Ave,2026-07-03 10:56:00,return_window_inquiry,6.4,,,,
+CALL-00298,Flatiron,2026-05-02 15:16:00,return_window_inquiry,9.0,,,,
+CALL-00299,Bleecker,2026-04-22 18:51:00,return_window_inquiry,7.5,,,,
+CALL-00300,Flatiron,2026-07-02 14:57:00,return_window_inquiry,8.4,,,,
+CALL-00301,SoHo,2026-03-27 16:08:00,stock_check,3.3,POS-00211,SKU-002,25,Black
+CALL-00302,Flatiron,2026-02-02 15:47:00,return_window_inquiry,4.6,,,,
+CALL-00303,Madison Ave,2026-05-24 11:50:00,other,5.3,,,,
+CALL-00304,SoHo,2026-06-21 18:43:00,return_window_inquiry,4.9,,,,
+CALL-00305,Madison Ave,2026-04-19 13:06:00,return_window_inquiry,6.7,,,,
+CALL-00306,Madison Ave,2026-03-01 14:04:00,return_window_inquiry,9.1,,,,
+CALL-00307,Flatiron,2026-03-05 16:56:00,stock_check,2.8,ECOM-00176,SKU-004,34,Indigo
+CALL-00308,Bleecker,2026-05-27 13:07:00,stock_check,4.3,ECOM-00087,SKU-016,XS,Black
+CALL-00309,Flatiron,2026-06-11 16:32:00,return_window_inquiry,6.0,,,,
+CALL-00310,Flatiron,2026-02-05 16:18:00,return_window_inquiry,6.9,,,,
+CALL-00311,Bleecker,2026-05-03 14:05:00,other,5.8,,,,
+CALL-00312,Bleecker,2026-02-26 11:55:00,return_window_inquiry,4.7,,,,
+CALL-00313,Bleecker,2026-03-15 12:17:00,stock_check,5.8,POS-00323,SKU-009,31,Vintage Blue
+CALL-00314,Bleecker,2026-02-08 17:47:00,return_window_inquiry,9.7,,,,
+CALL-00315,Madison Ave,2026-04-29 14:33:00,other,5.6,,,,
+CALL-00316,SoHo,2026-07-01 10:36:00,return_window_inquiry,9.3,,,,
+CALL-00317,SoHo,2026-03-25 13:56:00,return_window_inquiry,11.8,,,,
+CALL-00318,SoHo,2026-02-13 18:31:00,return_window_inquiry,8.5,,,,
+CALL-00319,Flatiron,2026-05-05 17:25:00,stock_check,4.7,ECOM-00151,SKU-016,L,Stone Wash
+CALL-00320,Flatiron,2026-05-15 17:33:00,order_status,2.2,,,,
+CALL-00321,Bleecker,2026-04-08 11:36:00,return_window_inquiry,4.8,,,,
+CALL-00322,Madison Ave,2026-03-20 12:54:00,return_window_inquiry,8.3,,,,
+CALL-00323,Flatiron,2026-03-17 17:27:00,return_window_inquiry,7.4,,,,
+CALL-00324,Madison Ave,2026-01-10 11:37:00,other,2.5,,,,
+CALL-00325,SoHo,2026-05-26 16:53:00,return_window_inquiry,6.0,,,,
+CALL-00326,Bleecker,2026-06-08 17:27:00,return_window_inquiry,10.9,,,,
+CALL-00327,Madison Ave,2026-02-21 15:26:00,return_window_inquiry,10.0,,,,
+CALL-00328,Madison Ave,2026-06-30 15:54:00,return_window_inquiry,9.2,,,,
+CALL-00329,Bleecker,2026-02-05 16:31:00,stock_check,2.2,ECOM-00064,SKU-009,31,Stone Wash
+CALL-00330,Madison Ave,2026-04-28 10:22:00,other,5.2,,,,
+CALL-00331,Flatiron,2026-06-22 12:23:00,order_status,6.0,,,,
+CALL-00332,Madison Ave,2026-04-05 15:18:00,stock_check,3.0,POS-00146,SKU-002,34,Raw Denim
+CALL-00333,SoHo,2026-03-11 15:08:00,stock_check,3.5,ECOM-00140,SKU-007,31,White
+CALL-00334,SoHo,2026-02-16 14:22:00,other,3.3,,,,
+CALL-00335,Flatiron,2026-03-29 16:13:00,return_window_inquiry,5.9,,,,
+CALL-00336,SoHo,2026-05-20 10:45:00,return_window_inquiry,11.2,,,,
+CALL-00337,SoHo,2026-05-12 10:43:00,return_window_inquiry,7.6,,,,
+CALL-00338,Flatiron,2026-06-03 18:40:00,return_window_inquiry,9.7,,,,
+CALL-00339,Flatiron,2026-03-29 15:43:00,stock_check,4.0,POS-00267,SKU-016,XS,Stone Wash
+CALL-00340,Bleecker,2026-01-22 16:52:00,order_status,3.6,,,,
+CALL-00341,Flatiron,2026-01-31 18:01:00,return_window_inquiry,10.3,,,,
+CALL-00342,Flatiron,2026-03-17 14:16:00,return_window_inquiry,8.3,,,,
+CALL-00343,SoHo,2026-05-17 15:02:00,stock_check,2.2,POS-00233,SKU-013,XS,Raw Denim
+CALL-00344,Flatiron,2026-03-02 17:43:00,return_window_inquiry,8.2,,,,
+CALL-00345,Flatiron,2026-06-09 16:18:00,return_window_inquiry,8.5,,,,
+CALL-00346,Madison Ave,2026-03-29 13:43:00,return_window_inquiry,7.4,,,,
+CALL-00347,Flatiron,2026-05-23 15:38:00,return_window_inquiry,5.4,,,,
+CALL-00348,Flatiron,2026-02-01 11:22:00,return_window_inquiry,7.4,,,,
+CALL-00349,Madison Ave,2026-03-06 18:09:00,return_window_inquiry,5.7,,,,
+CALL-00350,Madison Ave,2026-07-01 18:04:00,return_window_inquiry,5.6,,,,
+CALL-00351,SoHo,2026-02-08 10:09:00,stock_check,2.8,ECOM-00176,SKU-016,M,Black
+CALL-00352,Flatiron,2026-02-10 12:48:00,return_window_inquiry,10.2,,,,
+CALL-00353,Madison Ave,2026-02-15 10:05:00,stock_check,4.8,ECOM-00151,SKU-012,XL,Indigo
+CALL-00354,Bleecker,2026-02-10 14:26:00,return_window_inquiry,11.2,,,,
+CALL-00355,Madison Ave,2026-06-09 18:09:00,return_window_inquiry,8.4,,,,
+CALL-00356,Madison Ave,2026-04-30 16:58:00,other,3.4,,,,
+CALL-00357,Madison Ave,2026-01-20 12:01:00,return_window_inquiry,10.5,,,,
+CALL-00358,Madison Ave,2026-04-03 16:27:00,order_status,4.7,,,,
+CALL-00359,SoHo,2026-05-28 13:36:00,stock_check,5.8,POS-00149,SKU-007,32,Vintage Blue
+CALL-00360,Flatiron,2026-04-06 14:56:00,return_window_inquiry,5.3,,,,
+CALL-00361,Flatiron,2026-05-05 17:46:00,return_window_inquiry,7.8,,,,
+CALL-00362,SoHo,2026-06-23 13:00:00,return_window_inquiry,10.5,,,,
+CALL-00363,Flatiron,2026-03-07 12:43:00,stock_check,5.2,POS-00221,SKU-007,25,Stone Wash
+CALL-00364,Madison Ave,2026-04-13 15:12:00,return_window_inquiry,5.3,,,,
+CALL-00365,Bleecker,2026-04-26 14:43:00,return_window_inquiry,10.2,,,,
+CALL-00366,Flatiron,2026-05-31 16:35:00,return_window_inquiry,9.7,,,,
+CALL-00367,Flatiron,2026-02-06 13:46:00,stock_check,4.0,POS-00317,SKU-009,33,Indigo
+CALL-00368,Flatiron,2026-03-15 12:32:00,order_status,4.0,,,,
+CALL-00369,Flatiron,2026-01-30 11:03:00,return_window_inquiry,6.4,,,,
+CALL-00370,Bleecker,2026-02-04 16:55:00,return_window_inquiry,9.0,,,,
+CALL-00371,SoHo,2026-05-21 14:06:00,stock_check,5.0,POS-00234,SKU-008,25,Vintage Blue
+CALL-00372,Bleecker,2026-07-02 14:01:00,return_window_inquiry,6.1,,,,
+CALL-00373,Madison Ave,2026-03-11 11:36:00,stock_check,2.3,POS-00286,SKU-009,27,Vintage Blue
+CALL-00374,Madison Ave,2026-05-21 16:23:00,return_window_inquiry,7.5,,,,
+CALL-00375,SoHo,2026-01-29 16:14:00,other,5.2,,,,
+CALL-00376,Madison Ave,2026-02-07 13:23:00,return_window_inquiry,5.7,,,,
+CALL-00377,Madison Ave,2026-06-29 11:46:00,return_window_inquiry,6.6,,,,
+CALL-00378,Flatiron,2026-03-15 13:56:00,return_window_inquiry,4.7,,,,
+CALL-00379,Madison Ave,2026-01-10 10:46:00,return_window_inquiry,9.6,,,,
+CALL-00380,Flatiron,2026-04-27 13:05:00,return_window_inquiry,11.2,,,,
+CALL-00381,Flatiron,2026-06-29 17:14:00,return_window_inquiry,4.1,,,,
+CALL-00382,Flatiron,2026-05-13 17:13:00,other,2.9,,,,
+CALL-00383,Madison Ave,2026-06-15 10:06:00,return_window_inquiry,9.3,,,,
+CALL-00384,Bleecker,2026-03-23 12:04:00,other,5.3,,,,
+CALL-00385,Bleecker,2026-05-27 14:00:00,other,5.9,,,,
+CALL-00386,Bleecker,2026-02-22 16:21:00,return_window_inquiry,6.2,,,,
+CALL-00387,Flatiron,2026-03-25 10:10:00,stock_check,5.7,POS-00159,SKU-003,28,Black
+CALL-00388,Madison Ave,2026-04-27 17:05:00,return_window_inquiry,4.5,,,,
+CALL-00389,Madison Ave,2026-06-28 14:21:00,return_window_inquiry,4.4,,,,
+CALL-00390,Bleecker,2026-06-19 11:36:00,order_status,5.8,,,,
+CALL-00391,Flatiron,2026-06-22 12:30:00,stock_check,3.6,POS-00366,SKU-007,28,Stone Wash
+CALL-00392,Flatiron,2026-03-22 10:54:00,other,3.3,,,,
+CALL-00393,SoHo,2026-04-01 12:20:00,order_status,3.9,,,,
+CALL-00394,SoHo,2026-05-24 12:19:00,return_window_inquiry,7.2,,,,
+CALL-00395,Madison Ave,2026-03-29 14:42:00,return_window_inquiry,10.0,,,,
+CALL-00396,Madison Ave,2026-03-03 15:54:00,return_window_inquiry,6.1,,,,
+CALL-00397,Bleecker,2026-03-01 17:06:00,return_window_inquiry,10.3,,,,
+CALL-00398,Madison Ave,2026-03-31 10:23:00,return_window_inquiry,11.7,,,,
+CALL-00399,Madison Ave,2026-02-11 17:42:00,return_window_inquiry,10.3,,,,
+CALL-00400,Flatiron,2026-06-26 18:10:00,return_window_inquiry,7.2,,,,
+CALL-00401,Flatiron,2026-04-14 10:16:00,stock_check,3.1,POS-00149,SKU-003,28,White
+CALL-00402,SoHo,2026-05-30 16:31:00,stock_check,5.2,POS-00012,SKU-002,29,Indigo
+CALL-00403,Madison Ave,2026-05-09 17:42:00,return_window_inquiry,8.1,,,,
+CALL-00404,Bleecker,2026-03-23 18:16:00,return_window_inquiry,11.0,,,,
+CALL-00405,Flatiron,2026-06-25 14:09:00,other,3.0,,,,
+CALL-00406,Madison Ave,2026-04-22 12:55:00,return_window_inquiry,11.3,,,,
+CALL-00407,Flatiron,2026-01-19 18:05:00,return_window_inquiry,7.5,,,,
+CALL-00408,Flatiron,2026-02-20 11:57:00,return_window_inquiry,6.1,,,,
+CALL-00409,Flatiron,2026-05-28 13:38:00,return_window_inquiry,10.0,,,,
+CALL-00410,Flatiron,2026-03-23 11:43:00,stock_check,2.2,POS-00133,SKU-004,31,Indigo
+CALL-00411,Madison Ave,2026-03-02 16:00:00,return_window_inquiry,4.6,,,,
+CALL-00412,Flatiron,2026-04-08 11:45:00,order_status,5.0,,,,
+CALL-00413,Madison Ave,2026-03-14 17:35:00,order_status,3.0,,,,
+CALL-00414,SoHo,2026-04-05 17:27:00,return_window_inquiry,4.8,,,,
+CALL-00415,Flatiron,2026-03-05 10:27:00,stock_check,3.7,POS-00073,SKU-003,33,Vintage Blue
+CALL-00416,Bleecker,2026-02-15 13:19:00,return_window_inquiry,8.7,,,,
+CALL-00417,Bleecker,2026-07-04 12:07:00,return_window_inquiry,6.9,,,,
+CALL-00418,Bleecker,2026-04-04 17:34:00,return_window_inquiry,5.8,,,,
+CALL-00419,Flatiron,2026-04-26 10:57:00,return_window_inquiry,8.2,,,,
+CALL-00420,Bleecker,2026-01-12 10:22:00,return_window_inquiry,8.7,,,,
+CALL-00421,SoHo,2026-01-11 17:40:00,order_status,5.5,,,,
+CALL-00422,Madison Ave,2026-06-13 12:42:00,return_window_inquiry,10.2,,,,
+CALL-00423,Flatiron,2026-06-03 10:34:00,return_window_inquiry,5.7,,,,
+CALL-00424,Madison Ave,2026-02-13 18:02:00,return_window_inquiry,5.2,,,,
+CALL-00425,Madison Ave,2026-06-19 16:55:00,return_window_inquiry,9.2,,,,
+CALL-00426,Flatiron,2026-05-06 17:03:00,stock_check,2.9,POS-00187,SKU-011,XL,Stone Wash
+CALL-00427,Madison Ave,2026-04-16 11:25:00,order_status,3.8,,,,
+CALL-00428,Madison Ave,2026-03-17 16:09:00,return_window_inquiry,11.9,,,,
+CALL-00429,SoHo,2026-02-18 16:59:00,return_window_inquiry,11.0,,,,
+CALL-00430,Madison Ave,2026-06-03 15:15:00,return_window_inquiry,11.8,,,,
+CALL-00431,Flatiron,2026-05-19 12:51:00,return_window_inquiry,4.5,,,,
+CALL-00432,SoHo,2026-04-27 15:02:00,return_window_inquiry,10.4,,,,
+CALL-00433,Madison Ave,2026-03-29 14:01:00,other,4.5,,,,
+CALL-00434,Flatiron,2026-05-15 18:31:00,return_window_inquiry,11.3,,,,
+CALL-00435,Bleecker,2026-01-25 14:57:00,order_status,2.5,,,,
+CALL-00436,Madison Ave,2026-01-24 10:27:00,return_window_inquiry,7.1,,,,
+CALL-00437,SoHo,2026-05-06 13:01:00,return_window_inquiry,10.1,,,,
+CALL-00438,Madison Ave,2026-05-10 15:53:00,return_window_inquiry,9.2,,,,
+CALL-00439,Flatiron,2026-06-27 16:17:00,return_window_inquiry,8.5,,,,
+CALL-00440,Bleecker,2026-03-08 15:39:00,order_status,5.2,,,,
+CALL-00441,Flatiron,2026-01-31 10:40:00,return_window_inquiry,10.6,,,,
+CALL-00442,Bleecker,2026-06-22 14:30:00,return_window_inquiry,4.1,,,,
+CALL-00443,Madison Ave,2026-05-27 17:27:00,return_window_inquiry,6.1,,,,
+CALL-00444,Bleecker,2026-07-05 10:20:00,return_window_inquiry,11.4,,,,
+CALL-00445,Madison Ave,2026-01-28 18:59:00,stock_check,5.8,POS-00430,SKU-016,M,Stone Wash
+CALL-00446,Madison Ave,2026-02-18 14:11:00,return_window_inquiry,7.9,,,,
+CALL-00447,Bleecker,2026-02-26 12:32:00,return_window_inquiry,6.6,,,,
+CALL-00448,Bleecker,2026-04-09 15:14:00,return_window_inquiry,5.5,,,,
+CALL-00449,Bleecker,2026-02-19 15:04:00,return_window_inquiry,6.6,,,,
+CALL-00450,Madison Ave,2026-06-07 13:21:00,return_window_inquiry,5.3,,,,
+CALL-00451,Madison Ave,2026-03-16 18:32:00,return_window_inquiry,7.8,,,,
+CALL-00452,SoHo,2026-07-03 15:07:00,stock_check,2.8,POS-00409,SKU-004,32,Vintage Blue
+CALL-00453,Madison Ave,2026-04-06 11:52:00,return_window_inquiry,6.3,,,,
+CALL-00454,Madison Ave,2026-03-02 14:40:00,return_window_inquiry,11.4,,,,
+CALL-00455,SoHo,2026-06-19 15:27:00,other,4.3,,,,
+CALL-00456,Bleecker,2026-05-12 12:30:00,order_status,3.6,,,,
+CALL-00457,Flatiron,2026-02-13 14:28:00,stock_check,2.9,POS-00225,SKU-007,24,Raw Denim
+CALL-00458,SoHo,2026-05-22 13:38:00,other,2.2,,,,
+CALL-00459,SoHo,2026-03-23 13:26:00,other,5.2,,,,
+CALL-00460,Bleecker,2026-04-20 11:13:00,return_window_inquiry,7.8,,,,
+CALL-00461,SoHo,2026-01-30 11:08:00,stock_check,4.6,POS-00254,SKU-003,33,Black
+CALL-00462,Flatiron,2026-02-08 14:55:00,order_status,2.8,,,,
+CALL-00463,Flatiron,2026-04-08 13:05:00,return_window_inquiry,9.3,,,,
+CALL-00464,SoHo,2026-01-10 14:23:00,order_status,5.8,,,,
+CALL-00465,Madison Ave,2026-04-03 10:48:00,return_window_inquiry,8.3,,,,
+CALL-00466,Madison Ave,2026-04-22 16:44:00,return_window_inquiry,5.9,,,,
+CALL-00467,Madison Ave,2026-02-20 17:39:00,stock_check,4.2,POS-00232,SKU-014,S,Black
+CALL-00468,Madison Ave,2026-06-04 13:00:00,other,3.1,,,,
+CALL-00469,Bleecker,2026-05-06 13:44:00,order_status,4.1,,,,
+CALL-00470,Bleecker,2026-06-10 16:00:00,stock_check,5.1,POS-00166,SKU-001,33,Vintage Blue
+CALL-00471,Bleecker,2026-03-02 10:16:00,stock_check,2.0,ECOM-00178,SKU-010,27,Raw Denim
+CALL-00472,Flatiron,2026-03-19 18:19:00,order_status,3.9,,,,
+CALL-00473,Bleecker,2026-03-29 10:47:00,order_status,2.6,,,,
+CALL-00474,Flatiron,2026-03-19 13:26:00,return_window_inquiry,8.0,,,,
+CALL-00475,Flatiron,2026-05-18 18:03:00,return_window_inquiry,10.7,,,,
+CALL-00476,Bleecker,2026-05-16 13:56:00,stock_check,5.4,POS-00272,SKU-015,XS,Indigo
+CALL-00477,Bleecker,2026-04-22 17:31:00,stock_check,2.2,POS-00326,SKU-015,M,Indigo
+CALL-00478,Flatiron,2026-06-01 11:00:00,return_window_inquiry,8.5,,,,
+CALL-00479,Flatiron,2026-05-19 16:29:00,stock_check,4.1,POS-00326,SKU-006,32,Vintage Blue
+CALL-00480,Flatiron,2026-02-17 16:00:00,stock_check,2.1,POS-00364,SKU-013,XL,Indigo
+CALL-00481,Bleecker,2026-03-04 10:19:00,order_status,4.9,,,,
+CALL-00482,Bleecker,2026-02-17 14:24:00,return_window_inquiry,6.6,,,,
+CALL-00483,Flatiron,2026-02-17 11:43:00,other,3.8,,,,
+CALL-00484,SoHo,2026-06-11 17:38:00,return_window_inquiry,7.5,,,,
+CALL-00485,Madison Ave,2026-02-14 10:33:00,return_window_inquiry,5.7,,,,
+CALL-00486,Madison Ave,2026-01-29 18:58:00,return_window_inquiry,10.8,,,,
+CALL-00487,SoHo,2026-05-02 18:29:00,order_status,4.2,,,,
+CALL-00488,SoHo,2026-02-20 13:12:00,return_window_inquiry,6.0,,,,
+CALL-00489,SoHo,2026-02-18 16:58:00,order_status,4.8,,,,
+CALL-00490,Bleecker,2026-03-29 10:11:00,order_status,2.4,,,,
+CALL-00491,Madison Ave,2026-03-20 16:47:00,return_window_inquiry,9.8,,,,
+CALL-00492,SoHo,2026-01-24 17:40:00,return_window_inquiry,9.5,,,,
+CALL-00493,Madison Ave,2026-02-21 17:46:00,return_window_inquiry,8.4,,,,
+CALL-00494,Bleecker,2026-03-15 18:11:00,order_status,5.7,,,,
+CALL-00495,SoHo,2026-01-07 13:28:00,stock_check,2.4,ECOM-00092,SKU-016,XS,Stone Wash
+CALL-00496,Madison Ave,2026-04-12 15:31:00,other,4.2,,,,
+CALL-00497,Bleecker,2026-01-26 17:12:00,stock_check,4.9,POS-00147,SKU-006,25,Stone Wash
+CALL-00498,Flatiron,2026-06-01 14:30:00,stock_check,4.4,ECOM-00057,SKU-009,27,Black
+CALL-00499,Flatiron,2026-02-17 12:28:00,order_status,2.9,,,,
+CALL-00500,SoHo,2026-01-21 17:26:00,order_status,3.7,,,,
+CALL-00501,SoHo,2026-07-03 17:33:00,return_window_inquiry,6.2,,,,
+CALL-00502,SoHo,2026-07-03 11:21:00,order_status,3.8,,,,
+CALL-00503,Flatiron,2026-06-01 11:38:00,return_window_inquiry,8.9,,,,
+CALL-00504,SoHo,2026-03-19 15:40:00,return_window_inquiry,5.0,,,,
+CALL-00505,SoHo,2026-05-29 14:21:00,order_status,4.2,,,,
+CALL-00506,Flatiron,2026-05-23 12:36:00,return_window_inquiry,8.9,,,,
+CALL-00507,Bleecker,2026-06-02 16:30:00,other,4.5,,,,
+CALL-00508,Madison Ave,2026-06-11 15:49:00,return_window_inquiry,6.1,,,,
+CALL-00509,Bleecker,2026-03-16 13:35:00,return_window_inquiry,7.3,,,,
+CALL-00510,Bleecker,2026-05-07 12:51:00,return_window_inquiry,5.6,,,,
+CALL-00511,Flatiron,2026-06-01 12:22:00,return_window_inquiry,9.2,,,,
+CALL-00512,Flatiron,2026-05-20 16:57:00,return_window_inquiry,7.4,,,,
+CALL-00513,Bleecker,2026-04-05 16:23:00,return_window_inquiry,8.0,,,,
+CALL-00514,Madison Ave,2026-02-13 14:12:00,stock_check,4.0,POS-00435,SKU-003,28,Raw Denim
+CALL-00515,Bleecker,2026-03-05 13:40:00,return_window_inquiry,6.9,,,,
+CALL-00516,Madison Ave,2026-06-23 11:09:00,stock_check,5.3,POS-00208,SKU-010,30,Vintage Blue
+CALL-00517,Flatiron,2026-06-17 14:38:00,order_status,5.1,,,,
+CALL-00518,Madison Ave,2026-07-05 10:38:00,return_window_inquiry,4.9,,,,
+CALL-00519,SoHo,2026-04-18 15:19:00,return_window_inquiry,11.5,,,,
+CALL-00520,Madison Ave,2026-06-12 17:56:00,return_window_inquiry,8.2,,,,
+CALL-00521,Flatiron,2026-06-03 17:46:00,return_window_inquiry,6.4,,,,
+CALL-00522,Bleecker,2026-07-05 15:11:00,stock_check,5.3,POS-00072,SKU-011,XL,Raw Denim
+CALL-00523,Bleecker,2026-06-22 17:49:00,stock_check,5.8,POS-00085,SKU-004,30,Stone Wash
+CALL-00524,Flatiron,2026-02-11 11:02:00,return_window_inquiry,10.0,,,,
+CALL-00525,Flatiron,2026-06-20 11:52:00,return_window_inquiry,8.0,,,,
+CALL-00526,SoHo,2026-07-06 12:22:00,return_window_inquiry,4.3,,,,
+CALL-00527,SoHo,2026-05-22 12:29:00,return_window_inquiry,12.0,,,,
+CALL-00528,SoHo,2026-05-05 14:53:00,order_status,4.3,,,,
+CALL-00529,Flatiron,2026-04-11 12:58:00,return_window_inquiry,7.4,,,,
+CALL-00530,SoHo,2026-06-21 15:12:00,stock_check,3.1,POS-00418,SKU-016,M,Indigo
+CALL-00531,Flatiron,2026-07-03 12:32:00,return_window_inquiry,7.0,,,,
+CALL-00532,SoHo,2026-05-18 18:34:00,return_window_inquiry,9.8,,,,
+CALL-00533,Flatiron,2026-04-16 12:03:00,return_window_inquiry,6.1,,,,
+CALL-00534,SoHo,2026-04-15 12:50:00,return_window_inquiry,11.7,,,,
+CALL-00535,Bleecker,2026-05-09 10:51:00,stock_check,5.4,POS-00199,SKU-009,27,Indigo
+CALL-00536,Bleecker,2026-01-27 12:38:00,order_status,5.8,,,,
+CALL-00537,SoHo,2026-04-22 14:14:00,return_window_inquiry,5.8,,,,
+CALL-00538,Bleecker,2026-02-05 14:22:00,stock_check,4.7,POS-00248,SKU-014,L,Stone Wash
+CALL-00539,Madison Ave,2026-04-22 17:29:00,order_status,2.5,,,,
+CALL-00540,Flatiron,2026-04-27 17:09:00,stock_check,5.1,POS-00370,SKU-007,34,White
+CALL-00541,Madison Ave,2026-03-24 17:40:00,return_window_inquiry,11.2,,,,
+CALL-00542,Madison Ave,2026-07-01 10:38:00,stock_check,4.3,POS-00269,SKU-010,28,Black
+CALL-00543,Bleecker,2026-02-08 13:04:00,stock_check,3.5,POS-00137,SKU-005,25,Black
+CALL-00544,Flatiron,2026-04-06 18:22:00,return_window_inquiry,11.7,,,,
+CALL-00545,Madison Ave,2026-05-21 14:33:00,return_window_inquiry,8.7,,,,
+CALL-00546,SoHo,2026-03-08 11:23:00,return_window_inquiry,10.1,,,,
+CALL-00547,SoHo,2026-05-09 14:43:00,order_status,6.0,,,,
+CALL-00548,SoHo,2026-06-07 12:49:00,order_status,2.9,,,,
+CALL-00549,SoHo,2026-04-27 10:45:00,return_window_inquiry,11.0,,,,
+CALL-00550,Madison Ave,2026-03-22 13:04:00,stock_check,5.8,ECOM-00048,SKU-011,XL,Stone Wash
+CALL-00551,Flatiron,2026-02-18 14:54:00,return_window_inquiry,6.6,,,,
+CALL-00552,Flatiron,2026-05-14 11:09:00,return_window_inquiry,8.2,,,,
+CALL-00553,Madison Ave,2026-06-18 12:25:00,return_window_inquiry,6.5,,,,
+CALL-00554,Madison Ave,2026-04-16 14:16:00,return_window_inquiry,10.1,,,,
+CALL-00555,Bleecker,2026-03-10 17:03:00,other,4.0,,,,
+CALL-00556,Madison Ave,2026-03-15 10:39:00,return_window_inquiry,7.0,,,,
+CALL-00557,Madison Ave,2026-01-24 16:59:00,stock_check,2.5,POS-00319,SKU-007,26,Stone Wash
+CALL-00558,SoHo,2026-01-19 13:08:00,return_window_inquiry,7.4,,,,
+CALL-00559,Madison Ave,2026-03-02 18:03:00,return_window_inquiry,6.0,,,,
+CALL-00560,Flatiron,2026-02-25 13:28:00,return_window_inquiry,8.8,,,,
+CALL-00561,Flatiron,2026-01-18 15:10:00,return_window_inquiry,9.6,,,,
+CALL-00562,Flatiron,2026-05-18 16:36:00,stock_check,5.2,POS-00380,SKU-010,29,White
+CALL-00563,Bleecker,2026-02-27 15:28:00,return_window_inquiry,11.8,,,,
+CALL-00564,Bleecker,2026-02-22 12:25:00,order_status,5.2,,,,
+CALL-00565,Madison Ave,2026-06-11 16:51:00,stock_check,5.7,POS-00058,SKU-011,XL,Stone Wash
+CALL-00566,SoHo,2026-03-14 18:53:00,return_window_inquiry,9.9,,,,
+CALL-00567,Madison Ave,2026-04-05 15:47:00,return_window_inquiry,5.8,,,,
+CALL-00568,Madison Ave,2026-01-22 17:36:00,other,5.8,,,,
+CALL-00569,Bleecker,2026-01-23 14:52:00,return_window_inquiry,8.0,,,,
+CALL-00570,Madison Ave,2026-01-30 16:47:00,order_status,2.4,,,,
+CALL-00571,SoHo,2026-01-26 10:09:00,return_window_inquiry,4.9,,,,
+CALL-00572,Madison Ave,2026-06-25 12:31:00,return_window_inquiry,8.2,,,,
+CALL-00573,SoHo,2026-02-23 17:03:00,return_window_inquiry,10.1,,,,
+CALL-00574,Bleecker,2026-04-14 13:32:00,return_window_inquiry,11.2,,,,
+CALL-00575,Flatiron,2026-05-18 11:39:00,return_window_inquiry,9.6,,,,
+CALL-00576,Bleecker,2026-03-02 16:38:00,return_window_inquiry,5.7,,,,
+CALL-00577,Flatiron,2026-01-25 12:45:00,stock_check,5.5,POS-00450,SKU-016,M,Raw Denim
+CALL-00578,Bleecker,2026-03-27 18:43:00,stock_check,4.4,POS-00161,SKU-007,25,Indigo
+CALL-00579,SoHo,2026-05-26 14:48:00,stock_check,5.2,POS-00255,SKU-016,S,Indigo
+CALL-00580,Flatiron,2026-02-02 13:46:00,return_window_inquiry,4.8,,,,
+CALL-00581,SoHo,2026-05-03 14:51:00,order_status,5.1,,,,
+CALL-00582,Flatiron,2026-01-19 14:20:00,return_window_inquiry,11.8,,,,
+CALL-00583,Flatiron,2026-05-22 14:42:00,return_window_inquiry,5.6,,,,
+CALL-00584,Bleecker,2026-03-02 17:42:00,return_window_inquiry,4.6,,,,
+CALL-00585,Bleecker,2026-01-17 16:33:00,return_window_inquiry,6.7,,,,
+CALL-00586,Madison Ave,2026-04-15 11:57:00,stock_check,4.2,POS-00179,SKU-003,34,Indigo
+CALL-00587,Bleecker,2026-06-14 18:27:00,stock_check,3.8,POS-00012,SKU-016,M,Indigo
+CALL-00588,SoHo,2026-03-22 16:58:00,return_window_inquiry,4.6,,,,
+CALL-00589,Flatiron,2026-03-11 16:50:00,return_window_inquiry,4.1,,,,
+CALL-00590,SoHo,2026-06-23 14:15:00,return_window_inquiry,6.2,,,,
+CALL-00591,Madison Ave,2026-07-06 12:25:00,return_window_inquiry,9.2,,,,
+CALL-00592,Flatiron,2026-01-10 14:29:00,return_window_inquiry,7.0,,,,
+CALL-00593,Flatiron,2026-04-05 17:56:00,order_status,2.8,,,,
+CALL-00594,Flatiron,2026-03-06 14:05:00,return_window_inquiry,10.1,,,,
+CALL-00595,Flatiron,2026-02-23 15:39:00,return_window_inquiry,4.2,,,,
+CALL-00596,Bleecker,2026-05-06 13:03:00,stock_check,4.4,ECOM-00061,SKU-014,S,Indigo
+CALL-00597,Flatiron,2026-01-25 10:55:00,return_window_inquiry,7.3,,,,
+CALL-00598,Flatiron,2026-04-12 13:54:00,return_window_inquiry,10.7,,,,
+CALL-00599,Madison Ave,2026-04-15 13:49:00,return_window_inquiry,11.0,,,,
+CALL-00600,Madison Ave,2026-03-03 18:04:00,return_window_inquiry,9.1,,,,
