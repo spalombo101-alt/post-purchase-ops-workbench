@@ -32,7 +32,7 @@ TIER_BADGE = {
     "regular": "Regular",
 }
 
-st.set_page_config(page_title="Post-Purchase Ops Workbench", layout="wide")
+st.set_page_config(page_title="Post-Purchase Ops Workbench", page_icon="🧵", layout="wide")
 data = load_all()
 
 st.sidebar.title("Post-Purchase Ops Workbench")
@@ -58,12 +58,19 @@ def screen_return_lookup():
 
     query = st.text_input("Search", placeholder="e.g. Kathryn Miller, (243) 660-4084, or ORD-000004")
     if not query:
+        st.container(border=True).markdown(
+            "🔍 &nbsp; Start typing a customer's name, phone, email, or an order number like `ORD-000004`, "
+            "then press **Enter**."
+        )
         return
 
     matches = search_customers(query, data["customers"], data["return_windows"])
     if matches.empty:
-        st.warning("No customer found for that search.")
+        st.warning(f"No customer found for \"{query}\". Try a phone number, email, or order number instead.")
         return
+
+    result_word = "result" if len(matches) == 1 else "results"
+    st.caption(f"{len(matches)} {result_word}")
 
     last_logged = st.session_state.get("last_logged_query")
     if last_logged != query:
@@ -104,7 +111,15 @@ def screen_return_lookup():
                 "window_closes_date": "Window closes", "days_remaining": "Days remaining",
                 "status": "Status", "adjustment_reason": "Why",
             })
-            st.dataframe(display, hide_index=True, use_container_width=True)
+            st.dataframe(
+                display, hide_index=True, use_container_width=True,
+                column_config={
+                    "Size": st.column_config.TextColumn(width="small"),
+                    "Color": st.column_config.TextColumn(width="small"),
+                    "Days remaining": st.column_config.NumberColumn(width="small"),
+                    "Why": st.column_config.TextColumn(width="large"),
+                },
+            )
 
 
 def screen_true_inventory():
@@ -129,30 +144,52 @@ def screen_true_inventory():
 
     st.subheader(f"{style_name} — size {size}, {color}")
 
+    stores_with_extra = rows[rows["pending_sellable_count"] > 0]["store_location"].tolist()
+    if stores_with_extra:
+        st.success(
+            f"📦 **Sellable stock the official count is missing**, at "
+            f"{' and '.join(stores_with_extra)} — see below."
+        )
+
+    # Stores with a ghost-stock story surface first, left to right, so the
+    # eye lands there before it has to compare all four columns by hand.
+    rows = rows.sort_values("pending_sellable_count", ascending=False)
+
     store_cols = st.columns(len(rows))
     for col, (_, row) in zip(store_cols, rows.iterrows()):
+        has_extra = row["pending_sellable_count"] > 0
         with col:
-            st.markdown(f"**{row['store_location']}**")
-            st.metric("System says", int(row["system_count"]))
-            delta = int(row["true_available"]) - int(row["system_count"])
-            st.metric("Actually available", int(row["true_available"]), delta=(f"+{delta}" if delta else None))
-
-            if row["pending_sellable_count"] > 0:
-                detail = data["pending_detail"][
-                    (data["pending_detail"]["store_location"] == row["store_location"])
-                    & (data["pending_detail"]["item_id"] == catalog_row["item_id"])
-                    & (data["pending_detail"]["size"].astype(str) == size)
-                    & (data["pending_detail"]["color"] == color)
-                ]
-                for _, d in detail.iterrows():
-                    st.info(
-                        f"1 sellable unit — returned here {d['days_unprocessed']} day(s) ago "
-                        f"({d['return_date']}), not yet reshelved."
+            with st.container(border=True):
+                if has_extra:
+                    st.markdown(
+                        "<span style='background:#e8f0e0;color:#3c5b30;padding:2px 8px;"
+                        "border-radius:10px;font-size:12px;font-weight:600;'>EXTRA STOCK FOUND</span>",
+                        unsafe_allow_html=True,
                     )
+                st.markdown(f"**{row['store_location']}**")
+                st.metric("System says", int(row["system_count"]))
+                delta = int(row["true_available"]) - int(row["system_count"])
+                st.metric(
+                    "Actually available", int(row["true_available"]),
+                    delta=(f"+{delta}" if delta else None),
+                )
 
-            if row["true_available"] > 0:
-                if st.button(f"Request transfer from {row['store_location']}", key=f"transfer_{row['store_location']}"):
-                    st.success(f"Transfer requested from {row['store_location']}. (mock action — no system connected)")
+                if has_extra:
+                    detail = data["pending_detail"][
+                        (data["pending_detail"]["store_location"] == row["store_location"])
+                        & (data["pending_detail"]["item_id"] == catalog_row["item_id"])
+                        & (data["pending_detail"]["size"].astype(str) == size)
+                        & (data["pending_detail"]["color"] == color)
+                    ]
+                    for _, d in detail.iterrows():
+                        st.caption(
+                            f"↳ 1 sellable unit — returned here {d['days_unprocessed']} day(s) ago "
+                            f"({d['return_date']}), not yet reshelved."
+                        )
+
+                if row["true_available"] > 0:
+                    if st.button(f"Request transfer from {row['store_location']}", key=f"transfer_{row['store_location']}"):
+                        st.success(f"Transfer requested from {row['store_location']}. (mock action — no system connected)")
 
 
 def screen_outreach_analytics():
@@ -160,15 +197,22 @@ def screen_outreach_analytics():
     st.caption("Manager view.")
 
     st.subheader("Reason-driven outreach queue")
+    st.caption("Contact details for a specific customer: look them up on Return Lookup.")
     queue = data["outreach_queue"].copy()
     display = queue[[
         "canonical_name", "relationship_tier", "trigger_reason", "priority_score",
-        "canonical_email", "canonical_phone",
     ]].rename(columns={
         "canonical_name": "Customer", "relationship_tier": "Tier", "trigger_reason": "Why",
-        "priority_score": "Priority", "canonical_email": "Email", "canonical_phone": "Phone",
+        "priority_score": "Priority",
     })
-    st.dataframe(display, hide_index=True, use_container_width=True)
+    st.dataframe(
+        display, hide_index=True, use_container_width=True, height=380,
+        column_config={
+            "Tier": st.column_config.TextColumn(width="small"),
+            "Why": st.column_config.TextColumn(width="large"),
+            "Priority": st.column_config.NumberColumn(format="%.0f", width="small"),
+        },
+    )
     st.caption(
         f"{len(queue)} customers queued. "
         f"{data['analytics_summary']['excluded_no_consent']} more matched a trigger but were excluded — "
@@ -200,11 +244,16 @@ def screen_outreach_analytics():
             st.warning(f"**{r['style_name']}** — {r['insight']} "
                        f"({r['total_returns']} returns, {r['fit_small_share']:.0%} fit-small / "
                        f"{r['fit_large_share']:.0%} fit-large / {r['quality_share']:.0%} quality)")
-    st.dataframe(
-        rc[["style_name", "total_returns", "fit_large_share", "fit_small_share", "changed_mind_share",
-            "quality_share", "insight"]],
-        hide_index=True, use_container_width=True,
-    )
+    rc_display = rc[["style_name", "total_returns", "fit_large_share", "fit_small_share", "changed_mind_share",
+                      "quality_share", "insight"]].copy()
+    for col in ["fit_large_share", "fit_small_share", "changed_mind_share", "quality_share"]:
+        rc_display[col] = rc_display[col].map(lambda v: f"{v:.0%}")
+    rc_display = rc_display.rename(columns={
+        "style_name": "Style", "total_returns": "Returns", "fit_large_share": "Fit large",
+        "fit_small_share": "Fit small", "changed_mind_share": "Changed mind", "quality_share": "Quality",
+        "insight": "Insight",
+    })
+    st.dataframe(rc_display, hide_index=True, use_container_width=True)
 
     st.divider()
     st.subheader("Reason-driven vs. time-blast outreach")
@@ -238,6 +287,16 @@ def screen_outreach_analytics():
         st.caption("Every customer lookup on the Return Lookup screen, who looked up whom, when.")
         st.dataframe(audit.tail(20).iloc[::-1], hide_index=True, use_container_width=True, height=200)
 
+
+_role_style = (
+    "background:#e4e9f5;color:#35406b;" if is_manager else "background:#f2eee2;color:#8a6d3b;"
+)
+st.markdown(
+    f"<span style='{_role_style}padding:3px 10px;border-radius:10px;font-size:12px;"
+    f"font-weight:600;'>VIEWING AS {role.upper()}</span>",
+    unsafe_allow_html=True,
+)
+st.write("")
 
 if screen == "Return Lookup":
     screen_return_lookup()
